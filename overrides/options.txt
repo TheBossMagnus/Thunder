@@ -1,0 +1,9 @@
+autoJump:false
+entityShadows:false
+fullscreen:true
+renderDistance:12
+simulationDistance:5
+graphicsMode:0
+renderClouds:"fast"
+skipMultiplayerWarning:true
+joinedFirstServer:true

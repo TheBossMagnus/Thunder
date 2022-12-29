@@ -1,0 +1,7 @@
+packwiz.exe
+
+#exported pack
+#modrinth pack
+*.mrpack
+#courseforge pack
+*.zip

@@ -1,0 +1,167 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "ef1974a6ffc866f9292a92f8ea43230a3d0d138fc6dcd51819559131450f449c"
+
+[[files]]
+file = "README.md"
+hash = "696ab1e8c1ee88f9c2d7e439204a4ba87bd524eb3fb63c9b4684cd7ef44d135e"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "5e3c7c5145dc30cd0b7ca4847ff1cfbf53bd219f6d1759dac0ccf7a785f7a340"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "dd7c610cbc3a9ac7a25ef238fb64094f16602167cd6c2d0443edba44dc1c32dd"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0db264018c25e9c85d32e5b510ac12274616f44ee51841e0118c24b320e167b5"
+metafile = true
+
+[[files]]
+file = "mods/morecullingextra.pw.toml"
+hash = "77bd4cd29d30c02a09efd60a3cdf8f3c18839d334fc8cabd20bad55b4daed572"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "9ecb7fc18ecb0a55843677d4ac0cc6886faeb3ded15a16368828e7aacdb6b166"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a55efe201deb7eb0028776d3e219936f48084f9050703eff76da03926d1a850d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
+metafile = true
+
+[[files]]
+file = "overrides/config/c2me.toml"
+hash = "224995b3c221a7b18afea8c9537033314d13b672f9ee4427aa49cd87f5664ebe"
+
+[[files]]
+file = "overrides/config/entityculling.json"
+hash = "1a4228f80b4d17ef2a3ed0fb3db18ce8f2d02b924c62fcf9edaedbe5a7346752"
+
+[[files]]
+file = "overrides/config/exordium.json"
+hash = "c99454345da8ba74fdf94b5fadb60884a2d20bf42f7d08ddc6e84d3aab8bc161"
+
+[[files]]
+file = "overrides/config/fastload.properties"
+hash = "40ac0bd251505ad7caef987a3b4b4f509d24385d3ce885aca7f99dd6c6dc1bc6"
+
+[[files]]
+file = "overrides/config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "overrides/config/moreculling.toml"
+hash = "04d596022d47d268a6293d667c8dd95478eb7f4be256ba474c7fa2e5d20f830e"
+
+[[files]]
+file = "overrides/config/smoothboot.json"
+hash = "a86f97af87e8707c13a20790feb495697e52be05a09189d8e57677b17b7fb2e9"
+
+[[files]]
+file = "overrides/config/sodium-extra-options.json"
+hash = "daca4a3b36913d6537b1fc93561573c70cabc1a692e6ffa6664042b5efbf958b"
+
+[[files]]
+file = "overrides/config/sodium-options.json"
+hash = "ced24dcc3de326d473e78d065125b64b8ad16c41c90bffd17974f2732734998a"
+
+[[files]]
+file = "overrides/config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "overrides/config/vmp.properties"
+hash = "43124d6d4451bcdce96b41476db374fb7935f8681ff586cb78b57a494770ca32"
+
+[[files]]
+file = "overrides/options.txt"
+hash = "0d25c1847c01807af79855fe0a3f48d434620e41674be5e6de79ebe466efbc0f"
