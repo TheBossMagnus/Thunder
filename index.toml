@@ -6,7 +6,7 @@ hash = "ef1974a6ffc866f9292a92f8ea43230a3d0d138fc6dcd51819559131450f449c"
 
 [[files]]
 file = "README.md"
-hash = "696ab1e8c1ee88f9c2d7e439204a4ba87bd524eb3fb63c9b4684cd7ef44d135e"
+hash = "ba66b5458fa82240afdebfd2ce7b6258a20c41284814d814b1ff597cee0c0f26"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "dd7c610cbc3a9ac7a25ef238fb64094f16602167cd6c2d0443edba44dc1c32dd"
+hash = "1365432dc0228dc44e2cf77ec45904d90191ade8fa0edc9cf858e66bb40e8d83"
 metafile = true
 
 [[files]]
@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a55efe201deb7eb0028776d3e219936f48084f9050703eff76da03926d1a850d"
+hash = "c253e367bc570cbdcad5cd5ee759a918548bb2e9c641b8a460a73bc637d79b74"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
+hash = "43b0863e9253f01fad40411c5f4f3bf873882bf3bc4a3c4bc9e83f8aa796a9bd"
 metafile = true
 
 [[files]]
