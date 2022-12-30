@@ -1,7 +1,5 @@
+#tool fro menaging/creating modpacks
 packwiz.exe
 
-#exported pack
-#modrinth pack
+#exported modrinth pack
 *.mrpack
-#courseforge pack
-*.zip
