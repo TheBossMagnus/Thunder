@@ -22,7 +22,7 @@ For ATLauncher:
 
 - [Simply Optimized](https://modrinth.com/modpack/sop) by HyperSoop ([license](https://github.com/HyperSoop/Simply-Optimized/blob/meta/LICENSE))
 
-- <details>
+<details>
     <summary>
       All the authors, developers and contributors of the mod included in this modpack
       </summary>
