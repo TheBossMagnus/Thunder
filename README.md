@@ -1,5 +1,6 @@
 # Quilt Optimized
 
+[![Modrinth](https://img.shields.io/modrinth/dt/quilt-optimized?color=1bd96a&label=Modrinth&style=for-the-badge)](https://modrinth.com/modpack/quilt-optimized/versions)
 This modpack is designed to optimize and enhance your Minecraft experience with the Quilt Loader. It features a performance-focused version and a version with additional quality-of-life mods(SOON). Everything is currently in beta.
 
 ## Installation
