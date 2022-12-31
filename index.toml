@@ -6,7 +6,6 @@ hash = "ef1974a6ffc866f9292a92f8ea43230a3d0d138fc6dcd51819559131450f449c"
 
 [[files]]
 file = "README.md"
-<<<<<<< Updated upstream
 hash = "0e13b719a2798bb1218e875c8c8bf7b93a3c5eb27bea11c91d742a042cf77375"
 
 [[files]]
@@ -56,9 +55,8 @@ hash = "43124d6d4451bcdce96b41476db374fb7935f8681ff586cb78b57a494770ca32"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "0d25c1847c01807af79855fe0a3f48d434620e41674be5e6de79ebe466efbc0f"
-=======
 hash = "318f73576c1ad4da4ae18da238edbf30cceb10ebfd331123165b0b74fdcf4c19"
->>>>>>> Stashed changes
+
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
