@@ -6,7 +6,55 @@ hash = "ef1974a6ffc866f9292a92f8ea43230a3d0d138fc6dcd51819559131450f449c"
 
 [[files]]
 file = "README.md"
-hash = "ba66b5458fa82240afdebfd2ce7b6258a20c41284814d814b1ff597cee0c0f26"
+hash = "0e13b719a2798bb1218e875c8c8bf7b93a3c5eb27bea11c91d742a042cf77375"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "224995b3c221a7b18afea8c9537033314d13b672f9ee4427aa49cd87f5664ebe"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "74e3866e22aea87192b7607ac32556a5df3fc0a03926dc82a3a4b2d5d797c8c1"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "1981b796a09be7617f7da7a8596df6bdab5e62bdec8c532282f102bec9c53cf4"
+
+[[files]]
+file = "config/yosbr/config/fastload.properties"
+hash = "fc4139e0a80d838a1927c34090a4042e581a4331ab2a67dda25c0da9e40c309b"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "b8bbf911406eee33a02e82c5931db3750c9b0bb9c7d3b9e23f09ecf34c5b5cd6"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "a952e3a723ff994f389815641655bc54008c59ed95d59c8f656cca69a9fcd1b4"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "68f37a699b276d0b2acf826d1c9ccbd096cb395d45d7b344ed0485ecb15e8d76"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "b7d17e34f565f544043934e3a8cf66faaf8e03b7078527e013ab85c467ef5007"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "27015078e8dc7021a75e42fd85c678f7b576c09f39d80387e4b2fc0dddf02935"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "43124d6d4451bcdce96b41476db374fb7935f8681ff586cb78b57a494770ca32"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "0d25c1847c01807af79855fe0a3f48d434620e41674be5e6de79ebe466efbc0f"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -117,51 +165,3 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
 metafile = true
-
-[[files]]
-file = "overrides/config/c2me.toml"
-hash = "224995b3c221a7b18afea8c9537033314d13b672f9ee4427aa49cd87f5664ebe"
-
-[[files]]
-file = "overrides/config/entityculling.json"
-hash = "1a4228f80b4d17ef2a3ed0fb3db18ce8f2d02b924c62fcf9edaedbe5a7346752"
-
-[[files]]
-file = "overrides/config/exordium.json"
-hash = "c99454345da8ba74fdf94b5fadb60884a2d20bf42f7d08ddc6e84d3aab8bc161"
-
-[[files]]
-file = "overrides/config/fastload.properties"
-hash = "40ac0bd251505ad7caef987a3b4b4f509d24385d3ce885aca7f99dd6c6dc1bc6"
-
-[[files]]
-file = "overrides/config/ferritecore.mixin.properties"
-hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
-
-[[files]]
-file = "overrides/config/moreculling.toml"
-hash = "04d596022d47d268a6293d667c8dd95478eb7f4be256ba474c7fa2e5d20f830e"
-
-[[files]]
-file = "overrides/config/smoothboot.json"
-hash = "a86f97af87e8707c13a20790feb495697e52be05a09189d8e57677b17b7fb2e9"
-
-[[files]]
-file = "overrides/config/sodium-extra-options.json"
-hash = "daca4a3b36913d6537b1fc93561573c70cabc1a692e6ffa6664042b5efbf958b"
-
-[[files]]
-file = "overrides/config/sodium-options.json"
-hash = "ced24dcc3de326d473e78d065125b64b8ad16c41c90bffd17974f2732734998a"
-
-[[files]]
-file = "overrides/config/tr7zwDonorSettings.json"
-hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
-
-[[files]]
-file = "overrides/config/vmp.properties"
-hash = "43124d6d4451bcdce96b41476db374fb7935f8681ff586cb78b57a494770ca32"
-
-[[files]]
-file = "overrides/options.txt"
-hash = "0d25c1847c01807af79855fe0a3f48d434620e41674be5e6de79ebe466efbc0f"
