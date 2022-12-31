@@ -6,6 +6,7 @@ hash = "ef1974a6ffc866f9292a92f8ea43230a3d0d138fc6dcd51819559131450f449c"
 
 [[files]]
 file = "README.md"
+<<<<<<< Updated upstream
 hash = "0e13b719a2798bb1218e875c8c8bf7b93a3c5eb27bea11c91d742a042cf77375"
 
 [[files]]
@@ -55,6 +56,9 @@ hash = "43124d6d4451bcdce96b41476db374fb7935f8681ff586cb78b57a494770ca32"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "0d25c1847c01807af79855fe0a3f48d434620e41674be5e6de79ebe466efbc0f"
+=======
+hash = "318f73576c1ad4da4ae18da238edbf30cceb10ebfd331123165b0b74fdcf4c19"
+>>>>>>> Stashed changes
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -165,3 +169,55 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
 metafile = true
+<<<<<<< Updated upstream
+=======
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+metafile = true
+
+[[files]]
+file = "overrides/config/yosbr/config/c2me.toml"
+hash = "224995b3c221a7b18afea8c9537033314d13b672f9ee4427aa49cd87f5664ebe"
+
+[[files]]
+file = "overrides/config/yosbr/config/entityculling.json"
+hash = "1a4228f80b4d17ef2a3ed0fb3db18ce8f2d02b924c62fcf9edaedbe5a7346752"
+
+[[files]]
+file = "overrides/config/yosbr/config/exordium.json"
+hash = "c99454345da8ba74fdf94b5fadb60884a2d20bf42f7d08ddc6e84d3aab8bc161"
+
+[[files]]
+file = "overrides/config/yosbr/config/fastload.properties"
+hash = "40ac0bd251505ad7caef987a3b4b4f509d24385d3ce885aca7f99dd6c6dc1bc6"
+
+[[files]]
+file = "overrides/config/yosbr/config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "overrides/config/yosbr/config/moreculling.toml"
+hash = "04d596022d47d268a6293d667c8dd95478eb7f4be256ba474c7fa2e5d20f830e"
+
+[[files]]
+file = "overrides/config/yosbr/config/smoothboot.json"
+hash = "a86f97af87e8707c13a20790feb495697e52be05a09189d8e57677b17b7fb2e9"
+
+[[files]]
+file = "overrides/config/yosbr/config/sodium-extra-options.json"
+hash = "f7a8fdc8d686e4509f08bc1e8e6724ffdf59c077fe40281f7af69a530cc07f2d"
+
+[[files]]
+file = "overrides/config/yosbr/config/sodium-options.json"
+hash = "97f32d77cfe49974c1471fb33b073ac4db1794d07adf007047fb254091bdb8d2"
+
+[[files]]
+file = "overrides/config/yosbr/config/vmp.properties"
+hash = "43124d6d4451bcdce96b41476db374fb7935f8681ff586cb78b57a494770ca32"
+
+[[files]]
+file = "overrides/config/yosbr/options.txt"
+hash = "3beccaba998859e11a4bf1432fb1470f6d89467518312f902fa60fff327c1afe"
+>>>>>>> Stashed changes

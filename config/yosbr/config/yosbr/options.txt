@@ -1,0 +1,20 @@
+autoJump:false
+bobView:false
+operatorItemsTab:true
+snooperEnabled:false
+entityShadows:false
+mipmapLevels:0
+fullscreen:true
+gamma:1.0
+darkMojangStudiosBackground:true
+simulationDistance:6
+renderDistance: 16
+entityDistanceScaling:1.0
+maxFps:260
+graphicsMode:0
+renderClouds:"true"
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
