@@ -72,5 +72,7 @@ For ATLauncher:
 - [Starlight](https://modrinth.com/mod/starlight) by spottedleaf (better lighting engine)
 
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric) by ishland(performance boost in entity-heavy scenarios)
+ 
+- [YOSBR ]([Your Options Shall Be Respected (YOSBR) - Minecraft Mod](https://modrinth.com/mod/yosbr)) by shedaniel (Anti config override)
 
 </details>

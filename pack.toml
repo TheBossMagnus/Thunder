@@ -1,12 +1,16 @@
 name = "Quilt Optimized"
 author = "TheBossMagnus"
-version = "0.1.1"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< Updated upstream
 hash = "38044139b8dd7aea8a4b0b11c08d9dc9e35724cfd328c432da1bb6a5921a469c"
+=======
+hash = "4efa0e064779269fb0dc2646535fd8eb689bd3dea5a7328fe4cb7413a7ae8546"
+>>>>>>> Stashed changes
 
 [versions]
 minecraft = "1.19.3"
