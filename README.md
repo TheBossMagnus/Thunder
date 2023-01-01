@@ -73,6 +73,6 @@ For ATLauncher:
 
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric) by ishland(performance boost in entity-heavy scenarios)
  
-- [YOSBR ]([Your Options Shall Be Respected (YOSBR) - Minecraft Mod](https://modrinth.com/mod/yosbr)) by shedaniel (Anti config override)
+- [YOSBR](https://modrinth.com/mod/yosbr) by shedaniel (Fix configuration override after an update)
 
 </details>
