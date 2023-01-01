@@ -17,3 +17,6 @@ skipMultiplayerWarning:true
 joinedFirstServer:true
 syncChunkWrites:false
 mipmapLevels:0
+chatPreview:0
+maxFps:260
+snooperEnabled:false
