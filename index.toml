@@ -2,27 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "ef1974a6ffc866f9292a92f8ea43230a3d0d138fc6dcd51819559131450f449c"
+hash = "ff78faa944603d695cfc865a03c0f1d1f62a4807c53914ed2e420da7977e73bf"
 
 [[files]]
 file = "README.md"
-hash = "3288eaa2e3bbd68de350c8b2a4568e235d276c83d278115e18875fca6d4453ee"
-
-[[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "224995b3c221a7b18afea8c9537033314d13b672f9ee4427aa49cd87f5664ebe"
+hash = "6e4c52b6db4c09e40129c9061f09593c87599f54b6ebc26d8dbcbf32a6b2b60d"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "74e3866e22aea87192b7607ac32556a5df3fc0a03926dc82a3a4b2d5d797c8c1"
 
 [[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "1981b796a09be7617f7da7a8596df6bdab5e62bdec8c532282f102bec9c53cf4"
-
-[[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "fc4139e0a80d838a1927c34090a4042e581a4331ab2a67dda25c0da9e40c309b"
+hash = "4b403e1cdc744cf2d12cf735b30f8ea5a3ac600736e125be1163911fb4953cb2"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -45,16 +37,8 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "503f1c0d86e032f8ae44edbdbe1f770ca3fc88ef1e37bcb4d9ec3e1670640924"
 
 [[files]]
-file = "config/yosbr/config/tr7zwDonorSettings.json"
-hash = "27015078e8dc7021a75e42fd85c678f7b576c09f39d80387e4b2fc0dddf02935"
-
-[[files]]
-file = "config/yosbr/config/vmp.properties"
-hash = "43124d6d4451bcdce96b41476db374fb7935f8681ff586cb78b57a494770ca32"
-
-[[files]]
 file = "config/yosbr/options.txt"
-hash = "cf635bfe2ebcc5b964d0adedd6454d97a55d8b169d43624e62897734c7cb96af"
+hash = "5808cb6d24a5533dc2fcfe50cdd1b6bcb5681f5a9bcb018a64dae42ba3f59453"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
