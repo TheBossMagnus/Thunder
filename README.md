@@ -20,7 +20,7 @@ For ATLauncher:
 
 - [Quilt Mod Loader](https://quiltmc.org) by QuiltMC
 
-- [Packwiz](https://github.com/packwiz/packwiz) (tool for editing and distributing Minecraft modpacks)
+- [Packwiz](https://github.com/packwiz/packwiz) by comp500 (tool for editing and distributing Minecraft modpacks)
 
 - [Simply Optimized](https://modrinth.com/modpack/sop) by HyperSoop ([license](https://github.com/HyperSoop/Simply-Optimized/blob/meta/LICENSE))
 
