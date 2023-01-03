@@ -63,15 +63,12 @@ For ATLauncher:
 
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese (better Graphic settings/ config some mod)
 
-- [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) by UltimateBoomer (improves Minecraft CPU usage at startup)
-
 - [Sodium](https://modrinth.com/mod/sodium) by caffeinemc (better rendering engine)
 
 - [sodium extra](https://modrinth.com/mod/sodium-extra) by FlashyReese (Some OptiFine options to ported to sodium)
 
 - [Starlight](https://modrinth.com/mod/starlight) by spottedleaf (better lighting engine)
 
-- [Very Many Players](https://modrinth.com/mod/vmp-fabric) by ishland(performance boost in entity-heavy scenarios)
  
 - [YOSBR](https://modrinth.com/mod/yosbr) by shedaniel (Fix configuration override after an update)
 
