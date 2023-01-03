@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "ff78faa944603d695cfc865a03c0f1d1f62a4807c53914ed2e420da7977e73bf"
-
-[[files]]
-file = "README.md"
-hash = "194a6c817ada68a90d0a4500f9b4a5fb0a61bd7b1a9de117ad7981774b02c815"
-
-[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "494b9479d927e61090099a2bf63e0817f5d91a9b2cab8711cc2827324063c1ac"
 
