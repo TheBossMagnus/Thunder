@@ -9,12 +9,20 @@ file = "README.md"
 hash = "194a6c817ada68a90d0a4500f9b4a5fb0a61bd7b1a9de117ad7981774b02c815"
 
 [[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "494b9479d927e61090099a2bf63e0817f5d91a9b2cab8711cc2827324063c1ac"
+
+[[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "74e3866e22aea87192b7607ac32556a5df3fc0a03926dc82a3a4b2d5d797c8c1"
+hash = "43c03b1b0a5a7b2bd0fb19a52bc63d56ab5f75f182e7fe52476002668394cc5f"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "4b403e1cdc744cf2d12cf735b30f8ea5a3ac600736e125be1163911fb4953cb2"
+hash = "076253e63329f67d5b53d037b45dad9713d1716fca16771ebd6341efe6a42f24"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -22,11 +30,7 @@ hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "b8bbf911406eee33a02e82c5931db3750c9b0bb9c7d3b9e23f09ecf34c5b5cd6"
-
-[[files]]
-file = "config/yosbr/config/smoothboot.json"
-hash = "a952e3a723ff994f389815641655bc54008c59ed95d59c8f656cca69a9fcd1b4"
+hash = "d99df2d7f9fa1961a41affa3a17cdcb4892583277faff75540d4caf1447639d4"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -34,7 +38,11 @@ hash = "02ce801415b33bfa9c9b7d60508c5300a33a556e602836ad1633cb344f5c1e17"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "503f1c0d86e032f8ae44edbdbe1f770ca3fc88ef1e37bcb4d9ec3e1670640924"
+hash = "e3cc64740fe9124747d079ac01af461c14b08d2d23cb4b45acda955fd0614484"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -43,11 +51,6 @@ hash = "5808cb6d24a5533dc2fcfe50cdd1b6bcb5681f5a9bcb018a64dae42ba3f59453"
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
@@ -126,11 +129,6 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "c253e367bc570cbdcad5cd5ee759a918548bb2e9c641b8a460a73bc637d79b74"
 metafile = true
@@ -143,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
 metafile = true
 
 [[files]]
