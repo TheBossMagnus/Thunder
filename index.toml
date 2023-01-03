@@ -6,7 +6,7 @@ hash = "ff78faa944603d695cfc865a03c0f1d1f62a4807c53914ed2e420da7977e73bf"
 
 [[files]]
 file = "README.md"
-hash = "6e4c52b6db4c09e40129c9061f09593c87599f54b6ebc26d8dbcbf32a6b2b60d"
+hash = "194a6c817ada68a90d0a4500f9b4a5fb0a61bd7b1a9de117ad7981774b02c815"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "421e8b7f84606241d9bff57ada0b2a30bb23b8d3fc1f0b700c3df93b126d1982"
+hash = "a10025e6b0dbc7cbed5f6d03c44fec87d8aea638cf321e78a9525dc87b6475e2"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "43b0863e9253f01fad40411c5f4f3bf873882bf3bc4a3c4bc9e83f8aa796a9bd"
+hash = "cff6e118a7d2649ab479bbcf328d463349cfc8dc4bac3f5025395f34c2b505bb"
 metafile = true
 
 [[files]]
