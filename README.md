@@ -71,7 +71,7 @@ For ATLauncher:
 
 - [Starlight](https://modrinth.com/mod/starlight) by spottedleaf (better lighting engine)
 
-- [skip transiions](https://modrinth.com/mod/skip-transitions) by trufflezmc (skip startup fade-in animation)
+- [skip transitions](https://modrinth.com/mod/skip-transitions) by trufflezmc (skip startup fade-in animation)
 
 - [YOSBR](https://modrinth.com/mod/yosbr) by shedaniel (Fix configuration override after an update)
 
