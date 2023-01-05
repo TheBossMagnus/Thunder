@@ -35,6 +35,8 @@ For ATLauncher:
 
 - [DynamicFPS](https://modrinth.com/mod/dynamic-fps) by juliand665 (improve performance when Minecraft is in the background)
 
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) by FoundationGames (better block entities performance)
+
 - [Entity Culling](https://modrinth.com/mod/entityculling) by tr7zw
 
 - [Exordium](https://modrinth.com/mod/exordium) by tr7zw(limit framerate of the graphical interface)
@@ -63,16 +65,14 @@ For ATLauncher:
 
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese (better Graphic settings/ config some mod)
 
-- [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) by UltimateBoomer (improves Minecraft CPU usage at startup)
-
 - [Sodium](https://modrinth.com/mod/sodium) by caffeinemc (better rendering engine)
 
 - [sodium extra](https://modrinth.com/mod/sodium-extra) by FlashyReese (Some OptiFine options to ported to sodium)
 
 - [Starlight](https://modrinth.com/mod/starlight) by spottedleaf (better lighting engine)
 
-- [Very Many Players](https://modrinth.com/mod/vmp-fabric) by ishland(performance boost in entity-heavy scenarios)
- 
+- [skip transitions](https://modrinth.com/mod/skip-transitions) by trufflezmc (skip startup fade-in animation)
+
 - [YOSBR](https://modrinth.com/mod/yosbr) by shedaniel (Fix configuration override after an update)
 
 </details>
