@@ -3,3 +3,6 @@ packwiz.exe
 
 #exported modrinth pack
 *.mrpack
+
+#personal tool for managing/updating/... modpacks
+src/DevTools
