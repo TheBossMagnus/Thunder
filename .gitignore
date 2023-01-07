@@ -5,7 +5,7 @@ packwiz.exe
 *.mrpack
 
 #personal tools for managing/updating/... modpacks
-src/DevTools/*
+DevTools/*
 
 #exported mopackpack ready to release
 bin/*
