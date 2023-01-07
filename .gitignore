@@ -4,5 +4,8 @@ packwiz.exe
 #exported modrinth pack
 *.mrpack
 
-#personal tool for managing/updating/... modpacks
-src/DevTools
+#personal tools for managing/updating/... modpacks
+src/DevTools/*
+
+#exported mopackpack ready to release
+bin/*
