@@ -42,7 +42,7 @@ hash = "5808cb6d24a5533dc2fcfe50cdd1b6bcb5681f5a9bcb018a64dae42ba3f59453"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
+hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "768dcbc3bc6cbc1a1d6ced7c16f15dac9de3e6148dcd8767ca506b71c0a43add"
+hash = "e850143ae4200eeb18b83a6530f7e01edc0d328330fced9097d771c08bc21216"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5ac572ab5a72e186bbd7140443aa636e3d06a3635cfddde7f95c61b0474a663a"
+hash = "57a8e4ea389f17fb4a75d8120c9511fed85958bc952e0a32fabc7c3c9138e368"
 metafile = true
 
 [[files]]
