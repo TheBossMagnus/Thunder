@@ -3,7 +3,7 @@
   "enabledGui": true,
   "targetFPSIngameGui": 20,
   "enabledGuiAnimationSpeedup": true,
-  "targetFPSIngameGuiAnimated": 60,
+  "targetFPSIngameGuiAnimated": 30,
   "enabledScreens": false,
   "targetFPSIngameScreens": 60,
   "enableSignBuffering": true,
