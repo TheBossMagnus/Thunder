@@ -4,8 +4,11 @@ packwiz.exe
 #exported modrinth pack
 *.mrpack
 
-#personal tools for managing/updating/... modpacks
-DevTools/*
+#Custom tools for managing/updating/... modpacks
+DevTools/
 
 #exported mopackpack ready to release
-bin/*
+bin/
+
+#WIP
+src/Quilt Improved/

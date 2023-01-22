@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "15b6b396301b255a6f7533af0ff4b14944c8c46980b6029775fc1d82600b942a"
+hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c94f7d7af7823e7a22616599d2fe18d9d9429d7ca1f3cc2e4bee436181d64584"
+hash = "87be38129c80e1c867512e86fba3eecee72381ece0bd0c703b15c523758f6a1a"
 metafile = true
 
 [[files]]
