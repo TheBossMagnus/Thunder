@@ -18,7 +18,7 @@ hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "076253e63329f67d5b53d037b45dad9713d1716fca16771ebd6341efe6a42f24"
+hash = "c45de07bda5f9a8d669c3c1688a1653fd0b02a4d3991d1b19bfbad5012582754"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
