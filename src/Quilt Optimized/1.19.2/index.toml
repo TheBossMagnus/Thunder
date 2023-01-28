@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "784f2f9d83342810ceafb5b6b7ddfec867ce807b7498d32e656a924f97a8009d"
+hash = "1955a695f7ca2ecfc2a923d94897677ba0def8bd8532543f4d635a8498b4ec2d"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "95968c19d093f7074af27079bc2f7f5fb09f21c2c659355fe8da7ea168e23c84"
+hash = "ad5006e0af565aa9e862112703e3867b291233a0ffcc56495387319d70ac402e"
 metafile = true
 
 [[files]]
