@@ -22,3 +22,5 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
            modrinth-files: '*.mrpack'
+           loaders: quilt
+           game-versions: '1.19.3'
