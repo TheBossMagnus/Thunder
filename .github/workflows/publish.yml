@@ -1,4 +1,4 @@
-name: Automatically publish to Modrinth and CurseForge
+name: Automatically publish to Modrinth
 on:
   release:
     types: [published]
