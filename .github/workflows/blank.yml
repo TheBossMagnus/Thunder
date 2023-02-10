@@ -9,6 +9,7 @@ jobs:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.5
          with:
+           github-token: ${{ secrets.GITHUB }}
            name: "*.mrpack"
            latest: true
            tarBall: false
