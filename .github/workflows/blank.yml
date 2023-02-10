@@ -1,0 +1,24 @@
+name: Automatically publish to Modrinth and CurseForge
+on:
+  release:
+    types: [published]
+jobs:
+  publish-to-modrinth:
+    runs-on: ubuntu-22.04
+    steps:
+       - name: Download the pack files
+         uses: robinraju/release-downloader@v1.5
+         with:
+           name: "*.mrpack"
+           latest: true
+           tarBall: false
+           zipBall: false
+           out-file-path: .
+           
+       - name: Publish to Modrinth
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*.mrpack'
