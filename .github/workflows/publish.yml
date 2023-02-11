@@ -55,17 +55,17 @@ jobs:
            game-versions: '1.19.3'
            
 #1.19.4 wip
-       - name: Publish 1.19.4
-         uses: Kir-Antipov/mc-publish@v3.2
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
-           modrinth-files: '*1.19.4.mrpack'
-           name: 'Quilt Optimized for 1.19.4 Test'
-           version-type: 'alpha'
-           loaders: quilt
-           game-versions: '23w06a'
+       #- name: Publish 1.19.4
+         #uses: Kir-Antipov/mc-publish@v3.2
+         #with:
+           #modrinth-id: ehPxCT2J
+           #modrinth-token: ${{ secrets.MODRINTH }}
+           #modrinth-unfeature-mode: subset
+           #modrinth-files: '*1.19.4.mrpack'
+           #name: 'Quilt Optimized for 1.19.4 Test'
+           #version-type: 'alpha'
+           #loaders: quilt
+           #game-versions: '23w06a'
            
 
         
