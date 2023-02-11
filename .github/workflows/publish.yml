@@ -16,12 +16,14 @@ jobs:
            zipBall: false
            out-file-path: .
            
-       - name: Publish to Modrinth
+       - name: Publish to Modrinth 1.18.2
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*.mrpack'
+           modrinth-files: '*1.18.2.mrpack'
+           name: 'Quilt Optimized for 1.18.2'
+           version-type: 'beta'
            loaders: quilt
-           game-versions: '1.19.3'
+           game-versions: '1.18.2'
