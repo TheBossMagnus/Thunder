@@ -5,6 +5,10 @@ file = "config/yosbr/config/c2me.toml"
 hash = "494b9479d927e61090099a2bf63e0817f5d91a9b2cab8711cc2827324063c1ac"
 
 [[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "37371e9765144ef805550761ce0ef40ddf5ea78b568cbf53c1f270bae7e50024"
+
+[[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "914525168bfe586ba692b0ea415d12671f4f9424eff5f40bb42a423fccb9539d"
 
@@ -46,12 +50,17 @@ hash = "9e45c9b5a5a62e1cee87674834bec9ed306fe9202c169922393447f67913a0bc"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
+hash = "b4281fb5300c4de0d7dc9266cf7bdfa6255643522273757065dffe18fc1cef0d"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "d02024521821336e40652c36c675ee520b4137ed73953e98f21bcf8a55f6a583"
 metafile = true
 
 [[files]]
@@ -61,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
+hash = "ecd6d665190c7deeec2b86bd68397001e3be57c6e2e562b8c8a77da412d4bf74"
 metafile = true
 
 [[files]]
@@ -71,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
+hash = "3c81b5e0df8efde86777b7a1b1a336376ae95dc97e5b0df6235d693428faf1a2"
 metafile = true
 
 [[files]]

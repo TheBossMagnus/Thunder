@@ -5,6 +5,10 @@ file = "config/yosbr/config/c2me.toml"
 hash = "494b9479d927e61090099a2bf63e0817f5d91a9b2cab8711cc2827324063c1ac"
 
 [[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "37371e9765144ef805550761ce0ef40ddf5ea78b568cbf53c1f270bae7e50024"
+
+[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "e1103b86b44799652e179c5b6bc48af1ccf490ae265e9fc3a23d15323e0c8628"
 
@@ -56,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
