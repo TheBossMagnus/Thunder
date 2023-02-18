@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "494b9479d927e61090099a2bf63e0817f5d91a9b2cab8711cc2827324063c1ac"
+file = "config/debugify.json"
+hash = "37371e9765144ef805550761ce0ef40ddf5ea78b568cbf53c1f270bae7e50024"
 
 [[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "37371e9765144ef805550761ce0ef40ddf5ea78b568cbf53c1f270bae7e50024"
+file = "config/yosbr/config/c2me.toml"
+hash = "494b9479d927e61090099a2bf63e0817f5d91a9b2cab8711cc2827324063c1ac"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
+hash = "a013b29b9971b0e7817280a84c0237d8d9a65a60708c5e894754ade7ced0c9a9"
 metafile = true
 
 [[files]]
