@@ -38,7 +38,7 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
            modrinth-files: '*1.19.2.mrpack'
-           name: 'Quilt Optimized for 1.19.2'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.2'
            version-type: 'beta'
            loaders: quilt
            game-versions: '1.19.2'
@@ -51,7 +51,7 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
            modrinth-files: '*1.19.3.mrpack'
-           name: 'Quilt Optimized for 1.19.3'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.3'
            version-type: 'beta'
            loaders: quilt
            game-versions: '1.19.3'
@@ -64,7 +64,7 @@ jobs:
            #modrinth-token: ${{ secrets.MODRINTH }}
            #modrinth-unfeature-mode: subset
            #modrinth-files: '*1.19.4.mrpack'
-           #name: 'Quilt Optimized for 1.19.4 Test'
+           #name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.4 Test'
            #version-type: 'alpha'
            #loaders: quilt
            #game-versions: '23w06a'
