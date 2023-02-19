@@ -24,7 +24,7 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
            modrinth-files: '*1.18.2.mrpack'
-           name: 'Quilt Optimized for 1.18.2'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.18.2'
            version-type: 'beta'
            loaders: quilt
            game-versions: '1.18.2'
