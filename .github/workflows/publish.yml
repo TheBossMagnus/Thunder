@@ -2,12 +2,14 @@ name: Automatically publish to Modrinth
 on:
   release:
     types: [published]
+  repository_dispatch:
+    types: [manual]
 jobs:
   publish-to-modrinth:
     runs-on: ubuntu-22.04
     steps:
        - name: Download the pack files
-         uses: robinraju/release-downloader@v1.5
+         uses: robinraju/release-downloader@v1.7
          with:
            github-token: ${{ secrets.GITHUB }}
            name: "*.mrpack"
@@ -24,8 +26,8 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
            modrinth-files: '*1.18.2.mrpack'
-           name: 'Quilt Optimized for 1.18.2'
-           version-type: 'beta'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.18.2'
+           version-type: 'release'
            loaders: quilt
            game-versions: '1.18.2'
 #1.19.2       
@@ -36,8 +38,8 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
            modrinth-files: '*1.19.2.mrpack'
-           name: 'Quilt Optimized for 1.19.2'
-           version-type: 'beta'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.2'
+           version-type: 'release'
            loaders: quilt
            game-versions: '1.19.2'
              
@@ -49,8 +51,8 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
            modrinth-files: '*1.19.3.mrpack'
-           name: 'Quilt Optimized for 1.19.3'
-           version-type: 'beta'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.3'
+           version-type: 'release'
            loaders: quilt
            game-versions: '1.19.3'
            
@@ -62,7 +64,7 @@ jobs:
            #modrinth-token: ${{ secrets.MODRINTH }}
            #modrinth-unfeature-mode: subset
            #modrinth-files: '*1.19.4.mrpack'
-           #name: 'Quilt Optimized for 1.19.4 Test'
+           #name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.4 Test'
            #version-type: 'alpha'
            #loaders: quilt
            #game-versions: '23w06a'
