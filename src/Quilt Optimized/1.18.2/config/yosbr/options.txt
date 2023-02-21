@@ -5,8 +5,8 @@ fullscreen:true
 bobView:false
 gamma:1.0
 darkMojangStudiosBackground:true
-renderDistance:16
-simulationDistance:8
+renderDistance:12
+simulationDistance:5
 guiScale:3
 maxFps:260
 graphicsMode:0
