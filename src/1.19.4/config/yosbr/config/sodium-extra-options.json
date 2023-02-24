@@ -1,0 +1,24 @@
+{
+  "animation_settings": {
+    "fire": false,
+    "portal": false
+  },
+  "particle_settings": {
+    "rain_splash": false
+  },
+  "render_settings": {
+    "fog_distance": 33,
+    "fog_start": 100,
+    "multi_dimension_fog_control": false,
+    "use_linear_flat_color_blender": true
+  },
+  "extra_settings": {
+    "reduce_resolution_on_mac": true,
+    "toasts": true,
+    "recipe_toast": false,
+    "tutorial_toast": false
+  },
+  "notification_settings": {
+    "hide_r_s_o_recommendation": false
+  }
+}
