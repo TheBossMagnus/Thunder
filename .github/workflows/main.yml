@@ -1,0 +1,16 @@
+name: Auto Release
+
+on:
+  workflow_dispatch
+  
+jobs:
+  publish-to-github:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: Kir-Antipov/mc-publish@v3.2
+        with:
+
+          github-draft: true
+          github-commitish: dev
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          changelog-file: CHANGELOG.md
