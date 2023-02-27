@@ -14,4 +14,4 @@ jobs:
           github-commitish: dev
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changelog-file: CHANGELOG.md
-          file: CHANGELOG.md
+          files: CHANGELOG.md
