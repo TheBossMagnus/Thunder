@@ -12,7 +12,7 @@
 
 * [lithium-fabric-mc1.19.3-0.10.4.jar](https://modrinth.com/mod/lithium/version/XS6vJwop) -> [lithium-fabric-mc1.19.3-0.11.0.jar](https://modrinth.com/mod/lithium/version/sMWkk4VU)
 * [qfapi-5.0.0-beta.6_qsl-4.0.0-beta.11_fapi-0.74.0_mc-1.19.3.jar](https://modrinth.com/mod/qsl/version/oQbYgY9f) -> [qfapi-5.0.0-beta.8_qsl-4.0.0-beta.12_fapi-0.75.1_mc-1.19.3.jar](https://modrinth.com/mod/qsl/version/MYbIY8g7)
-* Various config improvment
+* Various config improvments
 
 > 04/03/2023
 
