@@ -2,5 +2,10 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7bb0a9afecd95cf9d2e843f1a302c2a63e566338dff9196b85084f45aafed174"
+hash = "04a6f853c1bd08a70d8d0b2e75ae26353386a4b7a8486a927331c6f1c8015a60"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "3c210d382465da087d183e2c31cb8aec5687a232205e4988638765e564bd74f5"
 metafile = true

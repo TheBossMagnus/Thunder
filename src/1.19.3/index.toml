@@ -45,6 +45,11 @@ file = "config/yosbr/options.txt"
 hash = "9e45c9b5a5a62e1cee87674834bec9ed306fe9202c169922393447f67913a0bc"
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "b4281fb5300c4de0d7dc9266cf7bdfa6255643522273757065dffe18fc1cef0d"
 metafile = true
@@ -131,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
+hash = "946275e17b2c860d1efb56d268a63c53fa9100953ea7759c4f7c22c3385734c9"
 metafile = true
 
 [[files]]
@@ -157,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "f60dab2c1cf96a1d156c35f24fe90b1b6208202eb59caff77f6348066277e549"
 metafile = true
 
 [[files]]
