@@ -17,8 +17,8 @@ jobs:
            tarBall: false
            zipBall: false
            out-file-path: .
-           
- #1.18.2           
+
+ #1.18.2
        - name: Publish 1.18.2
          uses: Kir-Antipov/mc-publish@v3.2
          with:
@@ -30,7 +30,8 @@ jobs:
            version-type: 'release'
            loaders: quilt
            game-versions: '1.18.2'
-#1.19.2       
+
+#1.19.2
        - name: Publish 1.19.2
          uses: Kir-Antipov/mc-publish@v3.2
          with:
@@ -42,8 +43,8 @@ jobs:
            version-type: 'release'
            loaders: quilt
            game-versions: '1.19.2'
-             
-#1.19.3             
+
+#1.19.3
        - name: Publish 1.19.3
          uses: Kir-Antipov/mc-publish@v3.2
          with:
@@ -55,7 +56,7 @@ jobs:
            version-type: 'release'
            loaders: quilt
            game-versions: '1.19.3'
-           
+
 #1.19.4 wip
        #- name: Publish 1.19.4
          #uses: Kir-Antipov/mc-publish@v3.2
@@ -67,7 +68,4 @@ jobs:
            #name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.4 Test'
            #version-type: 'alpha'
            #loaders: quilt
-           #game-versions: '23w06a'
-           
-
-        
+           #game-versions: '1.19.4-pre3'
