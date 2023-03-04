@@ -1,13 +1,13 @@
 name = "Quilt Optimized"
 author = "TheBossMagnus"
-version = "0.5.1"
+version = "0.5.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b5334b24bfd83b70dba271f14e2f03c6370a6ba8f82a39a6b0c8c9bf9dd16d0"
+hash = "1661aa65345245ba0f0fe307473a002ebfd2974a83309e181fa68dfbf36ecc90"
 
 [versions]
 minecraft = "1.19.3"
-quilt = "0.18.2"
+quilt = "0.18.4-pre.1"

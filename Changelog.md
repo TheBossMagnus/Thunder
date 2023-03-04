@@ -1,3 +1,21 @@
+## Quilt Optimized - 0.5.1 -> 0.5.2
+
+### quilt - 0.18.2 -> 0.18.4-pre.1
+
+### Added
+
+* [Better Beds](https://modrinth.com/mod/better-beds) (by [Motschen](https://modrinth.com/user/Motschen))
+* [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) (by [ishland](https://modrinth.com/user/ishland))
+
+### Changed
+
+* [lithium-fabric-mc1.19.3-0.10.4.jar](https://modrinth.com/mod/lithium/version/XS6vJwop) -> [lithium-fabric-mc1.19.3-0.11.0.jar](https://modrinth.com/mod/lithium/version/sMWkk4VU)
+* [qfapi-5.0.0-beta.6_qsl-4.0.0-beta.11_fapi-0.74.0_mc-1.19.3.jar](https://modrinth.com/mod/qsl/version/oQbYgY9f) -> [qfapi-5.0.0-beta.8_qsl-4.0.0-beta.12_fapi-0.75.1_mc-1.19.3.jar](https://modrinth.com/mod/qsl/version/MYbIY8g7)
+
+> 04/03/2023
+
+---
+
 ## Quilt Optimized - 0.5.0 -> 0.5.1
 
 ### quilt - 0.18.1-beta.75 -> 0.18.2
@@ -76,4 +94,8 @@
 
 > 12/01/2023
 
+---
 
+
+
+# Not all features mentioned in the changelog may be available for older Minecraft version
