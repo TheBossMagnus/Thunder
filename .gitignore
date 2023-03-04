@@ -1,14 +1,5 @@
-#tool fro menaging/creating modpacks
-packwiz.exe
-
-#exported modrinth pack
-*.mrpack
-
-#Custom tools for managing/updating/... modpacks
+#tools for managing/updating the modpack
 DevTools/
 
-#exported mopackpack ready to release
+#exported modpackpack ready to release
 bin/
-
-#WIP
-src/Quilt Improved/
