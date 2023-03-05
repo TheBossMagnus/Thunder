@@ -104,6 +104,11 @@ hash = "05bf4efb7aab56777e2f9d51b8113155749758de820d25d211813444f5469b5e"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "064fafff245baf812342dc9af4acf661dec663bab2a4067c65a27fa00860efb1"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
