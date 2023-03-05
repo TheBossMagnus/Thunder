@@ -2,20 +2,8 @@
 
 ### Added
 
-  * [Enhanced Block Entities](https://modrinth.com/mod/ebe) (by [FoundationGames](https://modrinth.com/user/FoundationGames))
-  * [Indium](https://modrinth.com/mod/indium) (by [comp500](https://modrinth.com/user/comp500))
-
-### Removed
-
-  * [Better Beds](https://modrinth.com/mod/better-beds) (by [Motschen](https://modrinth.com/user/Motschen))
-
-> 05/03/2023
----
-## Quilt Optimized - 0.5.2 -> 0.5.3
-
-### Added
-
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe) (by [FoundationGames](https://modrinth.com/user/FoundationGames)) in 1.19.3
+* [Indium](https://modrinth.com/mod/indium) (by [comp500](https://modrinth.com/user/comp500))
 
 ### Removed
 
