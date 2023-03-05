@@ -1,3 +1,17 @@
+## Quilt Optimized - 0.5.2 -> 0.5.3
+
+### Added
+
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe) (by [FoundationGames](https://modrinth.com/user/FoundationGames)) in 1.19.3
+
+### Removed
+
+* [Better Beds](https://modrinth.com/mod/better-beds) (by [Motschen](https://modrinth.com/user/Motschen)) just 12h in modpack LOL
+
+> 05/03/2023
+
+---
+
 ## Quilt Optimized - 0.5.1 -> 0.5.2
 
 ### quilt - 0.18.2 -> 0.18.4-pre.1
@@ -6,13 +20,13 @@
 
 * [Better Beds](https://modrinth.com/mod/better-beds) (by [Motschen](https://modrinth.com/user/Motschen))
 * [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) (by [ishland](https://modrinth.com/user/ishland))
-* New (changelog)[https://github.com/TheBossMagnus/Quilt-Optimized/blob/main/Changelog.md]
+* New [changelog](https://github.com/TheBossMagnus/Quilt-Optimized/blob/main/Changelog.md)
 
 ### Changed
 
 * [lithium-fabric-mc1.19.3-0.10.4.jar](https://modrinth.com/mod/lithium/version/XS6vJwop) -> [lithium-fabric-mc1.19.3-0.11.0.jar](https://modrinth.com/mod/lithium/version/sMWkk4VU)
 * [qfapi-5.0.0-beta.6_qsl-4.0.0-beta.11_fapi-0.74.0_mc-1.19.3.jar](https://modrinth.com/mod/qsl/version/oQbYgY9f) -> [qfapi-5.0.0-beta.8_qsl-4.0.0-beta.12_fapi-0.75.1_mc-1.19.3.jar](https://modrinth.com/mod/qsl/version/MYbIY8g7)
-* Various config improvments
+* Various config improvements
 
 > 04/03/2023
 

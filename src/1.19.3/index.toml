@@ -9,6 +9,10 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "fd3111c67003dc0719de6315b6e050f832b9c308e013764603e01b68c8a7e31d"
 
 [[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+
+[[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "914525168bfe586ba692b0ea415d12671f4f9424eff5f40bb42a423fccb9539d"
 
@@ -45,11 +49,6 @@ file = "config/yosbr/options.txt"
 hash = "9e45c9b5a5a62e1cee87674834bec9ed306fe9202c169922393447f67913a0bc"
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "b4281fb5300c4de0d7dc9266cf7bdfa6255643522273757065dffe18fc1cef0d"
 metafile = true
@@ -67,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 metafile = true
 
 [[files]]

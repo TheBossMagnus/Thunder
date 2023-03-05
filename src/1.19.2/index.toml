@@ -49,11 +49,6 @@ file = "config/yosbr/options.txt"
 hash = "5808cb6d24a5533dc2fcfe50cdd1b6bcb5681f5a9bcb018a64dae42ba3f59453"
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "15f9ac2ca16ab92d5d9512443cd188f278f18e8f9a9d8531675e60c7346a03a7"
 metafile = true
