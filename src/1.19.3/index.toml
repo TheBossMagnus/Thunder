@@ -54,11 +54,6 @@ hash = "b4281fb5300c4de0d7dc9266cf7bdfa6255643522273757065dffe18fc1cef0d"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "d02024521821336e40652c36c675ee520b4137ed73953e98f21bcf8a55f6a583"
 metafile = true
@@ -125,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
+hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
 metafile = true
 
 [[files]]
