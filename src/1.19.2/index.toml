@@ -50,12 +50,7 @@ hash = "5808cb6d24a5533dc2fcfe50cdd1b6bcb5681f5a9bcb018a64dae42ba3f59453"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "15f9ac2ca16ab92d5d9512443cd188f278f18e8f9a9d8531675e60c7346a03a7"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "5bc704a49911e9a029dc47cda6dba6920085b902143856015fd0f146550f3a05"
 metafile = true
 
 [[files]]
@@ -120,12 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
 metafile = true
 
 [[files]]
