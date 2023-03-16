@@ -1,7 +1,7 @@
 name: Automatically publish to Modrinth
 on:
   release:
-    types: [published]
+    types: [released]
   repository_dispatch:
     types: [manual]
 jobs:
