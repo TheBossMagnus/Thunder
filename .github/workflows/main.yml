@@ -58,14 +58,14 @@ jobs:
            game-versions: '1.19.3'
 
 #1.19.4 wip
-       #- name: Publish 1.19.4
-         #uses: Kir-Antipov/mc-publish@v3.2
-         #with:
-           #modrinth-id: ehPxCT2J
-           #modrinth-token: ${{ secrets.MODRINTH }}
-           #modrinth-unfeature-mode: subset
-           #modrinth-files: '*1.19.4.mrpack'
-           #name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.4 Test'
-           #version-type: 'alpha'
-           #loaders: quilt
-           #game-versions: '1.19.4-pre3'
+       - name: Publish 1.19.4
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*1.19.4.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.4'
+           version-type: 'release'
+           loaders: quilt
+           game-versions: '1.19.4'
