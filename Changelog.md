@@ -1,3 +1,25 @@
+## Quilt Optimized - 0.5.3 -> 0.6.0
+
+### quilt - 0.18.4-pre.1 -> 0.18.5
+
+### Added
+
+* Support for 1.19.4 
+* In 1.19.4 MemoryLeakFix, EBE & indium were temporarily removed because incompatible
+
+### Changed (1.19.x & 1.18.2)
+
+* [ImmediatelyFast-1.1.9+1.19.3.jar](https://modrinth.com/mod/immediatelyfast/version/d6gX5lox) -> [ImmediatelyFast-1.1.10+1.19.3.jar](https://modrinth.com/mod/immediatelyfast/version/CdpFa9ts)
+* [lithium-fabric-mc1.19.3-0.11.0.jar](https://modrinth.com/mod/lithium/version/sMWkk4VU) -> [lithium-fabric-mc1.19.3-0.11.1.jar](https://modrinth.com/mod/lithium/version/53cwYYb1)
+* [memoryleakfix-1.19.3-0.7.0.jar](https://modrinth.com/mod/memoryleakfix/version/YtNQP5gX) -> [memoryleakfix-1.19.3-0.8.0.jar](https://modrinth.com/mod/memoryleakfix/version/xn2d7ltf)
+* [moreculling-1.19.3-0.16.0.jar](https://modrinth.com/mod/moreculling/version/ENUmMM2R) -> [moreculling-1.19.3-0.17.0.jar](https://modrinth.com/mod/moreculling/version/tPdgUkgf)
+* [sodium-extra-0.4.17+mc1.19.3-build.95.jar](https://modrinth.com/mod/sodium-extra/version/wA35IJw8) -> [sodium-extra-0.4.18+mc1.19.3-build.99.jar](https://modrinth.com/mod/sodium-extra/version/Fo9beybz)
+* Many changes to configs files now everything follows 100% vanilla behavior
+
+> 19/03/2023
+
+---
+
 ## Quilt Optimized - 0.5.2 -> 0.5.3
 
 ### Added
