@@ -3,3 +3,5 @@ DevTools/
 
 #exported modpackpack ready to release
 bin/
+
+.markdownlint.json
