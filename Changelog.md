@@ -1,3 +1,18 @@
+## Quilt Optimized - 0.6.0 -> 0.6.1
+
+### quilt - 0.18.5 -> 0.18.6
+
+### 1.19.4
+* Added MemoryLeakFix
+* Updated VeryManyPlayer
+
+### Changed(1.19.x/1.18.2)
+
+  * [memoryleakfix-1.19.3-0.8.0.jar](https://modrinth.com/mod/memoryleakfix/version/xn2d7ltf) -> [memoryleakfix-fabric-1.0.0-beta.3-1.17+.jar](https://modrinth.com/mod/memoryleakfix/version/HhTUX26n)
+  * [MoreCullingExtra-1.1-backport_1.19.2.jar](https://modrinth.com/mod/morecullingextra/version/iNzUzmM1) -> [MoreCullingExtra-1.1.jar](https://modrinth.com/mod/morecullingextra/version/rPGfLpeu)
+
+> 25/03/2023
+---
 ## Quilt Optimized - 0.5.3 -> 0.6.0
 
 ### quilt - 0.18.4-pre.1 -> 0.18.5
