@@ -1,3 +1,14 @@
+## Quilt Optimized - 0.6.1 -> 0.6.2
+
+
+### Changed
+
+  * [c2me-fabric-mc1.19.4-0.2.0+alpha.10.30.jar](https://modrinth.com/mod/c2me-fabric/version/GtUrsjth) -> [c2me-fabric-mc1.19.4-0.2.0+alpha.10.31.jar](https://modrinth.com/mod/c2me-fabric/version/pH7xYFcg)
+  * [vmp-fabric-mc1.19.4-0.2.0+beta.7.66-all.jar](https://modrinth.com/mod/vmp-fabric/version/WymTdXV3) -> [vmp-fabric-mc1.19.4-0.2.0+beta.7.68-all.jar](https://modrinth.com/mod/vmp-fabric/version/b3wY0cz1)
+  * [https://modrinth.com/mod/memoryleakfix/version/v1.0.0-beta.3](https://modrinth.com/mod/memoryleakfix)-> [https://modrinth.com/mod/memoryleakfix/version/v1.0.0-beta.6](https://modrinth.com/mod/memoryleakfix/version/v1.0.0-beta.6)
+
+> 27/03/2023
+---
 ## Quilt Optimized - 0.6.0 -> 0.6.1
 
 ### quilt - 0.18.5 -> 0.18.6
