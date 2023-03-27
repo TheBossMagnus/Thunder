@@ -2,8 +2,8 @@ name: Automatically publish to Modrinth
 on:
   release:
     types: [released]
-  repository_dispatch:
-    types: [manual]
+  workflow_dispatch:
+    
 jobs:
   publish-to-modrinth:
     runs-on: ubuntu-22.04
