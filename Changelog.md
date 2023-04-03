@@ -1,3 +1,23 @@
+## Quilt Optimized - 0.6.2 -> 0.6.3
+
+### quilt - 0.18.6 -> 0.19.0-beta.6
+
+### Removed
+
+  * [LazyDFU](https://modrinth.com/mod/lazydfu) (by [Andrew Steinborn](https://modrinth.com/user/astei)) in 1.19.4
+
+### Changed
+
+  * [c2me-fabric-mc1.19.4-0.2.0+alpha.10.31.jar](https://modrinth.com/mod/c2me-fabric/version/pH7xYFcg) -> [c2me-fabric-mc1.19.4-0.2.0+alpha.10.42.jar](https://modrinth.com/mod/c2me-fabric/version/43Pjw5Zm)
+  * [Fastload+1.19.3-2.6.11.jar](https://modrinth.com/mod/fastload/version/GCH0zDV1) -> [Fastload+1.19.4-2.7.jar](https://modrinth.com/mod/fastload/version/cOIVKLwU)
+  * [qfapi-6.0.0-beta.2_qsl-5.0.0-beta.1_fapi-0.76.0_mc-1.19.4.jar](https://modrinth.com/mod/qsl/version/AmlAy82C) -> [qfapi-6.0.0-beta.3_qsl-5.0.0-beta.2_fapi-0.76.0_mc-1.19.4.jar](https://modrinth.com/mod/qsl/version/9gcIrw5Z)
+  * [vmp-fabric-mc1.19.4-0.2.0+beta.7.68-all.jar](https://modrinth.com/mod/vmp-fabric/version/b3wY0cz1) -> [vmp-fabric-mc1.19.4-0.2.0+beta.7.69-all.jar](https://modrinth.com/mod/vmp-fabric/version/9ElVzUFW)
+  * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+  * New logo!
+
+
+> 03/04/2023
+---
 ## Quilt Optimized - 0.6.1 -> 0.6.2
 
 
