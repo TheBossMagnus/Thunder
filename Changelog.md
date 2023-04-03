@@ -4,7 +4,7 @@
 
 ### Removed
 
-  * [LazyDFU](https://modrinth.com/mod/lazydfu) (by [Andrew Steinborn](https://modrinth.com/user/astei)) in 1.19.4
+  * [LazyDFU](https://modrinth.com/mod/lazydfu) (by [Andrew Steinborn](https://modrinth.com/user/astei)) no longer needed in 1.19.4
 
 ### Changed
 
