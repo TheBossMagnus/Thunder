@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "ba401feb68088dc72cc34ec9be404b0a91376a5e48efcd2bceb2cb6044833928"
+hash = "0d1225c262af125d3251ded259d8b8ecdf372d9335e180b915389ef59a5e45d4"
 metafile = true
 
 [[files]]
