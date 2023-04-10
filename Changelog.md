@@ -1,3 +1,20 @@
+## Quilt Optimized - 0.6.3 -> 0.7.0
+
+### quilt - 0.19.0-beta.6 -> 0.19.0-beta.11
+
+### Removed
+
+  * Debugify (minimal impact)
+  * YOSBR (not realy needed)
+### Changed
+
+  * [Fastload+1.19.4-2.7.jar](https://modrinth.com/mod/fastload/version/cOIVKLwU) -> [Fastload+1.18.2-1.19.4-3.3.1.jar](https://modrinth.com/mod/fastload/version/JpRTQ4PR) and it's config
+  * [vmp-fabric-mc1.19.4-0.2.0+beta.7.69-all.jar](https://modrinth.com/mod/vmp-fabric/version/9ElVzUFW) -> [vmp-fabric-mc1.19.4-0.2.0+beta.7.70-all.jar](https://modrinth.com/mod/vmp-fabric/version/SiTwKKgZ)
+
+## Fixed [#8](https://github.com/TheBossMagnus/Quilt-Optimized/issues/8)
+
+> 10/04/2023
+---
 ## Quilt Optimized - 0.6.2 -> 0.6.3
 
 ### quilt - 0.18.6 -> 0.19.0-beta.6
