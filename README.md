@@ -22,7 +22,7 @@ For ATLauncher:
 
 - [Packwiz](https://github.com/packwiz/packwiz) by comp500 (tool for editing and distributing Minecraft modpacks)
 
-- [Simply Optimized](https://modrinth.com/modpack/sop) by HyperSoop ([license](https://github.com/HyperSoop/Simply-Optimized/blob/meta/LICENSE))
+- Many modpacks from which I took inspiration, especially [Simply Optimized](https://modrinth.com/modpack/sop)
 
 <details>
     <summary>
