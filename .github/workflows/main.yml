@@ -18,54 +18,54 @@ jobs:
            zipBall: false
            out-file-path: .
 
- #1.18.2
+ #1.18.2 quilt
        - name: Publish 1.18.2
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*1.18.2.mrpack'
-           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.18.2'
+           modrinth-files: '*quilt 1.18.2.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.18.2'
            version-type: 'release'
            loaders: quilt
            game-versions: '1.18.2'
 
-#1.19.2
+#1.19.2 quilt
        - name: Publish 1.19.2
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*1.19.2.mrpack'
-           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.2'
+           modrinth-files: '*quilt 1.19.2.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.2'
            version-type: 'release'
            loaders: quilt
            game-versions: '1.19.2'
 
-#1.19.3
+#1.19.3 quilt
        - name: Publish 1.19.3
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*1.19.3.mrpack'
-           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.3'
+           modrinth-files: '*quilt 1.19.3.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.3'
            version-type: 'release'
            loaders: quilt
            game-versions: '1.19.3'
 
-#1.19.4 wip
+#1.19.4 quilt
        - name: Publish 1.19.4
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*1.19.4.mrpack'
-           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for 1.19.4'
+           modrinth-files: '*quilt 1.19.4.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.4'
            version-type: 'release'
            loaders: quilt
            game-versions: '1.19.4'
