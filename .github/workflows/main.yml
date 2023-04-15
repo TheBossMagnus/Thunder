@@ -25,7 +25,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*quilt 1.18.2.mrpack'
+           modrinth-files: '*quilt.1.18.2.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.18.2'
            version-type: 'release'
            loaders: quilt
@@ -38,7 +38,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*quilt 1.19.2.mrpack'
+           modrinth-files: '*quilt.1.19.2.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.2'
            version-type: 'release'
            loaders: quilt
@@ -51,7 +51,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*quilt 1.19.3.mrpack'
+           modrinth-files: '*quilt.1.19.3.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.3'
            version-type: 'release'
            loaders: quilt
@@ -64,7 +64,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*quilt 1.19.4.mrpack'
+           modrinth-files: '*quilt.1.19.4.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.4'
            version-type: 'release'
            loaders: quilt
