@@ -1,3 +1,21 @@
+## Quilt Optimized - 0.7.0 -> 0.7.1
+
+### quilt - 0.19.0-beta.11 -> 0.18.9
+
+### Added
+
+  * [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) (by [shedaniel](https://modrinth.com/user/shedaniel)) (revert from 0.7.0)
+
+### Changed
+
+  * [c2me-fabric-mc1.19.4-0.2.0+alpha.10.42.jar](https://modrinth.com/mod/c2me-fabric/version/43Pjw5Zm) -> [c2me-fabric-mc1.19.4-0.2.0+alpha.10.49.jar](https://modrinth.com/mod/c2me-fabric/version/b3vDiaQb)
+  * [Fastload+1.18.2-1.19.4-3.3.1.jar](https://modrinth.com/mod/fastload/version/JpRTQ4PR) -> [Fastload+1.18.2-1.19.4-3.3.3.jar](https://modrinth.com/mod/fastload/version/WryJ0FUZ)
+  * [ImmediatelyFast-1.1.11+1.19.4.jar](https://modrinth.com/mod/immediatelyfast/version/IpEJi0ih) -> [ImmediatelyFast-1.1.12+1.19.4.jar](https://modrinth.com/mod/immediatelyfast/version/8IFFeKYy)
+  * [vmp-fabric-mc1.19.4-0.2.0+beta.7.70-all.jar](https://modrinth.com/mod/vmp-fabric/version/SiTwKKgZ) -> [vmp-fabric-mc1.19.4-0.2.0+beta.7.71-all.jar](https://modrinth.com/mod/vmp-fabric/version/Dp9cnhMy)
+  * Fixed from a bug from 0.7.0 that causes the user config to get overwritten after each update
+
+> 15/04/2023
+---
 ## Quilt Optimized - 0.6.3 -> 0.7.0
 
 ### quilt - 0.19.0-beta.6 -> 0.19.0-beta.11
