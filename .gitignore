@@ -4,4 +4,6 @@ DevTools/
 #exported modpackpack ready to release
 bin/
 
-.markdownlint.json
+#SOON™
+src/fabric
+src/config
