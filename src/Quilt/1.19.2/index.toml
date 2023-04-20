@@ -54,6 +54,11 @@ hash = "2bad8cbc0ecbf025df1fb9d34be8595c5ab99c232fbff4976d9101b915355a7a"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0f8269bf3c425efd7c76d48dda7f48523ed5171fe2e341c6cb926d06c67cc9ff"
 metafile = true
@@ -75,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
+hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
 metafile = true
 
 [[files]]

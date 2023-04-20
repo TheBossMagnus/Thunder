@@ -1,3 +1,21 @@
+## Quilt Optimized - 0.7.1 -> 0.7.2
+
+### quilt - 0.18.9 -> 0.19.0-beta.12
+
+### Added
+
+  * [Cloth Config API](https://modrinth.com/mod/cloth-config) (by [shedaniel](https://modrinth.com/user/shedaniel)) because some mods don't bundle
+
+### Changed
+
+  * [c2me-fabric-mc1.19.4-0.2.0+alpha.10.49.jar](https://modrinth.com/mod/c2me-fabric/version/b3vDiaQb) -> [c2me-fabric-mc1.19.4-0.2.0+alpha.10.51.jar](https://modrinth.com/mod/c2me-fabric/version/2LxKBERD)
+  * [Fastload+1.18.2-1.19.4-3.3.3.jar](https://modrinth.com/mod/fastload/version/WryJ0FUZ) -> [Fastload+1.18.2-1.19.4-3.3.7.jar](https://modrinth.com/mod/fastload/version/OxwM6hRt)
+  * [modmenu-6.1.0-rc.4.jar](https://modrinth.com/mod/modmenu/version/5e62j63G) -> [modmenu-6.2.0.jar](https://modrinth.com/mod/modmenu/version/aMxXwo9x)
+  * [qfapi-6.0.0-beta.3_qsl-5.0.0-beta.2_fapi-0.76.0_mc-1.19.4.jar](https://modrinth.com/mod/qsl/version/9gcIrw5Z) -> [qfapi-6.0.0-beta.4_qsl-5.0.0-beta.3_fapi-0.78.0_mc-1.19.4.jar](https://modrinth.com/mod/qsl/version/cpRPaFBn)
+  * Openening the settings of some mods no longer causes Minecraft crash (Fixed by adding Cloath Config)
+
+> 20/04/2023
+---
 ## Quilt Optimized - 0.7.0 -> 0.7.1
 
 ### quilt - 0.19.0-beta.11 -> 0.18.9
