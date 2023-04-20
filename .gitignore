@@ -1,6 +1,3 @@
-#tools for managing/updating the modpack
-DevTools/
-
 #exported modpackpack ready to release
 bin/
 
