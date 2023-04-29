@@ -1,3 +1,16 @@
+## Quilt Optimized - 0.7.2 -> 0.7.3
+
+### quilt - 0.19.0-beta.12 -> 0.19.0-beta.13
+
+### Changed
+
+  * [Fastload+1.18.2-1.19.4-3.3.7.jar](https://modrinth.com/mod/fastload/version/OxwM6hRt) -> [Fastload+1.18.2-1.20-3.3.8.jar](https://modrinth.com/mod/fastload/version/u4FVRRGd)
+  * [modmenu-6.2.0.jar](https://modrinth.com/mod/modmenu/version/aMxXwo9x) -> [modmenu-6.2.1.jar](https://modrinth.com/mod/modmenu/version/yjjsLqbS)
+  * [qfapi-6.0.0-beta.4_qsl-5.0.0-beta.3_fapi-0.78.0_mc-1.19.4.jar](https://modrinth.com/mod/qsl/version/cpRPaFBn) -> [qfapi-6.0.0-beta.6_qsl-5.0.0-beta.5_fapi-0.79.0_mc-1.19.4.jar](https://modrinth.com/mod/qsl/version/Ng2kCEiP)
+  * Disabled Instant load option in FastLoad to improve stability and fix some bugs
+
+> 28/04/2023
+---
 ## Quilt Optimized - 0.7.1 -> 0.7.2
 
 ### quilt - 0.18.9 -> 0.19.0-beta.12

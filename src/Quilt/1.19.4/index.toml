@@ -22,7 +22,7 @@ hash = "efe2da0a146fc7dd7487d01e36cd82837d7ef328a513592f309c6c023abc7c19"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "fc879e4855ff7e008b39a38a57d2110c33c624d00be1cab237b5b1e1f658ef2b"
+hash = "ae3919c11d57f941b5860626d1323d25b6ddc63798e9dcd302d103ada1563108"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
+hash = "06848036e814be3439e96936bf20dfa3257385f07d9ed6d9b5d2c45855145db9"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "09f62ae3aee8a090f3b2cf6a1860bff62c1177566ab08850430cb6cbfe90159b"
+hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "3c793a12d7638e813ea7323e376577ee626b30bfcae4d22caa7820a215109357"
+hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
 metafile = true
 
 [[files]]
