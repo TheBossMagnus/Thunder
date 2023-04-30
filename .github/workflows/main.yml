@@ -3,13 +3,13 @@ on:
   release:
     types: [released]
   workflow_dispatch:
-    
+
 jobs:
   publish-to-modrinth:
     runs-on: ubuntu-22.04
     steps:
        - name: Download the pack files
-         uses: robinraju/release-downloader@v1.7
+         uses: robinraju/release-downloader@v1.6
          with:
            github-token: ${{ secrets.GITHUB }}
            name: "*.mrpack"
@@ -17,13 +17,14 @@ jobs:
            tarBall: false
            zipBall: false
            out-file-path: .
-           
+
 #=========================================
 #               Quilt
-#========================================= 
-           
+#=========================================
+
  #1.18.2 quilt
-       - name: Publish 1.18.2
+       - name: Publish 1.18.2 quilt
+         if: always()
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
@@ -36,7 +37,8 @@ jobs:
            game-versions: '1.18.2'
 
 #1.19.2 quilt
-       - name: Publish 1.19.2
+       - name: Publish 1.19.2 quilt
+         if: always()
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
@@ -49,7 +51,8 @@ jobs:
            game-versions: '1.19.2'
 
 #1.19.3 quilt
-       - name: Publish 1.19.3
+       - name: Publish 1.19.3 quilt
+         if: always()
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
@@ -62,7 +65,8 @@ jobs:
            game-versions: '1.19.3'
 
 #1.19.4 quilt
-       - name: Publish 1.19.4
+       - name: Publish 1.19.4  quilt
+         if: always()
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: ehPxCT2J
@@ -73,90 +77,96 @@ jobs:
            version-type: 'release'
            loaders: quilt
            game-versions: '1.19.4'
-           
+
 #=========================================
-#               Quilt
-#========================================= 
+#                Fabric
+#=========================================
 
 #1.16.5 fabric
-#       - name: Publish 1.16.5
-#         uses: Kir-Antipov/mc-publish@v3.2
-#         with:
-#           modrinth-id: ehPxCT2J
-#           modrinth-token: ${{ secrets.MODRINTH }}
-#           modrinth-unfeature-mode: subset
-#           modrinth-files: '*fabric.1.16.5.mrpack'
-#           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.16.5'
-#           version-type: 'beta'
-#           loaders: fabric
-#           game-versions: '1.16.5'
+       - name: Publish 1.16.5 fabric
+         if: always()
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*fabric.1.16.5.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.16.5'
+           version-type: 'beta'
+           loaders: fabric
+           game-versions: '1.16.5'
 
 #1.17.1 fabric
-#       - name: Publish 1.17.1
-#         uses: Kir-Antipov/mc-publish@v3.2
-#         with:
-#           modrinth-id: ehPxCT2J
-#           modrinth-token: ${{ secrets.MODRINTH }}
-#           modrinth-unfeature-mode: subset
-#           modrinth-files: '*fabric.1.17.1.mrpack'
-#           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.17.1'
-#           version-type: 'beta'
-#           loaders: fabric
-#           game-versions: '1.17.1'
+       - name: Publish 1.17.1 fabric
+         if: always()
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*fabric.1.17.1.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.17.1'
+           version-type: 'beta'
+           loaders: fabric
+           game-versions: '1.17.1'
 
 #1.18.2 fabric
-#       - name: Publish 1.18.2
-#         uses: Kir-Antipov/mc-publish@v3.2
-#         with:
-#           modrinth-id: ehPxCT2J
-#           modrinth-token: ${{ secrets.MODRINTH }}
-#           modrinth-unfeature-mode: subset
-#           modrinth-files: '*fabric.1.18.2.mrpack'
-#           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.18.2'
-#           version-type: 'beta'
-#           loaders: fabric
-#           game-versions: '1.18.2'
+       - name: Publish 1.18.2 fabric
+         if: always()
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*fabric.1.18.2.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.18.2'
+           version-type: 'beta'
+           loaders: fabric
+           game-versions: '1.18.2'
 
 #1.19.2 fabric
-#       - name: Publish 1.19.2
-#         uses: Kir-Antipov/mc-publish@v3.2
-#         with:
-#           modrinth-id: ehPxCT2J
-#           modrinth-token: ${{ secrets.MODRINTH }}
-#           modrinth-unfeature-mode: subset
-#           modrinth-files: '*fabric.1.19.2.mrpack'
-#           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.2'
-#           version-type: 'beta'
-#           loaders: fabric
-#           game-versions: '1.19.2'
+       - name: Publish 1.19.2 fabric
+         if: always()
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*fabric.1.19.2.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.2'
+           version-type: 'beta'
+           loaders: fabric
+           game-versions: '1.19.2'
 
 #1.19.3 fabric
-#       - name: Publish 1.19.3
-#         uses: Kir-Antipov/mc-publish@v3.2
-#         with:
-#           modrinth-id: ehPxCT2J
-#           modrinth-token: ${{ secrets.MODRINTH }}
-#           modrinth-unfeature-mode: subset
-#           modrinth-files: '*fabric.1.19.3.mrpack'
-#           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.3'
-#           version-type: 'beta'
-#           loaders: fabric
-#           game-versions: '1.19.3'
+       - name: Publish 1.19.3 fabric
+         if: always()
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*fabric.1.19.3.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.3'
+           version-type: 'beta'
+           loaders: fabric
+           game-versions: '1.19.3'
 
 #1.19.4 fabric
-#       - name: Publish 1.19.4
-#         uses: Kir-Antipov/mc-publish@v3.2
-#         with:
-#           modrinth-id: ehPxCT2J
-#           modrinth-token: ${{ secrets.MODRINTH }}
-#           modrinth-unfeature-mode: subset
-#           modrinth-files: '*fabric.1.19.4.mrpack'
-#           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.4'
-#           version-type: 'beta'
-#           loaders: fabric
-#           game-versions: '1.19.4'
+       - name: Publish 1.19.4 fabric
+         if: always()
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*fabric.1.19.4.mrpack'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.4'
+           version-type: 'beta'
+           loaders: fabric
+           game-versions: '1.19.4'
 
 
 
 
-           
+
