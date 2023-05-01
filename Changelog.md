@@ -1,3 +1,13 @@
+## Quilt Optimized - 0.7.3 -> 0.7.4
+
+### Changed
+
+  * [modmenu-6.2.1.jar](https://modrinth.com/mod/modmenu/version/yjjsLqbS) -> [modmenu-6.2.2.jar](https://modrinth.com/mod/modmenu/version/iZRiOnnj)
+  * [sodium-fabric-mc1.19.4-0.4.10+build.24.jar](https://modrinth.com/mod/sodium/version/b4hTi3mo) -> [sodium-fabric-mc1.19.4-0.4.11+build.26.jar](https://modrinth.com/mod/sodium/version/ugiIczl5)
+  * [sodium-extra-0.4.18+mc1.19.4-build.100.jar](https://modrinth.com/mod/sodium-extra/version/YknbqkHe) -> [sodium-extra-0.4.19+mc1.19.3-build.101.jar](https://modrinth.com/mod/sodium-extra/version/O3qmYo1o)
+
+> 01/05/2023
+---
 ## Quilt Optimized - 0.7.2 -> 0.7.3
 
 ### quilt - 0.19.0-beta.12 -> 0.19.0-beta.13
