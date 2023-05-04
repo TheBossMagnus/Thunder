@@ -12,7 +12,7 @@ jobs:
          uses: robinraju/release-downloader@v1.7
          with:
            github-token: ${{ secrets.GITHUB }}
-           name: "*.mrpack"
+           name: '*.mrpack'
            latest: true
            tarBall: false
            zipBall: false
@@ -29,12 +29,9 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*quilt.1.18.2.mrpack'
-           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.18.2'
-           version-type: 'release'
-           loaders: quilt
-           game-versions: '1.18.2'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for Quilt 1.18.2'
+           changelog-file: 'quilt.1.18.2.Changelog.md'
 
 #1.19.2 quilt
        - name: Publish 1.19.2 quilt
@@ -43,12 +40,9 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*quilt.1.19.2.mrpack'
-           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.2'
-           version-type: 'release'
-           loaders: quilt
-           game-versions: '1.19.2'
+           name: 'Quilt Optimized ${{ github.event.release.tag_name }} for Quilt 1.19.2'
+           changelog-file: 'quilt.1.19.2.Changelog.md'
 
 #1.19.3 quilt
        - name: Publish 1.19.3 quilt
@@ -57,12 +51,9 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*quilt.1.19.3.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.3'
-           version-type: 'release'
-           loaders: quilt
-           game-versions: '1.19.3'
+           changelog-file: 'quilt.1.19.3.Changelog.md'
 
 #1.19.4 quilt
        - name: Publish 1.19.4  quilt
@@ -71,12 +62,9 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*quilt.1.19.4.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.4'
-           version-type: 'release'
-           loaders: quilt
-           game-versions: '1.19.4'
+           changelog-file: 'quilt.1.19.4.Changelog.md'
 
 #=========================================
 #                Fabric
@@ -89,12 +77,9 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*fabric.1.16.5.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.16.5'
-           version-type: 'beta'
-           loaders: fabric
-           game-versions: '1.16.5'
+           changelog-file: 'fabric.1.16.5.Changelog.md'
 
 #1.17.1 fabric
        - name: Publish 1.17.1 fabric
@@ -103,12 +88,10 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*fabric.1.17.1.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.17.1'
-           version-type: 'beta'
-           loaders: fabric
-           game-versions: '1.17.1'
+           changelog-file: 'fabric.1.17.1.Changelog.md'
+
 
 #1.18.2 fabric
        - name: Publish 1.18.2 fabric
@@ -117,12 +100,10 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*fabric.1.18.2.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.18.2'
-           version-type: 'beta'
-           loaders: fabric
-           game-versions: '1.18.2'
+           changelog-file: 'fabric.1.18.2.Changelog.md'
+
 
 #1.19.2 fabric
        - name: Publish 1.19.2 fabric
@@ -131,12 +112,10 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*fabric.1.19.2.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.2'
-           version-type: 'beta'
-           loaders: fabric
-           game-versions: '1.19.2'
+           changelog-file: 'fabric.1.19.2.Changelog.md'
+
 
 #1.19.3 fabric
        - name: Publish 1.19.3 fabric
@@ -145,12 +124,10 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*fabric.1.19.3.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.3'
-           version-type: 'beta'
-           loaders: fabric
-           game-versions: '1.19.3'
+           changelog-file: 'fabric.1.19.3.Changelog.md'
+
 
 #1.19.4 fabric
        - name: Publish 1.19.4 fabric
@@ -159,12 +136,10 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-unfeature-mode: subset
            modrinth-files: '*fabric.1.19.4.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.4'
-           version-type: 'beta'
-           loaders: fabric
-           game-versions: '1.19.4'
+           changelog-file: 'fabric.1.19.4.Changelog.md'
+
 
 
 
