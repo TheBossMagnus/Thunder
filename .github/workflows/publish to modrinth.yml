@@ -33,6 +33,7 @@ jobs:
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for Quilt 1.18.2'
            changelog-file: 'quilt.1.18.2.Changelog.md'
            loaders: 'quilt'
+           game-versions: '1.18.2'
 
 #1.19.2 quilt
        - name: Publish 1.19.2 quilt
@@ -45,6 +46,7 @@ jobs:
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for Quilt 1.19.2'
            changelog-file: 'quilt.1.19.2.Changelog.md'
            loaders: 'quilt'
+           game-versions: '1.19.2'
 
 #1.19.3 quilt
        - name: Publish 1.19.3 quilt
@@ -57,6 +59,7 @@ jobs:
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.3'
            changelog-file: 'quilt.1.19.3.Changelog.md'
            loaders: 'quilt'
+           game-versions: '1.19.3'
 
 #1.19.4 quilt
        - name: Publish 1.19.4  quilt
@@ -69,6 +72,7 @@ jobs:
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.4'
            changelog-file: 'quilt.1.19.4.Changelog.md'
            loaders: 'quilt'
+           game-versions: '1.19.4'
 
 #=========================================
 #                Fabric
