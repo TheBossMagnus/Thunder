@@ -1,3 +1,12 @@
+## Quilt Optimized - 0.7.4 -> 0.7.5
+
+### Changed
+
+  * [Fastload+1.18.2-1.20-3.3.8.jar](https://modrinth.com/mod/fastload/version/u4FVRRGd) -> [Fastload+1.18.2-1.20-3.4.0.jar](https://modrinth.com/mod/fastload/version/ys9T20o4)
+  * [vmp-fabric-mc1.19.4-0.2.0+beta.7.71-all.jar](https://modrinth.com/mod/vmp-fabric/version/Dp9cnhMy) -> [vmp-fabric-mc1.19.4-0.2.0+beta.7.73-all.jar](https://modrinth.com/mod/vmp-fabric/version/NkCv7j6N)
+
+> 06/05/2023
+---
 ## Quilt Optimized - 0.7.3 -> 0.7.4
 
 ### Changed
