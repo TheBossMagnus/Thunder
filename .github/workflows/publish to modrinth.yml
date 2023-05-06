@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
        - name: Download the pack files
-         uses: robinraju/release-downloaders@v1.8
+         uses: robinraju/release-downloader@v1.8
          with:
            github-token: ${{ secrets.GITHUB }}
            name: '*.mrpack'
