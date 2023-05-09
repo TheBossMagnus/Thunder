@@ -1,3 +1,12 @@
+## Quilt Optimized - 0.7.5 -> 0.7.6
+
+### Changed
+
+  * [Fastload+1.18.2-1.20-3.3.8.jar](https://modrinth.com/mod/fastload/version/u4FVRRGd) -> [Fastload+1.18.2-1.20-3.4.0.jar](https://modrinth.com/mod/fastload/version/ys9T20o4)
+  * Downgraded sodium and sodium extra Because Soidum 0.4.11 is been removed form Modrinth (Too buggy). For now using [sodium-fabric-mc1.19.4-0.4.10+build.24.jar](https://modrinth.com/mod/sodium/version/b4hTi3mo) and [sodium-extra-0.4.18+mc1.19.4-build.100.jar](https://modrinth.com/mod/sodium-extra/version/YknbqkHe)
+
+  > 09/05/2023
+---
 ## Quilt Optimized - 0.7.4 -> 0.7.5
 
 ### Changed
