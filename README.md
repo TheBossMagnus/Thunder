@@ -1,58 +1,71 @@
-# Quilt Optimized
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheBossMagnus/Quilt-Optimized/main/Doc%20assets/Logo/logo%20nobackground.png" height="auto" width="175">
+  <br>
+  <br>
+  <a href="https://modrinth.com/modpack/quilt-optimized">
+    <img src="https://raw.githubusercontent.com/TheBossMagnus/Quilt-Optimized/main/Doc%20assets/Modrinth-mark.svg" height="34px" width="34px"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TheBossMagnus/Quilt-Optimized">
+    <img src="https://raw.githubusercontent.com/TheBossMagnus/Quilt-Optimized/main/Doc%20assets/github-mark-white.svg" height="34px" width="34px"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://modrinth.com/modpack/quilt-optimized/versions">
+    <img src="https://raw.githubusercontent.com/TheBossMagnus/Quilt-Optimized/main/Doc%20assets/Download%20icon.svg" height="34px" width="34px"/>
+  </a>
+  <br>
+  <br>
+  <font size="6">
+    <b>Quilt Optimized</b>
+  </font>
+  <br>
+  <font size="4">
+    <i>Enhance Your Minecraft Experience</i>
+  </font>
+  <br>
+  <br>
+</dive>
 
-[![Modrinth](https://img.shields.io/modrinth/dt/quilt-optimized?color=1bd96a&label=Modrinth&style=for-the-badge)](https://modrinth.com/modpack/quilt-optimized/versions)
+## 📈Benchmarks
 
-This modpack is designed to optimize and enhance your Minecraft experience with the Quilt Loader. It features a performance-focused version and a version with additional quality-of-life mods(SOON). Everything is currently in beta.
+| Benchmark                                                                  | [Quilt Optimized](https://modrinth.com/modpack/quilt-optimized) | [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) | [Simply Optimized](https://modrinth.com/modpack/sop) | Minecraft Vanilla |
+| ---------------------------------------------------------------------------|:---------------------------------------------------------------:|:-------------------------------------------------------------------------:|:----------------------------------------------------:|:-----------------:|
+| [FPS](https://ethercalc.net/rpa0i8ktk5)                                    | 234                                                             | 205                                                                       | 220                                                  | 123               |
+| [FPS under stress](https://ethercalc.net/b0jkjywxkb)                       | 155                                                             | 85                                                                        | 137                                                  | 40                |
+| Boot time                                                                   | 23s                                                             | 34s                                                                       | 30s                                                  | 19s               |
+| World generation time                                                       | 10s                                                             | 35s                                                                       | 9s                                                   | 39s               |
+| Networking optimization                                                     | ✅                                                               |                                                                           | ✅                                                    |                   |
+| Fast Quit                                                                   | ✅                                                               | ✅                                                                         |                                                      |                   |
+| Protection from chat reports                                                |                                                                 | ✅                                                                         | ✅                                                    |                   |
+| All GUIs needed to configure included mods                                  | ✅                                                               | ✅                                                                         |                                                      |                   |
+| Complete OptiFine replacement (OF's Resourcepack, zoom, Dynamic Lights, Better grass, ...) |                                                                 | ✅                                                                         |                                                      |                   |
 
-## Installation
+NOTE: High FPS comes at a cost: by default, Quilt Optimized reduces Minecraft's graphics settings more aggressively than other modpacks, resulting in a less visually appealing experience. However, you can adjust the video settings to improve the look of the game while maintaining high FPS.
 
-I recommend [ATLauncher](https://atlauncher.com), but you can use any launcher with support for Modrinth modpack(MultiMC, Prism, GDLauncher, ...)
-For ATLauncher:
+## 📥 Installation
 
-- Go to **packs**
-- Select **Modrinth** tab from the left
-- **Search for Quilt Optimized** using the search bar
-- Click on **new instance**
-- Press **Install** in the pop-up, then press **ok**
-- go to instances and click **play** on Quit Optimized
+You can use any launcher that supports Modrinth modpacks (such as MultiMC, Prism, AtLaucnher, ...).
+For further instructions, see the [Modrinth documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/).
 
-## Credits
+## 🙏 Credits
 
-- [Quilt Mod Loader](https://quiltmc.org) by QuiltMC
+All developers (and contributors) of the mods and modloaders used in this modpack (a list of all of them can be found under each version changelog).
 
-- [Packwiz](https://github.com/packwiz/packwiz) by comp500 (tool for editing and distributing Minecraft modpacks)
+## ❓ FAQ
 
-- Many modpacks from which I took inspiration, especially [Simply Optimized](https://modrinth.com/modpack/sop)
+> 🔼Is there a version of Quilt Optimized available for Minecraft 1.X?
 
-<details>
-    <summary>
-      All the authors, developers and contributors of the mod included in this modpack
-      </summary>
+Quilt Optimized supports the most commonly used and recent versions of Minecraft, including snapshots when available. As of now, the supported versions are 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.3, and 1.19.4. Please note that Quilt Optimized with Quilt ModLoader is only available on Minecraft versions 1.18.2 and above. The modpack for older versions of Minecraft may not have the same features as the newer ones.
 
-<br>
+> 📃Which mods are included in Quilt Optimized?
 
-- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) (by [ishland](https://modrinth.com/user/ishland))
-- [Cloth Config API](https://modrinth.com/mod/cloth-config) (by [shedaniel](https://modrinth.com/user/shedaniel))
-- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) (by [Julian Dunskus](https://modrinth.com/user/juliand665))
-- [EntityCulling](https://modrinth.com/mod/entityculling) (by [tr7zw](https://modrinth.com/user/tr7zw))
-- [Exordium](https://modrinth.com/mod/exordium) (by [tr7zw](https://modrinth.com/user/tr7zw))
-- [Fastload](https://modrinth.com/mod/fastload) (by [Fluffy Bumblebee](https://modrinth.com/user/FluffyBumblebees))
-- [FastQuit](https://modrinth.com/mod/fastquit) (by [KingContaria](https://modrinth.com/user/KingContaria))
-- [FerriteCore](https://modrinth.com/mod/ferrite-core) (by [malte0811](https://modrinth.com/user/malte0811))
-- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) (by [RK_01](https://modrinth.com/user/RaphiMC))
-- [Krypton](https://modrinth.com/mod/krypton) (by [Andrew Steinborn](https://modrinth.com/user/astei))
-- [LazyDFU](https://modrinth.com/mod/lazydfu) (by [Andrew Steinborn](https://modrinth.com/user/astei))
-- [Lithium](https://modrinth.com/mod/lithium) (by [JellySquid](https://modrinth.com/user/jellysquid3))
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) (by [FX-PR0CESS](https://modrinth.com/user/fxmorin))
-- [Mod Menu](https://modrinth.com/mod/modmenu) (by [Prospector](https://modrinth.com/user/Prospector))
-- [More Culling](https://modrinth.com/mod/moreculling) (by [FX-PR0CESS](https://modrinth.com/user/fxmorin))
-- [More Culling Extra](https://modrinth.com/mod/morecullingextra) (by [FX-PR0CESS](https://modrinth.com/user/fxmorin))
-- [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) (by [Quilt Holdings](https://modrinth.com/user/quilt-holdings))
-- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) (by [FlashyReese](https://modrinth.com/user/FlashyReese))
-- [Skip Transitions](https://modrinth.com/mod/skip-transitions) (by [trufflezmc](https://modrinth.com/user/trufflezmc))
-- [Sodium](https://modrinth.com/mod/sodium) (by [JellySquid](https://modrinth.com/user/jellysquid3))
-- [Sodium Extra](https://modrinth.com/mod/sodium-extra) (by [FlashyReese](https://modrinth.com/user/FlashyReese))
-- [Starlight (Fabric)](https://modrinth.com/mod/starlight) (by [Spottedleaf](https://modrinth.com/user/spottedleaf))
-- [YOSBR](https://modrinth.com/mod/yosbr)(by [shedaniel](https://modrinth.com/user/shedaniel))
+The download page for each version of Quilt Optimized includes a list of the mods that are included.
 
-</details>
+> 🐛What should I do if I find a bug or want to suggest a mod?
+
+If you encounter a bug or wish to suggest a mod, please open an issue on the [GitHub repo](https://github.com/TheBossMagnus/Quilt-Optimized). Thank you for your help!
+
+> 🔢How does versioning work for Quilt Optimized?
+
+Quilt Optimized follows the [Semantic Versioning 2.0.0](https://semver.org/) scheme, which uses the version number format of MAJOR.MINOR.PATCH. Each part of the version number has a specific meaning: 
+- A MAJOR version increment indicates that significant changes have been made to the pack, such as the addition of support for a new major Minecraft update or the implementation of extensive modifications. 
+- A MINOR version increment indicates that smaller changes have been made to the pack, such as the addition or removal of a mod, or the inclusion of support for a new minor Minecraft update. 
+- A PATCH version increment indicates that minor changes have been made to the pack, such as updates to mods or changes to configuration files.
