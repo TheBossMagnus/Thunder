@@ -1,5 +1,10 @@
 version = 3
+globalExecutorParallelism = "1"
+
 [clientSideConfig]
+
 	[clientSideConfig.modifyMaxVDConfig]
-		enabled = "false"
-		maxViewDistance = "default"
+		enabled = false
+
+[noTickViewDistance]
+	enabled = false

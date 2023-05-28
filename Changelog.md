@@ -1,3 +1,14 @@
+## Quilt Optimized - 0.7.6 -> 0.7.7
+
+### quilt - 0.19.0-beta.12 -> 0.19.0-beta.13
+
+### Changed
+
+  * [c2me-fabric-mc1.19.4-0.2.0+alpha.10.51.jar](https://modrinth.com/mod/c2me-fabric/version/2LxKBERD) -> [c2me-fabric-mc1.19.4-0.2.0+alpha.10.54.jar](https://modrinth.com/mod/c2me-fabric/version/Rp75Zg3V)
+  * [qfapi-6.0.0-beta.6_qsl-5.0.0-beta.5_fapi-0.79.0_mc-1.19.4.jar](https://modrinth.com/mod/qsl/version/Ng2kCEiP) -> [qfapi-6.0.0-beta.8_qsl-5.0.0-beta.9_fapi-0.82.0_mc-1.19.4.jar](https://modrinth.com/mod/qsl/version/x86qltyO)
+
+> 28/05/2023
+---
 ## Quilt Optimized - 0.7.5 -> 0.7.6
 
 ### Changed

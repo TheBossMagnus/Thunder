@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "9169a859b17921fd16389c095adecafb7b791be2fef0a96963dc9ed2f0b6bef3"
+hash = "da5f3a0e3a2bdbf29c97bd2f78a0324ed39999f238d07d0e0b62cde82aa869b5"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -22,7 +22,7 @@ hash = "efe2da0a146fc7dd7487d01e36cd82837d7ef328a513592f309c6c023abc7c19"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "ae3919c11d57f941b5860626d1323d25b6ddc63798e9dcd302d103ada1563108"
+hash = "7d947b3d4f8a1d6552fc4e1328c0496cc15900762f2ec5028a9a8427731dfa35"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
