@@ -8,6 +8,9 @@
   <a href="https://github.com/TheBossMagnus/Quilt-Optimized">
     <img src="https://raw.githubusercontent.com/TheBossMagnus/Quilt-Optimized/main/Doc%20assets/github-mark-white.svg" height="34px" width="34px"/>
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://thebossmagnus.github.io/thunder/">
+   <img width="34" height="34" src="https://img.icons8.com/ios/50/FFFFFF/domain--v1.png"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://modrinth.com/modpack/quilt-optimized/versions">
     <img src="https://raw.githubusercontent.com/TheBossMagnus/Quilt-Optimized/main/Doc%20assets/Download%20icon.svg" height="34px" width="34px"/>
   </a>
