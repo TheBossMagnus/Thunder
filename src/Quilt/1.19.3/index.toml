@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "d01862cb94c4d9e2b1696aa72a6b80eb410f4ff1dae837f301082cbb429119d8"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "dbc278de3d507cad99715d17c2f4858e58cf7ce5e76c9c59525d5fae7c05172f"
+hash = "612c57d82d3a963a9f94f3b2949057cec5162fd39d0c1dab87059e143274d34d"
 metafile = true
 
 [[files]]
