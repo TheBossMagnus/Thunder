@@ -11,7 +11,7 @@ jobs:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.8
          with:
-           filename: '*.mrpack'
+           filename: '*'
            latest: true
            tarBall: false
            zipBall: false
