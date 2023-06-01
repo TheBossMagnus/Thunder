@@ -11,7 +11,7 @@ jobs:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.8
          with:
-           name: '*.mrpack'
+           filename: '*.mrpack'
            latest: true
            tarBall: false
            zipBall: false
@@ -28,7 +28,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*quilt.1.18.2.mrpack'
+           files: '*quilt.1.18.2.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for Quilt 1.18.2'
            changelog-file: 'quilt.1.18.2.Changelog.md'
            loaders: 'quilt'
@@ -41,7 +41,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*quilt.1.19.2.mrpack'
+           files: '*quilt.1.19.2.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for Quilt 1.19.2'
            changelog-file: 'quilt.1.19.2.Changelog.md'
            loaders: 'quilt'
@@ -54,7 +54,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*quilt.1.19.3.mrpack'
+           files: '*quilt.1.19.3.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.3'
            changelog-file: 'quilt.1.19.3.Changelog.md'
            loaders: 'quilt'
@@ -67,7 +67,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*quilt.1.19.4.mrpack'
+           files: '*quilt.1.19.4.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for quilt 1.19.4'
            changelog-file: 'quilt.1.19.4.Changelog.md'
            loaders: 'quilt'
@@ -84,7 +84,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*fabric.1.16.5.mrpack'
+           files: '*fabric.1.16.5.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.16.5'
            changelog-file: 'fabric.1.16.5.Changelog.md'
            loaders: 'fabric'
@@ -97,7 +97,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*fabric.1.17.1.mrpack'
+           files: '*fabric.1.17.1.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.17.1'
            changelog-file: 'fabric.1.17.1.Changelog.md'
            loaders: 'fabric'
@@ -110,7 +110,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*fabric.1.18.2.mrpack'
+           files: '*fabric.1.18.2.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.18.2'
            changelog-file: 'fabric.1.18.2.Changelog.md'
            loaders: 'fabric'
@@ -123,7 +123,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*fabric.1.19.2.mrpack'
+           files: '*fabric.1.19.2.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.2'
            changelog-file: 'fabric.1.19.2.Changelog.md'
            loaders: 'fabric'
@@ -136,7 +136,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*fabric.1.19.3.mrpack'
+           files: '*fabric.1.19.3.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.3'
            changelog-file: 'fabric.1.19.3.Changelog.md'
            loaders: 'fabric'
@@ -149,7 +149,7 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           modrinth-files: '*fabric.1.19.4.mrpack'
+           files: '*fabric.1.19.4.mrpack'
            name: 'Quilt Optimized ${{ github.event.release.tag_name }} for fabric 1.19.4'
            changelog-file: 'fabric.1.19.4.Changelog.md'
            loaders: 'fabric'
