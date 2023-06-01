@@ -24,7 +24,7 @@ jobs:
  #1.18.2 quilt
        - name: Publish 1.18.2 quilt
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -37,7 +37,7 @@ jobs:
 #1.19.2 quilt
        - name: Publish 1.19.2 quilt
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -50,7 +50,7 @@ jobs:
 #1.19.3 quilt
        - name: Publish 1.19.3 quilt
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -63,7 +63,7 @@ jobs:
 #1.19.4 quilt
        - name: Publish 1.19.4  quilt
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -80,7 +80,7 @@ jobs:
 #1.16.5 fabric
        - name: Publish 1.16.5 fabric
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -93,7 +93,7 @@ jobs:
 #1.17.1 fabric
        - name: Publish 1.17.1 fabric
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -106,7 +106,7 @@ jobs:
 #1.18.2 fabric
        - name: Publish 1.18.2 fabric
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -119,7 +119,7 @@ jobs:
 #1.19.2 fabric
        - name: Publish 1.19.2 fabric
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -132,7 +132,7 @@ jobs:
 #1.19.3 fabric
        - name: Publish 1.19.3 fabric
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
@@ -145,7 +145,7 @@ jobs:
 #1.19.4 fabric
        - name: Publish 1.19.4 fabric
          if: always()
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
