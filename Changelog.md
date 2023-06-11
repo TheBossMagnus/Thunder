@@ -1,3 +1,25 @@
+[See what's new in the 1.0.0 update](https://thebossmagnus.github.io/posts/thunder-1.0.0/)
+## Quilt Optimized - 0.7.8 -> 1.0.0
+
+### quilt - 0.19.0-beta.18 -> 0.19.0
+
+### Removed
+
+  * [Exordium](https://modrinth.com/mod/exordium) (by [tr7zw](https://modrinth.com/user/tr7zw))
+  * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) (by [FX-PR0CESS](https://modrinth.com/user/fxmorin))
+  * [More Culling Extra](https://modrinth.com/mod/morecullingextra) (by [FX-PR0CESS](https://modrinth.com/user/fxmorin))
+  * [Skip Transitions](https://modrinth.com/mod/skip-transitions) (by [trufflezmc](https://modrinth.com/user/trufflezmc))
+
+### Changed
+
+  * [c2me-fabric-mc1.19.4-0.2.0+alpha.10.58.jar](https://modrinth.com/mod/c2me-fabric/version/Pxfe5aWT) -> [c2me-fabric-mc1.19.4-0.2.0+alpha.10.60.jar](https://modrinth.com/mod/c2me-fabric/version/J6kO4r4K)
+  * [ImmediatelyFast-1.1.12+1.19.4.jar](https://modrinth.com/mod/immediatelyfast/version/8IFFeKYy) -> [ImmediatelyFast-1.1.13+1.19.4.jar](https://modrinth.com/mod/immediatelyfast/version/fZkbywLp)
+  * [modmenu-6.2.2.jar](https://modrinth.com/mod/modmenu/version/iZRiOnnj) -> [modmenu-6.2.3.jar](https://modrinth.com/mod/modmenu/version/CtMNOUcV)
+
+> 11/06/2023
+
+---
+
 ## Quilt Optimized - 0.7.6 -> 0.7.8
 
 ### quilt - 0.19.0-beta.13 -> 0.19.0-beta.18

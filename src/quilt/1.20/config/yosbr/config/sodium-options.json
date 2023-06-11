@@ -1,4 +1,9 @@
 {
+  "quality": {
+    "weather_quality": "FAST",
+    "leaves_quality": "FAST",
+    "enable_vignette": false
+  },
   "advanced": {
     "cpu_render_ahead_limit": 5
   },
