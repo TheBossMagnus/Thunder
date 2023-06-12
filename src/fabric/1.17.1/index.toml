@@ -1,0 +1,140 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "da5f3a0e3a2bdbf29c97bd2f78a0324ed39999f238d07d0e0b62cde82aa869b5"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "0a3d23888302d8049163a8df6591ecad065589baf15f94644d2a614bd96eeec6"
+
+[[files]]
+file = "config/yosbr/config/fastload.properties"
+hash = "7d947b3d4f8a1d6552fc4e1328c0496cc15900762f2ec5028a9a8427731dfa35"
+
+[[files]]
+file = "config/yosbr/config/fastquit-config.txt"
+hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "8b8445e529c08e91124b702dd286d279adf9535aadb38211c53f0706c29acb12"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "766696046f3fbb1708b4fcd56c31b200b7833a5907349c0a721a3b3d43c6654e"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "358dbdbae90fad26d59d26a3e8a9de9701849b9c44f01e62482b8ea7057abcfc"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "b6d9d8c2895107f0a013c1e200457dfa029b0573dd57a34cdc76e8575a731acc"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "1b7a2ea2d33a47f021c7680d4ead9082c80323b111eb2651ae3631b582c1b84c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "548cac19e11312dde406b85dc56da588e7a4a2799be9fbe53ccddd2e59e83332"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "d0b33298602abec2d9490ed44acafd46f5fa85b14947f45d6d4f9cbc39dbd145"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "ee71561a835170b27ecbc086cf33fc9fccc8a3fbfeba1031f4c09d355e1c96df"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "3f68436db5d096958f233e0c321d6d746521dfc2edc81294da02eb0d4a9af9f5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "18ed7d66b7e8e172f483875948fb1cb0727d8926825fe3d36a9b1bf75ce56ad1"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "26544fe00fd858a1b8260c6a7ca8144cabe5116136e0912b203e99382454f11c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c60a5d573f70afadc214395c106ad52456e507b8a873c16e6d0f5083fb0e8529"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "1dc6cbd9cfa0faecf57ed34cdd080eea1561a482714de396abb4c563eb57360f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "3f216956fa906cfdfb32976d3a0b365d11c9c08294e50b0e413dfe6b96468bac"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "36f5d2c0ab96da2168fe913b79e368b9c0b4e2fcb212260d2f5f25cc6a94a1cc"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "3b27a65dde7a74841332ce384603f9321eef3d6474402f4a43be32a48240a6c6"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.pw.toml"
+hash = "a416e9f6c7b161db34a8aaa354944769751f4f355ba454f71bbfdfb738398992"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "66882d22485b9a044a06ae5f7829673eecf92cbf621da127c1df1590cca8f98b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4200af6c2c72025d95c6dee9caa2caf2554129b8839375962cef934181f42693"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "fc7644c7d3bb703c91bef4e013a5cc2a2fbe024b8ec6e5fe7c0f3f12048cf81e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2cb2b2044de9165cfb429946b23ca35e98df33778a6a32e71fd6e91dd73dac12"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true

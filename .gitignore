@@ -1,6 +1,7 @@
 #exported modpackpack ready to release
 bin/
+*.mrpack
+*.zip
 
 #SOON™
-src/fabric
-src/config
+src/*/1.20.1

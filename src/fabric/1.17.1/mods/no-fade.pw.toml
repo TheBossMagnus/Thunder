@@ -1,0 +1,13 @@
+name = "No Fade"
+filename = "nofade-1.17-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b4ccf9ebf647d94bba031e97b4338f495b580a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3355800
+project-id = 452768
