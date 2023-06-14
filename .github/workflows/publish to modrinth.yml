@@ -73,6 +73,19 @@ jobs:
            loaders: 'quilt'
            game-versions: '1.19.4'
 
+#1.20.1 quilt
+       - name: Publish 1.20.1 quilt
+         if: always()
+         uses: Kir-Antipov/mc-publish@v3.3
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           files: '*quilt.1.20.1.mrpack'
+           name: 'Thunder ${{ github.event.release.tag_name }} for quilt 1.20.1'
+           changelog-file: 'quilt.1.20.1.Changelog.md'
+           loaders: 'quilt'
+           game-versions: '1.20.1'
+
 #=========================================
 #                Fabric
 #=========================================
@@ -154,3 +167,16 @@ jobs:
            changelog-file: 'fabric.1.19.4.Changelog.md'
            loaders: 'fabric'
            game-versions: '1.19.4'
+
+#1.20.1 fabric
+       - name: Publish 1.20.1 fabric
+         if: always()
+         uses: Kir-Antipov/mc-publish@v3.3
+         with:
+           modrinth-id: ehPxCT2J
+           modrinth-token: ${{ secrets.MODRINTH }}
+           files: '*fabric.1.20.1.mrpack'
+           name: 'Thunder ${{ github.event.release.tag_name }} for fabric 1.20.1'
+           changelog-file: 'fabric.1.20.1.Changelog.md'
+           loaders: 'fabric'
+           game-versions: '1.20.1'
