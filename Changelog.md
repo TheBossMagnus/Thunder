@@ -1,3 +1,15 @@
+## Thunder - 1.0.0 -> 1.1.0
+
+### Changed
+
+  * [c2me-fabric-mc1.19.4-0.2.0+alpha.10.60.jar](https://modrinth.com/mod/c2me-fabric/version/J6kO4r4K) -> [c2me-fabric-mc1.19.4-0.2.0+alpha.10.61.jar](https://modrinth.com/mod/c2me-fabric/version/N7ZGQT2F)
+  * [ImmediatelyFast-1.1.13+1.19.4.jar](https://modrinth.com/mod/immediatelyfast/version/fZkbywLp) -> [ImmediatelyFast-1.1.15+1.19.4.jar](https://modrinth.com/mod/immediatelyfast/version/eiqdESrg)
+  * [yosbr-0.1.1.jar](https://modrinth.com/mod/yosbr/version/dStXfyg3) -> [yosbr-0.1.2.jar](https://modrinth.com/mod/yosbr/version/KMOzdYko)
+
+> 14/06/2023
+
+---
+
 [See what's new in the 1.0.0 update](https://thebossmagnus.github.io/posts/thunder-1.0.0/)
 ## Quilt Optimized - 0.7.8 -> 1.0.0
 
