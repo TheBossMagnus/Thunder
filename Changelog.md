@@ -1,3 +1,13 @@
+## Thunder - 1.1.2 -> 1.1.3
+
+### Changed
+
+  * [fabric-api-0.83.0+1.19.4.jar](https://modrinth.com/mod/fabric-api/version/5U5Y73uW) -> [fabric-api-0.84.0+1.19.4.jar](https://modrinth.com/mod/fabric-api/version/MYvpypD6)
+
+> 22/06/2023
+
+---
+
 ## Thunder - 1.1.1 -> 1.1.2
 
 > 20/06/2023
