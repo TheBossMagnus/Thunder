@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "f38758b6166e03ff940dfbcbd77a1e5387b298c92cd9782ac204497f64e41466"
+hash = "9cd41fb05a3b960afacce448935843ffa0bc15feeca6ed97228540ed8cf8b23c"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "2d654226b3794946ec66e8a324d4efa4a0acd3f6ba4c5e09a2d6c83c67f4dc96"
+hash = "6fd830d104487cdbaba8136bad217e4ccd3091549f88e0c01ba0f6af56420708"
 metafile = true
 
 [[files]]

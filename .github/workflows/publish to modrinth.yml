@@ -25,7 +25,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*fabric.1.16.5.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for fabric 1.16.5'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.16.5'
            changelog-file: 'fabric.1.16.5.Changelog.md'
            loaders: 'fabric'
            game-versions: '1.16.5'
@@ -38,7 +38,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*fabric.1.17.1.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for fabric 1.17.1'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.17.1'
            changelog-file: 'fabric.1.17.1.Changelog.md'
            loaders: 'fabric'
            game-versions: '1.17.1'
@@ -64,7 +64,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*fabric.1.18.2.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for fabric 1.18.2'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.18.2'
            changelog-file: 'fabric.1.18.2.Changelog.md'
            loaders: 'fabric'
            game-versions: '1.18.2'
@@ -90,7 +90,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*fabric.1.19.2.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for fabric 1.19.2'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.19.2'
            changelog-file: 'fabric.1.19.2.Changelog.md'
            loaders: 'fabric'
            game-versions: '1.19.2'
@@ -103,7 +103,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*quilt.1.19.3.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for quilt 1.19.3'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Quilt 1.19.3'
            changelog-file: 'quilt.1.19.3.Changelog.md'
            loaders: 'quilt'
            game-versions: '1.19.3'
@@ -116,7 +116,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*fabric.1.19.3.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for fabric 1.19.3'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.19.3'
            changelog-file: 'fabric.1.19.3.Changelog.md'
            loaders: 'fabric'
            game-versions: '1.19.3'
@@ -129,7 +129,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*quilt.1.19.4.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for quilt 1.19.4'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Quilt 1.19.4'
            changelog-file: 'quilt.1.19.4.Changelog.md'
            loaders: 'quilt'
            game-versions: '1.19.4'
@@ -142,7 +142,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*fabric.1.19.4.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for fabric 1.19.4'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.19.4'
            changelog-file: 'fabric.1.19.4.Changelog.md'
            loaders: 'fabric'
            game-versions: '1.19.4'
@@ -155,7 +155,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*quilt.1.20.1.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for quilt 1.20.1'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Quilt 1.20.1'
            changelog-file: 'quilt.1.20.1.Changelog.md'
            loaders: 'quilt'
            game-versions: '1.20.1'
@@ -168,7 +168,7 @@ jobs:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
            files: '*fabric.1.20.1.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for fabric 1.20.1'
+           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.20.1'
            changelog-file: 'fabric.1.20.1.Changelog.md'
            loaders: 'fabric'
            game-versions: '1.20.1'

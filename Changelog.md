@@ -1,3 +1,18 @@
+## Thunder - 1.1.3 -> 1.1.4
+
+### Added
+
+  * [Enhanced Block Entities](https://modrinth.com/mod/ebe) (by [FoundationGames](https://modrinth.com/user/FoundationGames))
+  * [Indium](https://modrinth.com/mod/indium) (by [comp500](https://modrinth.com/user/comp500))
+
+### Changed
+
+  * [fastquit-3.0.0-beta.1+1.20+.jar](https://modrinth.com/mod/fastquit/version/E1amq7WP) -> [fastquit-3.0.0-beta.2+1.20+.jar](https://modrinth.com/mod/fastquit/version/A9KTdfFF)
+
+> 26/06/2023
+
+---
+
 ## Thunder - 1.1.2 -> 1.1.3
 
 ### Changed
