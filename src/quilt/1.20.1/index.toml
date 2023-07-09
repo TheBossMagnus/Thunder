@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "da5f3a0e3a2bdbf29c97bd2f78a0324ed39999f238d07d0e0b62cde82aa869b5"
+hash = "2f74d30cdca5c20a323bc1c129e357012c9314375fddd3433d050c7febd94468"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -14,11 +14,7 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "0a3d23888302d8049163a8df6591ecad065589baf15f94644d2a614bd96eeec6"
-
-[[files]]
-file = "config/yosbr/config/fastload.properties"
-hash = "7d947b3d4f8a1d6552fc4e1328c0496cc15900762f2ec5028a9a8427731dfa35"
+hash = "6a57f9a8aa7b043f7a969888054e2c1bc5f8d521e70682a7474312947d4b7ff9"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -26,23 +22,39 @@ hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "8b8445e529c08e91124b702dd286d279adf9535aadb38211c53f0706c29acb12"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "60c0760390bdff670ccd012bd890eb35e5537be1222e94f7aaa91c4cc8d0e931"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "f88c8b6279d79e33f1c3580a532707f4831d88171987f390082d6fb6e7ee6891"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "766696046f3fbb1708b4fcd56c31b200b7833a5907349c0a721a3b3d43c6654e"
+hash = "99d3ba57fdb60fc3f996f57459e948efda4fd629e4d04b185a52b1d8090a8fda"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "bb5f2c6a1cef96aa8671f1dd2b6f76a4df34717db2837fcf32fda8d27573c853"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "421afecc36a2bef3ae73685d00bb84207e5f9b608b0adb3485ded08b1ef772c9"
+hash = "358dbdbae90fad26d59d26a3e8a9de9701849b9c44f01e62482b8ea7057abcfc"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "bb5f2c6a1cef96aa8671f1dd2b6f76a4df34717db2837fcf32fda8d27573c853"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
-hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+hash = "a3865d5c3a0bb959243136176a91f85b3bf4cd8aa602c4a59ce498186731e18d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b6d9d8c2895107f0a013c1e200457dfa029b0573dd57a34cdc76e8575a731acc"
+hash = "97c1428c516f0de1353f0930e9d0d2374f0d26feeaea09cbbebac7dcf1fc347c"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -72,11 +84,6 @@ metafile = true
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -110,6 +117,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "53d52a3fe8912365ed4b31a3eba0dd1264c824b7fbcddf9f54d34b59ecfc8abc"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
@@ -137,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
 metafile = true
 
 [[files]]

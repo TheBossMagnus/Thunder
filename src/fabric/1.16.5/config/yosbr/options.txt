@@ -1,10 +1,4 @@
-enableVsync:true
-maxFps:260
-fullscreen:true
 renderDistance:12
 simulationDistance:5
 graphicsMode:0
 entityShadows:false
-renderClouds:"false"
-biomeBlendRadius:0
-mipmapLevels:0

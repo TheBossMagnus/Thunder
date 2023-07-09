@@ -1,3 +1,24 @@
+## Thunder - 1.1.5 -> 1.2.0
+
+### Added
+
+  * [ModernFix](https://modrinth.com/mod/modernfix) (by [embeddedt](https://modrinth.com/user/embeddedt))
+  * [ThreadTweak](https://modrinth.com/mod/threadtweak) (by [seth](https://modrinth.com/user/getchoo))
+
+### Removed
+
+  * [Fastload](https://modrinth.com/mod/fastload) (by [Fluffy Bumblebee](https://modrinth.com/user/StockiesLad))
+
+### Changed
+
+  * [cloth-config-11.0.99-fabric.jar](https://modrinth.com/mod/cloth-config/version/y0kQixP8) -> [cloth-config-11.1.106-fabric.jar](https://modrinth.com/mod/cloth-config/version/s7VTKfLA)
+  * [ImmediatelyFast-1.1.15+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/4IDo27OL) -> [ImmediatelyFast-1.1.16+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/aptjkgGB)
+  * [indium-1.0.18+mc1.20.jar](https://modrinth.com/mod/indium/version/WTH3T2cR) -> [indium-1.0.20+mc1.20.1.jar](https://modrinth.com/mod/indium/version/9dgIzesu)
+
+> 09/07/2023
+
+---
+
 ## Thunder - 1.1.4 -> 1.1.5
 
 ### Changed

@@ -1,10 +1,13 @@
 version = 3
+
 globalExecutorParallelism = "1"
 
 [clientSideConfig]
-
 	[clientSideConfig.modifyMaxVDConfig]
 		enabled = false
 
 [noTickViewDistance]
+	enabled = false
+
+[threadedWorldGen]
 	enabled = false
