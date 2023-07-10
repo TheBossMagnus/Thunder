@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a6cb2c7d9d326869e25e5942484259c4b2708fbedb0ce3b0b11de1e40657b9e1"
+hash = "df5e976dd854052834a5594dce202ca8a685f2b2b161443dc90d79d79d64d107"
 metafile = true
 
 [[files]]
