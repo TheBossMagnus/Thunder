@@ -1,3 +1,13 @@
+## Thunder - 1.2.0 -> 1.2.1
+
+### Changed
+
+  * [modernfix-fabric-5.2.1+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/OFdWh7vx) -> [modernfix-fabric-5.2.3+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/c0IRQDNy)
+
+> 10/07/2023
+
+---
+
 ## Thunder - 1.1.5 -> 1.2.0
 
 ### Added
