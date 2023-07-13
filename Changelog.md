@@ -1,3 +1,14 @@
+## Thunder - 1.2.1 -> 1.2.2
+
+### Changed
+
+  * [c2me-fabric-mc1.20.1-0.2.0+alpha.10.91.jar](https://modrinth.com/mod/c2me-fabric/version/t4juSkze) -> [c2me-fabric-mc1.20.1-0.2.0+alpha.10.93.jar](https://modrinth.com/mod/c2me-fabric/version/2MsVranr)
+  * [indium-1.0.20+mc1.20.1.jar](https://modrinth.com/mod/indium/version/9dgIzesu) -> [indium-1.0.21+mc1.20.1.jar](https://modrinth.com/mod/indium/version/yTh7W27h)
+
+> 13/07/2023
+
+---
+
 ## Thunder - 1.2.0 -> 1.2.1
 
 ### Changed
