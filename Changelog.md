@@ -1,3 +1,14 @@
+## Thunder - 1.2.2 -> 1.2.3
+
+### Changed
+
+  * [c2me-fabric-mc1.20.1-0.2.0+alpha.10.93.jar](https://modrinth.com/mod/c2me-fabric/version/2MsVranr) -> [c2me-fabric-mc1.20.1-0.2.0+alpha.10.94.jar](https://modrinth.com/mod/c2me-fabric/version/fIRoJeNG)
+  * [modernfix-fabric-5.2.3+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/c0IRQDNy) -> [modernfix-fabric-5.2.5+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/BmneBBYa)
+
+> 14/07/2023
+
+---
+
 ## Thunder - 1.2.1 -> 1.2.2
 
 ### Changed

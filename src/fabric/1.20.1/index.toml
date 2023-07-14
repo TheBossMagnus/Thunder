@@ -58,7 +58,7 @@ hash = "97c1428c516f0de1353f0930e9d0d2374f0d26feeaea09cbbebac7dcf1fc347c"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "943bcba1557ea49efad4f40689a20a8824b588a7ebaa95a25c17c3e64176a67a"
+hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "39a7db76913916631313499eadca48f07d18d1d1f6e534ce5c87ffdc779346ec"
+hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
 metafile = true
 
 [[files]]
