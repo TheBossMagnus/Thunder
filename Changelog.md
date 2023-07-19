@@ -1,3 +1,27 @@
+## Thunder - 1.2.4 -> 1.2.5
+
+### Changed
+
+  * [modmenu-7.1.0.jar](https://modrinth.com/mod/modmenu/version/zv46i3PW) -> [modmenu-7.2.1.jar](https://modrinth.com/mod/modmenu/version/eTCL1uh8)
+  * [modernfix-fabric-5.2.5+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/BmneBBYa) -> [modernfix-fabric-5.3.0+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/PV5hrdhD)
+  * [vmp-fabric-mc1.20.1-0.2.0+beta.7.97-all.jar](https://modrinth.com/mod/vmp-fabric/version/xcvUv3qy) -> [vmp-fabric-mc1.20.1-0.2.0+beta.7.98-all.jar](https://modrinth.com/mod/vmp-fabric/version/INwYKQHA)
+
+> 19/07/2023
+
+---
+
+## Thunder - 1.2.3 -> 1.2.4
+
+### Changed
+
+  * [fabric-api-0.85.0+1.20.1.jar](https://modrinth.com/mod/fabric-api/version/hFdJG9fY) -> [fabric-api-0.86.0+1.20.1.jar](https://modrinth.com/mod/fabric-api/version/P7fEfdSc)
+  * [sodium-extra-0.4.20+mc1.20-build.103.jar](https://modrinth.com/mod/sodium-extra/version/kTxAMqAj) -> [sodium-extra-0.4.23+mc1.20.1-build.106.jar](https://modrinth.com/mod/sodium-extra/version/Tf56kC8G)
+  * [vmp-fabric-mc1.20.1-0.2.0+beta.7.96-all.jar](https://modrinth.com/mod/vmp-fabric/version/NYa4FfQN) -> [vmp-fabric-mc1.20.1-0.2.0+beta.7.97-all.jar](https://modrinth.com/mod/vmp-fabric/version/xcvUv3qy)
+
+> 18/07/2023
+
+---
+
 ## Thunder - 1.2.2 -> 1.2.3
 
 ### Changed

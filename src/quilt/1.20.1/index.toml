@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "2f74d30cdca5c20a323bc1c129e357012c9314375fddd3433d050c7febd94468"
+hash = "f83ab2ff002210d91575ad6da213c863684d09b70972cb3758be7cb74bc42d31"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -30,7 +26,7 @@ hash = "60c0760390bdff670ccd012bd890eb35e5537be1222e94f7aaa91c4cc8d0e931"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "f88c8b6279d79e33f1c3580a532707f4831d88171987f390082d6fb6e7ee6891"
+hash = "0249aa3bac0b585556e202cc2c7c872567d36ba4f29d0de0dcf4ff6079dc54c3"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -118,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
+hash = "17970a577e3a2f0ed9b37881a680518dc2e59b758090bf635e4086821bdd740c"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
@@ -143,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
 metafile = true
 
 [[files]]
@@ -158,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
 
 [[files]]
