@@ -1,3 +1,16 @@
+## Thunder - 1.2.7 -> 1.2.8
+
+### Changed
+
+  * [c2me-fabric-mc1.20.1-0.2.0+alpha.10.94.jar](https://modrinth.com/mod/c2me-fabric/version/fIRoJeNG) -> [c2me-fabric-mc1.20.1-0.2.0+alpha.10.96.jar](https://modrinth.com/mod/c2me-fabric/version/iaC5daGO)
+  * [modernfix-fabric-5.3.2+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/9HGXIyEe) -> [modernfix-fabric-5.4.0+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/synysXtc)
+  * [reeses_sodium_options-1.6.2+mc1.20.1-build.85.jar](https://modrinth.com/mod/reeses-sodium-options/version/jU0aA0l6) -> [reeses_sodium_options-1.6.3+mc1.20.1-build.92.jar](https://modrinth.com/mod/reeses-sodium-options/version/PCctWHcc)
+  * [vmp-fabric-mc1.20.1-0.2.0+beta.7.99-all.jar](https://modrinth.com/mod/vmp-fabric/version/1D8E3qF2) -> [vmp-fabric-mc1.20.1-0.2.0+beta.7.100-all.jar](https://modrinth.com/mod/vmp-fabric/version/CFUsBP6G)
+
+> 26/07/2023
+
+---
+
 ## Thunder - 1.2.6 -> 1.2.7
 
 ### Changed

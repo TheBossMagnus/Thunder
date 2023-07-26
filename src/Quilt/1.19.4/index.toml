@@ -54,7 +54,7 @@ hash = "97c1428c516f0de1353f0930e9d0d2374f0d26feeaea09cbbebac7dcf1fc347c"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d9eedf6b968e18479f2d9819859e5d9e8eea0876c066ae4238a4672482a34efb"
+hash = "85c7c2011fe2da8c1fe86c0e0a770d003c58ec0bb1022231040b8d0cc59f6177"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "378c86aa8b2c3daecad5944b28548877948f913641e42976c4dc2b7c7280eee0"
+hash = "a0d570fa301636b43d80eb56aa7792fa42b160eb1701632982b28088e6ba7cf2"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "179812f78725212ef7b049bcd3d96405a1becc6be0573ea98ba49cec4acd9048"
+hash = "405de59ee1b659cce44f57af5e836307d2f6b29d6597baefbf3d95e77c582d9e"
 metafile = true
 
 [[files]]
