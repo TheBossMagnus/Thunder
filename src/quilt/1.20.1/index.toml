@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
+hash = "e306cd7e52af8a423bb5b189b20d82263b69bf1e6efb47e9bd054b7fd76f0517"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+hash = "d87908dce18b1cb9fd7e61509a1c783770783bb94bf172f5c5bbd5033d5b4c68"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
+hash = "f94769cf1233dd2c919693677be0eb53976d471674b2901a62d6251ceb8c5158"
 metafile = true
 
 [[files]]

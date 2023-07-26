@@ -1,3 +1,16 @@
+## Thunder - 1.2.6 -> 1.2.7
+
+### Changed
+
+  * [fabric-api-0.86.0+1.20.1.jar](https://modrinth.com/mod/fabric-api/version/P7fEfdSc) -> [fabric-api-0.86.1+1.20.1.jar](https://modrinth.com/mod/fabric-api/version/XheZ9iGK)
+  * [ImmediatelyFast-1.1.16+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/aptjkgGB) -> [ImmediatelyFast-1.1.17+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/24BUZiRe)
+  * [reeses_sodium_options-1.5.1+mc1.20-build.74.jar](https://modrinth.com/mod/reeses-sodium-options/version/SgSIhHQO) -> [reeses_sodium_options-1.6.2+mc1.20.1-build.85.jar](https://modrinth.com/mod/reeses-sodium-options/version/jU0aA0l6)
+  * [vmp-fabric-mc1.20.1-0.2.0+beta.7.98-all.jar](https://modrinth.com/mod/vmp-fabric/version/INwYKQHA) -> [vmp-fabric-mc1.20.1-0.2.0+beta.7.99-all.jar](https://modrinth.com/mod/vmp-fabric/version/1D8E3qF2)
+
+> 26/07/2023
+
+---
+
 ## Thunder - 1.2.5 -> 1.2.6
 
 ### Changed

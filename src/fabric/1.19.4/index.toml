@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d553629aabc1e4d6730d5e9206805143622c38a06ac206ecb7caf816ad7689b3"
+hash = "e31cff42e6ee7a581f2fdf3a8dfacca2d330ea5b87ec68b7a3dc11cca6e7ea3b"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6585633505c5368a6d1b80f153a983eac5570eca3a9d6522e5bf3cc4ed9a6e21"
+hash = "29459e59f2cf2ef2e26f0923d53efaf4f7714650a25bbc3f65a0d31dc53e8e12"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "bc979c1866592f585ec523582b03dd13219d824cba702a6889bff6a7c7bb7e45"
+hash = "179812f78725212ef7b049bcd3d96405a1becc6be0573ea98ba49cec4acd9048"
 metafile = true
 
 [[files]]
