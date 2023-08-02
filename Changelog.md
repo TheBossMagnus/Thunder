@@ -1,3 +1,14 @@
+## Thunder - 1.2.9 -> 1.2.10
+
+### Changed
+
+  * [ImmediatelyFast-1.1.20+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/m8P58epq) -> [ImmediatelyFast-1.1.24+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/1BSUFszc)
+  * [sodium-extra-0.4.23+mc1.20.1-build.106.jar](https://modrinth.com/mod/sodium-extra/version/Tf56kC8G) -> [sodium-extra-0.4.25+mc1.20.1-build.108.jar](https://modrinth.com/mod/sodium-extra/version/jy7D3eLo)
+
+> 02/08/2023
+
+---
+
 ## Thunder - 1.2.8 -> 1.2.9
 
 ### Changed
