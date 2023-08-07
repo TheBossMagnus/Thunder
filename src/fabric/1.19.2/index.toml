@@ -38,7 +38,7 @@ hash = "bb5f2c6a1cef96aa8671f1dd2b6f76a4df34717db2837fcf32fda8d27573c853"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "358dbdbae90fad26d59d26a3e8a9de9701849b9c44f01e62482b8ea7057abcfc"
+hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
+hash = "c17647181c311b5e48c4a8cfc9112afc46b3108b0c2255808dedd47bf2b2f62c"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fae507c732292cd2a041116bd02531b09227f99330ee7359ef413905d8551406"
+hash = "093bdddfd69509b986e8aa8fd2769f15b153a55d00bd790124d09723fd2ad9d2"
 metafile = true
 
 [[files]]
