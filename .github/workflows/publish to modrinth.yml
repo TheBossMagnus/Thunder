@@ -7,6 +7,10 @@ on:
 jobs:
   publish-to-modrinth:
     runs-on: ubuntu-22.04
+    strategy:
+      matrix:
+        mc-version: ['1.19.4', '1.20.1']
+        loader: ['fabric', 'quilt']
     steps:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.8
@@ -17,158 +21,14 @@ jobs:
            zipBall: false
            out-file-path: .
 
-#1.16.5 fabric
-       - name: Publish 1.16.5 fabric
+       - name: Publish
          if: always()
          uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*fabric.1.16.5.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.16.5'
-           changelog-file: 'fabric.1.16.5.Changelog.md'
-           loaders: 'fabric'
-           game-versions: '1.16.5'
-
-#1.17.1 fabric
-       - name: Publish 1.17.1 fabric
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*fabric.1.17.1.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.17.1'
-           changelog-file: 'fabric.1.17.1.Changelog.md'
-           loaders: 'fabric'
-           game-versions: '1.17.1'
-
- #1.18.2 quilt
-       - name: Publish 1.18.2 quilt
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*quilt.1.18.2.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Quilt 1.18.2'
-           changelog-file: 'quilt.1.18.2.Changelog.md'
-           loaders: 'quilt'
-           game-versions: '1.18.2'
-
-#1.18.2 fabric
-       - name: Publish 1.18.2 fabric
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*fabric.1.18.2.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.18.2'
-           changelog-file: 'fabric.1.18.2.Changelog.md'
-           loaders: 'fabric'
-           game-versions: '1.18.2'
-
-#1.19.2 quilt
-       - name: Publish 1.19.2 quilt
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*quilt.1.19.2.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Quilt 1.19.2'
-           changelog-file: 'quilt.1.19.2.Changelog.md'
-           loaders: 'quilt'
-           game-versions: '1.19.2'
-
-#1.19.2 fabric
-       - name: Publish 1.19.2 fabric
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*fabric.1.19.2.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.19.2'
-           changelog-file: 'fabric.1.19.2.Changelog.md'
-           loaders: 'fabric'
-           game-versions: '1.19.2'
-
-#1.19.3 quilt
-       - name: Publish 1.19.3 quilt
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*quilt.1.19.3.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Quilt 1.19.3'
-           changelog-file: 'quilt.1.19.3.Changelog.md'
-           loaders: 'quilt'
-           game-versions: '1.19.3'
-
-#1.19.3 fabric
-       - name: Publish 1.19.3 fabric
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*fabric.1.19.3.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.19.3'
-           changelog-file: 'fabric.1.19.3.Changelog.md'
-           loaders: 'fabric'
-           game-versions: '1.19.3'
-
-#1.19.4 quilt
-       - name: Publish 1.19.4  quilt
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*quilt.1.19.4.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Quilt 1.19.4'
-           changelog-file: 'quilt.1.19.4.Changelog.md'
-           loaders: 'quilt'
-           game-versions: '1.19.4'
-
-#1.19.4 fabric
-       - name: Publish 1.19.4 fabric
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*fabric.1.19.4.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.19.4'
-           changelog-file: 'fabric.1.19.4.Changelog.md'
-           loaders: 'fabric'
-           game-versions: '1.19.4'
-
-#1.20.1 quilt
-       - name: Publish 1.20.1 quilt
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*quilt.1.20.1.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Quilt 1.20.1'
-           changelog-file: 'quilt.1.20.1.Changelog.md'
-           loaders: 'quilt'
-           game-versions: '1.20.1'
-
-#1.20.1 fabric
-       - name: Publish 1.20.1 fabric
-         if: always()
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: '*fabric.1.20.1.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for Fabric 1.20.1'
-           changelog-file: 'fabric.1.20.1.Changelog.md'
-           loaders: 'fabric'
-           game-versions: '1.20.1'
+           files: '*${{ matrix.loader }}.${{ matrix.mc-version }}.mrpack'
+           name: 'Thunder ${{ github.event.release.tag_name }} for ${{ matrix.loader }} ${{ matrix.mc-version }}'
+           changelog-file: '${{ matrix.loader }}.${{ matrix.mc-version }}.Changelog.md'
+           loaders: '${{ matrix.loader }}'
+           game-versions: '${{ matrix.mc-version }}'
