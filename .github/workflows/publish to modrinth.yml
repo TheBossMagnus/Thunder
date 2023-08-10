@@ -11,18 +11,30 @@ jobs:
       matrix:
         mc-version: ['1.19.4', '1.20.1']
         loader: ['fabric', 'quilt']
+        exclude:
+          - loader: 'quilt'
+            mc-version: '1.16.5'
+          - loader: 'quilt'
+            mc-version: '1.17.1'
+
     steps:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.8
          with:
-           filename: '*'
+           fileName: '*'
            latest: true
            tarBall: false
            zipBall: false
            out-file-path: .
 
+       - name: Check file existance
+         id: files_exist
+         uses: andstor/file-existence-action@v2
+         with:
+          files: "*${{ matrix.loader }}.${{ matrix.mc-version }}.mrpack, ${{ matrix.loader }}.${{ matrix.mc-version }}.Changelog.md"
+
        - name: Publish
-         if: always()
+         if: steps.files_exist.outputs.files_exists == 'true'
          uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: ehPxCT2J
