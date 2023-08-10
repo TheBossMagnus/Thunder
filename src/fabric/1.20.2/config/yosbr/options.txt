@@ -1,0 +1,4 @@
+renderDistance:12
+simulationDistance:5
+graphicsMode:0
+entityShadows:false

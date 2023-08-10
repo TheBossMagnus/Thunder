@@ -1,0 +1,13 @@
+name = "ModernFix"
+filename = "modernfix-fabric-5.4.3-beta.22+mc23w32a.8614.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/WmXK2piP/modernfix-fabric-5.4.3-beta.22%2Bmc23w32a.8614.jar"
+hash-format = "sha1"
+hash = "0b3de2e4735d4c51b775b0f91ab662f601392766"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "WmXK2piP"
