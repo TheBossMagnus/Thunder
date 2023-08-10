@@ -10,7 +10,7 @@ jobs:
     strategy:
       matrix: # Run the job for each combination of loader and mc-version (https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs)
         mc-version: ['1.16.5', '1.17.1','1.18.2','1.19.2','1.19.3','1.19.4','1.20.1']
-        loader: ['fabric', 'quilt']
+        loader: ['quilt', 'fabric']
         exclude: # Exclude 1.16.5 and 1.17.1 from Quilt as it doesn't support them
           - loader: 'quilt'
             mc-version: '1.16.5'
