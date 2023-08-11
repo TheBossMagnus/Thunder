@@ -1,3 +1,14 @@
+## Thunder - 1.2.11 -> 1.2.12
+
+### Changed
+
+  * [ImmediatelyFast-1.1.26+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/fZa7YlyA) -> [ImmediatelyFast-1.1.27+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/hgQwRPhD)
+  * [modernfix-fabric-5.6.0+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/IDCtf2Pk) -> [modernfix-fabric-5.6.1+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/PJlRMp4v)
+
+> 11/08/2023
+
+---
+
 ## Thunder - 1.2.10 -> 1.2.11
 
 ### fabric - 0.14.21 -> 0.14.22

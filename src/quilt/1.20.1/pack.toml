@@ -1,12 +1,12 @@
 name = "Thunder"
 author = "TheBossMagnus"
-version = "1.2.11"
+version = "1.2.12"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b2b4324434d08f403b7afbc616ed36b53e19abc63d8884d083efa757e1096c32"
+hash = "51b8456eac97009989a06b1569efb4a36ff7790818bcfc3e4e5f024851beec3c"
 
 [versions]
 minecraft = "1.20.1"
