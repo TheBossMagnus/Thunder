@@ -1,0 +1,6 @@
+{
+  "tracingDistance": 128,
+  "sleepDelay": 150,
+  "hitboxLimit": 80,
+  "disableF3": true
+}
