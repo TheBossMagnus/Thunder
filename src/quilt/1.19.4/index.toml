@@ -49,18 +49,8 @@ file = "config/yosbr/options.txt"
 hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "85c7c2011fe2da8c1fe86c0e0a770d003c58ec0bb1022231040b8d0cc59f6177"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "45e56b31dbb99cdb63c43338979328093b7369813448fd6875d13c9f81aa2799"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "0f8269bf3c425efd7c76d48dda7f48523ed5171fe2e341c6cb926d06c67cc9ff"
 metafile = true
 
 [[files]]
@@ -69,43 +59,8 @@ hash = "d26a91a3a457dc46a9d492a1898ccb5f412b80dc093321150051b48da97794fc"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "bc90491e9134b8193261355af4cba2f02c7e22aec714bae5ed105de526e2781a"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "013163e36e5fb78b68cd3f65764625ddc1e28e3f0eb2cf01e21e3ac64fba6b1f"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "83198006b078d817b492aeac7d6e54d15bd4e675673db468c47431b9c8fea7f6"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "1edf37e2630e04a11e1ff61e86e7e2451cae1adba35441379b9746ce9d1f99bd"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "18f9db9c211d31923f8d81fbc4507fe1a0e36f38474c5b249179c07fbbebb381"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "6f13ef3bd34d396dd26bb4a24758dc16d5323667c618b1f12e3fcbbf5c4c179c"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "757f06054cc6cbba32424f48ce6dcdab57aa44d53c161e16d4d22bdd8c9930ce"
 metafile = true
 
 [[files]]
@@ -114,48 +69,13 @@ hash = "5ea3d3fdaa7ff8f7f3a9ccedcc863da8f61b3f073a0411e06b112052de8031b0"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "d18d104455a86bebd3f29deaf3458258674ea053d96e7b8fb5711cfea227fc20"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "2b72b99027f7c475795421762bf8309966c1d11fb846f57900909f591d73d755"
-metafile = true
-
-[[files]]
 file = "mods/no-fade.pw.toml"
 hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "405de59ee1b659cce44f57af5e836307d2f6b29d6597baefbf3d95e77c582d9e"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "3678d4a5adfb11f6a7290f89eaae1473e87d7a80970d56468b194253a13a328d"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "60dbdc5acba0392fa923fbbae580d216f2a3dac4b7ab8056fe28e7e4de8331f2"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "a358d855d607dde44433097b6a054855143cb2f023f70c23020427b3548b9972"
 metafile = true
 
 [[files]]

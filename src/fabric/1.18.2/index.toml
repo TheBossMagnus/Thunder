@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "f83ab2ff002210d91575ad6da213c863684d09b70972cb3758be7cb74bc42d31"
+hash = "822c617f5d3917cd19497b75eace3ec9e761c4922334951a4f108cc2cc50df90"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -10,7 +10,7 @@ hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "6a57f9a8aa7b043f7a969888054e2c1bc5f8d521e70682a7474312947d4b7ff9"
+hash = "836df45cb07c7ed4177c07a096b182e481e2a17b1d0cc6a5f6d671606decddc2"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -21,12 +21,8 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "60c0760390bdff670ccd012bd890eb35e5537be1222e94f7aaa91c4cc8d0e931"
-
-[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "360069a6f6c993ea9293106102dafa0e6c3b8b2edd39d93c913fe18a8865a4be"
+hash = "57034b1ed46193f77c0f342342184af3055c9c0e8aab9d188bf72e4265bc3a8c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -34,7 +30,7 @@ hash = "99d3ba57fdb60fc3f996f57459e948efda4fd629e4d04b185a52b1d8090a8fda"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
-hash = "bb5f2c6a1cef96aa8671f1dd2b6f76a4df34717db2837fcf32fda8d27573c853"
+hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -42,15 +38,15 @@ hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
-hash = "bb5f2c6a1cef96aa8671f1dd2b6f76a4df34717db2837fcf32fda8d27573c853"
+hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
-hash = "a3865d5c3a0bb959243136176a91f85b3bf4cd8aa602c4a59ce498186731e18d"
+hash = "4f2c1199e7d6b39f2bfa5eb8189f9535daa47211e69d356a4f9fd1eb8f51e940"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "97c1428c516f0de1353f0930e9d0d2374f0d26feeaea09cbbebac7dcf1fc347c"
+hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
