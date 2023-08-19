@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "822c617f5d3917cd19497b75eace3ec9e761c4922334951a4f108cc2cc50df90"
+hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "836df45cb07c7ed4177c07a096b182e481e2a17b1d0cc6a5f6d671606decddc2"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -65,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5ea3d3fdaa7ff8f7f3a9ccedcc863da8f61b3f073a0411e06b112052de8031b0"
+hash = "6553b4d9a14a9ec428a27e283f2188151c0e6d09d18a158b24c330c5f90e6bfe"
 metafile = true
 
 [[files]]
