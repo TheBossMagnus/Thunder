@@ -27,8 +27,7 @@
 </div>
 
 ## 📈 Benchmarks
-
-![A comparison between Thunder and Vanilla Showing a 250% FPS improvement](https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/Thunder%201.png)
+![A comparison between Thunder and Vanilla Showing a 250% FPS improvement](https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/PerformanceVsVanilla.png)
 
 > Setup: Ryzen 9 7945HX, RTX 4080 Mobile, 16 GB RAM, Windows 11 22H2, Prism Launcher, Eclipse Adoptium JRE, all details to the minimum, f3 menu opened, 12 render and 6 simulation distances
 
