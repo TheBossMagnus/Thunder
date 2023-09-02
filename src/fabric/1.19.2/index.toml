@@ -46,7 +46,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8b3d616a8478618a741c9ac421551e10234258c71bf1b722a545e0e0d435c474"
+hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0f8269bf3c425efd7c76d48dda7f48523ed5171fe2e341c6cb926d06c67cc9ff"
+hash = "860ec831a1e82f85452970a1c2ae30e6bb49d7c8437ba0b0dd977f7f84bf63d1"
 metafile = true
 
 [[files]]

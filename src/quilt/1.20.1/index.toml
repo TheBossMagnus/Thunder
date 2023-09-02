@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "c96a6bf0373a962746015c83e30d12c0132ca6d321ff6f94e200a67c16fd2770"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "c96a6bf0373a962746015c83e30d12c0132ca6d321ff6f94e200a67c16fd2770"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -46,7 +50,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d4e882278d0a8d863a069df56f6e473e81e79c48f8cc6e700a56f297847178ca"
+hash = "c1f8f41882416f428df817680e011795b56e1894594fd663eba03e48b56fbdc6"
 metafile = true
 
 [[files]]
@@ -56,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+hash = "2ad872687375d4d3bd8593bd984e8cfa32d0e653be5c895b5df95c2fc8733513"
 metafile = true
 
 [[files]]

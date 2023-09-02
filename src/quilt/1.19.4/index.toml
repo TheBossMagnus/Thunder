@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "c96a6bf0373a962746015c83e30d12c0132ca6d321ff6f94e200a67c16fd2770"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "c96a6bf0373a962746015c83e30d12c0132ca6d321ff6f94e200a67c16fd2770"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
