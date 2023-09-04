@@ -26,21 +26,10 @@
   <br>
 </div>
 
-## 📈Benchmarks
+## 📈 Benchmarks
+![A comparison between Thunder and Vanilla Showing a 250% FPS improvement](https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/PerformanceVsVanilla.png)
 
-| Benchmark                                                                  | [Thunder](https://modrinth.com/modpack/Thunder) | [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) | [Simply Optimized](https://modrinth.com/modpack/sop) | Minecraft Vanilla |
-| ---------------------------------------------------------------------------|:---------------------------------------------------------------:|:-------------------------------------------------------------------------:|:----------------------------------------------------:|:-----------------:|
-| [FPS](https://ethercalc.net/rpa0i8ktk5)                                    | 234                                                             | 205                                                                       | 220                                                  | 123               |
-| [FPS under stress](https://ethercalc.net/b0jkjywxkb)                       | 155                                                             | 85                                                                        | 137                                                  | 40                |
-| Boot time                                                                   | 23s                                                             | 34s                                                                       | 30s                                                  | 19s               |
-| World generation time                                                       | 10s                                                             | 35s                                                                       | 9s                                                   | 39s               |
-| Networking optimization                                                     | ✅                                                               |                                                                           | ✅                                                    |                   |
-| Fast Quit                                                                   | ✅                                                               | ✅                                                                         |                                                      |                   |
-| Protection from chat reports                                                |                                                                 | ✅                                                                         | ✅                                                    |                   |
-| All GUIs needed to configure included mods                                  | ✅                                                               | ✅                                                                         |                                                      |                   |
-| Complete OptiFine replacement (OF's Resourcepack, zoom, Dynamic Lights, Better grass, ...) |                                                                 | ✅                                                                         |                                                      |                   |
-
-NOTE: High FPS comes at a cost: by default, Thunder reduces Minecraft's graphics settings more aggressively than other modpacks, resulting in a less visually appealing experience. However, you can adjust the video settings to improve the look of the game while maintaining a high framerate.
+> Setup: Ryzen 9 7945HX, RTX 4080 Mobile, 16 GB RAM, Windows 11 22H2, Prism Launcher, Eclipse Adoptium JRE, all details to the minimum, f3 menu opened, 12 render and 6 simulation distances
 
 ## 📥 Installation
 
@@ -55,7 +44,7 @@ All developers (and contributors) of the mods and mod loaders used in this modpa
 
 > 🔼Is there a version available for Minecraft 1.X?
 
-Thunder supports the most commonly used and recent versions of Minecraft, including snapshots when available. As of now, the supported versions are 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.3, and 1.19.4. Please note that Thunder with Quilt ModLoader is only available on Minecraft versions 1.18.2 and above. The modpack for older versions of Minecraft may not have the same features as the newer ones.
+Thunder supports the most commonly used and recent versions of Minecraft, including snapshots when available. As of now, the supported versions are 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.3, 1.19.4 and 1.20.1. Please note that Thunder with Quilt ModLoader is only available on Minecraft versions 1.18.2 and above. The modpack for older versions of Minecraft may not have the same features as the newer ones.
 
 > 📃Which mods are included?
 
@@ -67,7 +56,7 @@ If you encounter a bug or wish to suggest a mod, please open an issue on the [Gi
 
 > 🔢How does versioning work?
 
-Thunder follows the [Semantic Versioning 2.0.0](https://semver.org/) scheme, which uses the version number format of MAJOR.MINOR.PATCH. Each part of the version number has a specific meaning:
-- A MAJOR version increment indicates that significant changes have been made to the pack, such as the addition of support for a new major Minecraft update or the implementation of extensive modifications.
-- A MINOR version increment indicates that smaller changes have been made to the pack, such as the addition or removal of a mod, or the inclusion of support for a new minor Minecraft update.
+Thunder follows the [Semantic Versioning 2.0.0](https://semver.org/) scheme, which uses the version number format of MAJOR.MINOR.PATCH. Each part of the version number has a specific meaning: 
+- A MAJOR version increment indicates that significant changes have been made to the pack, such as the addition of support for a new major Minecraft update or the implementation of extensive modifications. 
+- A MINOR version increment indicates that smaller changes have been made to the pack, such as the addition or removal of a mod, or the inclusion of support for a new minor Minecraft update. 
 - A PATCH version increment indicates that minor changes have been made to the pack, such as updates to mods or changes to configuration files.
