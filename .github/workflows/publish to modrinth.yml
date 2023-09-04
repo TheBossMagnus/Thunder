@@ -9,13 +9,11 @@ jobs:
     runs-on: ubuntu-22.04
     strategy:
       matrix: # Run the job for each combination of loader and mc-version (https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs)
-        mc-version: ['1.16.5', '1.17.1','1.18.2','1.19.2','1.19.3','1.19.4','1.20.1']
-        loader: ['quilt', 'fabric']
-        exclude: # Exclude 1.16.5 and 1.17.1 from Quilt as it doesn't support them
-          - loader: 'quilt'
-            mc-version: '1.16.5'
-          - loader: 'quilt'
-            mc-version: '1.17.1'
+        mc-version: ["1.16.5","1.18.2","1.19.2","1.19.4","1.20.1","1.20.2"]
+        loader: ["quilt", "fabric"]
+        exclude:
+          - loader: "quilt"
+            mc-version: "1.16.5"
       max-parallel: 1
 
 # Download all assets from the trigger release
@@ -23,7 +21,7 @@ jobs:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.8
          with:
-           fileName: '*'
+           fileName: "*"
            tag: ${{ github.event.release.tag_name }}
 
 # Check if the files to publish exist, if not go to the next matrix combination
@@ -31,7 +29,7 @@ jobs:
          id: files_exist
          uses: andstor/file-existence-action@v2
          with:
-          files: "Thunder-${{ github.event.release.tag_name }}.for.${{ matrix.loader }}.${{ matrix.mc-version }}.mrpack, ${{ matrix.loader }}.${{ matrix.mc-version }}.Changelog.md"
+          files: "Thunder-${{ github.event.release.tag_name }}+${{ matrix.loader }}-${{ matrix.mc-version }}.mrpack, Changelog-${{ github.event.release.tag_name }}+${{ matrix.loader }}-${{ matrix.mc-version }}.md"
 
 # Publish the files to Modrinth
        - name: Publish
@@ -40,8 +38,8 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           files: 'Thunder-${{ github.event.release.tag_name }}.for.${{ matrix.loader }}.${{ matrix.mc-version }}.mrpack'
-           name: 'Thunder ${{ github.event.release.tag_name }} for ${{ matrix.loader }} ${{ matrix.mc-version }}'
-           changelog-file: '${{ matrix.loader }}.${{ matrix.mc-version }}.Changelog.md'
-           loaders: '${{ matrix.loader }}'
-           game-versions: '${{ matrix.mc-version }}'
+           files: "Thunder-${{ github.event.release.tag_name }}+${{ matrix.loader }}-${{ matrix.mc-version }}.mrpack"
+           name: "Thunder ${{ github.event.release.tag_name }} for ${{ matrix.loader }} ${{ matrix.mc-version }}"
+           changelog-file: "Changelog-${{ github.event.release.tag_name }}+${{ matrix.loader }}-${{ matrix.mc-version }}.md"
+           loaders: "${{ matrix.loader }}"
+           game-versions: "${{ matrix.mc-version }}"
