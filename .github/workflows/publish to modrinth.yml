@@ -24,12 +24,21 @@ jobs:
            fileName: "*"
            tag: ${{ github.event.release.tag_name }}
 
+#Get version number
+       - name: Get version
+         uses: 2428392/gh-truncate-string-action@v1.2.0
+         id: version
+         with:
+          stringToTruncate: '${{ github.event.release.tag_name }}'
+          maxLength: 99
+          removeDanglingCharacters: '+fabricquilt'
+
 # Check if the files to publish exist, if not go to the next matrix combination
        - name: Check file existance
          id: files_exist
          uses: andstor/file-existence-action@v2
          with:
-          files: "Thunder-${{ github.event.release.tag_name }}+${{ matrix.loader }}-${{ matrix.mc-version }}.mrpack, Changelog-${{ github.event.release.tag_name }}+${{ matrix.loader }}-${{ matrix.mc-version }}.md"
+          files: "Thunder-${{steps.version.outputs.string}}+${{ matrix.loader }}-${{ matrix.mc-version }}.mrpack, Changelog-${{steps.version.outputs.string}}+${{ matrix.loader }}-${{ matrix.mc-version }}.md"
 
 # Publish the files to Modrinth
        - name: Publish
@@ -38,8 +47,8 @@ jobs:
          with:
            modrinth-id: ehPxCT2J
            modrinth-token: ${{ secrets.MODRINTH }}
-           files: "Thunder-${{ github.event.release.tag_name }}+${{ matrix.loader }}-${{ matrix.mc-version }}.mrpack"
-           name: "Thunder ${{ github.event.release.tag_name }} for ${{ matrix.loader }} ${{ matrix.mc-version }}"
-           changelog-file: "Changelog-${{ github.event.release.tag_name }}+${{ matrix.loader }}-${{ matrix.mc-version }}.md"
+           files: "Thunder-${{steps.version.outputs.string}}+${{ matrix.loader }}-${{ matrix.mc-version }}.mrpack"
+           name: "Thunder ${{steps.version.outputs.string}} for ${{ matrix.loader }} ${{ matrix.mc-version }}"
+           changelog-file: "Changelog-${{steps.version.outputs.string}}+${{ matrix.loader }}-${{ matrix.mc-version }}.md"
            loaders: "${{ matrix.loader }}"
            game-versions: "${{ matrix.mc-version }}"
