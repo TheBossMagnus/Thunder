@@ -30,7 +30,7 @@ jobs:
          id: version
          with:
           stringToTruncate: '${{ github.event.release.tag_name }}'
-          maxLength: 99
+          maxLength: 5
           removeDanglingCharacters: '+fabricquilt'
 
 # Check if the files to publish exist, if not go to the next matrix combination
