@@ -1,16 +1,48 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "57034b1ed46193f77c0f342342184af3055c9c0e8aab9d188bf72e4265bc3a8c"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "99d3ba57fdb60fc3f996f57459e948efda4fd629e4d04b185a52b1d8090a8fda"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "4f2c1199e7d6b39f2bfa5eb8189f9535daa47211e69d356a4f9fd1eb8f51e940"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
-
-[[files]]
-file = "config/yosbr/config/fastquit-config.txt"
-hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -70,11 +102,6 @@ hash = "7f36923b7c369d74bb8c046a525c0edc30a67f3ddf4ec4b3ba5b8b5b8e74fd5d"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "e5bc4c96acdae3369413440af108aa97fc06c34bba4e8842d77c3aec3299707a"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "6ec482ff494310bd53b20b93dfc7daf34173ad2959f0fc63de2228525f210dbb"
 metafile = true
@@ -125,18 +152,8 @@ hash = "4ef251bf925c957e46fa3b223933425df85611d4ddf0e7a04949b38783800a65"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "340753cc88ec9db69e6f17a0ccd0eee24caaef85ad81e074bf44fb6cec7c787e"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "98bed93269e490532d84cf27cff645a531d0d27a1088816298517e5f1afcd621"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "f37d8349e5cd3ee906f932ca1f5c10175da643e789f4d51910d4f2001a407571"
 metafile = true
 
 [[files]]
@@ -158,3 +175,7 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"

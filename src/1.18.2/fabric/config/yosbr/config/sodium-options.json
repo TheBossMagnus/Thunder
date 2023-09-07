@@ -3,6 +3,7 @@
     "cpu_render_ahead_limit": 5
   },
   "performance": {
+    "always_defer_chunk_updates": true,
     "use_entity_culling": false
   }
 }

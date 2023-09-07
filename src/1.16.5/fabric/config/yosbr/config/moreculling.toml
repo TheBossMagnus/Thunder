@@ -1,5 +1,0 @@
-itemFrameLODRange = 48
-itemFrame3FaceCullingRange = 0.0
-includeMangroveRoots = true
-leavesCullingMode = "CHECK"
-entityModelCulling = true

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "59e1ed3967684bb351e9b5060d8275d89313370168a5944d6da65e1c8c4ae410"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "dac986173cc003e91609e578963e2a5befce5fa31726d402e1882324c2acaffd"
 
@@ -9,16 +13,16 @@ file = "config/lithium.properties"
 hash = "338e8613e47cd160ad4d4c8ea28ae0f5de7a6c5d144afd7d7198733607030155"
 
 [[files]]
+file = "config/options.txt"
+hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "822c617f5d3917cd19497b75eace3ec9e761c4922334951a4f108cc2cc50df90"
+hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
-
-[[files]]
-file = "config/yosbr/config/fastquit-config.txt"
-hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "59e1ed3967684bb351e9b5060d8275d89313370168a5944d6da65e1c8c4ae410"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -54,7 +58,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "70919584e066526fef4dc6ea2f387b28692ce5acee2c53d8844574328960622e"
+hash = "b9a1972f41c942cdede4446c93854f6fbf950fce59b9a3f67e74e1bbb2fbb8df"
 metafile = true
 
 [[files]]
@@ -74,17 +78,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c43779ba212b44966d2e7f9d342db9a8335825c53b79b41fd28d582a20b9a106"
+hash = "54019c7244ec7a45f7b6510bb1532c548f636ebf9f0e460dd5ba5c596e9d553d"
 metafile = true
 
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "0e9661599a55c9de6c5db46f21e03a5fadf7fd215022275776fc6648c225f718"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "984309cd4020321eb5d433f6aec833d8454275d18f5166b28afd750b3ac81a48"
 metafile = true
 
 [[files]]
