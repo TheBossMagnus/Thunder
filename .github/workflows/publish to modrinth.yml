@@ -1,54 +1,46 @@
 name: Automatically publish to Modrinth
-on:
+'on':
   release:
-    types: [released]
-  workflow_dispatch: #Manual trigger
+    types:
+      - released
+  workflow_dispatch:
 
 jobs:
   publish-to-modrinth:
     runs-on: ubuntu-22.04
-    strategy:
-      matrix: # Run the job for each combination of loader and mc-version (https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs)
-        mc-version: ["1.16.5","1.18.2","1.19.2","1.19.4","1.20.1","1.20.2"]
-        loader: ["quilt", "fabric"]
-        exclude:
-          - loader: "quilt"
-            mc-version: "1.16.5"
-      max-parallel: 1
-
-# Download all assets from the trigger release
     steps:
-       - name: Download the pack files
-         uses: robinraju/release-downloader@v1.8
-         with:
-           fileName: "*"
-           tag: ${{ github.event.release.tag_name }}
 
-#Get version number
-       - name: Get version
-         uses: 2428392/gh-truncate-string-action@v1.2.0
-         id: version
-         with:
-          stringToTruncate: '${{ github.event.release.tag_name }}'
-          maxLength: 5
-          removeDanglingCharacters: '+fabricquilt'
+      - name: Get versions
+        id: Get_Version
+        run: |
+          echo "pack=$(echo ${{ github.event.release.tag_name }} | cut -d'+' -f1)" >> $GITHUB_OUTPUT
+          echo "minecraft=$(echo ${{ github.event.release.tag_name }} | cut -d'+' -f2)" >> $GITHUB_OUTPUT
 
-# Check if the files to publish exist, if not go to the next matrix combination
-       - name: Check file existance
-         id: files_exist
-         uses: andstor/file-existence-action@v2
-         with:
-          files: "Thunder-${{steps.version.outputs.string}}+${{ matrix.loader }}-${{ matrix.mc-version }}.mrpack, Changelog-${{steps.version.outputs.string}}+${{ matrix.loader }}-${{ matrix.mc-version }}.md"
+      - name: Download the pack files
+        uses: robinraju/release-downloader@v1.8
+        with:
+          fileName: '*'
+          tag: '${{ github.event.release.tag_name }}'
 
-# Publish the files to Modrinth
-       - name: Publish
-         if: steps.files_exist.outputs.files_exists == 'true'
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           modrinth-id: ehPxCT2J
-           modrinth-token: ${{ secrets.MODRINTH }}
-           files: "Thunder-${{steps.version.outputs.string}}+${{ matrix.loader }}-${{ matrix.mc-version }}.mrpack"
-           name: "Thunder ${{steps.version.outputs.string}} for ${{ matrix.loader }} ${{ matrix.mc-version }}"
-           changelog-file: "Changelog-${{steps.version.outputs.string}}+${{ matrix.loader }}-${{ matrix.mc-version }}.md"
-           loaders: "${{ matrix.loader }}"
-           game-versions: "${{ matrix.mc-version }}"
+      - name: Publish fabric
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: ehPxCT2J
+          modrinth-token: '${{ secrets.MODRINTH }}'
+          files: Thunder-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.mrpack
+          name: Thunder ${{steps.get_version.outputs.pack}} for fabric ${{ steps.get_version.outputs.minecraft }}
+          changelog-file: Changelog-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.md
+          loaders: 'fabric'
+          game-versions: '${{ steps.get_version.outputs.minecraft }}'
+
+      - name: Publish quilt
+        if: ${{ steps.get_version.outputs.minecraft }} != '1.16.5'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: ehPxCT2J
+          modrinth-token: '${{ secrets.MODRINTH }}'
+          files: Thunder-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.mrpack
+          name: Thunder ${{steps.get_version.outputs.pack}} for quilt ${{ steps.get_version.outputs.minecraft }}
+          changelog-file: Changelog-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.md
+          loaders: 'quilt'
+          game-versions: '${{ steps.get_version.outputs.minecraft }}'
