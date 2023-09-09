@@ -13,10 +13,6 @@ file = "config/lithium.properties"
 hash = "338e8613e47cd160ad4d4c8ea28ae0f5de7a6c5d144afd7d7198733607030155"
 
 [[files]]
-file = "config/options.txt"
-hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
-
-[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -68,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "46541adb2e948cbe566a045d1f9e48929f4e89826fe78ba3869397f9d0d4e32b"
+hash = "1f49e24c04e3bc0132a3542cd4fc9c0d012515f19f124fb0b48eaff9bb99861c"
 metafile = true
 
 [[files]]
@@ -107,8 +103,8 @@ hash = "97b7b3f39eb2a15b0ac6d25004bf469b8cc9cfbd2ab9ad49e86986bd97080cdd"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc23w35a-0.5.2+git.d552d39.jar"
-hash = "a6556a2cd14e2a0df182727ab0a792d2a669b3ce3fb59270891dbd81728840e6"
+file = "mods/sodium-fabric-mc1.20.2-pre1-0.5.2+git.a275424.jar"
+hash = "e9f85c379606ad1806914202d32e51a0ab1ccc1e5de26f0f462237850f87083b"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
@@ -117,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "be5b313a66d3f0ffa7f111df214124787463fd35128c474dea24faa3fbfb05c0"
+hash = "d97404d69324fb1b1bdefd1353f47a8cc19967266720df1e3ca2d79365c4f55a"
 metafile = true
 
 [[files]]
