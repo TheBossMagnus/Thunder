@@ -1,42 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
-
-[[files]]
-file = "config/dynamic_fps.json"
-hash = "59e1ed3967684bb351e9b5060d8275d89313370168a5944d6da65e1c8c4ae410"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "57034b1ed46193f77c0f342342184af3055c9c0e8aab9d188bf72e4265bc3a8c"
-
-[[files]]
-file = "config/moreculling.toml"
-hash = "99d3ba57fdb60fc3f996f57459e948efda4fd629e4d04b185a52b1d8090a8fda"
-
-[[files]]
-file = "config/smoothboot.json"
-hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
-
-[[files]]
-file = "config/threadtweak.json"
-hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
-
-[[files]]
-file = "config/vmp.properties"
-hash = "4f2c1199e7d6b39f2bfa5eb8189f9535daa47211e69d356a4f9fd1eb8f51e940"
-
-[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -175,7 +139,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
