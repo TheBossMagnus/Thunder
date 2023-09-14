@@ -54,7 +54,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b9a1972f41c942cdede4446c93854f6fbf950fce59b9a3f67e74e1bbb2fbb8df"
+hash = "32abfffbb47c306b3e3448b60bb19e067a40ee6c4d669a443068aad5fad77787"
 metafile = true
 
 [[files]]
@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "54019c7244ec7a45f7b6510bb1532c548f636ebf9f0e460dd5ba5c596e9d553d"
+hash = "24ccff625bbbb02f73b5b5af640e32ef0140cda56c1b9f59074b9dc0a5172037"
 metafile = true
 
 [[files]]
@@ -93,8 +93,18 @@ hash = "3fe9fb0217ddcbc8c72c3ffaced46a5f18abf0b85e528ad37d5f9bea27b07e09"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "aff7d409ae255452aa60987a8563329f418312a2bd9ec28f74628c29db499812"
+hash = "01bc45103228bcc0acea2fea3cc105903684f039f407f111c5110216a65ef45c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "39279f1fde2e624896fb575adb4c2bc8fb4ba8dd82a4e537efc032894f1d280f"
 metafile = true
 
 [[files]]
@@ -113,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d97404d69324fb1b1bdefd1353f47a8cc19967266720df1e3ca2d79365c4f55a"
+hash = "7da5798db6ea16a8bcabfd4b5d879c3634c2e23f23b3bbd3973354c7b53be65c"
 metafile = true
 
 [[files]]
