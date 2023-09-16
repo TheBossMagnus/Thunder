@@ -22,17 +22,6 @@ jobs:
           fileName: '*'
           tag: '${{ github.event.release.tag_name }}'
 
-      - name: Publish fabric
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          modrinth-id: ehPxCT2J
-          modrinth-token: '${{ secrets.MODRINTH }}'
-          files: Thunder-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.mrpack
-          name: Thunder ${{steps.get_version.outputs.pack}} for fabric ${{ steps.get_version.outputs.minecraft }}
-          changelog-file: Changelog-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.md
-          loaders: 'fabric'
-          game-versions: '${{ steps.get_version.outputs.minecraft }}'
-
       - name: Publish quilt
         if: ${{ steps.get_version.outputs.minecraft }} != '1.16.5'
         uses: Kir-Antipov/mc-publish@v3.3
@@ -43,4 +32,15 @@ jobs:
           name: Thunder ${{steps.get_version.outputs.pack}} for quilt ${{ steps.get_version.outputs.minecraft }}
           changelog-file: Changelog-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.md
           loaders: 'quilt'
+          game-versions: '${{ steps.get_version.outputs.minecraft }}'
+
+      - name: Publish fabric
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: ehPxCT2J
+          modrinth-token: '${{ secrets.MODRINTH }}'
+          files: Thunder-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.mrpack
+          name: Thunder ${{steps.get_version.outputs.pack}} for fabric ${{ steps.get_version.outputs.minecraft }}
+          changelog-file: Changelog-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.md
+          loaders: 'fabric'
           game-versions: '${{ steps.get_version.outputs.minecraft }}'
