@@ -54,7 +54,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "32abfffbb47c306b3e3448b60bb19e067a40ee6c4d669a443068aad5fad77787"
+hash = "7cc41ee524221f990aaac1a425395a3b2fafda45d209606332634f82ff126d68"
 metafile = true
 
 [[files]]
@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "24ccff625bbbb02f73b5b5af640e32ef0140cda56c1b9f59074b9dc0a5172037"
+hash = "7f26dc138798130840e3dbc671dfe6f2be61cb0d272b13fb76e06722fc1d0cee"
 metafile = true
 
 [[files]]
@@ -113,8 +113,8 @@ hash = "97b7b3f39eb2a15b0ac6d25004bf469b8cc9cfbd2ab9ad49e86986bd97080cdd"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.20.2-pre1-0.5.2+git.a275424.jar"
-hash = "e9f85c379606ad1806914202d32e51a0ab1ccc1e5de26f0f462237850f87083b"
+file = "mods/sodium-fabric-mc1.20.2-rc2-0.5.3+git.63b0ad2.jar"
+hash = "7be5cc7040f42913c730ba3e59330deba670ca8ae991008d99b375820076a079"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7da5798db6ea16a8bcabfd4b5d879c3634c2e23f23b3bbd3973354c7b53be65c"
+hash = "77a59014c275e054030af2b362cc50be413f822f82511bcccb765342ace6a2eb"
 metafile = true
 
 [[files]]
