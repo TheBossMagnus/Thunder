@@ -35,6 +35,7 @@ jobs:
           game-versions: '${{ steps.get_version.outputs.minecraft }}'
 
       - name: Publish fabric
+        if: always()
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: ehPxCT2J
