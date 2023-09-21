@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "59e1ed3967684bb351e9b5060d8275d89313370168a5944d6da65e1c8c4ae410"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "dac986173cc003e91609e578963e2a5befce5fa31726d402e1882324c2acaffd"
 
@@ -33,20 +29,12 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "99d3ba57fdb60fc3f996f57459e948efda4fd629e4d04b185a52b1d8090a8fda"
 
 [[files]]
-file = "config/yosbr/config/smoothboot.json"
-hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
-
-[[files]]
-file = "config/yosbr/config/vmp.properties"
-hash = "4f2c1199e7d6b39f2bfa5eb8189f9535daa47211e69d356a4f9fd1eb8f51e940"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -64,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1f49e24c04e3bc0132a3542cd4fc9c0d012515f19f124fb0b48eaff9bb99861c"
+hash = "b2501ec08296916d344df698d0542054e49eae3283d97df3c375c9ef3df93808"
 metafile = true
 
 [[files]]
@@ -89,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3fe9fb0217ddcbc8c72c3ffaced46a5f18abf0b85e528ad37d5f9bea27b07e09"
+hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
 metafile = true
 
 [[files]]
@@ -119,11 +107,6 @@ hash = "7be5cc7040f42913c730ba3e59330deba670ca8ae991008d99b375820076a079"
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "6fd0c4146fa755a0f312afb25550422f6da8a5a3a74ef48f9e6fae75a3c6b244"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "77a59014c275e054030af2b362cc50be413f822f82511bcccb765342ace6a2eb"
 metafile = true
 
 [[files]]
