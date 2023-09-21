@@ -29,14 +29,6 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
-
-[[files]]
-file = "config/yosbr/config/vmp.properties"
-hash = "4f2c1199e7d6b39f2bfa5eb8189f9535daa47211e69d356a4f9fd1eb8f51e940"
-
-[[files]]
 file = "config/yosbr/options.txt"
 hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
@@ -52,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a9f0237e0eb16ab1ffba6dc8de1e7fb9828c4b111c5c5fbee82dfdffcc1dcd7"
+hash = "b2418ea39fdf365d839f2ecf6b3811552f9c95fe6bd673b612020856b4e07c73"
 metafile = true
 
 [[files]]
@@ -72,17 +64,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f666e4e2da72185b349bc7c009b5a7bbe10f4501972d3d34ed7966fd533a939c"
+hash = "510cc416989c890f0fa0394e39e605a319869eac7a29a00066cebfb6552d2aae"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "de950d1c6eb726ef93337a41eb6ca13d20838c3c9693a05c7605ef680893a62c"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "fe272e09a500f94981c2415f55f988e4cb36a3b289ccc5ae59a5d9a8255e4f99"
 metafile = true
 
 [[files]]
@@ -133,11 +120,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "60dbdc5acba0392fa923fbbae580d216f2a3dac4b7ab8056fe28e7e4de8331f2"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "2e7bb3b4927321974a8b2b1b42458e74dfa467fc9436f5c9e450141fc6a973da"
 metafile = true
 
 [[files]]
