@@ -6,15 +6,11 @@ hash = "dac986173cc003e91609e578963e2a5befce5fa31726d402e1882324c2acaffd"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "338e8613e47cd160ad4d4c8ea28ae0f5de7a6c5d144afd7d7198733607030155"
+hash = "390ddf8e278e5a314edefd24a5ee309e421e827e062ff43082d9214d81f1b8b2"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
-
-[[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "59e1ed3967684bb351e9b5060d8275d89313370168a5944d6da65e1c8c4ae410"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
