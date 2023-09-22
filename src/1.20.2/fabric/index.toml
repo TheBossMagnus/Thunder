@@ -42,12 +42,12 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7cc41ee524221f990aaac1a425395a3b2fafda45d209606332634f82ff126d68"
+hash = "8db0eb21461a3d6322ba0099876860dbe25d6d4f3f385cf6fb113566b5678a8a"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6ce95b0cd42ac575a26fac560b0438c15e85bf8911884495baa175ccaf8bf9b5"
+hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7f26dc138798130840e3dbc671dfe6f2be61cb0d272b13fb76e06722fc1d0cee"
+hash = "616aa23bf1b350cf2239a8976e72bea54376a6f76dec2310141073c13a651d81"
 metafile = true
 
 [[files]]
