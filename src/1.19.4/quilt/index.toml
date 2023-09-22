@@ -5,10 +5,6 @@ file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "59e1ed3967684bb351e9b5060d8275d89313370168a5944d6da65e1c8c4ae410"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
@@ -69,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
+hash = "c3810c308ce7ad34185577b33948ab60ef3af5afc156343a2a4f0fc5e9367add"
 metafile = true
 
 [[files]]
