@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "9c6ea5a222ce4b75a3c1d1a3834eb5c7fdf6ead312821261b54bdccb55f39d67"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
