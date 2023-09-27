@@ -1,6 +1,6 @@
 name = "Thunder"
 author = "TheBossMagnus"
-version = "1.4.1+quilt-1.19.4"
+version = "1.4.2+quilt-1.19.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "ac5d72c9a4dfd3f43d370b8f6e36dc5d142cdab5b42833a4bbb98962bcbdbec1"
 
 [versions]
 minecraft = "1.19.4"
-quilt = "0.21.0-beta.4"
+quilt = "0.21.0-beta.5"
