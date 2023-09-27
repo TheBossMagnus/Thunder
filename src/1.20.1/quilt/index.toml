@@ -30,7 +30,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "671faa7e6db70f1ef76f171a7f22f0f71275bbfe6554a8b3c0dbde8b81ec68b5"
+hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ca2c62934680ee8e5a58a1a0011203406b0f067b0cfed60d088981dfa8579f99"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
+hash = "415bed4f1189fdde4b748258701f01a773a5a1b104f8770ef4e83b20db6aa7a1"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
+hash = "6c7c8c7f424804a1efcfa2a6828d365c3a68eb38016e31f48967f45172de47ee"
 metafile = true
 
 [[files]]
