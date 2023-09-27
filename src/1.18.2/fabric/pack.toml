@@ -1,12 +1,12 @@
 name = "Thunder"
 author = "TheBossMagnus"
-version = "1.4.0+fabric-1.18.2"
+version = "1.4.1+fabric-1.18.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0533fff3eed99e0792a59cf5f1d1c83ace61cae4d54b4b3c4cc14b8387baed20"
+hash = "a140292ddb7bdbae8b7da2cc7c8783241bf734097dfcbfe63c1bef35ddc24e48"
 
 [versions]
 fabric = "0.14.22"
