@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "lithium": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "sodium": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "immediatelyfast": {
+      "-depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}
