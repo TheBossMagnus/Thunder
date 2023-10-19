@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9c6ea5a222ce4b75a3c1d1a3834eb5c7fdf6ead312821261b54bdccb55f39d67"
+hash = "114a954b9a751e0cb371645c803a60973159056d6414321a5ff755e3ede474d4"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -13,8 +13,16 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "26f00b388e7b2a8b1d84902a56620a586fa16c858d3a33ed4db88cf96746df20"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "e5b0cbdba61b5bb019e9bf19333ace14c2da739baa936d3506b5edab3186ecf4"
+
+[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "46d6debb442f8c9c27bf1060dd569b1403dff7280b19779b9fff41efd4012a43"
+hash = "0472259fee949625d5edc7f516f8c52bb841b199e4a8461a806341a5f8870e0b"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -34,7 +42,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "99eed9d26ccde0058d7a8028a917a66c8e391e5063aeeffe35964760da161483"
+hash = "a7f12760ceef52123927bb10734531b0d4c4f8ac3a955ec0d55e022015c8f8fb"
 metafile = true
 
 [[files]]
@@ -54,17 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "15472458adf0bb75dcbcec1cf2b13ae943a6d28197a10ff1675ff01c715f222e"
+hash = "4fc42e0ec2f4d89faa2c3f933b29eb349da708b748c3cb2b2ec7d45c332b9c94"
 metafile = true
 
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "0e9661599a55c9de6c5db46f21e03a5fadf7fd215022275776fc6648c225f718"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "c3da7fee119a0e3b4bd336e182af225340efe765e2b7409336aeb50a2468f5ec"
 metafile = true
 
 [[files]]
@@ -79,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b50ea3f021933d82142587865b7f5998c36b5463613c61c85798cb9ca66e2f45"
+hash = "14d11f23e8328e04b3d9cdeede5db722899ec2facbb90a34311f4db80cde9b65"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b136ca50e7d8239319f528ceb521e3482f753b25d768afaf39fa6ea81e549f2e"
+hash = "29b9faf9b78bca89b12364b50e9753f73fc9bfcebc4856f58c161b633342d1b3"
 metafile = true
 
 [[files]]
@@ -93,9 +96,8 @@ hash = "97b7b3f39eb2a15b0ac6d25004bf469b8cc9cfbd2ab9ad49e86986bd97080cdd"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
-metafile = true
+file = "mods/sodium-fabric-mc23w42a-0.5.3+git.b1ba94f.jar"
+hash = "29fa46f218827a9b027a8ec0435f8dfe5ce12bb1650ebd7bec3abca7a23456d3"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
