@@ -14,7 +14,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "57034b1ed46193f77c0f342342184af3055c9c0e8aab9d188bf72e4265bc3a8c"
+hash = "ea00515a3eacd2f4ca908be7d4eec240fb08e4c2e09aeb90c53d2542e0fc5d6c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "092031ffc8e914bd499feaedd58f691fbad66722e528a6f647dc8f8e309946dc"
+hash = "633c160fec06289fef6f7209055feb6e6cfa2082a1c3ba0c29dff8c7fd8c0d91"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "82d8ed6cc769257376217023070f00052b4197abc723c736f12ddadefe00591e"
+hash = "523b38ad05db4868c28ff558a5161efb960b203cc9178b9a529bbf64ade3fe9d"
 metafile = true
 
 [[files]]

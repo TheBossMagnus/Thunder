@@ -9,8 +9,12 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "26f00b388e7b2a8b1d84902a56620a586fa16c858d3a33ed4db88cf96746df20"
+
+[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "57034b1ed46193f77c0f342342184af3055c9c0e8aab9d188bf72e4265bc3a8c"
+hash = "ea00515a3eacd2f4ca908be7d4eec240fb08e4c2e09aeb90c53d2542e0fc5d6c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -85,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "088d7693dae653ff299d1454674e29ab3b1649cf889c5ecd32ccced2b0c48472"
+hash = "e92b8d83b1c7cbf0245dd3588a4b9653d77a21d2b01c33951e35b03fb87f110b"
 metafile = true
 
 [[files]]
