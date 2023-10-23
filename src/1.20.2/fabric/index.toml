@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "9c6ea5a222ce4b75a3c1d1a3834eb5c7fdf6ead312821261b54bdccb55f39d67"
-
-[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -13,8 +9,16 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "26f00b388e7b2a8b1d84902a56620a586fa16c858d3a33ed4db88cf96746df20"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "e5b0cbdba61b5bb019e9bf19333ace14c2da739baa936d3506b5edab3186ecf4"
+
+[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "46d6debb442f8c9c27bf1060dd569b1403dff7280b19779b9fff41efd4012a43"
+hash = "ea00515a3eacd2f4ca908be7d4eec240fb08e4c2e09aeb90c53d2542e0fc5d6c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -54,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
+hash = "0907369c09747fe4604381ce134fe19fbb6bbf1687a8294e3defdfd33c6ea46a"
 metafile = true
 
 [[files]]
@@ -64,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "c3da7fee119a0e3b4bd336e182af225340efe765e2b7409336aeb50a2468f5ec"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -79,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b50ea3f021933d82142587865b7f5998c36b5463613c61c85798cb9ca66e2f45"
+hash = "74466c118cfcd7b89ccfc3841a4bf9421e762079b584807ca8651d6145b3afd8"
 metafile = true
 
 [[files]]
