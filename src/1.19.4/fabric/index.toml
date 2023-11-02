@@ -14,7 +14,7 @@ hash = "26f00b388e7b2a8b1d84902a56620a586fa16c858d3a33ed4db88cf96746df20"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "ea00515a3eacd2f4ca908be7d4eec240fb08e4c2e09aeb90c53d2542e0fc5d6c"
+hash = "0472259fee949625d5edc7f516f8c52bb841b199e4a8461a806341a5f8870e0b"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9958fb387df596f96a5b6b0a12f3def77dd75d9ae3781709b6510744fd98db98"
+hash = "6ac4fa089721e53f99b2c6bf2deee7d5d256391a220403f8ef88c7ac42f46df7"
 metafile = true
 
 [[files]]
