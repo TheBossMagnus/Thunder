@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "114a954b9a751e0cb371645c803a60973159056d6414321a5ff755e3ede474d4"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "ff7575ccca8c60d6f6e0774e79f74c2329c6784d4d5305d62fcd82718487baed"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -62,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "203e7d8451a4a7297628d3ce0dd6a76385de6a62a8cbfcb9bed01da34ed35ab8"
+hash = "979088be8d5be67b32c1d486398a0278e37c1905e000c02fac7158a5580c09f0"
 metafile = true
 
 [[files]]
