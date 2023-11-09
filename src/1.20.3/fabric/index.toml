@@ -46,7 +46,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a7f12760ceef52123927bb10734531b0d4c4f8ac3a955ec0d55e022015c8f8fb"
+hash = "bb765d6951f3396ec8ebfd6874f517d8b74c7764d048bc6ad64f6e9b820a1167"
 metafile = true
 
 [[files]]
@@ -86,12 +86,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "14d11f23e8328e04b3d9cdeede5db722899ec2facbb90a34311f4db80cde9b65"
+hash = "485a97ae09eef2ace3361d3f70f399b92859eb56ad164b770889232e435d1bab"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "29b9faf9b78bca89b12364b50e9753f73fc9bfcebc4856f58c161b633342d1b3"
+hash = "a48c3e41616350bc6283e4e895d8a9692c0434051860b8768a93ad951a26e849"
 metafile = true
 
 [[files]]
@@ -100,8 +100,8 @@ hash = "97b7b3f39eb2a15b0ac6d25004bf469b8cc9cfbd2ab9ad49e86986bd97080cdd"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc23w42a-0.5.3+git.b1ba94f.jar"
-hash = "29fa46f218827a9b027a8ec0435f8dfe5ce12bb1650ebd7bec3abca7a23456d3"
+file = "mods/sodium-fabric-mc23w44a-0.5.3+git.86b69d2.jar"
+hash = "93a62be8d3177239662b9a8412b028292c38147f7e30b8766cbede0eed745c0c"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
