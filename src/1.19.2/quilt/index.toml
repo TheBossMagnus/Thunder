@@ -10,7 +10,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "26f00b388e7b2a8b1d84902a56620a586fa16c858d3a33ed4db88cf96746df20"
+hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "990729ecdd3fe5a2417d11bed4216fd956d3edf87ba0df86eb3a97e21d1ff6c1"
+hash = "3fd84629dfb4a639c07c49ac3f41d3dfe66bc763f056c8b2d275d0d2742c1115"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "aaf17dbf6d8525f472c4b6b533499feb2b807aac179c0e8370f2225447e0169f"
+hash = "7069843aac59149458342b594235a210c0a81b190266cc30e5164271961c1a32"
 metafile = true
 
 [[files]]
