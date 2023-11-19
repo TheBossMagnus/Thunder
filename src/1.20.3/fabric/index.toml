@@ -18,7 +18,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "26f00b388e7b2a8b1d84902a56620a586fa16c858d3a33ed4db88cf96746df20"
+hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "979088be8d5be67b32c1d486398a0278e37c1905e000c02fac7158a5580c09f0"
+hash = "c31f917fcffdbef09ec11b6af745bde4d689fe7898cffb23687c5c07b546f25c"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a48c3e41616350bc6283e4e895d8a9692c0434051860b8768a93ad951a26e849"
+hash = "132a40c5ca4d0c4579f5f7227193e1dd63a04a0b9b98964cf2c33330cfb89a51"
 metafile = true
 
 [[files]]
