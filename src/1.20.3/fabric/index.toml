@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "114a954b9a751e0cb371645c803a60973159056d6414321a5ff755e3ede474d4"
+hash = "5bbbfa158db2ab86931a75f488aa26f363aae353b486dd44fd6bc0f23e618814"
 
 [[files]]
 file = "config/lithium.properties"
@@ -82,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
