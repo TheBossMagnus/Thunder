@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
+hash = "45c1feec0eb2f16e1c2d5665e024bfe429633d35f709998ffb8ca40bd616889f"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+hash = "f1d83469db110ef5cad996049037740d122688703cd90e75ecdc52e4d834a360"
 metafile = true
 
 [[files]]

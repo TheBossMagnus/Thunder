@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5bbbfa158db2ab86931a75f488aa26f363aae353b486dd44fd6bc0f23e618814"
+hash = "92a08985c49fc4d2ba542574b551cda4aea3b86ad3a8e2513c280b42f2d8ada6"
 
 [[files]]
 file = "config/lithium.properties"
@@ -46,7 +46,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f390cc8d2ca5f301e9a59c9fb41d78b109892c1eac19fddf3a03d713cc5bddd6"
+hash = "a9678b1354742b40f75d21b6f70c7f6be0af1d2288358e15a277b13305e0a246"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "485a97ae09eef2ace3361d3f70f399b92859eb56ad164b770889232e435d1bab"
+hash = "39ed42b47a3742d3a399907422665c66bf62d50524049ab46dd7b730d0eeec2b"
 metafile = true
 
 [[files]]
@@ -110,8 +110,9 @@ hash = "97b7b3f39eb2a15b0ac6d25004bf469b8cc9cfbd2ab9ad49e86986bd97080cdd"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.20.3-pre2-0.5.3+git.5042bdc.jar"
-hash = "3b0004450e2e855892c841e47f31facd31a0aa7c428be9e020dff3ca8ef8dbfc"
+file = "mods/sodium.pw.toml"
+hash = "c4a37ef552930c37787f78d94cdb9a444dd3f27fc1cfd0c13dfd68f126067f3e"
+metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"

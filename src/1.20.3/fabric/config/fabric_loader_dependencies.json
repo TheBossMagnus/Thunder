@@ -6,11 +6,7 @@
         "minecraft": ""
       }
     },
-    "sodium": {
-      "-depends": {
-        "minecraft": ""
-      }
-    },
+
     "immediatelyfast": {
       "-depends": {
         "minecraft": ""
@@ -18,7 +14,8 @@
     },
     "indium": {
       "-depends": {
-        "minecraft": ""
+        "minecraft": "",
+        "sodium": ""
       }
   }
 }
