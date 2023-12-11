@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
+hash = "53a9d821352aca075cbb47c032d388ae6232f727fac76a856f239d2f4df8181f"
 metafile = true
 
 [[files]]
@@ -66,12 +66,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "625dddd14bf47324a945452cbd92e913877bb574883b086a73aa6fc07740ac44"
+hash = "ecc667a34ace39bbcc6b5a7807c7778e8d8c61767edacbd8de0e03238793afe8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2d6c657c4962d16d99e31ef00e99a6698ccdb70693e14048805f6f9e565429b4"
+hash = "4aa75a04f9f3f8944b3140f87f3c1ba06496ee893780e23261b8784817b61852"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "39ed42b47a3742d3a399907422665c66bf62d50524049ab46dd7b730d0eeec2b"
+hash = "57468568e7476170e3a9226b2a0ce64f5b391cb95d6b5a41a437a63596503ed0"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c4a37ef552930c37787f78d94cdb9a444dd3f27fc1cfd0c13dfd68f126067f3e"
+hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
 metafile = true
 
 [[files]]
