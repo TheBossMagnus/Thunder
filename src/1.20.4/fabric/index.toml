@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "92a08985c49fc4d2ba542574b551cda4aea3b86ad3a8e2513c280b42f2d8ada6"
+hash = "fe06936b7ec5a846e890fb8693d9ca2fb30511b5e2f30c778e7aa7ac3f06ad6e"
 
 [[files]]
 file = "config/lithium.properties"
@@ -90,9 +90,8 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
-metafile = true
+file = "mods/lithium-fabric-mc1.20.4-0.12.0+git.7b624db.jar"
+hash = "c1d5712b0a202a9231c2f9365cfb8dd72bfc241509f976881e0e1e5474e3f5dd"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
