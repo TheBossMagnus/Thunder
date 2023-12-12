@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d0e25234dd13fb928a9482b13ebdf6ff3d889cf67aec766fecd9a62f5d916cf4"
+hash = "457603e7c278da5b0a418354585addb075993380ec9e195d691d5097a8bd512c"
 metafile = true
 
 [[files]]
@@ -111,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
 metafile = true
 
 [[files]]
