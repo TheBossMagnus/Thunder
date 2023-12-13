@@ -5,10 +5,6 @@ file = "config/fabric_loader_dependencies.json"
 hash = "fe06936b7ec5a846e890fb8693d9ca2fb30511b5e2f30c778e7aa7ac3f06ad6e"
 
 [[files]]
-file = "config/lithium.properties"
-hash = "ff7575ccca8c60d6f6e0774e79f74c2329c6784d4d5305d62fcd82718487baed"
-
-[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -80,6 +76,11 @@ hash = "0e9661599a55c9de6c5db46f21e03a5fadf7fd215022275776fc6648c225f718"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
@@ -95,7 +96,7 @@ hash = "c1d5712b0a202a9231c2f9365cfb8dd72bfc241509f976881e0e1e5474e3f5dd"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "57468568e7476170e3a9226b2a0ce64f5b391cb95d6b5a41a437a63596503ed0"
+hash = "59a63978280095fc713766f6da6fd2375395b8eadbe54a681978c32a406f3fcc"
 metafile = true
 
 [[files]]
