@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3d6b086706dafceb5141954c666068d97b23aab0101836c955e826a0e43b78c6"
+hash = "c6fb2a9c31fe297e65fbb72c20967c498860168082a5d7881487dcb1a61ac72c"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b136ca50e7d8239319f528ceb521e3482f753b25d768afaf39fa6ea81e549f2e"
+hash = "c08c0b506ceacf79e77e25fffb8538274d75a9d70d8ddd57cc0fcac0f2a5444a"
 metafile = true
 
 [[files]]
