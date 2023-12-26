@@ -18,7 +18,7 @@ hash = "e5b0cbdba61b5bb019e9bf19333ace14c2da739baa936d3506b5edab3186ecf4"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "0472259fee949625d5edc7f516f8c52bb841b199e4a8461a806341a5f8870e0b"
+hash = "4dec09217ac824a854d58d8fd62e522c19080f7efbb887ad13cb8f3e233b6614"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "59a63978280095fc713766f6da6fd2375395b8eadbe54a681978c32a406f3fcc"
+hash = "783fe7d40a9e8e14775ed458cedc7cfc5cd13a2d3d857792adfda77025d3f379"
 metafile = true
 
 [[files]]
