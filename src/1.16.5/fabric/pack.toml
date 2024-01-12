@@ -1,6 +1,6 @@
 name = "Thunder"
 author = "TheBossMagnus"
-version = "1.4.7+fabric-1.16.5"
+version = "1.4.6+fabric-1.16.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
