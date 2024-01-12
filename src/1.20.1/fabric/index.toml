@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2205cb06ba208c342a08f3f2e14bd2bbebdfd2ff0be76b22170f231c01b7f76e"
+hash = "aa1cebfcacb1eb5019bd5ae27591a4201732afd49b8ac46f8fe2dfd059dc4b75"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "b73a1ae14953db777b1ec7617280b57285daeb4663cd0d984959e398eb393c59"
+hash = "0b471d79403e6f7b9995d1804e885afed92cdd359d58b8a596a7fc1c3b804244"
 metafile = true
 
 [[files]]
