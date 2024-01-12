@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ad92515a4d70ba75d0affea314f19274faf06344c835a1b59d21724d011fb34"
+hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "783fe7d40a9e8e14775ed458cedc7cfc5cd13a2d3d857792adfda77025d3f379"
+hash = "5ba07c706075d05a1e095a4ab22997926be16615847e531606b5f39ddbd428a2"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "b73a1ae14953db777b1ec7617280b57285daeb4663cd0d984959e398eb393c59"
+hash = "0b471d79403e6f7b9995d1804e885afed92cdd359d58b8a596a7fc1c3b804244"
 metafile = true
 
 [[files]]
