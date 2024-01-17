@@ -8,6 +8,9 @@ name: Automatically publish to Modrinth
 jobs:
   publish-to-modrinth:
     runs-on: ubuntu-22.04
+    concurrency: 
+      group: publish-modrinth
+      cancel-in-progress: false
     steps:
 
       - name: Get versions
