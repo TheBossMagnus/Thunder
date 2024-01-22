@@ -3,3 +3,4 @@ itemFrame3FaceCullingRange = 0.0
 includeMangroveRoots = true
 leavesCullingMode = "CHECK"
 entityModelCulling = true
+endGatewayCulling = true
