@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "c37fc81b5c94096a7ad31bed143c03b2e5ab0277fa1a2bfbc9d0e61e1ee62d88"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -33,10 +37,6 @@ file = "config/yosbr/config/threadtweak.json"
 hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 
 [[files]]
-file = "config/yosbr/fabric_loader_dependencies.json"
-hash = "c37fc81b5c94096a7ad31bed143c03b2e5ab0277fa1a2bfbc9d0e61e1ee62d88"
-
-[[files]]
 file = "config/yosbr/options.txt"
 hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
@@ -62,11 +62,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "457603e7c278da5b0a418354585addb075993380ec9e195d691d5097a8bd512c"
 metafile = true
 
 [[files]]
@@ -117,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-fabric-mc24w03a-0.5.5+git.3a5bc4f.jar"
 hash = "296d0dc429828c94e179bd2a3300d38a0d871df84da808bdd098d97ba9eb1222"
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
-metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
