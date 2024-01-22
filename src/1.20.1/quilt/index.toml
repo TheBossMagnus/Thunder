@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "2e1b7f7aeae383c336706d0838fe76aafe73b86aeb2d1b0ce372be1452516472"
+hash = "1b839c6aa5ffd9c07f02e55d408b1c1a8d5dcd1561bedb9e782b61c20de032ba"
 metafile = true
 
 [[files]]
