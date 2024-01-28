@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config.json"
+hash = "9a9bdf4b6fbaed6b181cfa3fb527695f6dbb6e525bc8146cbd6fd9636ab9bd52"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -63,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1dea1472741762757eed29f76877f5913b0e445aa5e91a43ec9dcab63149e190"
+hash = "f02d05f8543f4b2c6aecaa7f070da84b08bccab0441fb2c3408fafde69fd8914"
 metafile = true
 
 [[files]]
@@ -103,7 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+hash = "1b839c6aa5ffd9c07f02e55d408b1c1a8d5dcd1561bedb9e782b61c20de032ba"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "6df4e74cdd8a1968fb92fa306b336d9b2bc35d167e1db15c9731efde5e835b53"
 metafile = true
 
 [[files]]
