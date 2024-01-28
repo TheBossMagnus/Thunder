@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "overrides": [
+    {
+      "path": "<mods>/indium-1.0.27+mc1.20.1.jar",
+      "depends": [
+        {
+          "remove": {
+            "id":"sodium"
+          }
+        }
+      ],
+      "breaks": []
+    }
+  ]
+}
