@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "overrides": {
+    "indium": {
+      "-depends": {
+        "minecraft": "",
+        "sodium": ""
+      }
+    },
+    "threadtweak": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "lithium": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "immediatelyfast": {
+      "-depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}
