@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e54d497e71acb617356983c1a7e22bff17e472eac04fbc7096a000e06292a748"
+hash = "974c16b73d507ab34d0105fbb1ebadfe839eb29cddeb49b02bed72d27429d08e"
 metafile = true
 
 [[files]]
