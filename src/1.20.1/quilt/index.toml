@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "8e95af06d4804dc44b770fa4c0ff763c68d5a5de6dff66b7381d40fec9f3735d"
+hash = "2f2c7e3a7d1c1b047882ec75b5521874534303f849efc99af0d826002d9a1a14"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
@@ -103,12 +103,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88332c9b1db6931888123e9ab87ad6572573ae53b95b57f46454d6bed23a4ba7"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]

@@ -11,6 +11,17 @@
         }
       ],
       "breaks": []
-    }
+    },
+    {
+      "path": "<mods>/sodium-fabric-0.5.8+mc1.20.1.jar",
+      "depends": [],
+      "breaks": [
+      {
+        "remove": {
+          "id":"indium"
+        }
+      }
+    ]
+  }
   ]
 }

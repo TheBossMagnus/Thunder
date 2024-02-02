@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c37fc81b5c94096a7ad31bed143c03b2e5ab0277fa1a2bfbc9d0e61e1ee62d88"
+hash = "baac5780e31b439f33f1561f13dd5e12763a744fa265468bea1f46af6e1c08d5"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88332c9b1db6931888123e9ab87ad6572573ae53b95b57f46454d6bed23a4ba7"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
