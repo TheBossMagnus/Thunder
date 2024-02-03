@@ -7,6 +7,11 @@
         "sodium": ""
       }
     },
+    "sodium": {
+      "-breaks": {
+        "indium": ""
+      }
+    },
     "threadtweak": {
       "-depends": {
         "minecraft": ""

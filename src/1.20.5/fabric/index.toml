@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c37fc81b5c94096a7ad31bed143c03b2e5ab0277fa1a2bfbc9d0e61e1ee62d88"
+hash = "521b5ffac938e7b2e30a939966bdcb48489e933f7f55952294ae489c8afd2a00"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
