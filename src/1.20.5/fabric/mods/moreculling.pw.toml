@@ -1,7 +1,6 @@
 name = "More Culling"
 filename = "moreculling-1.20.1-0.19.0.jar"
 side = "client"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/51shyZVL/versions/Bu5pCvCn/moreculling-1.20.1-0.19.0.jar"
