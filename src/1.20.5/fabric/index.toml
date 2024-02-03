@@ -64,11 +64,6 @@ hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e85d6c216a6d5f187f713f8e397cf9b2ea3fed4fafca15077a4d550629828ae6"
 metafile = true
@@ -86,11 +81,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
 metafile = true
 
 [[files]]
