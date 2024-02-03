@@ -45,6 +45,10 @@ file = "mods/ImmediatelyFast-Fabric-1.2.11-SNAPSHOT+1.20.5.jar"
 hash = "49edf2c9555f8f9f7a0d7b62dd5569d90905fa3a93b15891d53c919b7dc8c1d8"
 
 [[files]]
+file = "mods/ImmediatelyFast-Fabric-1.2.9-SNAPSHOT+1.20.5.jar"
+hash = "def3476709598646d03c746b8c00e2f5cb482e836814bbe2086fc2b147fd7bae"
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "fe8fac187380f074232f7b29449ee2abaefc26314dd5e2267337c3c5df940616"
 metafile = true
@@ -57,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
 metafile = true
 
 [[files]]
@@ -80,13 +89,18 @@ hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5ba07c706075d05a1e095a4ab22997926be16615847e531606b5f39ddbd428a2"
+hash = "862cc6da4f305daa42a792411953f068b7c804e3182ddfb7d107fe30ae859c12"
 metafile = true
 
 [[files]]
@@ -102,6 +116,10 @@ metafile = true
 [[files]]
 file = "mods/sodium-fabric-0.5.7-snapshot+mc24w05a-build.30.jar"
 hash = "6ae6dd1411dfc61f5e962b0289e23f5cce8829b8a5451709115e17ae0b7b44b1"
+
+[[files]]
+file = "mods/sodium-fabric-mc24w03a-0.5.5+git.3a5bc4f.jar"
+hash = "296d0dc429828c94e179bd2a3300d38a0d871df84da808bdd098d97ba9eb1222"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
