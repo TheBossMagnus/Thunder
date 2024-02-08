@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config.json"
+hash = "9a9bdf4b6fbaed6b181cfa3fb527695f6dbb6e525bc8146cbd6fd9636ab9bd52"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -38,7 +42,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
+hash = "c2f953f1ac006fbfada6be6c01aa1a126e7600fdb9d3495dae23a47d950ea85c"
 metafile = true
 
 [[files]]
@@ -78,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
