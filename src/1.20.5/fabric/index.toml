@@ -22,7 +22,7 @@ hash = "4db9603365b175b21970fe60941dd4947ae3bd09dcdaf0be5738fd83320fe17b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "49321caf46d35e74ebb7edb12d25505410c731e74f0f7669b23ed72584be4722"
+hash = "4dec09217ac824a854d58d8fd62e522c19080f7efbb887ad13cb8f3e233b6614"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -42,11 +42,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/ImmediatelyFast-Fabric-1.2.11-SNAPSHOT+1.20.5.jar"
-hash = "49edf2c9555f8f9f7a0d7b62dd5569d90905fa3a93b15891d53c919b7dc8c1d8"
-
-[[files]]
-file = "mods/ImmediatelyFast-Fabric-1.2.9-SNAPSHOT+1.20.5.jar"
-hash = "def3476709598646d03c746b8c00e2f5cb482e836814bbe2086fc2b147fd7bae"
+hash = "35040dcf7c197d0bbb6f16d569a8eec773d2f9cdd0fd665d38ea30e899163654"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -74,24 +70,13 @@ hash = "0e9661599a55c9de6c5db46f21e03a5fadf7fd215022275776fc6648c225f718"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "862cc6da4f305daa42a792411953f068b7c804e3182ddfb7d107fe30ae859c12"
-metafile = true
+file = "mods/modernfix-fabric-5.10.3-beta.24+mc24w07a.fc86.jar"
+hash = "9a9cea89cb1f5c459ac9b5f5bd92c48ff529f4960dc38a077422e39a4cd61a19"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -106,10 +91,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-fabric-0.5.7-snapshot+mc24w05a-build.30.jar"
 hash = "6ae6dd1411dfc61f5e962b0289e23f5cce8829b8a5451709115e17ae0b7b44b1"
-
-[[files]]
-file = "mods/sodium-fabric-mc24w03a-0.5.5+git.3a5bc4f.jar"
-hash = "296d0dc429828c94e179bd2a3300d38a0d871df84da808bdd098d97ba9eb1222"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
