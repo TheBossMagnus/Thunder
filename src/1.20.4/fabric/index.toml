@@ -38,7 +38,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9fb071407761cdb22323713a3f24ca27f04bb67c0ea455ee2e73778c6ecece75"
+hash = "88dd178765351dcfd55732eab82bc96b458994f2b45987cf358973844945e8be"
 metafile = true
 
 [[files]]
@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5565745a71c49c243d26050d2dc94b7544057ff1e39b24428f9c3ca33df1c828"
+hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
 metafile = true
 
 [[files]]
