@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "4a0723bc27c02e13d42ca1d46fe953464962f1f91ad95d3503d4fcd1d833c996"
+hash = "371327801be7576be0e4777dd0248a4b1f2ae514655f7e1d64701581978db7a1"
 metafile = true
 
 [[files]]
@@ -90,11 +90,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "2b72b99027f7c475795421762bf8309966c1d11fb846f57900909f591d73d755"
-metafile = true
-
-[[files]]
-file = "mods/no-fade.pw.toml"
-hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
