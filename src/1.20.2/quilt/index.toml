@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
+hash = "34d6df705a444b14cdd649ab9fc6025ecf2f1179b2c80b38a7e4dac5aa28cb3d"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -38,7 +38,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c2f953f1ac006fbfada6be6c01aa1a126e7600fdb9d3495dae23a47d950ea85c"
+hash = "47417b73fa94227651ac63139dddaf6beb937d45aed9ba8221a563a8ad50e209"
 metafile = true
 
 [[files]]
@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+hash = "e2a4f3326044ec50638dd321541a4f0f807249c4e9d725788e2851199028969f"
 metafile = true
 
 [[files]]
@@ -59,11 +59,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d868173bd7570c503dcc7ff0197d1e4f3b323e47d05311d109087bb0f2fc7632"
-metafile = true
-
-[[files]]
-file = "mods/fadeless.pw.toml"
-hash = "0e9661599a55c9de6c5db46f21e03a5fadf7fd215022275776fc6648c225f718"
 metafile = true
 
 [[files]]
