@@ -5,10 +5,6 @@ file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "38c5aa7c4c116b4f756efed31fc4d1d2ca0b663714365e6a3e438b8e95f0e2aa"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
@@ -44,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1aefb0211db19a1b0aebd06afc33f330e1c4751792b9b6921294202f79fbad8e"
+hash = "865cc6e32c5f4ff7164a520fd1a9384b801baafdf683637411556691facfc16c"
 metafile = true
 
 [[files]]
@@ -84,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7beddb6cc58de802d996381bd3ab9846f16b4371189a0db626ffd979c9c78992"
+hash = "74e468bc076af2cfacd90b7adab7bec5106180771d991313d81a68a9e0f76a67"
 metafile = true
 
 [[files]]
@@ -95,11 +91,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "fd4556fce21de5c78b5c9b155e3f4c8e5ce0a44ee4ea252a1b0284189f27b10f"
-metafile = true
-
-[[files]]
-file = "mods/no-fade.pw.toml"
-hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
