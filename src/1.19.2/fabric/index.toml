@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7fee77c78b53f151b9358666bea9ccb75efc4c5e1ef9f3dee620db3826927f4e"
+hash = "0584d0b9e1b532e6de341d084d65b25b72289c9b738fa5261d8a7d5ae70612ce"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "87a390f716ac3e7b2e7c9615eaa02ff457654ec1ca90d6edbe63bab614da9dd0"
+hash = "b5a82db59ce3476a0a5476b894365c8de61de65825e0c0c680416724359f629b"
 metafile = true
 
 [[files]]
@@ -100,11 +100,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "0c249294f0fadb6926f3d2b02a370d941613b18f7726fac0305a576052435236"
-metafile = true
-
-[[files]]
-file = "mods/no-fade.pw.toml"
-hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
