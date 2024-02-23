@@ -65,11 +65,6 @@ hash = "020ba2fa36667937a7e6aaba7e769c63560cac7fa44b20d0bdb28756371cf936"
 metafile = true
 
 [[files]]
-file = "mods/fadeless.pw.toml"
-hash = "0e9661599a55c9de6c5db46f21e03a5fadf7fd215022275776fc6648c225f718"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
