@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "0c8e2693727fe906044f94944fe3ecf7b31092fcbfa44bac68320b40c3d6da95"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
@@ -18,7 +14,7 @@ hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "c2294f667b64440548f73d9f36e60bbdfdcc7da7d1c06a52f36df534fc220e2d"
+hash = "a4a1da46a4111a9154fc4aa162ac6c4a4d7c3d83f0d84041275502ccd5c39dab"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -31,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1aefb0211db19a1b0aebd06afc33f330e1c4751792b9b6921294202f79fbad8e"
+hash = "c62a963b03cc8c67c8997573a7d2798af76d9ca183f1f47d7e7ce82bd7a2c4bc"
 metafile = true
 
 [[files]]
@@ -71,17 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "22fa7e2be119f7bb7b54dfd6e4c6c038eb09f2e21e732140dab4c021e707d743"
+hash = "3ddc494c8102a83eb9d26da89ddcbedecf4935f24dd2484dfb64d9d992cbf83d"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
-metafile = true
-
-[[files]]
-file = "mods/no-fade.pw.toml"
-hash = "85af28fee016a70644af82f53993680908a64f48667a45ce05319666c2136555"
 metafile = true
 
 [[files]]
