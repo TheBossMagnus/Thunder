@@ -6,7 +6,7 @@ hash = "521b5ffac938e7b2e30a939966bdcb48489e933f7f55952294ae489c8afd2a00"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
+hash = "34d6df705a444b14cdd649ab9fc6025ecf2f1179b2c80b38a7e4dac5aa28cb3d"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -18,7 +18,7 @@ hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "4529ddd9308b336db301749b6a922121ab299cb9beb944ff88789bf19facf75d"
+hash = "6113e4c3173e93c378e4f1c66126d730732652f17ba9315921bcded54ba18061"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -42,26 +42,26 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/ImmediatelyFast-Fabric-1.2.11-SNAPSHOT+1.20.5.jar"
-hash = "35040dcf7c197d0bbb6f16d569a8eec773d2f9cdd0fd665d38ea30e899163654"
+hash = "7ba082b337c299f280ea85e06e4667a962ca1c5994228b812f3d3d42dab1aec0"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "19745f47491fd8732e8e65a7dcecfb22857972e903c11024a1f3477932bbc22e"
+hash = "b3620d63fba301252dbb8520175b007d86db59f11437068449b5b839d38c9c7e"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+hash = "97d51bdf05f234f8311cd7e56f0501fa971da002678ddff48a0c90189a86fc59"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+hash = "6f5f8cabfa67a7fc86db594b58e47a445b62603372994ae0566782f1cda8c998"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "020ba2fa36667937a7e6aaba7e769c63560cac7fa44b20d0bdb28756371cf936"
+hash = "985358c85b97ded87e5710e50f8b08beef0b97002c2d5c73b90a3f47a780fbae"
 metafile = true
 
 [[files]]
@@ -70,12 +70,13 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.10.3-beta.24+mc24w07a.fc86.jar"
-hash = "9a9cea89cb1f5c459ac9b5f5bd92c48ff529f4960dc38a077422e39a4cd61a19"
+file = "mods/modernfix.pw.toml"
+hash = "5de4474b32aa2b140b80d8413208afe420476f5098040a4f364a2f7cbce438db"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "bc829558131923f23c34da12939fa9f6690af39e0bf53a5efa0af38332174814"
 metafile = true
 
 [[files]]
