@@ -18,7 +18,7 @@ hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "6113e4c3173e93c378e4f1c66126d730732652f17ba9315921bcded54ba18061"
+hash = "f4dbcac25b61ca0c14b2f9717160a4b7a4893b222f80500c3d77056c135388f3"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "985358c85b97ded87e5710e50f8b08beef0b97002c2d5c73b90a3f47a780fbae"
+hash = "841fee01681d22074bd7ac8b74fc44340c2ef364a720edc1383cb2a42106fa81"
 metafile = true
 
 [[files]]
