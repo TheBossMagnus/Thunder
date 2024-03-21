@@ -30,7 +30,7 @@ hash = "a662ebb265770e454f7567b41d495029f5cc05ca2486a293ac517bff7bd14dfc"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
+hash = "23425f7d1e8da4edb6308afb2eedfb5b4a604c6fdcad2d920ab2705a67157a15"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -46,7 +46,7 @@ hash = "7ba082b337c299f280ea85e06e4667a962ca1c5994228b812f3d3d42dab1aec0"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bff74dfd629697331787d00cbc6a93b15b77e9c9478d7066cfe3f2af9f2ed901"
+hash = "b5169af1152b3128e96de35d7f21c1551413cdf00f5d53c894e87a6f07541f53"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b6ec12aca7ea22fa6d5375d0c9c572a6bb9571477c2a4304d42dfc0ce5190a80"
+hash = "83bc2db160c70183b8ecc44847991e17f6003ed48a3b1aadb24d88671aa558b5"
 metafile = true
 
 [[files]]
