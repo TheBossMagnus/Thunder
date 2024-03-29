@@ -26,7 +26,7 @@ hash = "7f71db22e2ebd631c43b76cf2822a9be4caaebcaea33b5b2fb87b7e9d117144e"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "a662ebb265770e454f7567b41d495029f5cc05ca2486a293ac517bff7bd14dfc"
+hash = "9867cb2b49a980755a70af0d7a4ff8000cebcfcfacdd0f7430f87843c915be22"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "83a23aa8b82402ec4f32de2edfcfa1a6622149b370bc2c372de0c3e2064ec970"
+hash = "acf0770c17fe9a63079059296804ac5a24d9abdec6276ffc036a08bb53c6e86e"
 metafile = true
 
 [[files]]
@@ -84,8 +84,8 @@ hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-0.5.7-snapshot+mc24w05a-build.30.jar"
-hash = "6ae6dd1411dfc61f5e962b0289e23f5cce8829b8a5451709115e17ae0b7b44b1"
+file = "mods/sodium-fabric-0.5.8-snapshotmc24w13a-local (1).jar"
+hash = "ead63293c1d4af29fd52ae4e66f4766bd0d73f2c3623912f66ad8410d613cfb5"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
