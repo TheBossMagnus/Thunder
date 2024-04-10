@@ -41,17 +41,17 @@ file = "config/yosbr/options.txt"
 hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
-file = "mods/ImmediatelyFast-Fabric-1.2.11-SNAPSHOT+1.20.5.jar"
-hash = "7ba082b337c299f280ea85e06e4667a962ca1c5994228b812f3d3d42dab1aec0"
+file = "mods/ImmediatelyFast-Fabric-1.2.12-SNAPSHOT+1.20.5.jar"
+hash = "6bd1482f0496e67f6c94b0a7aecd4c8f3067eed68d52d026685de6f08a649845"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b5169af1152b3128e96de35d7f21c1551413cdf00f5d53c894e87a6f07541f53"
+hash = "b33d9b85fc02dfbdf4774be4530ebe019b8448632bff257c7b1d67c89a742c6f"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "97d51bdf05f234f8311cd7e56f0501fa971da002678ddff48a0c90189a86fc59"
+hash = "1871d3fdf9b550449bc60b0a41f19df7d1c19e81e98e9ccae04ddd40bc001b5e"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "acf0770c17fe9a63079059296804ac5a24d9abdec6276ffc036a08bb53c6e86e"
+hash = "ee0627968e96fec7313b102e3fcdd4fc3b0ed63956fb71a25e6bc27562142be7"
 metafile = true
 
 [[files]]
@@ -70,8 +70,9 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.10.3-beta.36+mc24w12a.a47a.jar"
-hash = "2da4b6848b95c166961f9449db01ee087ed133a487a5c9583bce5e98cfc6047d"
+file = "mods/modernfix.pw.toml"
+hash = "0822c7996ef376b4b2571b9c0408ec83a238c52fd93b00d0dc90a63241d932bf"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -84,8 +85,8 @@ hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-0.5.8-snapshotmc24w13a-local (1).jar"
-hash = "ead63293c1d4af29fd52ae4e66f4766bd0d73f2c3623912f66ad8410d613cfb5"
+file = "mods/sodium-fabric-0.5.8-snapshot+mc1.20.5-pre1-build.93.jar"
+hash = "15309c9463418f7da3afadd5edd49ba3083575ab48dd338859be3d2e112f891f"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
