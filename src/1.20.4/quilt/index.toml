@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+hash = "66afcc444afc211fb2c9fdbfb4826e39165acf9a4c1343ed491fff5988e1d539"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "eea0ffd49f5f80f7d0126ac25d440d4f3e82a1bbba85f940f3921880c1b7913c"
+hash = "7bf7b25dd95d5903ffdc4107175e2b197ebd6704cc59d1a05cb3ba12d91aa14b"
 metafile = true
 
 [[files]]

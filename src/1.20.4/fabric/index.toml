@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+hash = "66afcc444afc211fb2c9fdbfb4826e39165acf9a4c1343ed491fff5988e1d539"
 metafile = true
 
 [[files]]
