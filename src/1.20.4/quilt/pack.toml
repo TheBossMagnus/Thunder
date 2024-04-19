@@ -1,13 +1,13 @@
 name = "Thunder"
 author = "TheBossMagnus"
-version = "1.1.8+quilt-1.20.4"
+version = "1.1.9+quilt-1.20.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3791f4a41357f6dd85b46ec29978e75adc42063e6e9ec2f591bcc40551cf275b"
+hash = "407540350428bb47234ebdc029f7bd720a464e1cd6e4d2bfb724031d8899003b"
 
 [versions]
 minecraft = "1.20.4"
-quilt = "0.25.0-beta.4"
+quilt = "0.25.0"
