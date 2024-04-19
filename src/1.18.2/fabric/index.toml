@@ -22,7 +22,7 @@ hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "358dbdbae90fad26d59d26a3e8a9de9701849b9c44f01e62482b8ea7057abcfc"
+hash = "ec414909816a6afaf2615c9732d971d6f446b9645efbda46e243010820a06783"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "865cc6e32c5f4ff7164a520fd1a9384b801baafdf683637411556691facfc16c"
+hash = "2fbbcfe805c02f2f7529f78a29a2cbe509a71499022ffbeeae3ae8190807692c"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "74e468bc076af2cfacd90b7adab7bec5106180771d991313d81a68a9e0f76a67"
+hash = "3cd8a673e31c54cb7aa9395b22f91f65f8636634c5bb2c141e7ff25e6f2bbb44"
 metafile = true
 
 [[files]]

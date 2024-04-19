@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "42bb82922b2f9652a7b2f7bc9483906283f3cc6bd2dc3ae4cd31a44301d8053c"
+hash = "44f109757432240505f9ee8e1aa86aa6e8fff7643ccda6ea050e9db4a92733cc"
 metafile = true
 
 [[files]]
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "74e468bc076af2cfacd90b7adab7bec5106180771d991313d81a68a9e0f76a67"
+hash = "3cd8a673e31c54cb7aa9395b22f91f65f8636634c5bb2c141e7ff25e6f2bbb44"
 metafile = true
 
 [[files]]
