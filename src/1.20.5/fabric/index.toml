@@ -42,11 +42,11 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/ImmediatelyFast-Fabric-1.2.12-SNAPSHOT+1.20.5.jar"
-hash = "6bd1482f0496e67f6c94b0a7aecd4c8f3067eed68d52d026685de6f08a649845"
+hash = "519ec1eb0c5988d5e0badf03bc23b42a2dcb05cd81641f5b9737d0ad280e4d5a"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b33d9b85fc02dfbdf4774be4530ebe019b8448632bff257c7b1d67c89a742c6f"
+hash = "941f7b41f36dc524e8507ea8210162a485354b55548a9bb9a4ccd1e4310563df"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5925f40c4e638871f006ffacb6938f9c920a833463b9c5371debd5465802ea4d"
+hash = "85bd0ed8e7f1a5ed48b5006b13d860e068e31627bd514f1024d6a4f2bf408938"
 metafile = true
 
 [[files]]
@@ -70,9 +70,8 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "0822c7996ef376b4b2571b9c0408ec83a238c52fd93b00d0dc90a63241d932bf"
-metafile = true
+file = "mods/modernfix-fabric-5.10.3-beta.54+mc24w14a.7309.jar"
+hash = "a12dbf00ce6bdd909ad52eebb2f87fe18d720917a29cb3fc48fc75cb9b266b80"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
