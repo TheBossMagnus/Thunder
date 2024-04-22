@@ -1,6 +1,6 @@
 name = "Thunder"
 author = "TheBossMagnus"
-version = "0.3.6+fabric-1.20.5"
+version = "0.3.7+fabric-1.20.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "532575024b5ccb24e72c38acf0bc305821ebd06618f87124c1cd42bb0c5d9c2e"
 
 [versions]
 fabric = "0.15.10"
-minecraft = "1.20.5-rc2"
+minecraft = "1.20.5-rc3"
