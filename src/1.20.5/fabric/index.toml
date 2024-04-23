@@ -75,7 +75,7 @@ hash = "a12dbf00ce6bdd909ad52eebb2f87fe18d720917a29cb3fc48fc75cb9b266b80"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b3d4a4f569c8f45aba0f009aed068afc8e1a230569c4aa34de194f21d0e738b9"
+hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
 metafile = true
 
 [[files]]
@@ -84,8 +84,9 @@ hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-0.5.8-snapshot+mc1.20.5-pre1-build.93.jar"
-hash = "15309c9463418f7da3afadd5edd49ba3083575ab48dd338859be3d2e112f891f"
+file = "mods/sodium.pw.toml"
+hash = "7e5ee2f0c969e8a9792b511c3d53b0ecb61b3a5c7956b98819b319c9f3bb062d"
+metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
