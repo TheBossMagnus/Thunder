@@ -18,7 +18,7 @@ hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "e5b0cbdba61b5bb019e9bf19333ace14c2da739baa936d3506b5edab3186ecf4"
+hash = "0bd9cf36eef7e251c23ebb0f9c3091db0af9f0ccf250ed1dc7297eefc696eada"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
