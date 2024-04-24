@@ -46,22 +46,27 @@ hash = "519ec1eb0c5988d5e0badf03bc23b42a2dcb05cd81641f5b9737d0ad280e4d5a"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "941f7b41f36dc524e8507ea8210162a485354b55548a9bb9a4ccd1e4310563df"
+hash = "b21b3118720c44576336d8c92a92a461cac7a4fa76ce976bef57cc40fb7d8281"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1871d3fdf9b550449bc60b0a41f19df7d1c19e81e98e9ccae04ddd40bc001b5e"
+hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6f5f8cabfa67a7fc86db594b58e47a445b62603372994ae0566782f1cda8c998"
+hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "2c372d59e6d4637d2a2e7f96d35efe36ae4db40ae08c43e78aa8cbea4d5221d0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "85bd0ed8e7f1a5ed48b5006b13d860e068e31627bd514f1024d6a4f2bf408938"
+hash = "a5d141eab872ea8051bd1206b793c6522e67fa68e6f5346268f12d737cb066ff"
 metafile = true
 
 [[files]]
@@ -69,8 +74,9 @@ file = "mods/lithium-fabric-mc1.20.5-0.12.1+git.98a10fb.jar"
 hash = "97dd96dcbe0aff04fb25361377bacc0701994f78f89a4d4916c51b9333fbaa5e"
 
 [[files]]
-file = "mods/modernfix-fabric-5.10.3-beta.54+mc24w14a.7309.jar"
-hash = "a12dbf00ce6bdd909ad52eebb2f87fe18d720917a29cb3fc48fc75cb9b266b80"
+file = "mods/modernfix.pw.toml"
+hash = "35fe9c7a3a892797023d91778c30099eb42c8821e6d998b67e50d96b9b9334ba"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
