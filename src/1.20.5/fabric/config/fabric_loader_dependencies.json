@@ -7,22 +7,7 @@
         "sodium": ""
       }
     },
-    "sodium": {
-      "-breaks": {
-        "indium": ""
-      }
-    },
     "threadtweak": {
-      "-depends": {
-        "minecraft": ""
-      }
-    },
-    "lithium": {
-      "-depends": {
-        "minecraft": ""
-      }
-    },
-    "immediatelyfast": {
       "-depends": {
         "minecraft": ""
       }

@@ -4,5 +4,3 @@ includeMangroveRoots = true
 leavesCullingMode = "CHECK"
 entityModelCulling = true
 endGatewayCulling = true
-
-cloudCulling = false

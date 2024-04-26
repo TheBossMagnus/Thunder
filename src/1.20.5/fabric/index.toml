@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "521b5ffac938e7b2e30a939966bdcb48489e933f7f55952294ae489c8afd2a00"
+hash = "b042f037b7957269a8429509965760cd947e48137c0fd234a00a3237f4f0978a"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -26,7 +26,7 @@ hash = "7f71db22e2ebd631c43b76cf2822a9be4caaebcaea33b5b2fb87b7e9d117144e"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "9867cb2b49a980755a70af0d7a4ff8000cebcfcfacdd0f7430f87843c915be22"
+hash = "a662ebb265770e454f7567b41d495029f5cc05ca2486a293ac517bff7bd14dfc"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -39,10 +39,6 @@ hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
-
-[[files]]
-file = "mods/ImmediatelyFast-Fabric-1.2.12-SNAPSHOT+1.20.5.jar"
-hash = "519ec1eb0c5988d5e0badf03bc23b42a2dcb05cd81641f5b9737d0ad280e4d5a"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -70,6 +66,11 @@ hash = "a5d141eab872ea8051bd1206b793c6522e67fa68e6f5346268f12d737cb066ff"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "dc6bad56aea71fe09c40ce890728354ec7d78e594ac5e0d72269e19f12512398"
+metafile = true
+
+[[files]]
 file = "mods/lithium-fabric-mc1.20.5-0.12.1+git.98a10fb.jar"
 hash = "97dd96dcbe0aff04fb25361377bacc0701994f78f89a4d4916c51b9333fbaa5e"
 
@@ -85,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+hash = "f9a650d5b049708321d7784a5aea085c7e92bf14d7fb7af0bfc0ec2b0bd83145"
 metafile = true
 
 [[files]]
