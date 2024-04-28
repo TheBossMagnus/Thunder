@@ -6,11 +6,6 @@
         "minecraft": "",
         "sodium": ""
       }
-    },
-    "threadtweak": {
-      "-depends": {
-        "minecraft": ""
-      }
     }
   }
 }
