@@ -6,6 +6,21 @@
         "minecraft": "",
         "sodium": ""
       }
+    },
+    "threadtweak": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "lithium": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "entityculling": {
+      "-depends": {
+        "minecraft": ""
+      }
     }
   }
 }

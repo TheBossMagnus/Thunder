@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "424fc79a9703e901278a57022a31f5744aaa55466431250526f5300fa3974bb9"
+hash = "8f2835f8d07be9872ded5f8542ddb7b0686e737621dcd13306c17f5d9099b853"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07ae974f1ebcee200aede70701ccddca3f64d8e8767b38bd534702da369f9288"
+hash = "b375b3216c606976be478553cac00eb3ad6c57500ee01914f86ff42c0ce72b57"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ hash = "97dd96dcbe0aff04fb25361377bacc0701994f78f89a4d4916c51b9333fbaa5e"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "35fe9c7a3a892797023d91778c30099eb42c8821e6d998b67e50d96b9b9334ba"
+hash = "34b0c904186f9883c26ffacf49afdf66bc21d44d8e62537cca5094032ccccb04"
 metafile = true
 
 [[files]]
