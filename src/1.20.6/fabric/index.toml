@@ -18,7 +18,7 @@ hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "0bd9cf36eef7e251c23ebb0f9c3091db0af9f0ccf250ed1dc7297eefc696eada"
+hash = "1cc3de177846959fe48df1eda86493f0aea86a20dfc6a13503167b59a66c2495"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -42,7 +42,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b21b3118720c44576336d8c92a92a461cac7a4fa76ce976bef57cc40fb7d8281"
+hash = "ecd2119d43ef5054f520f779032555b454b5942e20b07e8771be5eb79b7176bd"
 metafile = true
 
 [[files]]
@@ -76,8 +76,9 @@ hash = "dc6bad56aea71fe09c40ce890728354ec7d78e594ac5e0d72269e19f12512398"
 metafile = true
 
 [[files]]
-file = "mods/lithium-fabric-mc1.20.5-0.12.1+git.98a10fb.jar"
-hash = "97dd96dcbe0aff04fb25361377bacc0701994f78f89a4d4916c51b9333fbaa5e"
+file = "mods/lithium.pw.toml"
+hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
+metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
