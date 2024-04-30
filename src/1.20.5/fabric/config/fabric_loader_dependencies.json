@@ -1,10 +1,9 @@
 {
   "version": 1,
   "overrides": {
-    "ThreadTweak": {
+    "threadtweak": {
       "-depends": {
-        "minecraft": "",
-        "sodium": ""
+        "minecraft": ""
       }
     }
   }
