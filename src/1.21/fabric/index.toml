@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "be5fe2c2ba5816ebdfef412a16289332bb92ba7d04351fb2c07f65e543b61434"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "53cef67bf2c279e8320b7565ac99cf4a2e33d11b7c5ed9d0d66e75ca2caa57ed"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "34d6df705a444b14cdd649ab9fc6025ecf2f1179b2c80b38a7e4dac5aa28cb3d"
 
