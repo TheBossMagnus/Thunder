@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
+hash = "af18b0b99558852c0fe569dd4dcfd116ee13eec13380c4becbb4d36cbe3bd4b7"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "de29d1bb0e7fa592a445635078d23b1742da976bf6b0cfafeed3944cb5e54802"
+hash = "908a3c41a13db0dd57824738d8b89cc0a4e3792d455bec459ee060d7f7913160"
 metafile = true
 
 [[files]]
@@ -80,8 +80,8 @@ hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.17.4-beta.7+mc24w19a.e758.jar"
-hash = "1e1dc2157637bbfe2864fd690f6bd0ef109ee5a48012b99e559e655a5ebb0328"
+file = "mods/modernfix-fabric-5.17.4-beta.10+mc24w20a.6a7b.jar"
+hash = "a02fef4bd9fabf887a5f7ef4ac8be12efa95ceeca8cab5a4b139b719384765bb"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -94,8 +94,8 @@ hash = "9d76e9b5d107004c51e91c33404a9e22f03770420e3cf6a49bc1393b6f9fe3c3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-0.5.8mc24w18a.jar"
-hash = "e9eb47578c34c5203e2ce1a917f30a2562e45828f17d98fea2b57e8ea64ba020"
+file = "mods/sodium-fabric-0.5.8-snapshotmc24w20a-local.jar"
+hash = "3eeb464ea27a62fadf8d4bde470ba49be35fc775ceca5389611972fcd7662ef4"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
