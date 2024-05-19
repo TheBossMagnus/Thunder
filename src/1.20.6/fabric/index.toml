@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "8f2835f8d07be9872ded5f8542ddb7b0686e737621dcd13306c17f5d9099b853"
-
-[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "34d6df705a444b14cdd649ab9fc6025ecf2f1179b2c80b38a7e4dac5aa28cb3d"
 
@@ -14,11 +10,11 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
+hash = "708fcb88b6211cd89e9719c7f8fb914f77cbe6f1a6d0caa89d801f4df59be5d5"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "1cc3de177846959fe48df1eda86493f0aea86a20dfc6a13503167b59a66c2495"
+hash = "8e812ad4e19617e8ccf1badccf08b05032bddb43b7be34a602f346d79767d9e9"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -72,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e401c07af397744ab4e6a6dad4f965c727c0ccbdeb62b7f025ac0be5df89e020"
+hash = "481a2ae98615aa79fa02546b5f30fef3b2a5e85e394a74d17bdb409a82c21269"
 metafile = true
 
 [[files]]
@@ -102,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
 metafile = true
 
 [[files]]
