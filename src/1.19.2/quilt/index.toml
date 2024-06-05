@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "0aa28e25fda9a9603a3ad6bf9d3bb31af503b6ac16aef24c8ac4203e4ff7ca7d"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -14,7 +18,7 @@ hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "4dec09217ac824a854d58d8fd62e522c19080f7efbb887ad13cb8f3e233b6614"
+hash = "d3b952f0a2aab4bcaf52b563645770f9401787dec2616a60a62f9c0efd16b428"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -33,6 +37,11 @@ file = "config/yosbr/options.txt"
 hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "73e2cfee7992a5755b77bf7824733137e9997d1ef0996876447b491381041cbc"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
 metafile = true
@@ -44,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "664a562fd72795ad0599175e22c9925c66a8c8d812afac451d4ec18080efd112"
+hash = "3735f81e3e53beb793e65593e01fefb836977e2e8d52f846103c8afbd5c09042"
 metafile = true
 
 [[files]]
@@ -64,12 +73,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f5d32a51c64d7274a8c7a0fc6b928db246afe96a6fadc0efa2dba52538e3e054"
+hash = "0e041ac587963ae4038bc5b8ab4ff96fdc637464582c942241ef511e426f8476"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "de950d1c6eb726ef93337a41eb6ca13d20838c3c9693a05c7605ef680893a62c"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
 metafile = true
 
 [[files]]
@@ -84,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "505f40ac69924b45e0b4add86088e2889ee0fa71757c0e8cf5493821b18e1dd3"
+hash = "581c7f7b4592b8304ce066a588961b11dc55dfa15d131d9ab343beda43f11ca8"
 metafile = true
 
 [[files]]
