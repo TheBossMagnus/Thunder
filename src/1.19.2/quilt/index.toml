@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "0aa28e25fda9a9603a3ad6bf9d3bb31af503b6ac16aef24c8ac4203e4ff7ca7d"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
@@ -31,6 +35,11 @@ hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "73e2cfee7992a5755b77bf7824733137e9997d1ef0996876447b491381041cbc"
+metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
