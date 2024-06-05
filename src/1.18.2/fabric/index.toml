@@ -10,7 +10,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "4dec09217ac824a854d58d8fd62e522c19080f7efbb887ad13cb8f3e233b6614"
+hash = "d3b952f0a2aab4bcaf52b563645770f9401787dec2616a60a62f9c0efd16b428"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2fbbcfe805c02f2f7529f78a29a2cbe509a71499022ffbeeae3ae8190807692c"
+hash = "5504d683b26ab5417ab8960fc1de90642943fa6749e2df353b83555c5a86a76b"
 metafile = true
 
 [[files]]
@@ -69,6 +69,11 @@ hash = "098bd205318646e5eb4dedcfc0d7a39f177c834be20d264187c8e44710d2329d"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "0c1c4fef5d757d8e650246bc9967fd157b9aa59d262cfcd40fe3015aed3f597d"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "229b09f29d225f71b95737207af93f77e1fde9a19aa8fafc22bc9dc652ed1d13"
 metafile = true
@@ -80,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3cd8a673e31c54cb7aa9395b22f91f65f8636634c5bb2c141e7ff25e6f2bbb44"
+hash = "b5d6e5bb8d74b24d393c1501ca838226d16b7aa5a212b0ceea49b081485b1fb0"
 metafile = true
 
 [[files]]
