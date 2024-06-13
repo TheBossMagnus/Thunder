@@ -6,7 +6,7 @@ hash = "978706d299b6b1612c6d6d99e5870fb070088741e89e458de708e768bdd92761"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
-hash = "f15af68794886f34e7f57f11bcc86b58e9bf8a0f124c1cc282cf790b9d5a62af"
+hash = "9c3320fd1f540bfff755d15ed3ab823eaedd2a4eda4fef3dfcc465a72ed8f5e0"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
