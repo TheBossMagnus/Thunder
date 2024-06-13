@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b40e9d88976f216d110ead5d92c8a2bb8d97acbdb4635d50884186f8c62f6a64"
+hash = "7f0767731bfd7c71a3c891778ecdc0873c15fe90d9a5463547106c43d057a203"
+
+[[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "f15af68794886f34e7f57f11bcc86b58e9bf8a0f124c1cc282cf790b9d5a62af"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -10,7 +14,7 @@ hash = "34d6df705a444b14cdd649ab9fc6025ecf2f1179b2c80b38a7e4dac5aa28cb3d"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+hash = "7f64709d565a975f1581c5d1231ac18aae836f9018ba6f3b059bd7fecfb3d48b"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
@@ -18,7 +22,7 @@ hash = "708fcb88b6211cd89e9719c7f8fb914f77cbe6f1a6d0caa89d801f4df59be5d5"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "1cc3de177846959fe48df1eda86493f0aea86a20dfc6a13503167b59a66c2495"
+hash = "8e812ad4e19617e8ccf1badccf08b05032bddb43b7be34a602f346d79767d9e9"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -37,12 +41,13 @@ file = "config/yosbr/config/threadtweak.json"
 hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
-
-[[files]]
 file = "mods/ImmediatelyFast-Fabric-1.2.18-SNAPSHOT+1.21.jar"
 hash = "4d437c9cc51ec1c091e8e7f0842e4e29e795368dfe02dee083285a1f1aaa428e"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "db7db9a5ba622abfbceb2ea08593c129ffdeed6c5b87ca98fcc61d1c31e93c83"
+metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -60,8 +65,14 @@ hash = "be48577ddce9c70b87e1c479ea185bdda3d677f8e408e7f6eb2618e29b3303fe"
 metafile = true
 
 [[files]]
-file = "mods/iris-1.7.1-snapshotmc1.21-rc1-ff4e29c-dirty.jar"
-hash = "ff4c9a7ad2ba79bcea76fca1e0a873e67e2d84c57c6f6f08f0a1c02493271ad0"
+file = "mods/iris.pw.toml"
+hash = "35a5bdcb09b0b51a4161a62c0b8ab507cb58a936f036f60410704b291134d1ba"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "17481fa647d43b165a6a9f83dc2da178f19eceb8b439b7cffc257a1ac5fde463"
+metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
