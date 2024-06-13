@@ -20,6 +20,12 @@
       "-depends": {
         "minecraft": ""
       }
+    },
+    "indium": {
+      "-depends": {
+        "minecraft": "",
+        "sodium": ""
+      }
     }
   }
 }
