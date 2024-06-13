@@ -6,6 +6,11 @@
         "minecraft": ""
       }
     },
+    "immediatelyfast": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
     "ferritecore": {
       "-depends": {
         "minecraft": ""
