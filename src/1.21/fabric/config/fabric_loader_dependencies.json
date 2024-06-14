@@ -6,9 +6,10 @@
         "minecraft": ""
       }
     },
-    "immediatelyfast": {
+    "indium": {
       "-depends": {
-        "minecraft": ""
+        "minecraft": "",
+        "sodium": ""
       }
     },
     "ferritecore": {

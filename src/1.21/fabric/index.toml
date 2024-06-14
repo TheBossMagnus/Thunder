@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "978706d299b6b1612c6d6d99e5870fb070088741e89e458de708e768bdd92761"
+hash = "47f02e6db220df3744d4c5a458738f73ac41f33634386429ef892aa9fd8d09bc"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -41,12 +41,8 @@ file = "config/yosbr/config/threadtweak.json"
 hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 
 [[files]]
-file = "mods/ImmediatelyFast-Fabric-1.2.18-SNAPSHOT+1.21.jar"
-hash = "4d437c9cc51ec1c091e8e7f0842e4e29e795368dfe02dee083285a1f1aaa428e"
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "db7db9a5ba622abfbceb2ea08593c129ffdeed6c5b87ca98fcc61d1c31e93c83"
+hash = "dd4a333665383d4af8f20f338b10b89f5ad383f5371d9dfc278f65b3d97d66f7"
 metafile = true
 
 [[files]]
@@ -70,8 +66,22 @@ hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "35a5bdcb09b0b51a4161a62c0b8ab507cb58a936f036f60410704b291134d1ba"
+metafile = true
+
+[[files]]
+file = "mods/lithium-fabric-mc1.21-0.12.3+git.e61bad1.jar"
+hash = "8c55a79c1e49ca29c77ff0df4f99dc1a644382971feb32710a4f8ef847ce0a72"
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
 metafile = true
 
 [[files]]
