@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be48577ddce9c70b87e1c479ea185bdda3d677f8e408e7f6eb2618e29b3303fe"
+hash = "dc098be443c1704d9ffbc3ab5fff67024b5b06edd4312c67e3af0b1ecb00f463"
 metafile = true
 
 [[files]]
@@ -76,8 +76,9 @@ hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
 
 [[files]]
-file = "mods/indium-1.0.32-dev.001bdbb+mc1.21.jar"
-hash = "d3ed68b3b2241eb34c6a27fcf45d720d626d530621bebaf98757b79cd7d85ced"
+file = "mods/indium.pw.toml"
+hash = "dfc7306d9eeaa3f4ddb22e6ef73141eba09f1891a584fdeeacaa9fbb2d182a77"
+metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -95,7 +96,7 @@ hash = "a92b8a56736ad74d6283a0cd19a5490fb4f065d33d7392c9e42e32a4afd83596"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7f1ea1175d5541f7d733b3fd5c7d1b6f69f1d41cb0c96260342580fb6036ab9b"
+hash = "365313e20f6fd244d13667b352d8aa16312a609c7247b7472771cf4555908869"
 metafile = true
 
 [[files]]
