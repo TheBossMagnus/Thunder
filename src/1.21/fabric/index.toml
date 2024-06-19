@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3374fd0790ec7c1a3f2119764830988f9194732b19e27a416c0f5dc7919b8a1c"
+hash = "b488580fb9fc59ad54b8ebd7b742aa98d2063ed12b75b624a6b6f36b40b02005"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dc098be443c1704d9ffbc3ab5fff67024b5b06edd4312c67e3af0b1ecb00f463"
+hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
 metafile = true
 
 [[files]]
@@ -91,12 +91,13 @@ hash = "b4ca030148c5e02ee1ce5039ac6f17fd6d727639a082f59934968abceaa1586c"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.18.3-beta.5+mc1.21.700c.jar"
-hash = "a92b8a56736ad74d6283a0cd19a5490fb4f065d33d7392c9e42e32a4afd83596"
+file = "mods/modernfix.pw.toml"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "365313e20f6fd244d13667b352d8aa16312a609c7247b7472771cf4555908869"
+hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
 metafile = true
 
 [[files]]
