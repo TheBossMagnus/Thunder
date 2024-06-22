@@ -5,17 +5,6 @@
       "-depends": {
         "minecraft": ""
       }
-    },
-    "indium": {
-      "-depends": {
-        "minecraft": "",
-        "sodium": ""
-      }
-    },
-    "ferritecore": {
-      "-depends": {
-        "minecraft": ""
-      }
     }
   }
 }
