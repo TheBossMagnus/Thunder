@@ -14,7 +14,7 @@ hash = "708fcb88b6211cd89e9719c7f8fb914f77cbe6f1a6d0caa89d801f4df59be5d5"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "8e812ad4e19617e8ccf1badccf08b05032bddb43b7be34a602f346d79767d9e9"
+hash = "1cc3de177846959fe48df1eda86493f0aea86a20dfc6a13503167b59a66c2495"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -38,12 +38,12 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "48720fa4daacd4b092044f734342fb7ee07d6137d653c3a824d022bf72a08e47"
+hash = "51ac678d3646bcb97e13935ae67d32abbd55def714030b3b3433aa15b4b2c8af"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "52f0f7fc78f73a9b7143c57d59e3c5bc39ce5e4e1691382fe8ca6403861a40dc"
+hash = "e59cdb63f686a93ac60b490130e860723914abb43d508f0f5631e5a0c888f4c5"
 metafile = true
 
 [[files]]
@@ -58,17 +58,17 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "406a3f78220ed5d7a4e60c7f89eb9a07e37dd30b4ce6fe684a697096dcd2118c"
+hash = "316c9b6fa7e755915125409bd2a0a8b3f732534f794e8db4a5b2feac91ad573e"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1e8b1b36d7c3f2d481f57166895a90c94f8e026c135885d36ad675e97f5ab9bf"
+hash = "57c91a1102545d755ee320febca4902f12aecb0c562cc7db089823a723365259"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d47762be5aaaf014cb93812502944dff9f1dc3466f3de96f4d4808da8e97bdee"
+hash = "7e5e7a222813e1aaa21e6d940ab1fc156daa90694f9e85152f283dbe5b1a912d"
 metafile = true
 
 [[files]]
@@ -78,22 +78,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3c5c24ba7c1af10c4bd3522efa8d1b89c88352e53382529610f81d50d46f0a32"
+hash = "2f2d1cdbd389e3ef40490ad640f6569fcff9b6f8e604de8c46c991de911a3a58"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+hash = "dc113aedd21f6032f8894047d783be0b6b9f1359f7b908860870b553410e3bf4"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
+hash = "2600531abea1670221c21edf73d7024cf1285f58bca3a838777f957e5e17f477"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+hash = "15af904cfeb2ee20ba0c865bae42dcc7eaea31b18bde9e9f5fb4e4192185566f"
 metafile = true
 
 [[files]]
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+hash = "fea95d937b70d4d092aec1ce8506291cae18aeb62aa768f0e62764da792373c0"
 metafile = true
 
 [[files]]
