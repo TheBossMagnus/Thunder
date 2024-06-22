@@ -38,7 +38,7 @@ hash = "565b17197d518079284e14b2f017b8842fc6e4f4c0833acfac94112574b019bd"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "31da0d40daba6f88d50d18ae5565aee6996657bcc34138f75622dd8f582385f6"
+hash = "adad3aebbe2a22c49bc0ce53be66b437f1998354576bec24af568c6e8faa0f4c"
 metafile = true
 
 [[files]]
@@ -58,12 +58,12 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "df487485f2e57e77657f65da68500e5b688812d7555f75e7db910d39827386c4"
+hash = "bf3f7277039b19252017cb7b5175ce20c10434d195c8d58142f465fb516c1793"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0c27d462e6b4f53873bbb76f6e10680cce56e4ddfdd217cec22da34e3f375f83"
+hash = "212bda67ddde50620cf6055f3ae91fd206fee6c932fb534e227ef1f877c2d838"
 metafile = true
 
 [[files]]
@@ -78,17 +78,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
+hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
+hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
 
 [[files]]
