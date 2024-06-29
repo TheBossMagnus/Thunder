@@ -5,6 +5,16 @@
       "-depends": {
         "minecraft": ""
       }
+    },
+    "nvidium": {
+      "-depends": {
+        "sodium": ""
+      }
+    },
+    "indium": {
+      "-depends": {
+        "sodium": ""
+      }
     }
   }
 }

@@ -1,0 +1,13 @@
+name = "Nvidium"
+filename = "nvidium-0.2.8-beta.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/DJXQSa8Q/nvidium-0.2.8-beta.jar"
+hash-format = "sha1"
+hash = "c636c50761be4b58c13da4896c6b7cb0248d2cff"
+
+[update]
+[update.modrinth]
+mod-id = "SfMw2IZN"
+version = "DJXQSa8Q"
