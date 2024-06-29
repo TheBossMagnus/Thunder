@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
+hash = "da767ea6bc549f25a826ab2bfcba942ba620766c9155fbbf6a965e0f116cce63"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e5e7a222813e1aaa21e6d940ab1fc156daa90694f9e85152f283dbe5b1a912d"
+hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "dc113aedd21f6032f8894047d783be0b6b9f1359f7b908860870b553410e3bf4"
+hash = "860b83d5fe7aadcefa928fe156d38e46cf171b6102d5691758eb75da3fcdb799"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "fea95d937b70d4d092aec1ce8506291cae18aeb62aa768f0e62764da792373c0"
+hash = "115a89810ba6b5e00365b3733dd2ed03bb6e9aee3bdc49714cd897a153146d8a"
 metafile = true
 
 [[files]]
