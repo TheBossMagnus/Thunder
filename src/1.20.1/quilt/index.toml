@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/quilt-loader-overrides.json.json"
+file = "config/quilt-loader-overrides.json"
 hash = "9d1936385b565a37c11776f980a60fcf99b9885897d65bd2a560f33314278d0a"
 
 [[files]]
