@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quilt-loader-overrides.json.json"
-hash = "3c182e5d9600fad4e1d2f8d8a9c7a0c720681965489c0534fe2b9fe49920231d"
+hash = "9d1936385b565a37c11776f980a60fcf99b9885897d65bd2a560f33314278d0a"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
