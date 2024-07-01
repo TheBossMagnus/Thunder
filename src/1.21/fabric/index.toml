@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "93bcf3b2c06d84b695decb6ebf35f08cb3868ca2766fdb5f96d082bd274f33cf"
+hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "850556d97d0fa30f37bdb7e50a0c085778b409db8649f174005755142199e3a3"
+hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "8e19de26448a601a623abd6decf404258b3e67bd2d2073ce944a23428b26aebe"
+hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
