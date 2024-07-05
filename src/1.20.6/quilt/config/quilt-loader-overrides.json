@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "overrides": [
+    {
+      "path":  "<mods>/nvidium-0.2.7-beta.jar",
+      "depends": [
+        {
+          "remove": {
+            "id": "sodium"
+          }
+        }
+      ]
+    }
+  ]
+}

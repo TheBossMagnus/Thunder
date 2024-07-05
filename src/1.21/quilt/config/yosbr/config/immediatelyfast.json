@@ -1,0 +1,5 @@
+{
+  "experimental_sign_text_buffering": true,
+  "experimental_screen_batching": true,
+  "universal_hud_batching":true
+}
