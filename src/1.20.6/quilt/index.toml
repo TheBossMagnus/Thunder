@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "c19dcef860c2611a5702a7c4063be1a638c83c3b637ee4306275cf4163213a2f"
+file = "config/quilt-loader-overrides.json"
+hash = "a2663a4f822af87f555a2b653884f61c2563f005aac9687f19af8eeda2f8df1c"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "da767ea6bc549f25a826ab2bfcba942ba620766c9155fbbf6a965e0f116cce63"
+hash = "509c6f91e81267b6a20bc4c89ab8ca165ad39522cc1c59861e8168ea166db8e9"
 metafile = true
 
 [[files]]
@@ -68,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "57c91a1102545d755ee320febca4902f12aecb0c562cc7db089823a723365259"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
 metafile = true
 
 [[files]]
@@ -87,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]

@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "da767ea6bc549f25a826ab2bfcba942ba620766c9155fbbf6a965e0f116cce63"
+hash = "509c6f91e81267b6a20bc4c89ab8ca165ad39522cc1c59861e8168ea166db8e9"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
