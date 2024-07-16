@@ -105,13 +105,18 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8f389594985c481d6f51e7d541878cc3fd111d10af95bb919876b94348aff901"
+hash = "0beb61db905961db02beefceed886d780df6fff3ad969f84bb4d245c6683af94"
 metafile = true
 
 [[files]]
