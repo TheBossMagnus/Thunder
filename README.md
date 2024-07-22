@@ -12,8 +12,6 @@
   </a>
   <br><br>
   <font size="6"><b>Thunder</b></font>
-  <br>
-  <font size="4">Optimize Minecraft effortlessly</font>
   <br><br>
 </center>
 
