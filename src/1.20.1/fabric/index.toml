@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "22c7d52ca111cacce58ee85c0e302d002389463dfe47c1b682799d11468f33b9"
-
-[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "34d6df705a444b14cdd649ab9fc6025ecf2f1179b2c80b38a7e4dac5aa28cb3d"
 
@@ -43,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+hash = "cc0eee8c6e2df7fa84c66ad42ce725c1ee29b1ca6c3b928f0ab7ab43f2554581"
 metafile = true
 
 [[files]]
@@ -53,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "877acc5e4524e8eb6e1afe4bcdb78586ab705526c90c6b90936f5a5480034a04"
+hash = "dd5845c1871ac495fe753326607220b119ddfe18bf0d139e011cb944da020d18"
 metafile = true
 
 [[files]]
@@ -83,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -98,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
+hash = "37976a6d30855b8e6670193cb07f969df75ed89616223daf3b72a20f75dee4d8"
 metafile = true
 
 [[files]]
