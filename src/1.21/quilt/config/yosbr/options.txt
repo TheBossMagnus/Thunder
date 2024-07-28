@@ -1,6 +1,5 @@
+enableVsync:false
 renderDistance:12
 simulationDistance:5
+maxFps:260
 graphicsMode:0
-entityShadows:false
-enableVsync:false
-fullscreen:true
