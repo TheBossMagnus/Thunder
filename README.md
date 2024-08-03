@@ -1,24 +1,21 @@
 <center>
-  <img src="https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/Logo/logo%20nobackground.png" height="auto" width="175">
-  <br><br>
+  <img src="https://www.bisecthosting.com/images/CF/Thunder/BH_TH_Header.webp">
+  <br>
   <a href="https://modrinth.com/modpack/Thunder">
     <img src="https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/Modrinth-mark.svg" height="34px" width="34px"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TheBossMagnus/Thunder">
     <img src="https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/github-mark-white.svg" height="34px" width="34px"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://modrinth.com/modpack/Thunder/versions">
     <img src="https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/Download%20icon.svg" height="34px" width="34px"/>
-  </a>
-  <br><br>
-  <font size="6"><b>Thunder</b></font>
-  <br><br>
+    </a>
 </center>
 
 ## 📃Features
 
 ### 🚀Huge Performance Boost
-![A comparison between Thunder and Vanilla showing a 250% FPS improvement](https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/PerformanceVsVanilla.png)
+![A comparison between Thunder and Vanilla showing a 250% FPS improvement](https://www.bisecthosting.com/images/CF/Thunder/BH_TH_FPS.webp)
 
 > **Setup:** Ryzen 9 7945HX, RTX 4080 Mobile, 16 GB RAM  
 > Tested on fancy graphics, 32 render, and 5 simulation distances
@@ -95,4 +92,4 @@ Thunder follows [Semantic Versioning 2.0.0](https://semver.org/), using the MAJO
 </details>
 
 ## 🙏 Support the Project
-<a href="www.bisecthosting.com/thebossmagnus"><img src="https://www.bisecthosting.com/partners/custom-banners/e961e065-c09f-479d-a021-ddfc27f73c19.webp"></a>
+<a href="www.bisecthosting.com/thebossmagnus"><img src="https://www.bisecthosting.com/images/CF/Thunder/BH_TH_PromoCard.webp"/></a>
