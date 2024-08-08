@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4477bc3dae70cc717a3b50b4b26b5a10ca5b4505f529f9c95ea43463478e4c06"
+hash = "ec343551548623a4962102693689e7a00fb251934d783c4eadb244ea9bfdee1e"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -70,8 +70,13 @@ hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
+hash = "d428c452d7b7c9cf4b79b7de81c7b472fa02bb0e1742d40725b36ef56c207760"
 metafile = true
 
 [[files]]

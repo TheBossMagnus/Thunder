@@ -11,6 +11,11 @@
         "minecraft": ""
       }
     },
+    "entityculling": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
     "nvidium": {
       "-depends": {
         "sodium": ""
