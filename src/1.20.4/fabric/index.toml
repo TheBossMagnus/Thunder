@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
+hash = "f4890f49a04d3544634ec7a4a5d6aa31a3c3cd10d1c68db18d38a74a764bbfb7"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
+hash = "c95275cea31ddab49f8c43892450e6756c70479000b55d26de27dc8fe26ef53b"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
+hash = "72e4c374b0f8085b2b96e84f8f43e6953d82b0342445c69e224ac2ef71ca890e"
 metafile = true
 
 [[files]]
