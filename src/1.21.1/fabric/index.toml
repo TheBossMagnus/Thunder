@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ec343551548623a4962102693689e7a00fb251934d783c4eadb244ea9bfdee1e"
+hash = "50d5d4a08e78c3d7108962e23c9b04ca08eaa362c29b2b1f766030f7cf8e09c9"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
 metafile = true
 
 [[files]]

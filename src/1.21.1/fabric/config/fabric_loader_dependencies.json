@@ -1,24 +1,9 @@
 {
   "version": 1,
   "overrides": {
-    "lithium": {
-      "-depends": {
-        "minecraft": ""
-      }
-    },
-    "immediatelyfast": {
-      "-depends": {
-        "minecraft": ""
-      }
-    },
     "entityculling": {
       "-depends": {
         "minecraft": ""
-      }
-    },
-    "nvidium": {
-      "-depends": {
-        "sodium": ""
       }
     }
   }
