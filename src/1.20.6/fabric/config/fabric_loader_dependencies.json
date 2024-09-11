@@ -5,11 +5,6 @@
       "-depends": {
         "sodium": ""
       }
-    },
-    "indium": {
-      "-depends": {
-        "sodium": ""
-      }
     }
   }
 }

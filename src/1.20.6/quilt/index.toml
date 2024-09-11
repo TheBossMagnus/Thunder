@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+hash = "7daaf5396b373745929024fc9be8e257efd19ba701d8b24bb4b184fb3656e0b8"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "57c91a1102545d755ee320febca4902f12aecb0c562cc7db089823a723365259"
+hash = "00bfbc47556f3fd4e776e93352e553f7d5609422325b8cc5b1a499ed344aae68"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "aa272933fae07ac23521704f6d7367f0ce437d624bf9ce50715c24b43a1f0d9c"
+hash = "1b0ded28349bc6fe77640cb1042fdcdf2267612f03e730cb403f3b4ebd359848"
 metafile = true
 
 [[files]]
