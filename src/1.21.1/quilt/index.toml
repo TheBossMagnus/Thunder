@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a4fd2e20e1a2444c6892e9f14d94b1b8802a8a4954f9e3e49045aac9b9074f23"
+hash = "5a491cd795d79416bae929c00f8976034da2fd5a8db5ba405f1545aa3170cae6"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3ea5e76c9ae59227dea01564e2570ebdea15c8b97a3c318d7dae906af44b54ea"
+hash = "64ad1ba5d5f3b474d383de855709fb1fecc72f46652b32d8a341fbb8b7ae5d51"
 metafile = true
 
 [[files]]
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
 metafile = true
 
 [[files]]
@@ -92,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "102d8be60c143a9e5e85339d3682b14330a2f76801a27714ef42913f513f7bcd"
+hash = "51d0c6f1ca98b710269f464af0bd3e130c64dfd2c5fbed2b7b1f41b7cfa09b54"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
+hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
@@ -116,18 +121,13 @@ hash = "3776494f811e3e5f07a68a6811950fc4a936f41bb1fea10b26bfefcbe87dd880"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "e33981925506a57934d71cedbbfbfad727f76efc0957e0973c8520667a0946d3"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "b82effb4e956abefdffab14dcdb34de3124ea02c57ca0586d73be0effd68daa6"
 metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
+hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
 
 [[files]]
