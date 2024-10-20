@@ -1,0 +1,77 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "9c3320fd1f540bfff755d15ed3ab823eaedd2a4eda4fef3dfcc465a72ed8f5e0"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "fe60a5347d097b78c7f2faa1d2f9aecda3ca2d5dec3ab2068726e9f39ce6cb78"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "9e74a9605d2b8d08852af562540892a1b3b6dc3f53c92c87f2a96fb1a67345b1"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "483096dc25557b52bacdc1a9a1eaf21d33ce5882136d723830001c1c82ea924f"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "12d3decf5e932d53d073a3c6c70d1677762321b5cd26ebebb8f5b6cc07cb4114"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "23425f7d1e8da4edb6308afb2eedfb5b4a604c6fdcad2d920ab2705a67157a15"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "26df7aaed06a389204a468b974ab6f00845f0ad500df42b5e7afea229e5c3b16"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "c1ef9686c2a5dfe03494258f1285e43e9fdb79b82a745c855dd9b3f0e1ffb107"
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.3.0-SNAPSHOT+1.21.2.jar"
+hash = "c4f11b778ad468c4673e0b79bbfadd8e2dc3a60da07abc6d6de15ab38afb9f87"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "0708ab8a3b9be28a5d3cd52b354a88de52b5ebc107f9237ef6154c30445ae79f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "50259291af586ba1d3dc48945500a82fe8b36aa8adacef30e55ddd400ffa529b"
+metafile = true
+
+[[files]]
+file = "mods/iris-fabric-1.8.0-snapshot+mc1.21.2-pre2-local.jar"
+hash = "2dd26dfef4faeab5df9a4d436f31facd064085e505003db5182e68e28b237a0c"
+
+[[files]]
+file = "mods/lithium-fabric-mc24w40a-0.13.1+git.dacfbc2.jar"
+hash = "64fd96ebc850620600e46061aa71ce5b2dcb174afdc5827786d1033e8d13cba0"
+
+[[files]]
+file = "mods/sodium-fabric-0.6.0-snapshot+mc1.21.2-pre2-local.jar"
+hash = "44767a7edb53154c46dcba73b6519fadb5ac8753867a7a5cdb5ad9d3f32ac34e"
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "34d8808403d641935e0803cd2b83a33689cdb351d2614e990a2c9268958a6a19"
+metafile = true
