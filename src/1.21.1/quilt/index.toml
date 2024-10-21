@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c19c6bd44cfe4763f0e31b51b7e9290a0cad7edee169bdd7d4c838dd35c8d737"
+hash = "ff13fed036fc35b0ff5a8039c723861a26559f5848d9fc5649c93ce4c2201a47"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+hash = "6951c269860b7f4f5a163c2f1f1a48f0625c7756f4d566a91e30b53abc987381"
 metafile = true
 
 [[files]]
