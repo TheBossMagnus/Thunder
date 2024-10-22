@@ -42,7 +42,7 @@ hash = "9a9a1795a329b166dbafd9682bf7bd985a5c3fb6815da8e0f7bbebc122c4f579"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0708ab8a3b9be28a5d3cd52b354a88de52b5ebc107f9237ef6154c30445ae79f"
+hash = "6fd91ccc4925776234d2960202dae76f2371a3fe2e62822d6fe26eff29fee458"
 metafile = true
 
 [[files]]
@@ -51,21 +51,28 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "50259291af586ba1d3dc48945500a82fe8b36aa8adacef30e55ddd400ffa529b"
+file = "mods/dynamic-fps.pw.toml"
+hash = "d58577dac37f07cc99311ca1e34d9b9832f185a474a83d78023be03a3f10fefe"
 metafile = true
 
 [[files]]
-file = "mods/iris-fabric-1.8.0-snapshot+mc1.21.2-pre2-local.jar"
-hash = "2dd26dfef4faeab5df9a4d436f31facd064085e505003db5182e68e28b237a0c"
+file = "mods/fabric-api.pw.toml"
+hash = "95f01e24b5619550ef8798d36b2d49f9b814d67f9b4af33535a9be02c762321c"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "d3d53e83fbebd420919804c2204e411923f8ea0c62fafa2771c0beb5ed4cfbe2"
+metafile = true
 
 [[files]]
 file = "mods/lithium-fabric-mc24w40a-0.13.1+git.dacfbc2.jar"
 hash = "64fd96ebc850620600e46061aa71ce5b2dcb174afdc5827786d1033e8d13cba0"
 
 [[files]]
-file = "mods/sodium-fabric-0.6.0-snapshot+mc1.21.1-build.350.jar"
-hash = "c2eb550410022329679d7930a77e6074b2dda2c6e194defe71a08cb1d585ff9e"
+file = "mods/sodium.pw.toml"
+hash = "cca92e4627588a252a72fa2510bf2b41506835a01f1eeb883b90452bdecf20f7"
+metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
