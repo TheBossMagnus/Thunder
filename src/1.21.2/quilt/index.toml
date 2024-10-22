@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "bc6c4a48a5b890027e672264a47a2632d0be55cd434354b07b55ba5a08ecd252"
+
+[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "9c3320fd1f540bfff755d15ed3ab823eaedd2a4eda4fef3dfcc465a72ed8f5e0"
 

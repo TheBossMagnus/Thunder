@@ -1,0 +1,15 @@
+{
+    "schema_version": 1,
+    "overrides": [
+      {
+        "path": "<mods>/ImmediatelyFast-Fabric-1.3.0-SNAPSHOT+1.21.2.jar",
+        "depends": [
+            {
+                "remove": {
+                  "id": "minecraft"
+                }
+            }
+        ]
+      }
+    ]
+  }
