@@ -1,6 +1,7 @@
 name = "Lithium"
 filename = "lithium-fabric-mc1.21.1-0.13.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/9x0igjLz/lithium-fabric-mc1.21.1-0.13.1.jar"
