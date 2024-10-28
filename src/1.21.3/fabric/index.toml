@@ -66,6 +66,11 @@ hash = "74a3dc06ef31f258f4eb6e3b053775bfe466f6b9a1bc9ae1ae333dd2a863279a"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7ed4b1f815d4c6121591cbad1d0b41fea818c4cb377b0f8f39655392f8cf63df"
 metafile = true
@@ -90,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9d8287876e77f35fd00cee4a5f11b58447f8f3c6dcb317d189e1c35dfb3143d8"
+hash = "a1cc57acc756f73f2fd9c282350ecb883df96a455c3632126705ffdb232ccbdb"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cca92e4627588a252a72fa2510bf2b41506835a01f1eeb883b90452bdecf20f7"
+hash = "0720b9be77b12ad08c6b41bfaef416d3405600aadd7a0f1078df1517eb9cd5cb"
 metafile = true
 
 [[files]]
