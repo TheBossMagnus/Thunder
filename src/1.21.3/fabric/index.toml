@@ -53,12 +53,16 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "389abdf912da1a7ee300d5603bcd0db449481c5f6ad57920163afa8f25b9f9e5"
+hash = "0d8e3adfe182798fefea493226cdea7e40a3eaba5ffad556fd2f0e24909c3817"
 metafile = true
 
 [[files]]
 file = "mods/entityculling-fabric-1.7.0-mc1.21.2+git.c04be8e.jar"
 hash = "0dfbb74bf44463635888a818a88978b64dc625dda6a71be4e351d50136353fa2"
+
+[[files]]
+file = "mods/entityculling-fabric-1.7.0-mc1.21.3+git.0084c5c.jar"
+hash = "7b4e53a880c39eb9f4417d176b66c462d77f7f1a9df2cd6061d7b58fee2e4076"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -72,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7ed4b1f815d4c6121591cbad1d0b41fea818c4cb377b0f8f39655392f8cf63df"
+hash = "ef269caaa262a2239c2c89d93f8f52aed1b75504e4e10408d802e962853fd2f3"
 metafile = true
 
 [[files]]
@@ -81,12 +85,16 @@ hash = "d3d53e83fbebd420919804c2204e411923f8ea0c62fafa2771c0beb5ed4cfbe2"
 metafile = true
 
 [[files]]
-file = "mods/lithium-fabric-mc24w40a-0.13.1+git.dacfbc2.jar"
-hash = "64fd96ebc850620600e46061aa71ce5b2dcb174afdc5827786d1033e8d13cba0"
+file = "mods/lithium-fabric-0.14.1-snapshot+mc1.21.3-build.1029.jar"
+hash = "6977125f6f15ac8a919d7123fda6bd9510de1d3981102d8f1a519dd15553cbb9"
 
 [[files]]
 file = "mods/modernfix-fabric-5.19.5-beta.10+mc1.21.3.91ff.jar"
 hash = "da51116226f06cf5ed1fd9cfced7a8dc962511ac1f1337f711e91d07124df11c"
+
+[[files]]
+file = "mods/modernfix-fabric-5.19.5-beta.16+mc1.21.3.1e0d.jar"
+hash = "9cde06c6b95b3c82458f5ee0af7834f75b9e57f987dcbed8304a4374b94b3a74"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
