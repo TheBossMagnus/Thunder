@@ -17,10 +17,6 @@ file = "config/yosbr/config/immediatelyfast.json"
 hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
-file = "config/yosbr/config/lithium.properties"
-hash = "716cb95eda4e48b6e525c8a1be7fecf933e9cf7a93d34da8f0e3438fde0a8763"
-
-[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "483096dc25557b52bacdc1a9a1eaf21d33ce5882136d723830001c1c82ea924f"
 
@@ -47,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9a3ae4bb9ad94e6661c11e186acc561baa62c99557b76d55b25f5f764dd567f6"
+hash = "312af907dbc74cccd42de859c5545f84a7098d7a2a055b1478aec928fe3a56ac"
 metafile = true
 
 [[files]]
@@ -67,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
+hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
 metafile = true
 
 [[files]]
@@ -87,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+hash = "0382e17bb9cfb6e3f111ddcc69438cfa45dfa43d367651f736ab0e2a065f69c6"
 metafile = true
 
 [[files]]
@@ -97,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
+hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
 metafile = true
 
 [[files]]
@@ -107,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9b7a2371de4ca39b009067a20bd71a35100ef87ab16a4b0b34f04fc4ace881f3"
+hash = "e92486f046ce8e0abe24b61e4be63f691746fe521014672bc363c989e177e736"
 metafile = true
 
 [[files]]
