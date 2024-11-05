@@ -31,6 +31,8 @@ jobs:
         with:
           modrinth-id: ehPxCT2J
           modrinth-token: '${{ secrets.MODRINTH }}'
+          curseforge-id: 963806
+          curseforge-token: '${{ secrets.CURSEFORGE }}'
           files: Thunder-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.mrpack
           name: Thunder ${{steps.get_version.outputs.pack}} for quilt ${{ steps.get_version.outputs.minecraft }}
           changelog-file: Changelog-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.md
@@ -43,6 +45,8 @@ jobs:
         with:
           modrinth-id: ehPxCT2J
           modrinth-token: '${{ secrets.MODRINTH }}'
+          curseforge-id: 963806
+          curseforge-token: '${{ secrets.CURSEFORGE }}'
           files: Thunder-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.mrpack
           name: Thunder ${{steps.get_version.outputs.pack}} for fabric ${{ steps.get_version.outputs.minecraft }}
           changelog-file: Changelog-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.md
