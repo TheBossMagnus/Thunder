@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "fa29ce04b5aeedcc9d9cac3531a393337fbd1e6a96d0e38ccb79ffca4a7194b8"
+hash = "18907ab0006504923b1207a66bdf25ab518821699b679f8b0edbf42ec24ff046"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ef269caaa262a2239c2c89d93f8f52aed1b75504e4e10408d802e962853fd2f3"
+hash = "a1a78f3b18ebdb5708069fe120f7b61ad4dabbf2fc3cde69fd5dc52c206cfbce"
 metafile = true
 
 [[files]]
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a1cc57acc756f73f2fd9c282350ecb883df96a455c3632126705ffdb232ccbdb"
+hash = "7407b47719f2901c0e0d0f0b5af2aa999703b78ec19b6728deecdfb724d49181"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0720b9be77b12ad08c6b41bfaef416d3405600aadd7a0f1078df1517eb9cd5cb"
+hash = "91a899313603220debbe9b19c1d36add4f2df33329b999fbae52872e4f631e3a"
 metafile = true
 
 [[files]]
