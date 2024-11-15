@@ -1,0 +1,47 @@
+[
+    {
+        "Minecraft Version": "Snapshots",
+        "Fabric": "exp",
+        "Quilt": "na"
+    },
+    {
+        "Minecraft Version": "1.21.3",
+        "Fabric": "rec",
+        "Quilt": "sup"
+    },
+    {
+        "Minecraft Version": "1.21.1",
+        "Fabric": "sup",
+        "Quilt": "sup"
+    },
+    {
+        "Minecraft Version": "1.20.6",
+        "Fabric": "sup",
+        "Quilt": "sup"
+    },
+    {
+        "Minecraft Version": "1.20.4",
+        "Fabric": "sup",
+        "Quilt": "sup"
+    },
+    {
+        "Minecraft Version": "1.20.1",
+        "Fabric": "sup",
+        "Quilt": "sup"
+    },
+    {
+        "Minecraft Version": "1.19.2",
+        "Fabric": "lts",
+        "Quilt": "lts"
+    },
+    {
+        "Minecraft Version": "1.18.2",
+        "Fabric": "lts",
+        "Quilt": "out"
+    },
+    {
+        "Minecraft Version": "1.16.5",
+        "Fabric": "lts",
+        "Quilt": "na"
+    }
+]
