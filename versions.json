@@ -5,6 +5,11 @@
         "Quilt": "na"
     },
     {
+        "Minecraft Version": "1.21.4",
+        "Fabric": "sup",
+        "Quilt": "sup"
+    },
+    {
         "Minecraft Version": "1.21.3",
         "Fabric": "rec",
         "Quilt": "sup"
