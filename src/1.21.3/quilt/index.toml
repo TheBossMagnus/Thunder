@@ -38,12 +38,12 @@ hash = "c1ef9686c2a5dfe03494258f1285e43e9fdb79b82a745c855dd9b3f0e1ffb107"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
+hash = "2bb6c29a5574f67ad7f1b60bad7acfb91ec2aa8bbe5455d412dd7abb2542de61"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b2471d8750810097c6362f26ac4d20d2b399f0e6d61e4976681cd84f99b949e6"
+hash = "d84208c3e0fcb41c0d0dc7912600ed69b99af909bf9bbe811f97bae4960b8535"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8a1219e061c3d60609c142d9fddd4ef778d437a939ecb6c49ab07ac1171f638a"
+hash = "f8561cb84f8363bd92c2bb7f20f774f4f64f7b248c4e2a1fa5d0069dcd1a43ae"
 metafile = true
 
 [[files]]
@@ -73,17 +73,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a1a78f3b18ebdb5708069fe120f7b61ad4dabbf2fc3cde69fd5dc52c206cfbce"
+hash = "c79a98c5013dd8f1e219043aef5d77a969f9703455c5d4ca50e366ba943d0295"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f081dddf8283dd5ba0db0bac8f438f4ce645b9beda391e901f27bbf2f5890d25"
+hash = "743e2829fd76c27c711c54b045880f64f9e67444c78476096fec18879c441764"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "92fa35a4712bf3ef1220d4d5d5542dfdb18fef07d04044aee03781e76aada1ee"
+hash = "0d50516f7ba174f3bc8fb4c12e1200d82649ca5e3b3f42de408d420bfa13fd2d"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ hash = "9cde06c6b95b3c82458f5ee0af7834f75b9e57f987dcbed8304a4374b94b3a74"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b1c44fce799dc98d07a3b5b28ea58ddb3ed19a16e5caffa1e736275aab026286"
+hash = "8df15e4c82204449bc611392e13ba20e6586e9be5aedc65260deead2de0b00f6"
 metafile = true
 
 [[files]]
@@ -102,12 +102,13 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd921a70bb9cede4a5b6bada6d9e924c6afdf8926f912f3b04c5e9d4cdbf34e1"
+hash = "c6f6afe0d2c5bb33fe2308469775094432eb33b5e9140c1beaed51f7446002d2"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak-fabric-0.1.6+mc1.21.3.jar"
-hash = "1756a1b44c579db65e53859c89ca1acf8e5820b26e5d74fb402a88fdccc471db"
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
