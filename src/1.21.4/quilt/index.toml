@@ -1,0 +1,124 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "0f64b424d6627754132356f311f6a8292f474610e56a702e99c062e658e78b74"
+
+[[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "9c3320fd1f540bfff755d15ed3ab823eaedd2a4eda4fef3dfcc465a72ed8f5e0"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "fe60a5347d097b78c7f2faa1d2f9aecda3ca2d5dec3ab2068726e9f39ce6cb78"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "2a1b6ea03785edb6a26a2bed794a8b9937809a90e48e4fd5f21f7645b21b8b56"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "12d3decf5e932d53d073a3c6c70d1677762321b5cd26ebebb8f5b6cc07cb4114"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "23425f7d1e8da4edb6308afb2eedfb5b4a604c6fdcad2d920ab2705a67157a15"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "26df7aaed06a389204a468b974ab6f00845f0ad500df42b5e7afea229e5c3b16"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "c1ef9686c2a5dfe03494258f1285e43e9fdb79b82a745c855dd9b3f0e1ffb107"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "2bb6c29a5574f67ad7f1b60bad7acfb91ec2aa8bbe5455d412dd7abb2542de61"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "62a0722e0f2c2bff2bbd8047eda17b9a74dbc35ae86ba307e54f73145d184500"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "f8561cb84f8363bd92c2bb7f20f774f4f64f7b248c4e2a1fa5d0069dcd1a43ae"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-fabric-1.7.1-mc1.21.4+git.fe04ed9.jar"
+hash = "6638ff32af6e9dddeab6fc1e7709c17a7999006b9028357e7df13821b800cabc"
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fe4a894703704d94bdf7b5cfed82137b5a11f9953852a033d77e57b09614ce5b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b560ec1ece536f7ad76fc7515798295683b41acf4392ccd1209397de48146496"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "fab5229d04b641be34afd2311065bca94fc8d59f9a78b9401e1dc6e9ac6dff31"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5.19.5-beta.16+mc1.21.3.1e0d.jar"
+hash = "9cde06c6b95b3c82458f5ee0af7834f75b9e57f987dcbed8304a4374b94b3a74"
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "e98ab94b7a9717621219a085416783de75c84aecdab6eae5413143bfab874639"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "844a0c4a5001591c8bd14f908f4bb96d11a6892c7384b89909620df1f4689b7c"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "34d8808403d641935e0803cd2b83a33689cdb351d2614e990a2c9268958a6a19"
+metafile = true
