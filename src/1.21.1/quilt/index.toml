@@ -38,7 +38,7 @@ hash = "c1ef9686c2a5dfe03494258f1285e43e9fdb79b82a745c855dd9b3f0e1ffb107"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "515e6bb16a175b9d23a85e9d4ea1c00145d3b85ccb44dc3d8762209538b5c3ba"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a3a71d4e43c18e668b71112c5e618c5e5109a07570b6f6d9469b5c274c59a8c7"
+hash = "fe702ebfc0039f8b964f1a7d5329e85a82ad76a1727391c199d922cd273b1446"
 metafile = true
 
 [[files]]
@@ -78,17 +78,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9d52cb38be989efc4c99d47cb9b6b0eee0b86679b29be6135c5fdb8ecbfbd26"
+hash = "88a820c55f782886fbb3d063b1db33d89c924012b20554cd5aec3d27f3ce1819"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ef19c1c85edcb9a19dc784c264497f6191579942b63e6343daaf6c9cdd9a3b78"
+hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
+hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
 metafile = true
 
 [[files]]
