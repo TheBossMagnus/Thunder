@@ -17,10 +17,6 @@ file = "config/yosbr/config/immediatelyfast.json"
 hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
-file = "config/yosbr/config/lithium.properties"
-hash = "1cc3de177846959fe48df1eda86493f0aea86a20dfc6a13503167b59a66c2495"
-
-[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "483096dc25557b52bacdc1a9a1eaf21d33ce5882136d723830001c1c82ea924f"
 
@@ -42,7 +38,7 @@ hash = "c1ef9686c2a5dfe03494258f1285e43e9fdb79b82a745c855dd9b3f0e1ffb107"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "6c5a2fc560751c90dd40b0be4a28c9271aea8d2cf2d5c59cbfa3014e53dbfea6"
+hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
 
 [[files]]
@@ -57,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b515423db12e83ce2fb23bcea7ec191f9fa9255bdce85af9057820321dd2a554"
+hash = "6aca4f1c5a15dbdc330844e09ce700ad82cd96c409c78447aa7fcb85ac226ba2"
 metafile = true
 
 [[files]]
@@ -67,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8b8cdd4d7de9b4fa17ec9db5b0995c26ecd0c04595e95ccb4e7766d38a8a82cf"
+hash = "bc7d8253f56d74d7cde9b4e8fa0a99f967dc7165d564c959e138f23db3559426"
 metafile = true
 
 [[files]]
@@ -77,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "06f59353b63e48fb3b7f0684ffad3c1cc7bbae2ed39c7749df6cda3dd85f3daa"
+hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
 metafile = true
 
 [[files]]
@@ -97,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7121db2ef3656272d19fd9210e2d1fc31072ac4fdbc3d98f717807c92460ba77"
+hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
 metafile = true
 
 [[files]]
@@ -112,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
+hash = "f2644c0b7c14e9f76afc4e042970f010636e98a116ed92e624e87f01a782aab6"
 metafile = true
 
 [[files]]
