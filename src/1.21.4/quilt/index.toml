@@ -65,11 +65,6 @@ file = "mods/entityculling-fabric-1.7.1-mc1.21.4+git.fe04ed9.jar"
 hash = "6638ff32af6e9dddeab6fc1e7709c17a7999006b9028357e7df13821b800cabc"
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "fe4a894703704d94bdf7b5cfed82137b5a11f9953852a033d77e57b09614ce5b"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b560ec1ece536f7ad76fc7515798295683b41acf4392ccd1209397de48146496"
 metafile = true
