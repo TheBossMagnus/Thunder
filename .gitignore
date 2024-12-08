@@ -1,2 +1,4 @@
 bin/
 *.mrpack
+*.jar
+*.zip
