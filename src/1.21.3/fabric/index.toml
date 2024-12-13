@@ -38,17 +38,17 @@ hash = "c1ef9686c2a5dfe03494258f1285e43e9fdb79b82a745c855dd9b3f0e1ffb107"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "2bb6c29a5574f67ad7f1b60bad7acfb91ec2aa8bbe5455d412dd7abb2542de61"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d84208c3e0fcb41c0d0dc7912600ed69b99af909bf9bbe811f97bae4960b8535"
+hash = "4c86841a5f21942896ac2524a4197d3231c30734015c184e54b698018e1f06ae"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
+hash = "4700fcc4fa1f3565cf3ef54dad8673bc940d83652b07dd2461c88b4a5b38aa16"
 metafile = true
 
 [[files]]
@@ -58,12 +58,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fe4a894703704d94bdf7b5cfed82137b5a11f9953852a033d77e57b09614ce5b"
+hash = "d16fadf58ef4bfe7abc9b53e8b97b5bf9125d5378228dad4378a0d935351fa9a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "455caee0f4c53abd8ae4d5f528a8b1fb513b181dffff9e9659cd746571220ee8"
+hash = "129e8e41a2c4da6b61ca3818cd98f0759f40e39fbac367d45a30511e76c2ac37"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c6f6afe0d2c5bb33fe2308469775094432eb33b5e9140c1beaed51f7446002d2"
+hash = "9f996a694aa0158ca74da3ae08fb418753b7391d3d67b28df15e89db7e31e48d"
 metafile = true
 
 [[files]]
