@@ -1,0 +1,84 @@
+{
+    "minecraft": {
+        "version": "1.21.4",
+        "modLoaders": [
+            {
+                "id": "fabric-0.16.9",
+                "primary": true
+            }
+        ]
+    },
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "name": "Thunder",
+    "version": "1.0.10",
+    "author": "",
+    "files": [
+        {
+            "projectID": 949555,
+            "fileID": 5961453,
+            "required": true
+        },
+        {
+            "projectID": 348521,
+            "fileID": 5987042,
+            "required": true
+        },
+        {
+            "projectID": 533097,
+            "fileID": 5996263,
+            "required": true
+        },
+        {
+            "projectID": 335493,
+            "fileID": 5959833,
+            "required": true
+        },
+        {
+            "projectID": 448233,
+            "fileID": 5968862,
+            "required": true
+        },
+        {
+            "projectID": 306612,
+            "fileID": 6002884,
+            "required": true
+        },
+        {
+            "projectID": 459857,
+            "fileID": 5973419,
+            "required": true
+        },
+        {
+            "projectID": 686911,
+            "fileID": 5959940,
+            "required": true
+        },
+        {
+            "projectID": 455508,
+            "fileID": 5983970,
+            "required": true
+        },
+        {
+            "projectID": 360438,
+            "fileID": 5959998,
+            "required": true
+        },
+        {
+            "projectID": 308702,
+            "fileID": 5960785,
+            "required": true
+        },
+        {
+            "projectID": 630104,
+            "fileID": 5991733,
+            "required": true
+        },
+        {
+            "projectID": 394468,
+            "fileID": 6000094,
+            "required": true
+        }
+    ],
+    "overrides": "overrides"
+}

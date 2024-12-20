@@ -1,0 +1,1057 @@
+{
+    "target": "multiplatform",
+    "mc_versions": [
+        "1.16.5"
+    ],
+    "loaders": {
+        "fabric": "0.16.9"
+    },
+    "projects": [
+        {
+            "pakku_id": "pnyS7R8oGhDpoM7C",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cloth-config",
+                "modrinth": "cloth-config"
+            },
+            "name": {
+                "curseforge": "Cloth Config API (Fabric/Forge/NeoForge)",
+                "modrinth": "Cloth Config API"
+            },
+            "id": {
+                "curseforge": "348521",
+                "modrinth": "9s6osm5g"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cloth-config-4.17.132-fabric.jar",
+                    "mc_versions": [
+                        "1.16.5",
+                        "1.16.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5729/82/cloth-config-4.17.132-fabric.jar",
+                    "id": "5729082",
+                    "parent_id": "348521",
+                    "hashes": {
+                        "sha1": "48413cb2022b2da5a3a67bb105c7915dba2b93f2",
+                        "md5": "94dc513b3adf10801928f3bf52ddf5e4"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1130797,
+                    "date_published": "2024-09-16T17:06:26.307Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cloth-config-4.17.101-fabric.jar",
+                    "mc_versions": [
+                        "1.16.4",
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xMTUxQCV/cloth-config-4.17.101-fabric.jar",
+                    "id": "xMTUxQCV",
+                    "parent_id": "9s6osm5g",
+                    "hashes": {
+                        "sha512": "fdfb4000999e1b443a8770377b5004b536d685c6e9be7f68428f2666d8f4b3606aaf0218fb292c1de25816fc6e9bb8b548f47fdae341e5adee525ada4dfa2ab8",
+                        "sha1": "0c1311b8657bcde82b8cc755e9a5da5479a8e984"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1117847,
+                    "date_published": "2023-07-09T13:30:06.091528Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hgCa7QjI0Ah6f5Ui",
+            "pakku_links": [
+                "gB8V3QyLsc5KFalg"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "dynamic-fps",
+                "modrinth": "dynamic-fps"
+            },
+            "name": {
+                "curseforge": "Dynamic FPS",
+                "modrinth": "Dynamic FPS"
+            },
+            "id": {
+                "curseforge": "335493",
+                "modrinth": "LQ3K71Q1"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dynamic-fps-3.7.7+minecraft-1.16.4-fabric.jar",
+                    "mc_versions": [
+                        "1.16.5",
+                        "1.16.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5959/740/dynamic-fps-3.7.7+minecraft-1.16.4-fabric.jar",
+                    "id": "5959740",
+                    "parent_id": "335493",
+                    "hashes": {
+                        "sha1": "b8c4c47d8c5a582c80dfebe5286c91c484916deb",
+                        "md5": "bb184791fdcc92e9d1977a45c4a1ceee"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 187793,
+                    "date_published": "2024-12-03T17:51:45.673Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "dynamic-fps-3.7.7+minecraft-1.16.4-fabric.jar",
+                    "mc_versions": [
+                        "1.16.4",
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/xnFKmrSa/dynamic-fps-3.7.7+minecraft-1.16.4-fabric.jar",
+                    "id": "xnFKmrSa",
+                    "parent_id": "LQ3K71Q1",
+                    "hashes": {
+                        "sha512": "1d7e12e8bfd9bf7b2bb06ddde403e574da94c8e32037517bef4be9cc10127182c8c8bd6747afa3680a6cfb1bd7795632d87fffec93a3ec87043d878f1ad54a26",
+                        "sha1": "b8c4c47d8c5a582c80dfebe5286c91c484916deb"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 187793,
+                    "date_published": "2024-12-03T17:51:47.286761Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uSMCh9THpOyZ2OU3",
+            "pakku_links": [
+                "gB8V3QyLsc5KFalg"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "enhanced-block-entities",
+                "modrinth": "ebe"
+            },
+            "name": {
+                "curseforge": "Enhanced Block Entities",
+                "modrinth": "Enhanced Block Entities"
+            },
+            "id": {
+                "curseforge": "452046",
+                "modrinth": "OVuFYfre"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "enhancedblockentities-0.4--1.16.x.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3378/154/enhancedblockentities-0.4--1.16.x.jar",
+                    "id": "3378154",
+                    "parent_id": "452046",
+                    "hashes": {
+                        "sha1": "5b815b595ac5e40123845e1bb03c95392ad1a7dd",
+                        "md5": "625fe041faa263e08495df2907356d30"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 247198,
+                    "date_published": "2021-07-06T01:49:59.237Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "enhancedblockentities-0.4--1.16.x.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4/enhancedblockentities-0.4--1.16.x.jar",
+                    "id": "HHqDCd5p",
+                    "parent_id": "OVuFYfre",
+                    "hashes": {
+                        "sha512": "baa978ba883afa5b5af5961c673816700c97e50fe71964e6c0fffb9041282ac714d84319508fed58b18f5b4d56d0acb3f1d14a6faed7f62d20d9b00fa4c9a35d",
+                        "sha1": "5b815b595ac5e40123845e1bb03c95392ad1a7dd"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 247198,
+                    "date_published": "2021-07-06T01:47:44.462664Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "zq6HqhF9tChuTQ8i",
+            "pakku_links": [
+                "gB8V3QyLsc5KFalg"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "entityculling",
+                "modrinth": "entityculling"
+            },
+            "name": {
+                "curseforge": "Entity Culling Fabric/Forge",
+                "modrinth": "Entity Culling"
+            },
+            "id": {
+                "curseforge": "448233",
+                "modrinth": "NNAgCjsB"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "entityculling-fabric-mc1.16.5-1.5.2.jar",
+                    "mc_versions": [
+                        "1.16.3",
+                        "1.16.1",
+                        "1.16",
+                        "1.16.5",
+                        "1.16.4",
+                        "1.16.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3760/390/entityculling-fabric-mc1.16.5-1.5.2.jar",
+                    "id": "3760390",
+                    "parent_id": "448233",
+                    "hashes": {
+                        "sha1": "d511d96a29e8054b2835d05814b1d65ba91d55c4",
+                        "md5": "877dcbc4cdc0b9d9e5fb0cc4c39f4ab4"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 44133,
+                    "date_published": "2022-04-20T12:17:48.170Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "entityculling-fabric-mc1.16.5-1.5.2.jar",
+                    "mc_versions": [
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-fabric-1.16/entityculling-fabric-mc1.16.5-1.5.2.jar",
+                    "id": "Qek7k92S",
+                    "parent_id": "NNAgCjsB",
+                    "hashes": {
+                        "sha512": "843a8630cf9038eb2c2ebd9f6249e0bf6dbadb92ce3dfbbd55e2e768b820942e70ab1cde2019c43b72d69a859b8fd1cb1c54c90097499e12f098b724256a3bf2",
+                        "sha1": "d511d96a29e8054b2835d05814b1d65ba91d55c4"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 44133,
+                    "date_published": "2022-05-25T10:09:09.815259Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gB8V3QyLsc5KFalg",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fabric-api",
+                "modrinth": "fabric-api"
+            },
+            "name": {
+                "curseforge": "Fabric API",
+                "modrinth": "Fabric API"
+            },
+            "id": {
+                "curseforge": "306612",
+                "modrinth": "P7dR8mSH"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-api-0.42.0+1.16.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3516/413/fabric-api-0.42.0+1.16.jar",
+                    "id": "3516413",
+                    "parent_id": "306612",
+                    "hashes": {
+                        "sha1": "54970c87bc1cf0bb93df57ec3a0b3bbb67c7ab0c",
+                        "md5": "a0c502455195b498a8f5b4f5c15e6a04"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1090414,
+                    "date_published": "2021-11-05T17:41:54.367Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fabric-api-0.42.0+1.16.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.42.0+1.16/fabric-api-0.42.0+1.16.jar",
+                    "id": "IQ3UGSc2",
+                    "parent_id": "P7dR8mSH",
+                    "hashes": {
+                        "sha512": "20defa796ea605fbad3285a7216c3bf8ac88bffbd0eee997c77e49dd6fbcf86631ef4ab75ab571d3d402181d1aa5c2bd945985a5119b411ef014b31c4ee1a5fb",
+                        "sha1": "54970c87bc1cf0bb93df57ec3a0b3bbb67c7ab0c"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1090414,
+                    "date_published": "2021-11-05T17:41:57.870545Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "JnwFD3yl60iUQJ84",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ferritecore-fabric",
+                "modrinth": "ferrite-core"
+            },
+            "name": {
+                "curseforge": "FerriteCore (Fabric)",
+                "modrinth": "FerriteCore"
+            },
+            "id": {
+                "curseforge": "459857",
+                "modrinth": "uXXizFIs"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ferritecore-2.1.1-fabric.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4074/335/ferritecore-2.1.1-fabric.jar",
+                    "id": "4074335",
+                    "parent_id": "459857",
+                    "hashes": {
+                        "sha1": "d099bf16b03666705173120d933facd0c0f33e44",
+                        "md5": "40fcf4130c80eb010769162cbd0e01b9"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 109960,
+                    "date_published": "2022-11-08T16:49:48.497Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ferritecore-2.1.1-fabric.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3UkWIj4a/ferritecore-2.1.1-fabric.jar",
+                    "id": "3UkWIj4a",
+                    "parent_id": "uXXizFIs",
+                    "hashes": {
+                        "sha512": "77881a04bc28fc409da30dd469fb59d2aae56baad667fe7a811d9b14ce0c255f6a1e5d67d26fb9c0527ba0e28522f073f12a0102f4ea9490bf80492311046422",
+                        "sha1": "d099bf16b03666705173120d933facd0c0f33e44"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 109960,
+                    "date_published": "2022-11-08T16:50:55.222964Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "IQp0crZbVkbDRFrD",
+            "pakku_links": [
+                "yT0qGMVC5VD1CXXV"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "indium",
+                "modrinth": "indium"
+            },
+            "name": {
+                "curseforge": "Indium",
+                "modrinth": "Indium"
+            },
+            "id": {
+                "curseforge": "459496",
+                "modrinth": "Orvt0mRa"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "indium-1.0.0+mc1.16.5.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3484/850/indium-1.0.0+mc1.16.5.jar",
+                    "id": "3484850",
+                    "parent_id": "459496",
+                    "hashes": {
+                        "sha1": "c14cf642257bd416ed53244cfde993b2d98e5487",
+                        "md5": "4247babd00fe95c49926f30e3b14bb8f"
+                    },
+                    "required_dependencies": [
+                        "394468"
+                    ],
+                    "size": 114793,
+                    "date_published": "2021-10-08T14:21:10.607Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "indium-1.0.0+mc1.16.5.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.16.5/indium-1.0.0+mc1.16.5.jar",
+                    "id": "Zk2jPxcx",
+                    "parent_id": "Orvt0mRa",
+                    "hashes": {
+                        "sha512": "c2abb988a3a5f6a487c26f65ea80c3c7d5830dc9f1078b2e00f8dd07727c9b9287de690005b2cd8848e01a8012a0ab508a3bcb4c92f83a0afe17bbe5d56dc5c6",
+                        "sha1": "c14cf642257bd416ed53244cfde993b2d98e5487"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI"
+                    ],
+                    "size": 114793,
+                    "date_published": "2021-07-19T19:25:10.142971Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yZky1xzWOIJaJV0l",
+            "pakku_links": [
+                "yT0qGMVC5VD1CXXV"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "irisshaders",
+                "modrinth": "iris"
+            },
+            "name": {
+                "curseforge": "Iris Shaders",
+                "modrinth": "Iris Shaders"
+            },
+            "id": {
+                "curseforge": "455508",
+                "modrinth": "YL57xq9U"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "iris-mc1.16.5-1.4.5.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4143/798/iris-mc1.16.5-1.4.5.jar",
+                    "id": "4143798",
+                    "parent_id": "455508",
+                    "hashes": {
+                        "sha1": "acb756a485f35d1d34682eb89009555284951b99",
+                        "md5": "b614f8aa7ff5529eaa7df66d4fc990ab"
+                    },
+                    "required_dependencies": [
+                        "394468"
+                    ],
+                    "size": 2557920,
+                    "date_published": "2022-12-07T21:26:38.400Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "iris-mc1.16.5-1.4.5.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1turazSM/iris-mc1.16.5-1.4.5.jar",
+                    "id": "1turazSM",
+                    "parent_id": "YL57xq9U",
+                    "hashes": {
+                        "sha512": "3afd274ead540ef266d033751c8deb0780b0034ba33798ae248bdc45f773e47db153d405c9cd2356d29ae3da3d0cb558d2f0cae41f72463e750a45706005c74b",
+                        "sha1": "acb756a485f35d1d34682eb89009555284951b99"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI"
+                    ],
+                    "size": 2557920,
+                    "date_published": "2022-12-07T21:26:43.405328Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "SB5yE1u32VYuqhte",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "lazydfu",
+                "modrinth": "lazydfu"
+            },
+            "name": {
+                "curseforge": "LazyDFU",
+                "modrinth": "LazyDFU"
+            },
+            "id": {
+                "curseforge": "433518",
+                "modrinth": "hvFnDODi"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lazydfu-0.1.2.jar",
+                    "mc_versions": [
+                        "1.16-Snapshot",
+                        "1.16.3",
+                        "1.16.1",
+                        "1.16",
+                        "1.16.5",
+                        "1.16.4",
+                        "1.16.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3209/972/lazydfu-0.1.2.jar",
+                    "id": "3209972",
+                    "parent_id": "433518",
+                    "hashes": {
+                        "sha1": "2efec5781f1271bdcdae462eee402ccb97bff6fe",
+                        "md5": "b2597e901c05673ef2834dad32da8824"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 15517,
+                    "date_published": "2021-02-19T22:51:48.723Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lazydfu-0.1.2.jar",
+                    "mc_versions": [
+                        "1.14",
+                        "1.14.1",
+                        "1.14.2",
+                        "1.14.3",
+                        "1.14.4",
+                        "1.15",
+                        "1.15.1",
+                        "1.15.2",
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar",
+                    "id": "C6e265zK",
+                    "parent_id": "hvFnDODi",
+                    "hashes": {
+                        "sha512": "20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b9339a4d4a03d175f648c8be8601d131776a9a6bdb8832cecdda6fc46498",
+                        "sha1": "2efec5781f1271bdcdae462eee402ccb97bff6fe"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 15517,
+                    "date_published": "2021-02-19T22:53:25.812236Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vP62AVIU38V03mmR",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "lithium",
+                "modrinth": "lithium"
+            },
+            "name": {
+                "curseforge": "Lithium (Fabric/NeoForge)",
+                "modrinth": "Lithium"
+            },
+            "id": {
+                "curseforge": "360438",
+                "modrinth": "gvQqBUqZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lithium-fabric-mc1.16.5-0.6.6.jar",
+                    "mc_versions": [
+                        "1.16.3",
+                        "1.16.5",
+                        "1.16.4",
+                        "1.16.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3344/974/lithium-fabric-mc1.16.5-0.6.6.jar",
+                    "id": "3344974",
+                    "parent_id": "360438",
+                    "hashes": {
+                        "sha1": "ff9416b228333b481cdc98ec50c5f9944225d16b",
+                        "md5": "19f9a82b0753ae21430761a8916f0533"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 349400,
+                    "date_published": "2021-06-09T13:11:30.147Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lithium-fabric-mc1.16.5-0.6.6.jar",
+                    "mc_versions": [
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar",
+                    "id": "rvsW1zhb",
+                    "parent_id": "gvQqBUqZ",
+                    "hashes": {
+                        "sha512": "bb2dd085a6c5fcf86ba9a63d680fb5144a5788efe9c00a9417d978722dbb84163e47bb545c310869647924dad89bcfe2bbe04cd64476b304eada914083e5c094",
+                        "sha1": "ff9416b228333b481cdc98ec50c5f9944225d16b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 349400,
+                    "date_published": "2021-06-09T13:10:44.980214Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yzf6M5SU6iD8l9MU",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "modmenu",
+                "modrinth": "modmenu"
+            },
+            "name": {
+                "curseforge": "Mod Menu",
+                "modrinth": "Mod Menu"
+            },
+            "id": {
+                "curseforge": "308702",
+                "modrinth": "mOgUt4GM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "modmenu-1.16.23.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3850/92/modmenu-1.16.23.jar",
+                    "id": "3850092",
+                    "parent_id": "308702",
+                    "hashes": {
+                        "sha1": "62f87d6d548da07c46687baa09fb29daf0510870",
+                        "md5": "e80d867cfb4e1cf286191f75ff28ca62"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 317076,
+                    "date_published": "2022-06-27T13:36:25.310Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "modmenu-1.16.23.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.23/modmenu-1.16.23.jar",
+                    "id": "aShj7736",
+                    "parent_id": "mOgUt4GM",
+                    "hashes": {
+                        "sha512": "c7d28a070319e0019e85fd4fe69cf90eab9ad8350204e4723a00870aba9b98f487113102b10769129abdcffa1c0b796e63719a29137dd642a0ebef42860049f7",
+                        "sha1": "62f87d6d548da07c46687baa09fb29daf0510870"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 317076,
+                    "date_published": "2022-06-27T13:43:26.953078Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gN7V2ZxsIpud7A48",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "modernfix",
+                "modrinth": "modernfix"
+            },
+            "name": {
+                "curseforge": "ModernFix",
+                "modrinth": "ModernFix"
+            },
+            "id": {
+                "curseforge": "790626",
+                "modrinth": "nmDcB62a"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "modernfix-fabric-5.18.0+mc1.16.5.jar",
+                    "mc_versions": [
+                        "1.16.5",
+                        "1.16.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5399/355/modernfix-fabric-5.18.0+mc1.16.5.jar",
+                    "id": "5399355",
+                    "parent_id": "790626",
+                    "hashes": {
+                        "sha1": "a9971e7a3c7652409747a2daf23245a90703cf4d",
+                        "md5": "1a1271bbf58901af7ecf32eb5dc35d44"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 614422,
+                    "date_published": "2024-06-05T00:00:56.863Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "modernfix-fabric-5.18.0+mc1.16.5.jar",
+                    "mc_versions": [
+                        "1.16.4",
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/mDqpjmKe/modernfix-fabric-5.18.0+mc1.16.5.jar",
+                    "id": "mDqpjmKe",
+                    "parent_id": "nmDcB62a",
+                    "hashes": {
+                        "sha512": "49ef4748b0e5771ddeea36bccbc9250081a5fcc910af2ef92734054ea6e01ac57f38c46590ff03db74f8bc3089e00c0ce72c88f5b672f277bfe7a47707499194",
+                        "sha1": "a9971e7a3c7652409747a2daf23245a90703cf4d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 614422,
+                    "date_published": "2024-06-05T00:01:01.050620Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jQpfGae8JExIo0zl",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "smoothboot-fabric"
+            },
+            "name": {
+                "modrinth": "Smooth Boot (Fabric)"
+            },
+            "id": {
+                "modrinth": "FWumhS4T"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "smoothboot-fabric-1.16.5-1.6.0.jar",
+                    "mc_versions": [
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FWumhS4T/versions/1.16.5-1.6.0/smoothboot-fabric-1.16.5-1.6.0.jar",
+                    "id": "nPGcelzS",
+                    "parent_id": "FWumhS4T",
+                    "hashes": {
+                        "sha512": "6ce1272a1e82e62299419a09c24263c303f4e233c7331eb83df66a65bfb9f1f6bd33a4b65aaa42f83166f431033c962901a07762a84fc99d07cf07c6cfe9254c",
+                        "sha1": "a0d5419980f8c65c6256483b864269cfe302894d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 88644,
+                    "date_published": "2021-03-22T19:30:42.082391Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yT0qGMVC5VD1CXXV",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "sodium",
+                "modrinth": "sodium"
+            },
+            "name": {
+                "curseforge": "Sodium",
+                "modrinth": "Sodium"
+            },
+            "id": {
+                "curseforge": "394468",
+                "modrinth": "AANobbMI"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+                    "mc_versions": [
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3488/820/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+                    "id": "3488820",
+                    "parent_id": "394468",
+                    "hashes": {
+                        "sha1": "bf03460f1f82f355d1fe23a27ee81c3ed24e54dc",
+                        "md5": "98914f22cfe2d0ea5d8007ae8ff96062"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 507710,
+                    "date_published": "2021-10-12T13:21:19.947Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+                    "mc_versions": [
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+                    "id": "YAGZ1cCS",
+                    "parent_id": "AANobbMI",
+                    "hashes": {
+                        "sha512": "de0ec6cc85a9b90a4a2dc43ca81db962691cb95362bde8db54115c8fadf257d97fc05267832b14f2e576af4743dfde9d79e3deeea0b46b2685085fa1e21d50ee",
+                        "sha1": "bf03460f1f82f355d1fe23a27ee81c3ed24e54dc"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 507710,
+                    "date_published": "2021-06-17T21:43:30.893775Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7V1rZp3rn7oTZbvD",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "yosbr",
+                "modrinth": "yosbr"
+            },
+            "name": {
+                "curseforge": "Your Options Shall Be Respected (YOSBR)",
+                "modrinth": "Your Options Shall Be Respected (YOSBR)"
+            },
+            "id": {
+                "curseforge": "374274",
+                "modrinth": "WwbubTsV"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "yosbr-0.1.2.jar",
+                    "mc_versions": [
+                        "1.16-Snapshot",
+                        "1.16.3",
+                        "1.16.1",
+                        "1.16",
+                        "1.16.5",
+                        "1.16.4",
+                        "1.16.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4581/910/yosbr-0.1.2.jar",
+                    "id": "4581910",
+                    "parent_id": "374274",
+                    "hashes": {
+                        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+                        "md5": "9fcce225f25b6fd17921c87ff1c720f1"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 17373,
+                    "date_published": "2023-06-12T08:04:37.390Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "yosbr-0.1.2.jar",
+                    "mc_versions": [
+                        "1.14",
+                        "1.14.1",
+                        "1.14.2",
+                        "1.14.3",
+                        "1.14.4",
+                        "1.15",
+                        "1.15.1",
+                        "1.15.2",
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar",
+                    "id": "KMOzdYko",
+                    "parent_id": "WwbubTsV",
+                    "hashes": {
+                        "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78",
+                        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 17373,
+                    "date_published": "2023-06-12T08:06:07.649412Z"
+                }
+            ]
+        }
+    ],
+    "lockfile_version": 1
+}
