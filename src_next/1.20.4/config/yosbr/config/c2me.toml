@@ -1,0 +1,8 @@
+version = 3
+
+[clientSideConfig]
+	[clientSideConfig.modifyMaxVDConfig]
+		enabled = false
+
+[noTickViewDistance]
+	maxConcurrentChunkLoads = 10
