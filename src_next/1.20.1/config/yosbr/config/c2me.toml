@@ -2,9 +2,7 @@ version = 3
 
 [clientSideConfig]
 	[clientSideConfig.modifyMaxVDConfig]
-		enableExtRenderDistanceProtocol = false
 		enabled = false
 
 [noTickViewDistance]
-	enableExtRenderDistanceProtocol = false
-	maxViewDistance = 32
+	maxConcurrentChunkLoads = 10
