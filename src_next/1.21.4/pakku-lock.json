@@ -44,8 +44,7 @@
                         "sha1": "8bafe2a3ce1a3c6c48bb243dde3cbd9c5b510a01",
                         "md5": "984855df89f899e6b3c08219b59371a3"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 109756,
                     "date_published": "2024-12-04T05:56:37.260Z"
                 },
@@ -69,8 +68,7 @@
                         "sha512": "c5ec3cf6bc621e867223584454f47fb8c6cbcefc961ba0ef7b7eb848dc287d0682b92677e1b965e2d1b481c451bfc9ebd7d0d3a8a644d05b7a9e1e417462fb64",
                         "sha1": "8bafe2a3ce1a3c6c48bb243dde3cbd9c5b510a01"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 109756,
                     "date_published": "2024-12-04T21:49:38.227977Z"
                 }
@@ -111,8 +109,7 @@
                         "sha1": "63a1a3b25c642f5a745dfcc9bdc0841660f560af",
                         "md5": "07b7d5bc15bdc7387cf8890d0c460b54"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1152857,
                     "date_published": "2024-12-13T06:35:55.113Z"
                 },
@@ -133,8 +130,7 @@
                         "sha512": "ecc59da51149250284b0752475c7b328e0b0325888948391597afc638d6e67fa436297af12d2067376de0098ffa6ca86aa3b8d6011356c179222404c701c6345",
                         "sha1": "63a1a3b25c642f5a745dfcc9bdc0841660f560af"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1152857,
                     "date_published": "2024-12-13T06:36:00.768326Z"
                 }
@@ -174,8 +170,7 @@
                         "sha1": "ef9996d8603bb69dd6f371316dc67e9f0b446426",
                         "md5": "caa63a43ef6f5c1b8d15f9971a326b04"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 4655872,
                     "date_published": "2024-12-16T16:01:06.240Z"
                 },
@@ -196,8 +191,7 @@
                         "sha512": "09860f08d3dc31f2e3633979f2af4842b6c9ff965459260a28af0bd7a794687da0486af4140dac2d505f2c0d8b3b279541c9737ce86c9b042d8508478849fa77",
                         "sha1": "ef9996d8603bb69dd6f371316dc67e9f0b446426"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 4655872,
                     "date_published": "2024-12-16T15:57:38.135375Z"
                 }
@@ -378,8 +372,7 @@
                         "sha1": "2e2900453b5d930eeb704fcd1f7d03b3a426d46c",
                         "md5": "85d141e3562e50ca079012af72ac2d6f"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 2065392,
                     "date_published": "2024-12-18T19:08:42.030Z"
                 },
@@ -400,8 +393,7 @@
                         "sha512": "e9ee02c7e7cc8c7888dce66bc1378a6debf00ddd173ba775edbee57465ee2dc39b6c86e2529d18eaad1ac2c4464c24670ffe4fcb759c1659ef3e666b0505e694",
                         "sha1": "2e2900453b5d930eeb704fcd1f7d03b3a426d46c"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 2065392,
                     "date_published": "2024-12-18T19:08:48.115009Z"
                 }
@@ -441,8 +433,7 @@
                         "sha1": "ee08ca5fd2a7a02dbade048745533b5570a826f0",
                         "md5": "cddea62080b823c0c55f72408a0c3ffb"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 107026,
                     "date_published": "2024-12-08T08:28:45.663Z"
                 },
@@ -463,8 +454,7 @@
                         "sha512": "f41dc9e8b28327a1e29b14667cb42ae5e7e17bcfa4495260f6f851a80d4b08d98a30d5c52b110007ee325f02dac7431e3fad4560c6840af0bf347afad48c5aac",
                         "sha1": "ee08ca5fd2a7a02dbade048745533b5570a826f0"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 107026,
                     "date_published": "2024-12-08T08:28:45.734497Z"
                 }
@@ -505,8 +495,7 @@
                         "sha1": "4905e6392a4831d55a3da1c8e6b65177bae1d137",
                         "md5": "a3138c3ae877be7c7cdb38df9d2f674f"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 211258,
                     "date_published": "2024-12-03T18:27:55.367Z"
                 },
@@ -528,8 +517,7 @@
                         "sha512": "29e2ba985c476a190da2686ef567632390ab256efb3b99f0b10caf02d58907796c6cfa97f22ea71aef09a4c73a241ce23a750742dca2f460b2d44db85d7b5045",
                         "sha1": "4905e6392a4831d55a3da1c8e6b65177bae1d137"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 211258,
                     "date_published": "2024-12-03T18:27:55.443722Z"
                 }
@@ -640,8 +628,7 @@
                         "sha1": "054d976fc8bc6699980ad7e87a344cd356e2c0d5",
                         "md5": "dde009aebaa7c942db7b4c779cb9930c"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 739550,
                     "date_published": "2024-12-03T18:52:31.807Z"
                 },
@@ -663,8 +650,7 @@
                         "sha512": "1a4eafbdcee3886d33c04aa462d13a8c1e345ff492001add262476585b78327a2d016e56385bced869615bc97161a34a0a716f5f579c8c1d7080b278f4f11183",
                         "sha1": "054d976fc8bc6699980ad7e87a344cd356e2c0d5"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 739550,
                     "date_published": "2024-12-03T18:57:43.918868Z"
                 }
@@ -848,8 +834,7 @@
                         "sha1": "f047b40a74b81aa96b7dd8845ee9c03acd8f9860",
                         "md5": "79d91922035baffe639268a0ba2905e7"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1286915,
                     "date_published": "2024-12-17T22:18:15.893Z"
                 },
@@ -870,8 +855,7 @@
                         "sha512": "0ccf30749be636733023f5b36f98f9be2d140d997581b0fc0164e30e7207549c87c4d37281f8f1bd5a40d4bce8880027bde275d739699f7a255f4f143e71a854",
                         "sha1": "f047b40a74b81aa96b7dd8845ee9c03acd8f9860"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1286915,
                     "date_published": "2024-12-17T22:16:12.429427Z"
                 }
@@ -947,8 +931,7 @@
                         "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78",
                         "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 17373,
                     "date_published": "2023-06-12T08:06:07.649412Z"
                 }
