@@ -218,54 +218,54 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
-                    "mc_versions": [
-                        "1.21.4",
-                        "1.21.3",
-                        "1.21.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5959/833/dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
-                    "id": "5959833",
-                    "parent_id": "335493",
-                    "hashes": {
-                        "sha1": "b2f59151a4f2b591563d7bb25ef644849e01fd9b",
-                        "md5": "4cb2cd6d89f48e090a024380b865f70b"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 182490,
-                    "date_published": "2024-12-03T18:06:18.210Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
+                    "file_name": "dynamic-fps-3.7.7+minecraft-1.21.2-quilt.jar",
                     "mc_versions": [
                         "1.21.2",
                         "1.21.3",
                         "1.21.4"
                     ],
                     "loaders": [
-                        "fabric"
+                        "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lCPnAoak/dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
-                    "id": "lCPnAoak",
+                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ZGkU4mUv/dynamic-fps-3.7.7+minecraft-1.21.2-quilt.jar",
+                    "id": "ZGkU4mUv",
                     "parent_id": "LQ3K71Q1",
                     "hashes": {
-                        "sha512": "4f2791c8fb873ec1e666b1983b1c4028e4954a054b1a39550ecdd1a7e5579e5ca0aa667f24d9682384cc7757698098018df78781be27dd5a37e54d09613bb4a6",
-                        "sha1": "b2f59151a4f2b591563d7bb25ef644849e01fd9b"
+                        "sha512": "bc0a1a212c601ac56fa1eeac7bf1dd21eecf4253be3c17b82066b04680cf54f1ce1cb2e8ed73529bbdd347362b00924b6825a10ebc975cd3ab89f96c3dbaaa62",
+                        "sha1": "e8c23d635dd71ee91829ce609e28a2e754126a32"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH"
+                        "qvIfYCYJ"
                     ],
-                    "size": 182490,
-                    "date_published": "2024-12-03T18:06:21.107342Z"
+                    "size": 182660,
+                    "date_published": "2024-12-03T18:06:50.900482Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "dynamic-fps-3.7.7+minecraft-1.21.2-quilt.jar",
+                    "mc_versions": [
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5959/840/dynamic-fps-3.7.7+minecraft-1.21.2-quilt.jar",
+                    "id": "5959840",
+                    "parent_id": "335493",
+                    "hashes": {
+                        "sha1": "e8c23d635dd71ee91829ce609e28a2e754126a32",
+                        "md5": "41b7eb44f4f215728ad6df805179cfa4"
+                    },
+                    "required_dependencies": [
+                        "634179"
+                    ],
+                    "size": 182660,
+                    "date_published": "2024-12-03T18:06:48.993Z"
                 }
             ]
         },
