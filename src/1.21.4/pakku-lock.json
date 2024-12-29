@@ -1,7 +1,8 @@
 {
     "target": "multiplatform",
     "mc_versions": [
-        "1.21.4"
+        "1.21.4",
+        "1.21.3"
     ],
     "loaders": {
         "fabric": "0.16.9"
@@ -155,45 +156,45 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.4-0.3.2+alpha.0.14.jar",
+                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.39.jar",
                     "mc_versions": [
-                        "1.21.4"
+                        "1.21.3"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/aIK5ryZo/c2me-fabric-mc1.21.4-0.3.2+alpha.0.14.jar",
-                    "id": "aIK5ryZo",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Gs82Xpis/c2me-fabric-mc1.21.3-0.3.1+alpha.0.39.jar",
+                    "id": "Gs82Xpis",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "4dfcdcd5276ebcfd6da3580cf113dfa0761cb268e576e34afd19af30e6ccb8c644d33838ac1ed6ea1b3d561ab4156789498bb3ab641c77880e14b843edca2b6f",
-                        "sha1": "09e69fe79dae4ea986781e6aeee9246f0a193d91"
+                        "sha512": "890ea49460bc80356761387a81675ca8ce38ae49b6b96d828db7e204ffb35c19f8d3cc57972144ccedc565fe582b4cd15201600f0d37204e76b734bacaa2b046",
+                        "sha1": "643f218eb5a14877af581e0464385bf169838379"
                     },
                     "required_dependencies": [],
-                    "size": 4658952,
-                    "date_published": "2024-12-24T16:05:15.661073Z"
+                    "size": 4656578,
+                    "date_published": "2024-12-26T03:59:55.661599Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.4-0.3.2+alpha.0.14.jar",
+                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.39.jar",
                     "mc_versions": [
-                        "1.21.4"
+                        "1.21.3"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6020/58/c2me-fabric-mc1.21.4-0.3.2+alpha.0.14.jar",
-                    "id": "6020058",
+                    "url": "https://edge.forgecdn.net/files/6023/907/c2me-fabric-mc1.21.3-0.3.1+alpha.0.39.jar",
+                    "id": "6023907",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "09e69fe79dae4ea986781e6aeee9246f0a193d91",
-                        "md5": "b440bb317821d91d2a8287e1e12b14ed"
+                        "sha1": "643f218eb5a14877af581e0464385bf169838379",
+                        "md5": "06d26cecd8f60177e50976675245afa8"
                     },
                     "required_dependencies": [],
-                    "size": 4658952,
-                    "date_published": "2024-12-24T16:05:16.667Z"
+                    "size": 4656578,
+                    "date_published": "2024-12-26T03:59:56.987Z"
                 }
             ]
         },
@@ -923,7 +924,7 @@
             ]
         },
         {
-            "pakku_id": "GnMVCGPvQgZUoZrO",
+            "pakku_id": "wbz2cw0ZZyNcZUhB",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -939,6 +940,34 @@
                 "modrinth": "WwbubTsV"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "yosbr-0.1.2.jar",
+                    "mc_versions": [
+                        "1.21.2-Snapshot",
+                        "1.21",
+                        "1.21.1-Snapshot",
+                        "1.21-Snapshot",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4581/910/yosbr-0.1.2.jar",
+                    "id": "4581910",
+                    "parent_id": "374274",
+                    "hashes": {
+                        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+                        "md5": "9fcce225f25b6fd17921c87ff1c720f1"
+                    },
+                    "required_dependencies": [],
+                    "size": 17373,
+                    "date_published": "2023-06-12T08:04:37.390Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "yosbr-0.1.2.jar",
