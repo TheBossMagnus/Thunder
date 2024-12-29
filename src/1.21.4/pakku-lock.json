@@ -924,6 +924,49 @@
             ]
         },
         {
+            "pakku_id": "OiR8mrRxaB1Y4LMb",
+            "pakku_links": [
+                "DmPmfeIq7FDmAIQ6"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "threadtweak"
+            },
+            "name": {
+                "modrinth": "ThreadTweak"
+            },
+            "id": {
+                "modrinth": "vSEH1ERy"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "threadtweak-fabric-0.1.5+mc1.21.3.jar",
+                    "mc_versions": [
+                        "1.21.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/HV6EY0h3/threadtweak-fabric-0.1.5+mc1.21.3.jar",
+                    "id": "HV6EY0h3",
+                    "parent_id": "vSEH1ERy",
+                    "hashes": {
+                        "sha512": "298801415743acf91986a5364e920d5d22a93b1d58b3b18f0dbcf507b33018cf35e7df34d12a568a015959e037fb45cc8ef07b5dff736b0ae82acdad2d9b4436",
+                        "sha1": "fab25cc8e836f06eac27b1dea7c12e0ac38e3cda"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 144353,
+                    "date_published": "2024-11-23T17:07:51.150832Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "wbz2cw0ZZyNcZUhB",
             "type": "MOD",
             "side": "BOTH",
