@@ -157,7 +157,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.39.jar",
+                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
                     "mc_versions": [
                         "1.21.3"
                     ],
@@ -165,20 +165,20 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Gs82Xpis/c2me-fabric-mc1.21.3-0.3.1+alpha.0.39.jar",
-                    "id": "Gs82Xpis",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/8wnLsK1Q/c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
+                    "id": "8wnLsK1Q",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "890ea49460bc80356761387a81675ca8ce38ae49b6b96d828db7e204ffb35c19f8d3cc57972144ccedc565fe582b4cd15201600f0d37204e76b734bacaa2b046",
-                        "sha1": "643f218eb5a14877af581e0464385bf169838379"
+                        "sha512": "2ac3d78d8ded4d5d405059946bd8239728169a66d10e6524bc76095772d0ef418dfdcc6b1c2d0ff0bd83dc6c3ee812639d84bdd31dc4cdc19b5e8ac270ce8c51",
+                        "sha1": "6db3d3bedf41d650514bd6790246c383932c328a"
                     },
                     "required_dependencies": [],
-                    "size": 4656578,
-                    "date_published": "2024-12-26T03:59:55.661599Z"
+                    "size": 4657372,
+                    "date_published": "2025-01-01T09:18:10.472774Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.39.jar",
+                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
                     "mc_versions": [
                         "1.21.3"
                     ],
@@ -186,16 +186,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6023/907/c2me-fabric-mc1.21.3-0.3.1+alpha.0.39.jar",
-                    "id": "6023907",
+                    "url": "https://edge.forgecdn.net/files/6042/29/c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
+                    "id": "6042029",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "643f218eb5a14877af581e0464385bf169838379",
-                        "md5": "06d26cecd8f60177e50976675245afa8"
+                        "sha1": "6db3d3bedf41d650514bd6790246c383932c328a",
+                        "md5": "7bbce255323bcc1cad8b6ac725fc8ce1"
                     },
                     "required_dependencies": [],
-                    "size": 4656578,
-                    "date_published": "2024-12-26T03:59:56.987Z"
+                    "size": 4657372,
+                    "date_published": "2025-01-01T09:18:11.323Z"
                 }
             ]
         },
@@ -359,7 +359,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.112.1+1.21.3.jar",
+                    "file_name": "fabric-api-0.114.0+1.21.3.jar",
                     "mc_versions": [
                         "1.21.3"
                     ],
@@ -367,20 +367,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/k4z4g5d5/fabric-api-0.112.1+1.21.3.jar",
-                    "id": "k4z4g5d5",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Ybg4nYGj/fabric-api-0.114.0+1.21.3.jar",
+                    "id": "Ybg4nYGj",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "877fbf233b66aaf584a26ba8e08f88faa033e9994de72350ddb7997c1ab16922d85ad7a2abe6c3d816028a66e099bfffebd6e20300ee26d3076a0ec1d2d6d6a0",
-                        "sha1": "03b25dd40073c14e1b1265a807f0533540dcbb56"
+                        "sha512": "2e3ba838c9064e4d6ab77c166f7e6a70fb11b05ccd2eb119d23a568316cfa9bdefb941e9325d9e0e889474100f2df41c56e2c095a9941073af4e980331f20de6",
+                        "sha1": "90df50fa153e2e34620e739ca496fbd1d4d8e0a0"
                     },
                     "required_dependencies": [],
-                    "size": 2380009,
-                    "date_published": "2024-12-16T13:14:57.319443Z"
+                    "size": 2380570,
+                    "date_published": "2024-12-30T14:26:20.954658Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fabric-api-0.112.1+1.21.3.jar",
+                    "file_name": "fabric-api-0.114.0+1.21.3.jar",
                     "mc_versions": [
                         "1.21.3"
                     ],
@@ -388,16 +388,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5995/875/fabric-api-0.112.1+1.21.3.jar",
-                    "id": "5995875",
+                    "url": "https://edge.forgecdn.net/files/6036/570/fabric-api-0.114.0+1.21.3.jar",
+                    "id": "6036570",
                     "parent_id": "306612",
                     "hashes": {
-                        "sha1": "03b25dd40073c14e1b1265a807f0533540dcbb56",
-                        "md5": "2b5a0a8ae57bbdc4d93bed0dba4ba2a1"
+                        "sha1": "90df50fa153e2e34620e739ca496fbd1d4d8e0a0",
+                        "md5": "ff212ec689a11a0b4428b293013b7f4d"
                     },
                     "required_dependencies": [],
-                    "size": 2380009,
-                    "date_published": "2024-12-16T13:14:49.430Z"
+                    "size": 2380570,
+                    "date_published": "2024-12-30T14:26:15.620Z"
                 }
             ]
         },
