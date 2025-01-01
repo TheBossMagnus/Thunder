@@ -1,9 +1,8 @@
-name: Automatically publish to Modrinth
+name: Automatically publish to Modrinth and curseforge
 'on':
   release:
     types:
       - released
-  workflow_dispatch:
 
 jobs:
   publish-to-modrinth:
@@ -37,17 +36,18 @@ jobs:
           loaders: 'quilt'
           game-versions: '${{ steps.get_version.outputs.minecraft }}'
       
-      - name: Publish quilt to CurseForge
-        if: ${{ !(steps.get_version.outputs.minecraft == '1.18.2' || steps.get_version.outputs.minecraft == '1.16.5')}}
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          curseforge-id: 963806
-          curseforge-token: '${{ secrets.CURSEFORGE }}'
-          files: Thunder-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.zip
-          name: Thunder ${{steps.get_version.outputs.pack}} for quilt ${{ steps.get_version.outputs.minecraft }}
-          changelog-file: Changelog-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.md
-          loaders: 'quilt'
-          game-versions: '${{ steps.get_version.outputs.minecraft }}'
+      # Disabled because curseforge refuses to accept some fabric mods runned with quilt
+      #- name: Publish quilt to CurseForge
+      #  if: ${{ !(steps.get_version.outputs.minecraft == '1.18.2' || steps.get_version.outputs.minecraft == '1.16.5')}}
+      #  uses: Kir-Antipov/mc-publish@v3.3
+      #  with:
+      #    curseforge-id: 963806
+      #    curseforge-token: '${{ secrets.CURSEFORGE }}'
+      #    files: Thunder-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.zip
+      #    name: Thunder ${{steps.get_version.outputs.pack}} for quilt ${{ steps.get_version.outputs.minecraft }}
+      #    changelog-file: Changelog-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.md
+      #    loaders: 'quilt'
+      #    game-versions: '${{ steps.get_version.outputs.minecraft }}'
       
       - name: Publish fabric to Modrinth
         if: always()
