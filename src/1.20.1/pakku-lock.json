@@ -424,29 +424,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "fabric-api-0.92.2+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5383/715/fabric-api-0.92.2+1.20.1.jar",
-                    "id": "5383715",
-                    "parent_id": "306612",
-                    "hashes": {
-                        "sha1": "625ee015ee426d9b677382a7bb661383d89c0807",
-                        "md5": "92c58961866741106aae126558c9d4a7"
-                    },
-                    "required_dependencies": [],
-                    "size": 2107289,
-                    "date_published": "2024-05-30T09:22:41.110Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.92.2+1.20.1.jar",
+                    "file_name": "fabric-api-0.92.3+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -454,16 +433,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/P7uGFii0/fabric-api-0.92.2+1.20.1.jar",
-                    "id": "P7uGFii0",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3+1.20.1.jar",
+                    "id": "SKPWumQf",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "a9b461e9e28871002072337adc69e829f5a59c05a39ffe1f6a27df7daff392ac25c8e5a6c01ff340b3eef99cecc42b21c012766a7c87446ca442f9ea1b04aca6",
-                        "sha1": "625ee015ee426d9b677382a7bb661383d89c0807"
+                        "sha512": "073c045791ddf14c28a1ec163e7ef40dcb014a73d72856f881aab04df018e1c62774978c95cda3a07bb324198bd586040e466eabc46bd2f09a16115c7d97e459",
+                        "sha1": "4fc46246c5e97514ffc563ca68338cf35d9976d0"
                     },
                     "required_dependencies": [],
-                    "size": 2107289,
-                    "date_published": "2024-05-30T09:22:45.037351Z"
+                    "size": 2107985,
+                    "date_published": "2024-12-30T13:20:45.636372Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-api-0.92.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6036/402/fabric-api-0.92.3+1.20.1.jar",
+                    "id": "6036402",
+                    "parent_id": "306612",
+                    "hashes": {
+                        "sha1": "4fc46246c5e97514ffc563ca68338cf35d9976d0",
+                        "md5": "dc37eff29b709467379bc41ae4f721b4"
+                    },
+                    "required_dependencies": [],
+                    "size": 2107985,
+                    "date_published": "2024-12-30T13:20:34.960Z"
                 }
             ]
         },
@@ -983,6 +983,34 @@
                     ],
                     "size": 272851,
                     "date_published": "2024-04-20T09:15:06.032710Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "moreculling-1.20.4-0.24.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6036/308/moreculling-1.20.4-0.24.0.jar",
+                    "id": "6036308",
+                    "parent_id": "630104",
+                    "hashes": {
+                        "sha1": "a40f2aa346140a4fee2079d845c62ee87454bdb6",
+                        "md5": "109804ad4b9f14a549f02bf26c98ac44"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 272851,
+                    "date_published": "2024-12-30T12:34:02.157Z"
                 }
             ]
         },
