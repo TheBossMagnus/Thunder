@@ -996,6 +996,34 @@
                     ],
                     "size": 272851,
                     "date_published": "2024-04-20T09:15:06.032710Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "moreculling-1.20.4-0.24.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6036/308/moreculling-1.20.4-0.24.0.jar",
+                    "id": "6036308",
+                    "parent_id": "630104",
+                    "hashes": {
+                        "sha1": "a40f2aa346140a4fee2079d845c62ee87454bdb6",
+                        "md5": "109804ad4b9f14a549f02bf26c98ac44"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 272851,
+                    "date_published": "2024-12-30T12:34:02.157Z"
                 }
             ]
         },
