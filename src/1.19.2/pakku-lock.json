@@ -1077,22 +1077,47 @@
             ]
         },
         {
-            "pakku_id": "5gDHU8vXTfWoCWsM",
+            "pakku_id": "Om4E2v9ydc0T0SaX",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "smoothboot",
+                "curseforge": "smooth-boot",
                 "modrinth": "smoothboot-fabric"
             },
             "name": {
-                "curseforge": "SmoothBoot",
+                "curseforge": "Smooth Boot (Fabric)",
                 "modrinth": "Smooth Boot (Fabric)"
             },
             "id": {
-                "curseforge": "643330",
+                "curseforge": "415758",
                 "modrinth": "FWumhS4T"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "smoothboot-fabric-1.19-1.7.1.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.2",
+                        "1.19.1",
+                        "1.19"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3821/513/smoothboot-fabric-1.19-1.7.1.jar",
+                    "id": "3821513",
+                    "parent_id": "415758",
+                    "hashes": {
+                        "sha1": "8414cbce145a5f48102e6cc811dfd1459afe44f3",
+                        "md5": "0ce462b087b62325f37a1d3b56b3146e"
+                    },
+                    "required_dependencies": [],
+                    "size": 88634,
+                    "date_published": "2022-06-07T22:20:59.397Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "smoothboot-fabric-1.19-1.7.1.jar",
