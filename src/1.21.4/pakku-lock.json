@@ -156,45 +156,45 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
+                    "file_name": "c2me-fabric-mc1.21.4-0.3.2+alpha.0.20.jar",
                     "mc_versions": [
-                        "1.21.3"
+                        "1.21.4"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/8wnLsK1Q/c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
-                    "id": "8wnLsK1Q",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/reHSALRh/c2me-fabric-mc1.21.4-0.3.2+alpha.0.20.jar",
+                    "id": "reHSALRh",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "2ac3d78d8ded4d5d405059946bd8239728169a66d10e6524bc76095772d0ef418dfdcc6b1c2d0ff0bd83dc6c3ee812639d84bdd31dc4cdc19b5e8ac270ce8c51",
-                        "sha1": "6db3d3bedf41d650514bd6790246c383932c328a"
+                        "sha512": "36f3a2f38128e238c489b44c786a35666d729bf32a0c7d27a474d480059df33bf929f6eba7e080cf9b808d6dbf33c7ffe36a83c47fe2623691e15422f2aedf56",
+                        "sha1": "2685593062e25cb0203117c821f3f017ad789f03"
                     },
                     "required_dependencies": [],
-                    "size": 4657372,
-                    "date_published": "2025-01-01T09:18:10.472774Z"
+                    "size": 4660403,
+                    "date_published": "2025-01-02T13:44:02.098356Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
+                    "file_name": "c2me-fabric-mc1.21.4-0.3.2+alpha.0.20.jar",
                     "mc_versions": [
-                        "1.21.3"
+                        "1.21.4"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6042/29/c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
-                    "id": "6042029",
+                    "url": "https://edge.forgecdn.net/files/6045/738/c2me-fabric-mc1.21.4-0.3.2+alpha.0.20.jar",
+                    "id": "6045738",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "6db3d3bedf41d650514bd6790246c383932c328a",
-                        "md5": "7bbce255323bcc1cad8b6ac725fc8ce1"
+                        "sha1": "2685593062e25cb0203117c821f3f017ad789f03",
+                        "md5": "7972381c8fef809ed08fbcdb57b26c38"
                     },
                     "required_dependencies": [],
-                    "size": 4657372,
-                    "date_published": "2025-01-01T09:18:11.323Z"
+                    "size": 4660403,
+                    "date_published": "2025-01-02T13:44:02.997Z"
                 }
             ]
         },
