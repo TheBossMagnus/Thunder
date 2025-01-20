@@ -4,7 +4,7 @@
         "1.21.3"
     ],
     "loaders": {
-        "fabric": "0.16.9"
+        "fabric": "0.16.10"
     },
     "projects": [
         {
@@ -157,7 +157,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
+                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.41.jar",
                     "mc_versions": [
                         "1.21.3"
                     ],
@@ -165,20 +165,20 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/8wnLsK1Q/c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
-                    "id": "8wnLsK1Q",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/BZPWAyqz/c2me-fabric-mc1.21.3-0.3.1+alpha.0.41.jar",
+                    "id": "BZPWAyqz",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "2ac3d78d8ded4d5d405059946bd8239728169a66d10e6524bc76095772d0ef418dfdcc6b1c2d0ff0bd83dc6c3ee812639d84bdd31dc4cdc19b5e8ac270ce8c51",
-                        "sha1": "6db3d3bedf41d650514bd6790246c383932c328a"
+                        "sha512": "ffe852d0b9647b293fe385184d42dfa9fe91036b063b81150f140a151d8e5850eca2e8d8160b2ae41723a530435314a04cc3109b69c07920a4da4c7983cec461",
+                        "sha1": "dd708fb65f94544f45e220c97932fb03a5c6500e"
                     },
                     "required_dependencies": [],
-                    "size": 4657372,
-                    "date_published": "2025-01-01T09:18:10.472774Z"
+                    "size": 4659099,
+                    "date_published": "2025-01-16T05:45:27.654709Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
+                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.41.jar",
                     "mc_versions": [
                         "1.21.3"
                     ],
@@ -186,16 +186,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6042/29/c2me-fabric-mc1.21.3-0.3.1+alpha.0.40.jar",
-                    "id": "6042029",
+                    "url": "https://edge.forgecdn.net/files/6092/237/c2me-fabric-mc1.21.3-0.3.1+alpha.0.41.jar",
+                    "id": "6092237",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "6db3d3bedf41d650514bd6790246c383932c328a",
-                        "md5": "7bbce255323bcc1cad8b6ac725fc8ce1"
+                        "sha1": "dd708fb65f94544f45e220c97932fb03a5c6500e",
+                        "md5": "c5c23d885c277f3e4d79c4e7e55c9494"
                     },
                     "required_dependencies": [],
-                    "size": 4657372,
-                    "date_published": "2025-01-01T09:18:11.323Z"
+                    "size": 4659099,
+                    "date_published": "2025-01-16T05:45:29.337Z"
                 }
             ]
         },
@@ -619,7 +619,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "lithium-fabric-0.14.5+mc1.21.3.jar",
+                    "file_name": "lithium-fabric-0.14.6+mc1.21.3.jar",
                     "mc_versions": [
                         "1.21.2",
                         "1.21.3"
@@ -629,20 +629,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/SantNRs5/lithium-fabric-0.14.5+mc1.21.3.jar",
-                    "id": "SantNRs5",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0Cc7ZVd/lithium-fabric-0.14.6+mc1.21.3.jar",
+                    "id": "W0Cc7ZVd",
                     "parent_id": "gvQqBUqZ",
                     "hashes": {
-                        "sha512": "8b1943fd367922d268a626aa12d84a6d2c23a438d17221dee6bc1880036d7737af9d6efcb150feb449811d3d451a5be0d0a6413bbea0c65c80e681faf483cbab",
-                        "sha1": "936cf3e7207606cd310d5d7d60848156cf28b41d"
+                        "sha512": "412f9fb94931b0fde8ef03facde319518f19425be17c1dedba568d400d90dcc3cadcb69cd53dc8d8bfc3178aad480e2b5aac21cd81475aead93d9c9e640518bb",
+                        "sha1": "60bcb667e8cce63b564837eb7ae6d88ae80bd2bc"
                     },
                     "required_dependencies": [],
-                    "size": 744557,
-                    "date_published": "2025-01-14T21:09:52.080232Z"
+                    "size": 744541,
+                    "date_published": "2025-01-18T15:16:08.750781Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "lithium-fabric-0.14.5+mc1.21.3.jar",
+                    "file_name": "lithium-fabric-0.14.6+mc1.21.3.jar",
                     "mc_versions": [
                         "1.21.3",
                         "1.21.2"
@@ -652,16 +652,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6087/691/lithium-fabric-0.14.5+mc1.21.3.jar",
-                    "id": "6087691",
+                    "url": "https://edge.forgecdn.net/files/6099/717/lithium-fabric-0.14.6+mc1.21.3.jar",
+                    "id": "6099717",
                     "parent_id": "360438",
                     "hashes": {
-                        "sha1": "936cf3e7207606cd310d5d7d60848156cf28b41d",
-                        "md5": "6de63cc32c80d9b711e420cb113bd0da"
+                        "sha1": "60bcb667e8cce63b564837eb7ae6d88ae80bd2bc",
+                        "md5": "30e852d31d23c3547aa6f91714fa34d1"
                     },
                     "required_dependencies": [],
-                    "size": 744557,
-                    "date_published": "2025-01-14T21:03:53.823Z"
+                    "size": 744541,
+                    "date_published": "2025-01-18T15:16:04.747Z"
                 }
             ]
         },
@@ -685,6 +685,38 @@
                 "modrinth": "mOgUt4GM"
             },
             "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "modmenu-12.0.0.jar",
+                    "mc_versions": [
+                        "1.21.2-pre1",
+                        "1.21.2-pre2",
+                        "1.21.2-pre3",
+                        "1.21.2-pre4",
+                        "1.21.2-pre5",
+                        "1.21.2-rc1",
+                        "1.21.2",
+                        "1.21.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/4xPSbh0l/modmenu-12.0.0.jar",
+                    "id": "4xPSbh0l",
+                    "parent_id": "mOgUt4GM",
+                    "hashes": {
+                        "sha512": "d215306281e7ad1da1037bc848c806c2e200d7eca39ccd2ca5fc25a03e3eacef2eb15b70fca1d832fb249aecc29a100fc87b9dacf90565fdf822b9a6df355af7",
+                        "sha1": "7175dbf35737848ab9ea1b8d16798cff22f2ba9e"
+                    },
+                    "required_dependencies": [
+                        "eXts2L7r",
+                        "P7dR8mSH"
+                    ],
+                    "size": 986258,
+                    "date_published": "2024-12-03T23:46:53.644700Z"
+                },
                 {
                     "type": "curseforge",
                     "file_name": "modmenu-12.0.0.jar",
@@ -710,39 +742,6 @@
                     ],
                     "size": 986258,
                     "date_published": "2024-12-03T23:46:55.153Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "modmenu-12.0.0.jar",
-                    "mc_versions": [
-                        "1.21.2-pre1",
-                        "1.21.2-pre2",
-                        "1.21.2-pre3",
-                        "1.21.2-pre4",
-                        "1.21.2-pre5",
-                        "1.21.2-rc1",
-                        "1.21.2-rc1",
-                        "1.21.2",
-                        "1.21.3"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/4xPSbh0l/modmenu-12.0.0.jar",
-                    "id": "4xPSbh0l",
-                    "parent_id": "mOgUt4GM",
-                    "hashes": {
-                        "sha512": "d215306281e7ad1da1037bc848c806c2e200d7eca39ccd2ca5fc25a03e3eacef2eb15b70fca1d832fb249aecc29a100fc87b9dacf90565fdf822b9a6df355af7",
-                        "sha1": "7175dbf35737848ab9ea1b8d16798cff22f2ba9e"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "eXts2L7r"
-                    ],
-                    "size": 986258,
-                    "date_published": "2024-12-03T23:46:53.644700Z"
                 }
             ]
         },
