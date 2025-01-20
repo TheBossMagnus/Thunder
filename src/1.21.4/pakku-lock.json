@@ -1,8 +1,7 @@
 {
     "target": "multiplatform",
     "mc_versions": [
-        "1.21.4",
-        "1.21.3"
+        "1.21.4"
     ],
     "loaders": {
         "fabric": "0.16.10"
@@ -220,7 +219,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
+                    "file_name": "dynamic-fps-3.7.7+minecraft-1.21.2-quilt.jar",
                     "mc_versions": [
                         "1.21.2",
                         "1.21.3",
@@ -229,25 +228,25 @@
                         "25w03a"
                     ],
                     "loaders": [
-                        "fabric"
+                        "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lCPnAoak/dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
-                    "id": "lCPnAoak",
+                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ZGkU4mUv/dynamic-fps-3.7.7+minecraft-1.21.2-quilt.jar",
+                    "id": "ZGkU4mUv",
                     "parent_id": "LQ3K71Q1",
                     "hashes": {
-                        "sha512": "4f2791c8fb873ec1e666b1983b1c4028e4954a054b1a39550ecdd1a7e5579e5ca0aa667f24d9682384cc7757698098018df78781be27dd5a37e54d09613bb4a6",
-                        "sha1": "b2f59151a4f2b591563d7bb25ef644849e01fd9b"
+                        "sha512": "bc0a1a212c601ac56fa1eeac7bf1dd21eecf4253be3c17b82066b04680cf54f1ce1cb2e8ed73529bbdd347362b00924b6825a10ebc975cd3ab89f96c3dbaaa62",
+                        "sha1": "e8c23d635dd71ee91829ce609e28a2e754126a32"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH"
+                        "qvIfYCYJ"
                     ],
-                    "size": 182490,
-                    "date_published": "2024-12-03T18:06:21.107342Z"
+                    "size": 182660,
+                    "date_published": "2024-12-03T18:06:50.900482Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
+                    "file_name": "dynamic-fps-3.7.7+minecraft-1.21.2-quilt.jar",
                     "mc_versions": [
                         "1.21.4",
                         "1.21.5-Snapshot",
@@ -255,21 +254,21 @@
                         "1.21.2"
                     ],
                     "loaders": [
-                        "fabric"
+                        "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5959/833/dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar",
-                    "id": "5959833",
+                    "url": "https://edge.forgecdn.net/files/5959/840/dynamic-fps-3.7.7+minecraft-1.21.2-quilt.jar",
+                    "id": "5959840",
                     "parent_id": "335493",
                     "hashes": {
-                        "sha1": "b2f59151a4f2b591563d7bb25ef644849e01fd9b",
-                        "md5": "4cb2cd6d89f48e090a024380b865f70b"
+                        "sha1": "e8c23d635dd71ee91829ce609e28a2e754126a32",
+                        "md5": "41b7eb44f4f215728ad6df805179cfa4"
                     },
                     "required_dependencies": [
-                        "306612"
+                        "634179"
                     ],
-                    "size": 182490,
-                    "date_published": "2024-12-03T18:06:18.210Z"
+                    "size": 182660,
+                    "date_published": "2024-12-03T18:06:48.993Z"
                 }
             ]
         },
@@ -668,7 +667,7 @@
             ]
         },
         {
-            "pakku_id": "JrsdnLqmHzcChzib",
+            "pakku_id": "9Cq8n5lL2SbNmJyp",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -685,50 +684,48 @@
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "lithium-fabric-0.14.6+mc1.21.3.jar",
-                    "mc_versions": [
-                        "1.21.2",
-                        "1.21.3"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0Cc7ZVd/lithium-fabric-0.14.6+mc1.21.3.jar",
-                    "id": "W0Cc7ZVd",
-                    "parent_id": "gvQqBUqZ",
-                    "hashes": {
-                        "sha512": "412f9fb94931b0fde8ef03facde319518f19425be17c1dedba568d400d90dcc3cadcb69cd53dc8d8bfc3178aad480e2b5aac21cd81475aead93d9c9e640518bb",
-                        "sha1": "60bcb667e8cce63b564837eb7ae6d88ae80bd2bc"
-                    },
-                    "required_dependencies": [],
-                    "size": 744541,
-                    "date_published": "2025-01-18T15:16:08.750781Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "lithium-fabric-0.14.6+mc1.21.3.jar",
+                    "file_name": "lithium-fabric-0.14.6+mc1.21.4.jar",
                     "mc_versions": [
-                        "1.21.3",
-                        "1.21.2"
+                        "1.21.4"
                     ],
                     "loaders": [
                         "fabric",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6099/717/lithium-fabric-0.14.6+mc1.21.3.jar",
-                    "id": "6099717",
+                    "url": "https://edge.forgecdn.net/files/6096/144/lithium-fabric-0.14.6+mc1.21.4.jar",
+                    "id": "6096144",
                     "parent_id": "360438",
                     "hashes": {
-                        "sha1": "60bcb667e8cce63b564837eb7ae6d88ae80bd2bc",
-                        "md5": "30e852d31d23c3547aa6f91714fa34d1"
+                        "sha1": "37ab2fc40840f9718b1e57ab2b1a9e5e19324d15",
+                        "md5": "ed5808c8851ce856537c682b6349b8e4"
                     },
                     "required_dependencies": [],
-                    "size": 744541,
-                    "date_published": "2025-01-18T15:16:04.747Z"
+                    "size": 746310,
+                    "date_published": "2025-01-17T14:28:18.893Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lithium-fabric-0.14.6+mc1.21.4.jar",
+                    "mc_versions": [
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/zVOQw7YU/lithium-fabric-0.14.6+mc1.21.4.jar",
+                    "id": "zVOQw7YU",
+                    "parent_id": "gvQqBUqZ",
+                    "hashes": {
+                        "sha512": "dda05161bc2abdc64b9984f3b700b6762960241cbabe7347a387ec91cf117a106ea00ac410bb31bbd5e6448c879583259a7b5cf13b29ff68ef9193b8a87a64f3",
+                        "sha1": "37ab2fc40840f9718b1e57ab2b1a9e5e19324d15"
+                    },
+                    "required_dependencies": [],
+                    "size": 746310,
+                    "date_published": "2025-01-17T18:02:29.227412Z"
                 }
             ]
         },
