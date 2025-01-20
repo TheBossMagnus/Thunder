@@ -5,7 +5,7 @@
         "1.21.3"
     ],
     "loaders": {
-        "fabric": "0.16.9"
+        "fabric": "0.16.10"
     },
     "projects": [
         {
@@ -156,45 +156,45 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.4-0.3.2+alpha.0.26.jar",
+                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.41.jar",
                     "mc_versions": [
-                        "1.21.4"
+                        "1.21.3"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/KY5RHJSO/c2me-fabric-mc1.21.4-0.3.2+alpha.0.26.jar",
-                    "id": "KY5RHJSO",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/BZPWAyqz/c2me-fabric-mc1.21.3-0.3.1+alpha.0.41.jar",
+                    "id": "BZPWAyqz",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "7b76271c8f56cea4ed961dde0c6385239657aef487467678b135cfb3feda79863bbdbd83b701e77791b283225abe79d1eb2ff8d21fd22c882d2256fe7552c152",
-                        "sha1": "f3efc9eb308bb79fbf5ddb69a04ba3c63d58eea7"
+                        "sha512": "ffe852d0b9647b293fe385184d42dfa9fe91036b063b81150f140a151d8e5850eca2e8d8160b2ae41723a530435314a04cc3109b69c07920a4da4c7983cec461",
+                        "sha1": "dd708fb65f94544f45e220c97932fb03a5c6500e"
                     },
                     "required_dependencies": [],
-                    "size": 4661826,
-                    "date_published": "2025-01-14T01:33:26.941566Z"
+                    "size": 4659099,
+                    "date_published": "2025-01-16T05:45:27.654709Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.4-0.3.2+alpha.0.26.jar",
+                    "file_name": "c2me-fabric-mc1.21.3-0.3.1+alpha.0.41.jar",
                     "mc_versions": [
-                        "1.21.4"
+                        "1.21.3"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6085/255/c2me-fabric-mc1.21.4-0.3.2+alpha.0.26.jar",
-                    "id": "6085255",
+                    "url": "https://edge.forgecdn.net/files/6092/237/c2me-fabric-mc1.21.3-0.3.1+alpha.0.41.jar",
+                    "id": "6092237",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "f3efc9eb308bb79fbf5ddb69a04ba3c63d58eea7",
-                        "md5": "d73d21a281874abee48236b984e6fd34"
+                        "sha1": "dd708fb65f94544f45e220c97932fb03a5c6500e",
+                        "md5": "c5c23d885c277f3e4d79c4e7e55c9494"
                     },
                     "required_dependencies": [],
-                    "size": 4661826,
-                    "date_published": "2025-01-14T01:33:27.910Z"
+                    "size": 4659099,
+                    "date_published": "2025-01-16T05:45:29.337Z"
                 }
             ]
         },
@@ -270,6 +270,76 @@
                     ],
                     "size": 182490,
                     "date_published": "2024-12-03T18:06:18.210Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LPOgVvqRatLR7GOc",
+            "pakku_links": [
+                "DmPmfeIq7FDmAIQ6"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "ebe",
+                "curseforge": "enhanced-block-entities"
+            },
+            "name": {
+                "modrinth": "Enhanced Block Entities",
+                "curseforge": "Enhanced Block Entities"
+            },
+            "id": {
+                "modrinth": "OVuFYfre",
+                "curseforge": "452046"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "enhancedblockentities-0.11.3+1.21.4.jar",
+                    "mc_versions": [
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3+1.21.4.jar",
+                    "id": "YokFoILZ",
+                    "parent_id": "OVuFYfre",
+                    "hashes": {
+                        "sha512": "c35bd51b54132abca669341cf717c4218e7be0e639d7b85f977d50fe613121a9fdf514c27a0595b58911363cb1e5226732275dc51f59f598345d19051d0a948b",
+                        "sha1": "261b0e79ffbb79f9b708827333bd745620ebbec0"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 207442,
+                    "date_published": "2025-01-20T00:39:47.570139Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "enhancedblockentities-0.11.3+1.21.4.jar",
+                    "mc_versions": [
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6105/228/enhancedblockentities-0.11.3+1.21.4.jar",
+                    "id": "6105228",
+                    "parent_id": "452046",
+                    "hashes": {
+                        "sha1": "261b0e79ffbb79f9b708827333bd745620ebbec0",
+                        "md5": "b55aa40f603248f4cb476ee3cd4f8c4d"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 207442,
+                    "date_published": "2025-01-20T00:40:10.257Z"
                 }
             ]
         },
@@ -616,47 +686,49 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "lithium-fabric-0.14.5+mc1.21.4.jar",
+                    "file_name": "lithium-fabric-0.14.6+mc1.21.3.jar",
                     "mc_versions": [
-                        "1.21.4"
+                        "1.21.2",
+                        "1.21.3"
                     ],
                     "loaders": [
                         "fabric",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/6SB2ZRPm/lithium-fabric-0.14.5+mc1.21.4.jar",
-                    "id": "6SB2ZRPm",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0Cc7ZVd/lithium-fabric-0.14.6+mc1.21.3.jar",
+                    "id": "W0Cc7ZVd",
                     "parent_id": "gvQqBUqZ",
                     "hashes": {
-                        "sha512": "4e523a6c5148a29aed9900476b1f05647c7f22e9912212b3e235c1c69ba1df12a21b64f1dabc91571c2ce2aecdb3b98dda27834e8e3f753f000fce77acab28fd",
-                        "sha1": "9b1c2d8f9082784ab7f440a0bdcd92ed0c1b5ef1"
+                        "sha512": "412f9fb94931b0fde8ef03facde319518f19425be17c1dedba568d400d90dcc3cadcb69cd53dc8d8bfc3178aad480e2b5aac21cd81475aead93d9c9e640518bb",
+                        "sha1": "60bcb667e8cce63b564837eb7ae6d88ae80bd2bc"
                     },
                     "required_dependencies": [],
-                    "size": 746206,
-                    "date_published": "2025-01-14T21:10:13.494029Z"
+                    "size": 744541,
+                    "date_published": "2025-01-18T15:16:08.750781Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "lithium-fabric-0.14.5+mc1.21.4.jar",
+                    "file_name": "lithium-fabric-0.14.6+mc1.21.3.jar",
                     "mc_versions": [
-                        "1.21.4"
+                        "1.21.3",
+                        "1.21.2"
                     ],
                     "loaders": [
                         "fabric",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6087/693/lithium-fabric-0.14.5+mc1.21.4.jar",
-                    "id": "6087693",
+                    "url": "https://edge.forgecdn.net/files/6099/717/lithium-fabric-0.14.6+mc1.21.3.jar",
+                    "id": "6099717",
                     "parent_id": "360438",
                     "hashes": {
-                        "sha1": "9b1c2d8f9082784ab7f440a0bdcd92ed0c1b5ef1",
-                        "md5": "0a24a3f9e72b4e565db75982d7f234c7"
+                        "sha1": "60bcb667e8cce63b564837eb7ae6d88ae80bd2bc",
+                        "md5": "30e852d31d23c3547aa6f91714fa34d1"
                     },
                     "required_dependencies": [],
-                    "size": 746206,
-                    "date_published": "2025-01-14T21:03:59.637Z"
+                    "size": 744541,
+                    "date_published": "2025-01-18T15:16:04.747Z"
                 }
             ]
         },
