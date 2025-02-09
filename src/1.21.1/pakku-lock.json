@@ -884,7 +884,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "moreculling-fabric-1.21.1-1.0.3.jar",
+                    "file_name": "moreculling-fabric-1.21.1-1.0.4.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -893,22 +893,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/mNRCywqI/moreculling-fabric-1.21.1-1.0.3.jar",
-                    "id": "mNRCywqI",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/ZfHcTTZR/moreculling-fabric-1.21.1-1.0.4.jar",
+                    "id": "ZfHcTTZR",
                     "parent_id": "51shyZVL",
                     "hashes": {
-                        "sha512": "1caa434c79ad86c70dfc9493900181636781cb8853cb89d9bf4b3f53ccdfb65d155da18f5f68692e7d9ec4e56df9c5490b19131f486bb770d1211bf14d2a3f52",
-                        "sha1": "301ba2e2a2652fd2e13d4dac8af781fc9c713603"
+                        "sha512": "64a76c724af4c1c70d6034b09f394826d408c79f35b00861aa455a83021ddae3afdf952d65ab639666bd4d6fea6180207e2a3dab01f035e3475dee7692be4d33",
+                        "sha1": "14a208ac26ad6cf4005871fbc687e2a8913c67d6"
                     },
                     "required_dependencies": [
                         "9s6osm5g"
                     ],
-                    "size": 345711,
-                    "date_published": "2024-12-23T22:42:46.760977Z"
+                    "size": 344762,
+                    "date_published": "2025-02-09T16:57:31.993925Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "moreculling-fabric-1.21.1-1.0.3.jar",
+                    "file_name": "moreculling-fabric-1.21.1-1.0.4.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -917,18 +917,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6017/859/moreculling-fabric-1.21.1-1.0.3.jar",
-                    "id": "6017859",
+                    "url": "https://edge.forgecdn.net/files/6175/443/moreculling-fabric-1.21.1-1.0.4.jar",
+                    "id": "6175443",
                     "parent_id": "630104",
                     "hashes": {
-                        "sha1": "301ba2e2a2652fd2e13d4dac8af781fc9c713603",
-                        "md5": "ce509904597e95ac0a196de835ad56b8"
+                        "sha1": "14a208ac26ad6cf4005871fbc687e2a8913c67d6",
+                        "md5": "cd541015ff359dd49fde9921a1acadc9"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 345711,
-                    "date_published": "2024-12-23T22:42:44.277Z"
+                    "size": 344762,
+                    "date_published": "2025-02-09T16:57:29.907Z"
                 }
             ]
         },
@@ -952,7 +952,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sodium-fabric-0.6.5+mc1.21.1.jar",
+                    "file_name": "sodium-fabric-0.6.7+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -961,20 +961,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5+mc1.21.1.jar",
-                    "id": "EoNKHoLH",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/AxSdcDcP/sodium-fabric-0.6.7+mc1.21.1.jar",
+                    "id": "AxSdcDcP",
                     "parent_id": "AANobbMI",
                     "hashes": {
-                        "sha512": "d8979d318af75def36d60e823b50063a8f83bb22db602f04e4112a891eb564abd85c6c87a2ee6fad312c11703b3f586c6ca72f2ee13883a76ea3f655525603ee",
-                        "sha1": "68469cfbcb1b7fcdb0d11c8b984a657adfac5684"
+                        "sha512": "14158717891d458927bc7c04ac9fd425efc4b2dcc24c6388351ee4872c9aacbcaf2de2952704e70553f08f0c05a4e19c7ddbe3f86f0961842e96423e65666b4f",
+                        "sha1": "48287c010aa75817b23334ef964c30d37a90f2e0"
                     },
                     "required_dependencies": [],
-                    "size": 1289453,
-                    "date_published": "2024-12-17T22:10:57.615075Z"
+                    "size": 1293429,
+                    "date_published": "2025-02-09T04:18:26.205923Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "sodium-fabric-0.6.5+mc1.21.1.jar",
+                    "file_name": "sodium-fabric-0.6.7+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -983,16 +983,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6000/080/sodium-fabric-0.6.5+mc1.21.1.jar",
-                    "id": "6000080",
+                    "url": "https://edge.forgecdn.net/files/6173/743/sodium-fabric-0.6.7+mc1.21.1.jar",
+                    "id": "6173743",
                     "parent_id": "394468",
                     "hashes": {
-                        "sha1": "68469cfbcb1b7fcdb0d11c8b984a657adfac5684",
-                        "md5": "a3e62affdeb8c12331adaa2e1f783ed7"
+                        "sha1": "48287c010aa75817b23334ef964c30d37a90f2e0",
+                        "md5": "55241bd20a15ed25644d02da61cd3296"
                     },
                     "required_dependencies": [],
-                    "size": 1289453,
-                    "date_published": "2024-12-17T22:17:09.597Z"
+                    "size": 1293429,
+                    "date_published": "2025-02-09T04:22:05.303Z"
                 }
             ]
         },
