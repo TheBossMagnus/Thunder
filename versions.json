@@ -11,8 +11,8 @@
     },
     {
         "Minecraft Version": "1.21.3",
-        "Fabric": "rec",
-        "Quilt": "sup"
+        "Fabric": "out",
+        "Quilt": "out"
     },
     {
         "Minecraft Version": "1.21.2",
