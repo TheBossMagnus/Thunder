@@ -216,6 +216,30 @@
             },
             "files": [
                 {
+                    "type": "curseforge",
+                    "file_name": "dynamic-fps-3.9.0+minecraft-1.21.0-fabric.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6250/872/dynamic-fps-3.9.0+minecraft-1.21.0-fabric.jar",
+                    "id": "6250872",
+                    "parent_id": "335493",
+                    "hashes": {
+                        "sha1": "51582142bee59c7fb3d41f3889b1629b833b0e26",
+                        "md5": "5ca5fb646fbd35464c0d25ae8240defb"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 188128,
+                    "date_published": "2025-03-01T11:47:49.250Z"
+                },
+                {
                     "type": "modrinth",
                     "file_name": "dynamic-fps-3.8.0+minecraft-1.21.0-fabric.jar",
                     "mc_versions": [
@@ -238,30 +262,6 @@
                     ],
                     "size": 187818,
                     "date_published": "2025-02-19T20:04:22.838196Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "dynamic-fps-3.8.0+minecraft-1.21.0-fabric.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6210/824/dynamic-fps-3.8.0+minecraft-1.21.0-fabric.jar",
-                    "id": "6210824",
-                    "parent_id": "335493",
-                    "hashes": {
-                        "sha1": "d8fa71a9b666300e566eaae25db34b2130b04696",
-                        "md5": "e869d81f93f29fda917dc94f4f7cd60a"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 187818,
-                    "date_published": "2025-02-19T20:04:20.547Z"
                 }
             ]
         },
@@ -357,32 +357,8 @@
             "redistributable": false,
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "entityculling-fabric-1.7.2-mc1.21.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5968/855/entityculling-fabric-1.7.2-mc1.21.jar",
-                    "id": "5968855",
-                    "parent_id": "448233",
-                    "hashes": {
-                        "sha1": "9e2a99e7dd4772492a62acc62174baa56e581af8",
-                        "md5": "6a9e20a352cd633b1970398a616bf271"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 67575,
-                    "date_published": "2024-12-06T18:58:32.373Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.7.2-mc1.21.jar",
+                    "file_name": "entityculling-fabric-1.7.3-mc1.21.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -391,18 +367,42 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/MQuJQtw8/entityculling-fabric-1.7.2-mc1.21.jar",
-                    "id": "MQuJQtw8",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ssEdOyua/entityculling-fabric-1.7.3-mc1.21.jar",
+                    "id": "ssEdOyua",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "b92426d38cd1e21e5064cb773a40d4c02130a80e16266dd77711965b30d3ffeaa5d73f8e989214e2a160a2181de6d71ed2e7723b387f3d6b10ca746bea0638d9",
-                        "sha1": "9e2a99e7dd4772492a62acc62174baa56e581af8"
+                        "sha512": "924677750f167722f767f69b644b1492705d2fb0ac02abbfe7dd39cf9718d88f7de3a0a764b602e224e1199c6e66b475128cbf35b2e78700fff2902136efb65c",
+                        "sha1": "b2e066d4d0ee80d000fc628c8138ae1ca1c3cc98"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 67575,
-                    "date_published": "2024-12-06T18:58:34.414356Z"
+                    "size": 71253,
+                    "date_published": "2025-02-25T20:17:21.660183Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "entityculling-fabric-1.7.3-mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6236/202/entityculling-fabric-1.7.3-mc1.21.jar",
+                    "id": "6236202",
+                    "parent_id": "448233",
+                    "hashes": {
+                        "sha1": "b2e066d4d0ee80d000fc628c8138ae1ca1c3cc98",
+                        "md5": "a0c3039c39b168f8cbcd77028a81dfb2"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 71253,
+                    "date_published": "2025-02-25T20:17:18.747Z"
                 }
             ]
         },
@@ -546,6 +546,29 @@
             },
             "files": [
                 {
+                    "type": "curseforge",
+                    "file_name": "ImmediatelyFast-Fabric-1.6.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6285/506/ImmediatelyFast-Fabric-1.6.1+1.21.1.jar",
+                    "id": "6285506",
+                    "parent_id": "686911",
+                    "hashes": {
+                        "sha1": "d04000cc89be5f3e467eb39f050c1c8f5338229f",
+                        "md5": "606ec2f546c5f7f76d57666baae727ec"
+                    },
+                    "required_dependencies": [],
+                    "size": 226114,
+                    "date_published": "2025-03-09T19:34:45.137Z"
+                },
+                {
                     "type": "modrinth",
                     "file_name": "ImmediatelyFast-Fabric-1.3.4+1.21.1.jar",
                     "mc_versions": [
@@ -567,29 +590,6 @@
                     "required_dependencies": [],
                     "size": 241734,
                     "date_published": "2025-01-25T22:34:11.051873Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "ImmediatelyFast-Fabric-1.3.4+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6124/851/ImmediatelyFast-Fabric-1.3.4+1.21.1.jar",
-                    "id": "6124851",
-                    "parent_id": "686911",
-                    "hashes": {
-                        "sha1": "7dbbf2044b216afdace29a1db5e2ce2e3bf0257c",
-                        "md5": "804284ecbe18e147239058c5daf0cb19"
-                    },
-                    "required_dependencies": [],
-                    "size": 241734,
-                    "date_published": "2025-01-25T22:34:10.830Z"
                 }
             ]
         },
@@ -681,6 +681,28 @@
             },
             "files": [
                 {
+                    "type": "curseforge",
+                    "file_name": "lithium-fabric-0.15.0+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6290/412/lithium-fabric-0.15.0+mc1.21.1.jar",
+                    "id": "6290412",
+                    "parent_id": "360438",
+                    "hashes": {
+                        "sha1": "b7d77602807f2c7cd7132741244bf8c0b8dec6c1",
+                        "md5": "319d83e396c1a1227bcb4451d79e3336"
+                    },
+                    "required_dependencies": [],
+                    "size": 771768,
+                    "date_published": "2025-03-10T23:26:11.287Z"
+                },
+                {
                     "type": "modrinth",
                     "file_name": "lithium-fabric-0.14.8+mc1.21.1.jar",
                     "mc_versions": [
@@ -701,28 +723,6 @@
                     "required_dependencies": [],
                     "size": 765859,
                     "date_published": "2025-02-20T00:24:04.842003Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "lithium-fabric-0.14.8+mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6211/590/lithium-fabric-0.14.8+mc1.21.1.jar",
-                    "id": "6211590",
-                    "parent_id": "360438",
-                    "hashes": {
-                        "sha1": "8f5af483ccc65634133e94c72056a50a05a2f0c2",
-                        "md5": "bea03520c3d82d3130c5286898fa5a67"
-                    },
-                    "required_dependencies": [],
-                    "size": 765859,
-                    "date_published": "2025-02-20T00:24:03.427Z"
                 }
             ]
         },
@@ -883,7 +883,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "moreculling-fabric-1.21.1-1.0.4.jar",
+                    "file_name": "moreculling-fabric-1.21.1-1.0.6.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -893,22 +893,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/ZfHcTTZR/moreculling-fabric-1.21.1-1.0.4.jar",
-                    "id": "ZfHcTTZR",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/1V6UtDhN/moreculling-fabric-1.21.1-1.0.6.jar",
+                    "id": "1V6UtDhN",
                     "parent_id": "51shyZVL",
                     "hashes": {
-                        "sha512": "64a76c724af4c1c70d6034b09f394826d408c79f35b00861aa455a83021ddae3afdf952d65ab639666bd4d6fea6180207e2a3dab01f035e3475dee7692be4d33",
-                        "sha1": "14a208ac26ad6cf4005871fbc687e2a8913c67d6"
+                        "sha512": "c6a6db1e2b63084457358171175ddf6061b32d31843f982001720c34433ae96cb13d72b910dc486ad1556e9db55352df3619f131c733bf843d3273d248989b05",
+                        "sha1": "e14150baf443abc24ee6236b837c287dd5950e95"
                     },
                     "required_dependencies": [
                         "9s6osm5g"
                     ],
-                    "size": 344762,
-                    "date_published": "2025-02-09T16:57:31.993925Z"
+                    "size": 345544,
+                    "date_published": "2025-03-11T17:30:35.003028Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "moreculling-fabric-1.21.1-1.0.4.jar",
+                    "file_name": "moreculling-fabric-1.21.1-1.0.6.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -918,19 +918,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6175/443/moreculling-fabric-1.21.1-1.0.4.jar",
-                    "id": "6175443",
+                    "url": "https://edge.forgecdn.net/files/6292/914/moreculling-fabric-1.21.1-1.0.6.jar",
+                    "id": "6292914",
                     "parent_id": "630104",
                     "hashes": {
-                        "sha1": "14a208ac26ad6cf4005871fbc687e2a8913c67d6",
-                        "md5": "cd541015ff359dd49fde9921a1acadc9"
+                        "sha1": "e14150baf443abc24ee6236b837c287dd5950e95",
+                        "md5": "d383c451682320ffad7f1a2edb53a2b9"
                     },
                     "required_dependencies": [
-                        "348521",
-                        "317121"
+                        "348521"
                     ],
-                    "size": 344762,
-                    "date_published": "2025-02-09T16:57:29.907Z"
+                    "size": 345544,
+                    "date_published": "2025-03-11T17:30:32.013Z"
                 }
             ]
         },
@@ -953,6 +952,29 @@
             "redistributable": false,
             "files": [
                 {
+                    "type": "curseforge",
+                    "file_name": "sodium-fabric-0.6.9+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6211/305/sodium-fabric-0.6.9+mc1.21.1.jar",
+                    "id": "6211305",
+                    "parent_id": "394468",
+                    "hashes": {
+                        "sha1": "7953f77ac52ca2b1c6a7e483553b2a345f1b2a9c",
+                        "md5": "65c26c015296f5651b9c623002f7a90b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1297415,
+                    "date_published": "2025-02-19T22:38:53.420Z"
+                },
+                {
                     "type": "modrinth",
                     "file_name": "sodium-fabric-0.6.9+mc1.21.1.jar",
                     "mc_versions": [
@@ -973,28 +995,6 @@
                     "required_dependencies": [],
                     "size": 1297415,
                     "date_published": "2025-02-19T22:34:49.381915Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "sodium-fabric-0.6.9+mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6211/305/sodium-fabric-0.6.9+mc1.21.1.jar",
-                    "id": "6211305",
-                    "parent_id": "394468",
-                    "hashes": {
-                        "sha1": "7953f77ac52ca2b1c6a7e483553b2a345f1b2a9c",
-                        "md5": "65c26c015296f5651b9c623002f7a90b"
-                    },
-                    "required_dependencies": [],
-                    "size": 1297415,
-                    "date_published": "2025-02-19T22:38:53.420Z"
                 }
             ]
         },
