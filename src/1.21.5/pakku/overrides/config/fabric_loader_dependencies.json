@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "immediatelyfast": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "entityculling": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "lithium": {
+      "-depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}
