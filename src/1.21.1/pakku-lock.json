@@ -217,7 +217,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "dynamic-fps-3.9.2+minecraft-1.21.0-fabric.jar",
+                    "file_name": "dynamic-fps-3.9.3+minecraft-1.21.0-fabric.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -226,22 +226,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/jfEcOFSP/dynamic-fps-3.9.2+minecraft-1.21.0-fabric.jar",
-                    "id": "jfEcOFSP",
+                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/26Klrxmv/dynamic-fps-3.9.3+minecraft-1.21.0-fabric.jar",
+                    "id": "26Klrxmv",
                     "parent_id": "LQ3K71Q1",
                     "hashes": {
-                        "sha512": "a39dfbfe43ca758c1a9c58c668b2aa45770dc67a81d2cb876135180627cccfd45d315884b971ebdaf2e8340c9562b03498fea02674ef1a7d44e22daff0f0049c",
-                        "sha1": "9c9c90ab52ad10e85803f1407fef0645885867ec"
+                        "sha512": "b18e9beb84770b15d1cda913db3af20d4701655dcd7651c554c7fe28ddc5f1fe8678b6e8582101da2e86fa6abf506ceaf0366c198fc2d833d9e0ad036b4c3779",
+                        "sha1": "1a945e779ce68296dbae60632a9d7ee322692002"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 188481,
-                    "date_published": "2025-03-25T18:40:52.231920Z"
+                    "size": 189153,
+                    "date_published": "2025-04-12T17:51:55.422737Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "dynamic-fps-3.9.2+minecraft-1.21.0-fabric.jar",
+                    "file_name": "dynamic-fps-3.9.3+minecraft-1.21.0-fabric.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -250,18 +250,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6347/433/dynamic-fps-3.9.2+minecraft-1.21.0-fabric.jar",
-                    "id": "6347433",
+                    "url": "https://edge.forgecdn.net/files/6415/781/dynamic-fps-3.9.3+minecraft-1.21.0-fabric.jar",
+                    "id": "6415781",
                     "parent_id": "335493",
                     "hashes": {
-                        "sha1": "9c9c90ab52ad10e85803f1407fef0645885867ec",
-                        "md5": "0c9c05b7c6bf898f052db3a8e1bd1061"
+                        "sha1": "1a945e779ce68296dbae60632a9d7ee322692002",
+                        "md5": "e82d163e9abd0b0c217f7a9787305df8"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 188481,
-                    "date_published": "2025-03-25T18:40:50.740Z"
+                    "size": 189153,
+                    "date_published": "2025-04-12T17:51:53.957Z"
                 }
             ]
         },
@@ -819,7 +819,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "modernfix-fabric-5.20.2+mc1.21.1.jar",
+                    "file_name": "modernfix-fabric-5.21.0+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -827,20 +827,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/tn4FFqcg/modernfix-fabric-5.20.2+mc1.21.1.jar",
-                    "id": "tn4FFqcg",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/aN5Qohr4/modernfix-fabric-5.21.0+mc1.21.1.jar",
+                    "id": "aN5Qohr4",
                     "parent_id": "nmDcB62a",
                     "hashes": {
-                        "sha512": "1ed6f19b08198d07b6a45a3fe6aaee01f420e70bc73c8cafd1be46ccea97584f407005395eb787b0c4a90e5d9ed9581938d9b335369468d1b05e935d7792e15a",
-                        "sha1": "34f1cec6b5be986dac19db957d64f977489cad82"
+                        "sha512": "0f870a6de64a1ebebc2f4806df2f47ee31bd78db4ffced941077cd5a04ad967c0dc62896e061291c9ed777f42f822f8c487f8c705fee05206b3b79cc6be4a1d5",
+                        "sha1": "70fc0bfc8781e482f1ecd0f9ab799f5bdb96c562"
                     },
                     "required_dependencies": [],
-                    "size": 435763,
-                    "date_published": "2025-01-26T00:48:26.140542Z"
+                    "size": 437534,
+                    "date_published": "2025-04-06T19:29:01.073177Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "modernfix-fabric-5.20.2+mc1.21.1.jar",
+                    "file_name": "modernfix-fabric-5.21.0+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -848,16 +848,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6125/146/modernfix-fabric-5.20.2+mc1.21.1.jar",
-                    "id": "6125146",
+                    "url": "https://edge.forgecdn.net/files/6392/737/modernfix-fabric-5.21.0+mc1.21.1.jar",
+                    "id": "6392737",
                     "parent_id": "790626",
                     "hashes": {
-                        "sha1": "34f1cec6b5be986dac19db957d64f977489cad82",
-                        "md5": "cb8f961ba03da7dd0208cded31f54871"
+                        "sha1": "70fc0bfc8781e482f1ecd0f9ab799f5bdb96c562",
+                        "md5": "abe75c21123975b6ddff0dffe4b94c76"
                     },
                     "required_dependencies": [],
-                    "size": 435763,
-                    "date_published": "2025-01-26T00:48:22.083Z"
+                    "size": 437534,
+                    "date_published": "2025-04-06T19:28:56.567Z"
                 }
             ]
         },
