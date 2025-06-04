@@ -158,7 +158,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.5-0.3.4+alpha.0.17.jar",
+                    "file_name": "c2me-fabric-mc1.21.5-0.3.4+alpha.0.20.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -166,20 +166,20 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/BQkZuXdt/c2me-fabric-mc1.21.5-0.3.4+alpha.0.17.jar",
-                    "id": "BQkZuXdt",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OvXvTD3H/c2me-fabric-mc1.21.5-0.3.4+alpha.0.20.jar",
+                    "id": "OvXvTD3H",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "7b249ba39d1da7b68181133435eace96ebfc45b267db86f3bf22ea1082c60348fbe2e7c663b63febe52496e1bd11157a03b8367216822f90fdff91502691f837",
-                        "sha1": "935c1e819945055e03c0aa9caec6d0a9be353655"
+                        "sha512": "fd02367780cc0ff379074bef649c2ca463eaddec356827de6ef9d1ff02154d98f2d44ea2a787ca78b1728db6cb59e4beeed05577e7f92b39e5d4134e6bcada74",
+                        "sha1": "5b0e9a09eff627335bd9cff88d97052565a88ae0"
                     },
                     "required_dependencies": [],
-                    "size": 4677102,
-                    "date_published": "2025-05-19T15:15:51.350011Z"
+                    "size": 4681023,
+                    "date_published": "2025-05-30T09:31:19.531250Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.5-0.3.4+alpha.0.17.jar",
+                    "file_name": "c2me-fabric-mc1.21.5-0.3.4+alpha.0.20.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -187,16 +187,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6547/455/c2me-fabric-mc1.21.5-0.3.4+alpha.0.17.jar",
-                    "id": "6547455",
+                    "url": "https://edge.forgecdn.net/files/6597/911/c2me-fabric-mc1.21.5-0.3.4+alpha.0.20.jar",
+                    "id": "6597911",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "935c1e819945055e03c0aa9caec6d0a9be353655",
-                        "md5": "eab6c5e7dbe450fc7c0ed177549abd11"
+                        "sha1": "5b0e9a09eff627335bd9cff88d97052565a88ae0",
+                        "md5": "b0fc0f201fb0695285c48cb2e5ab290e"
                     },
                     "required_dependencies": [],
-                    "size": 4677102,
-                    "date_published": "2025-05-19T15:15:53.143Z"
+                    "size": 4681023,
+                    "date_published": "2025-05-30T09:31:20.907Z"
                 }
             ]
         },
@@ -364,7 +364,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.124.2+1.21.5.jar",
+                    "file_name": "fabric-api-0.125.3+1.21.5.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -372,20 +372,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/SQv5lrom/fabric-api-0.124.2+1.21.5.jar",
-                    "id": "SQv5lrom",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/1Hweb6k1/fabric-api-0.125.3+1.21.5.jar",
+                    "id": "1Hweb6k1",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "26486f7984c6fc5f47e13c70cd30e998db3cfe0dbbdd03910115f13e2ecd49971f2336dcdeb0680747319c5a5fdbaa94fee76e2d39d2852910fd14dabfc200eb",
-                        "sha1": "501c7e6a5badeea15b266d25ca12b0a95e1e09ab"
+                        "sha512": "54d1c195803de90a7055858ab835d527919007f0e80048e854d3beaaad151d30766a78f530a4189eadfbbef3bd98cca69c9f54f565d49b586180cbd5834eda97",
+                        "sha1": "4cde7cd29bd6b52fbd3fbfba7c1004526fe5e558"
                     },
                     "required_dependencies": [],
-                    "size": 2218580,
-                    "date_published": "2025-05-19T17:59:09.507415Z"
+                    "size": 2224300,
+                    "date_published": "2025-05-31T14:33:19.490935Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fabric-api-0.124.2+1.21.5.jar",
+                    "file_name": "fabric-api-0.125.3+1.21.5.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -393,16 +393,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6548/78/fabric-api-0.124.2+1.21.5.jar",
-                    "id": "6548078",
+                    "url": "https://edge.forgecdn.net/files/6601/671/fabric-api-0.125.3+1.21.5.jar",
+                    "id": "6601671",
                     "parent_id": "306612",
                     "hashes": {
-                        "sha1": "501c7e6a5badeea15b266d25ca12b0a95e1e09ab",
-                        "md5": "0a36854c4502bd48142887233d5f82d4"
+                        "sha1": "4cde7cd29bd6b52fbd3fbfba7c1004526fe5e558",
+                        "md5": "40578525dc29beb9c3ec4f0294819c78"
                     },
                     "required_dependencies": [],
-                    "size": 2218580,
-                    "date_published": "2025-05-19T17:59:06.943Z"
+                    "size": 2224300,
+                    "date_published": "2025-05-31T14:33:17.030Z"
                 }
             ]
         },
@@ -486,7 +486,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ImmediatelyFast-Fabric-1.9.4+1.21.5.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.9.5+1.21.5.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -495,20 +495,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rkJHrPyc/ImmediatelyFast-Fabric-1.9.4+1.21.5.jar",
-                    "id": "rkJHrPyc",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/dk4uLLmV/ImmediatelyFast-Fabric-1.9.5+1.21.5.jar",
+                    "id": "dk4uLLmV",
                     "parent_id": "5ZwdcRci",
                     "hashes": {
-                        "sha512": "cec7c67f34c0f1b7a1e0b0f58385886186b39e2ca99c1f622c1bd1f91f1c54012f7cae0badb98c2bc717ed7c1df0effb62cbd5af0c2fff7f01a4aa4de42736c0",
-                        "sha1": "976e19922d92f608e8826930b9cd7928cf903242"
+                        "sha512": "033cb2531931ff9800f219ca273e65147223a86dac832dadeaf7af32a69d05af6a8630a6cfe3c1aa61080854b3a3471307a8d48d166c3439bcfa9501c3ccf824",
+                        "sha1": "887e45137b047220f5ca5f8412577b327d37adfb"
                     },
                     "required_dependencies": [],
-                    "size": 230416,
-                    "date_published": "2025-05-19T20:02:37.370670Z"
+                    "size": 227089,
+                    "date_published": "2025-05-28T22:34:08.055996Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "ImmediatelyFast-Fabric-1.9.4+1.21.5.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.9.5+1.21.5.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -517,16 +517,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6548/496/ImmediatelyFast-Fabric-1.9.4+1.21.5.jar",
-                    "id": "6548496",
+                    "url": "https://edge.forgecdn.net/files/6588/109/ImmediatelyFast-Fabric-1.9.5+1.21.5.jar",
+                    "id": "6588109",
                     "parent_id": "686911",
                     "hashes": {
-                        "sha1": "976e19922d92f608e8826930b9cd7928cf903242",
-                        "md5": "95d3412a28928b56fd23484c98422b24"
+                        "sha1": "887e45137b047220f5ca5f8412577b327d37adfb",
+                        "md5": "5b92a1d454ce5b896da78b80f59124b1"
                     },
                     "required_dependencies": [],
-                    "size": 230416,
-                    "date_published": "2025-05-19T20:02:37.517Z"
+                    "size": 227089,
+                    "date_published": "2025-05-28T22:34:08.243Z"
                 }
             ]
         },
