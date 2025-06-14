@@ -1,0 +1,245 @@
+[15:20:28] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[15:20:28] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[15:20:28] [main/INFO]: Loading 103 mods:
+	- badoptimizations 2.2.2
+	- c2me 0.3.1.3.0+1.21.4
+	   |-- c2me-base 0.3.1.3.0+1.21.4
+	   |-- c2me-client-uncapvd 0.3.1.3.0+1.21.4
+	   |-- c2me-fixes-chunkio-threading-issues 0.3.1.3.0+1.21.4
+	   |-- c2me-fixes-general-threading-issues 0.3.1.3.0+1.21.4
+	   |-- c2me-fixes-worldgen-threading-issues 0.3.1.3.0+1.21.4
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.1.3.0+1.21.4
+	   |-- c2me-notickvd 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-allocs 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-chunkio 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-dfc 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-math 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-scheduling 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-worldgen-general 0.3.1.3.0+1.21.4
+	   |-- c2me-opts-worldgen-vanilla 0.3.1.3.0+1.21.4
+	   |-- c2me-rewrites-chunk-serializer 0.3.1.3.0+1.21.4
+	   |-- c2me-rewrites-chunk-system 0.3.1.3.0+1.21.4
+	   |-- c2me-rewrites-chunkio 0.3.1.3.0+1.21.4
+	   |-- c2me-server-utils 0.3.1.3.0+1.21.4
+	   |-- c2me-threading-lighting 0.3.1.3.0+1.21.4
+	   |-- com_electronwill_night-config_core 3.6.5
+	   |-- com_electronwill_night-config_toml 3.6.5
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- io_reactivex_rxjava3_rxjava 3.1.8
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- cloth-config 17.0.144
+	   \-- cloth-basic-math 0.6.1
+	- dynamic_fps 3.9.4
+	   \-- net_lostluma_battery 1.3.0
+	- enhancedblockentities 0.11.3+1.21.4
+	- entityculling 1.7.4
+	- fabric-api 0.119.3+1.21.4
+	   |-- fabric-api-base 0.4.54+b47eab6b04
+	   |-- fabric-api-lookup-api-v1 1.6.86+b1caf1e904
+	   |-- fabric-biome-api-v1 15.0.6+b1c29d8e04
+	   |-- fabric-block-api-v1 1.0.31+7feeb73304
+	   |-- fabric-block-view-api-v2 1.0.20+9c49cc8c04
+	   |-- fabric-blockrenderlayer-v1 2.0.8+7feeb73304
+	   |-- fabric-client-tags-api-v1 1.1.29+20ea1e2304
+	   |-- fabric-command-api-v1 1.2.62+f71b366f04
+	   |-- fabric-command-api-v2 2.2.41+e496eb1504
+	   |-- fabric-commands-v0 0.2.79+df3654b304
+	   |-- fabric-content-registries-v0 9.1.19+25d1a67604
+	   |-- fabric-convention-tags-v1 2.1.20+7f945d5b04
+	   |-- fabric-convention-tags-v2 2.14.1+aebda09404
+	   |-- fabric-crash-report-info-v1 0.3.6+7feeb73304
+	   |-- fabric-data-attachment-api-v1 1.6.2+e99da0f704
+	   |-- fabric-data-generation-api-v1 22.3.1+0f4e5f5504
+	   |-- fabric-dimensions-v1 4.0.10+7feeb73304
+	   |-- fabric-entity-events-v1 2.0.15+62245bef04
+	   |-- fabric-events-interaction-v0 4.0.4+a4eebcf004
+	   |-- fabric-game-rule-api-v1 1.0.63+7d48d43904
+	   |-- fabric-item-api-v1 11.3.0+ee91fa1f04
+	   |-- fabric-item-group-api-v1 4.2.2+fcb9601404
+	   |-- fabric-key-binding-api-v1 1.0.57+7d48d43904
+	   |-- fabric-keybindings-v0 0.2.55+df3654b304
+	   |-- fabric-lifecycle-events-v1 2.5.4+bf2a60eb04
+	   |-- fabric-loot-api-v2 3.0.38+3f89f5a504
+	   |-- fabric-loot-api-v3 1.0.26+203e6b2304
+	   |-- fabric-message-api-v1 6.0.26+238a33c004
+	   |-- fabric-model-loading-api-v1 4.3.0+ae23723504
+	   |-- fabric-networking-api-v1 4.4.0+db5e668204
+	   |-- fabric-object-builder-api-v1 18.0.14+38b0d59804
+	   |-- fabric-particles-v1 4.0.14+7feeb73304
+	   |-- fabric-recipe-api-v1 8.1.1+640e77ae04
+	   |-- fabric-registry-sync-v0 6.1.11+4a9c1ece04
+	   |-- fabric-renderer-api-v1 5.0.3+50f0feb204
+	   |-- fabric-renderer-indigo 2.0.3+50f0feb204
+	   |-- fabric-rendering-data-attachment-v1 0.3.58+73761d2e04
+	   |-- fabric-rendering-fluids-v1 3.1.19+7feeb73304
+	   |-- fabric-rendering-v1 10.2.1+0d31b09f04
+	   |-- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
+	   |-- fabric-resource-loader-v0 3.1.1+360374ac04
+	   |-- fabric-screen-api-v1 2.0.38+7feeb73304
+	   |-- fabric-screen-handler-api-v1 1.3.118+7feeb73304
+	   |-- fabric-sound-api-v1 1.0.32+7feeb73304
+	   |-- fabric-tag-api-v1 1.0.7+7d48d43904
+	   |-- fabric-transfer-api-v1 5.4.9+efa825c904
+	   \-- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- ferritecore 7.1.1
+	- immediatelyfast 1.8.0+1.21.4
+	   \-- net_lenni0451_reflect 1.3.4
+	- iris 1.8.8+mc1.21.4
+	   |-- io_github_douira_glsl-transformer 2.0.1
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.13.1
+	- java 21
+	- lithium 0.15.3+mc1.21.4
+	- minecraft 1.21.4
+	- modernfix 5.20.3+mc1.21.4
+	- modmenu 13.0.3
+	   \-- placeholder-api 2.5.1+1.21.3
+	- moreculling 1.2.10
+	   |-- conditional-mixin 0.6.3
+	   \-- mixinsquared 0.2.0
+	- sodium 0.6.13+mc1.21.4
+	- threadtweak 0.1.7+mc1.21.5
+	- yosbr 0.1.2
+[15:20:28] [main/INFO]: Applying default options... (YOSBR)
+[15:20:28] [main/INFO]: Applying default options for /config/sodium-options.json from /config/yosbr/config/sodium-options.json
+[15:20:28] [main/INFO]: Applying default options for /config/immediatelyfast.json from /config/yosbr/config/immediatelyfast.json
+[15:20:28] [main/INFO]: Applying default options for /config/modernfix-mixins.properties from /config/yosbr/config/modernfix-mixins.properties
+[15:20:28] [main/INFO]: Applying default options for /config/threadtweak.json from /config/yosbr/config/threadtweak.json
+[15:20:28] [main/INFO]: Applying default options for /config/moreculling.toml from /config/yosbr/config/moreculling.toml
+[15:20:28] [main/INFO]: Applying default options for /config/c2me.toml from /config/yosbr/config/c2me.toml
+[15:20:28] [main/INFO]: Applying default options for /config/badoptimizations.txt from /config/yosbr/config/badoptimizations.txt
+[15:20:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/tbmag/code/Modpack_DevTools/testMcs/1.21.4/fabric/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[15:20:28] [main/INFO]: Compatibility level set to JAVA_17
+[15:20:28] [main/INFO]: Compatibility level set to JAVA_21
+[15:20:29] [main/INFO]: Loading config file
+[15:20:29] [main/INFO]: Upgrading config from version 3 to supported version 4
+[15:20:29] [main/INFO]: Generating config file version 4
+[15:20:29] [main/INFO]: Config version: 4
+[15:20:29] [main/INFO]: BadOptimizations config dump:
+[15:20:29] [main/INFO]: enable_toast_optimizations: true
+[15:20:29] [main/INFO]: ignore_mod_incompatibilities: false
+[15:20:29] [main/INFO]: lightmap_time_change_needed_for_update: 60
+[15:20:29] [main/INFO]: enable_lightmap_caching: true
+[15:20:29] [main/INFO]: enable_particle_manager_optimization: true
+[15:20:29] [main/INFO]: enable_entity_renderer_caching: true
+[15:20:29] [main/INFO]: log_config: true
+[15:20:29] [main/INFO]: enable_remove_redundant_fov_calculations: true
+[15:20:29] [main/INFO]: config_version: 4
+[15:20:29] [main/INFO]: enable_sky_angle_caching_in_worldrenderer: true
+[15:20:29] [main/INFO]: enable_block_entity_renderer_caching: true
+[15:20:29] [main/INFO]: skycolor_time_change_needed_for_update: 10
+[15:20:29] [main/INFO]: enable_entity_flag_caching: true
+[15:20:29] [main/INFO]: enable_debug_renderer_disable_if_not_needed: true
+[15:20:29] [main/INFO]: enable_sky_color_caching: true
+[15:20:29] [main/INFO]: enable_remove_tutorial_if_not_demo: true
+[15:20:29] [main/INFO]: show_f3_text: false
+[15:20:29] [main/INFO]: Note: Entity flag caching has no effect in Minecraft 1.20.5+ as the optimization is obsoleted by vanilla changes.
+[15:20:29] [main/INFO]: Note: Entity flag caching has no effect in Minecraft 1.20.5+ as the optimization is obsoleted by vanilla changes.
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[15:20:29] [main/INFO]: Global Executor Parallelism: 4 configured, 4 evaluated, 4 default evaluated
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.client.uncapvd.mixin
+[15:20:29] [main/INFO]: Config clientSideConfig.modifyMaxVDConfig.enabled changed from true to false
+[15:20:29] [main/INFO]: Config clientSideConfig.modifyMaxVDConfig.enableExtRenderDistanceProtocol changed from true to false
+[15:20:29] [main/INFO]: Disabling com.ishland.c2me.client.uncapvd.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[15:20:29] [main/INFO]: Config noTickViewDistance.compatibilityMode changed from true to false
+[15:20:29] [main/INFO]: Config noTickViewDistance.enableExtRenderDistanceProtocol changed from true to false
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[15:20:29] [main/INFO]: Config vanillaWorldGenOptimizations.useDensityFunctionCompiler changed from true to true
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[15:20:29] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[15:20:29] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[15:20:29] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[15:20:29] [main/WARN]: Reference map 'iris-fabric.refmap.json' for mixins.iris.fabric.json could not be read. If this is a development environment you can ignore this message
+[15:20:29] [main/WARN]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:20:29] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[15:20:29] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[15:20:29] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.bettermipmaps.json could not be read. If this is a development environment you can ignore this message
+[15:20:29] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[15:20:29] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fixes.maxfpscrash.json could not be read. If this is a development environment you can ignore this message
+[15:20:29] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[15:20:29] [main/INFO]: Loaded configuration file for Lithium: 158 options available, 0 override(s) found.
+[15:20:29] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 5 override(s) found
+[15:20:29] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[15:20:29] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[15:20:29] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[15:20:29] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[15:20:29] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
+[15:20:29] [main/INFO]: Applying Nashorn fix
+[15:20:29] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[15:20:30] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[15:20:30] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
+[15:20:30] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[15:20:30] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[15:20:30] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[15:20:30] [main/INFO]: Removing config entry .noTickViewDistance.maxViewDistance because it is not used
+[15:20:30] [main/INFO]: Searching for graphics cards...
+[15:20:31] [main/INFO]: Found graphics adapter: LinuxPciAdapterInfo[vendor=AMD, name=Raphael, pciVendorId=0x1002, pciDeviceId=0x164e]
+[15:20:31] [main/INFO]: Found graphics adapter: LinuxPciAdapterInfo[vendor=NVIDIA, name=AD104M [GeForce RTX 4080 Max-Q / Mobile], pciVendorId=0x10de, pciDeviceId=0x27e0]
+[15:20:31] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS_BROKEN, NO_ERROR_CONTEXT_UNSUPPORTED]
+[15:20:31] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[15:20:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:20:31] [main/INFO]: ThreadTweak config initialized
+[15:20:34] [Datafixer Bootstrap/INFO]: 243 Datafixer optimizations took 1130 milliseconds
+[15:20:37] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[15:20:41] [main/INFO]: Vanilla bootstrap took 7278 milliseconds
+[15:20:42] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:20:42] [Render thread/INFO]: Setting user: Player154
+[15:20:42] [Render thread/WARN]: Dynamic FPS config missing or corrupted! Using defaults.
+[15:20:42] [Render thread/INFO]: Dynamic FPS 3.9.4 active on Fabric!
+[15:20:43] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[15:20:43] [Download-2/ERROR]: Failed to fetch user properties
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at knot/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:59) ~[authlib-6.0.57.jar:?]
+	at knot/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:150) ~[authlib-6.0.57.jar:?]
+	at knot/net.minecraft.class_310.method_55608(class_310.java:457) ~[client-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-6.0.57.jar:?]
+	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.57.jar:?]
+	at knot/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:121) ~[authlib-6.0.57.jar:?]
+	... 5 more
+[15:20:43] [Render thread/INFO]: Checking mod updates...
+[15:20:43] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[15:20:43] [Render thread/INFO]: Modifying process environment to apply workarounds for the NVIDIA graphics driver...
+[15:20:44] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] This version doesn't have an update index, skipping.
+[15:20:44] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[15:20:44] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 4080 Laptop GPU/PCIe/SSE2
+[15:20:44] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 575.57.08
+[15:20:44] [Render thread/INFO]: Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
+[15:20:44] [Render thread/INFO]: Initializing ImmediatelyFast 1.8.0+1.21.4 on NVIDIA GeForce RTX 4080 Laptop GPU/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 3.2.0 NVIDIA 575.57.08
+[15:20:44] [Render thread/INFO]: Found Iris/Oculus 1.8.8+mc1.21.4. Enabling compatibility.
+[15:20:44] [Render thread/INFO]: Debug functionality is disabled.
+[15:20:44] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[15:20:44] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[W][15:20:44.647107] pw.conf      | [          conf.c: 1204 pw_conf_load_conf_for_context()] setting config.name to client-rt.conf is deprecated, using client.conf
+[15:20:45] [Render thread/INFO]: Hardware information:
+[15:20:45] [Render thread/INFO]: CPU: 32x AMD Ryzen 9 7945HX with Radeon Graphics
+[15:20:45] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 4080 Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 575.57.08)
+[15:20:45] [Render thread/INFO]: OS: Linux (6.14.9-300.fc42.x86_64)
+[15:20:45] [Render thread/INFO]: Invalidating pack caches
+[15:20:45] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, badoptimizations, c2me, cloth-config, conditional-mixin, dynamic_fps, enhancedblockentities, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, immediatelyfast, iris, lithium, modernfix, modmenu, moreculling, placeholder-api, sodium, threadtweak, yosbr
+[15:20:45] [Worker-ResourceReload-14/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[15:20:45] [Worker-ResourceReload-5/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[15:20:45] [Render thread/INFO]: Cached all modded block culling states
+[15:20:45] [Worker-ResourceReload-2/WARN]: Method overwrite conflict for getCullingBox in sodium-common.mixins.json:core.render.world.EntityRendererAccessor from mod sodium, previously written by dev.tr7zw.entityculling.mixin.EntityRendererMixin. Skipping method.
