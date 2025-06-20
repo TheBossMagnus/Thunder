@@ -46,8 +46,8 @@
     },
     {
         "Minecraft Version": "1.20.4",
-        "Fabric": "lts",
-        "Quilt": "lts"
+        "Fabric": "leg",
+        "Quilt": "leg"
     },
     {
         "Minecraft Version": "1.20.3",
@@ -61,8 +61,8 @@
     },
     {
         "Minecraft Version": "1.20.1",
-        "Fabric": "lts",
-        "Quilt": "lts"
+        "Fabric": "leg",
+        "Quilt": "leg"
     },
     {
         "Minecraft Version": "1.20",
