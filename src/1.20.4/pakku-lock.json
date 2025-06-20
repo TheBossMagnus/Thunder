@@ -4,7 +4,7 @@
         "1.20.4"
     ],
     "loaders": {
-        "fabric": "0.16.10"
+        "fabric": "0.16.14"
     },
     "projects": [
         {
@@ -25,32 +25,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "BadOptimizations-2.2.1-1.20.2-20.4.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5961/408/BadOptimizations-2.2.1-1.20.2-20.4.jar",
-                    "id": "5961408",
-                    "parent_id": "949555",
-                    "hashes": {
-                        "sha1": "9ab78c684a9c6fa8c0c928dd1e90dac5ae9d0af3",
-                        "md5": "1748f7c5420134bc2d90945f63f55b7d"
-                    },
-                    "required_dependencies": [],
-                    "size": 134016,
-                    "date_published": "2024-12-04T05:33:39.593Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "BadOptimizations-2.2.1-1.20.2-20.4.jar",
+                    "file_name": "BadOptimizations-2.2.3-1.20.2-20.4.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.3",
@@ -61,16 +37,40 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/ZQ1iIvpY/BadOptimizations-2.2.1-1.20.2-20.4.jar",
-                    "id": "ZQ1iIvpY",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/oZXISPou/BadOptimizations-2.2.3-1.20.2-20.4.jar",
+                    "id": "oZXISPou",
                     "parent_id": "g96Z4WVZ",
                     "hashes": {
-                        "sha512": "5458e6dd5ff4a6eb9bf479055b4d8812cc83443797705229566a9853b5c6751086d61423c0a95397099645bd63c33f6dea49439389960e7ee571f73d81e30727",
-                        "sha1": "9ab78c684a9c6fa8c0c928dd1e90dac5ae9d0af3"
+                        "sha512": "8638ad96892c728f56299257e7c963a97b9573eef1c347ebdbbfca0875417eef6394b6b460f556a8cc5fd03db8221dd1302e12eccde2b5fafdbb3d5e3b4560e1",
+                        "sha1": "0497060cea296d560a23b52b45d75f1f5f3976e5"
                     },
                     "required_dependencies": [],
-                    "size": 134016,
-                    "date_published": "2024-12-04T05:33:40.011988Z"
+                    "size": 135506,
+                    "date_published": "2025-06-20T03:18:13.010984Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "BadOptimizations-2.2.3-1.20.2-20.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6673/624/BadOptimizations-2.2.3-1.20.2-20.4.jar",
+                    "id": "6673624",
+                    "parent_id": "949555",
+                    "hashes": {
+                        "sha1": "0497060cea296d560a23b52b45d75f1f5f3976e5",
+                        "md5": "a8e73fdd3c9c27b590f087b2100fe60c"
+                    },
+                    "required_dependencies": [],
+                    "size": 135506,
+                    "date_published": "2025-06-20T03:18:12.703Z"
                 }
             ]
         },
@@ -221,7 +221,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "dynamic-fps-3.9.3+minecraft-1.20.2-fabric.jar",
+                    "file_name": "dynamic-fps-3.9.5+minecraft-1.20.2-fabric.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.3",
@@ -231,22 +231,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/1qmmSOa3/dynamic-fps-3.9.3+minecraft-1.20.2-fabric.jar",
-                    "id": "1qmmSOa3",
+                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/fUFzu09A/dynamic-fps-3.9.5+minecraft-1.20.2-fabric.jar",
+                    "id": "fUFzu09A",
                     "parent_id": "LQ3K71Q1",
                     "hashes": {
-                        "sha512": "0493b71d9e711a69624764c732e62f35bc762546c8345a3789a5b296fe7627bea4985847997015350f7a4994914185c2da3243c6161ff278eca4b4ce0d2f3ece",
-                        "sha1": "8d97224463c0c5dbdbb171ec4daad58a6c9a9c08"
+                        "sha512": "ee45ecefe91b847064940432b7d34bafc43d3afa5bbd224a7792150cea968291dd4817c17c0c890fdfed9df22307a7b7dec9d253992d0cb775a6bc4ee22c541e",
+                        "sha1": "2d973072dca9e02b0555ab716d2c4f754d72e293"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 195078,
-                    "date_published": "2025-04-12T17:50:42.688055Z"
+                    "size": 196990,
+                    "date_published": "2025-06-17T17:21:55.151242Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "dynamic-fps-3.9.3+minecraft-1.20.2-fabric.jar",
+                    "file_name": "dynamic-fps-3.9.5+minecraft-1.20.2-fabric.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.3",
@@ -256,18 +256,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6415/761/dynamic-fps-3.9.3+minecraft-1.20.2-fabric.jar",
-                    "id": "6415761",
+                    "url": "https://edge.forgecdn.net/files/6662/36/dynamic-fps-3.9.5+minecraft-1.20.2-fabric.jar",
+                    "id": "6662036",
                     "parent_id": "335493",
                     "hashes": {
-                        "sha1": "8d97224463c0c5dbdbb171ec4daad58a6c9a9c08",
-                        "md5": "dd16b44174f53b5722e5648e038ca537"
+                        "sha1": "2d973072dca9e02b0555ab716d2c4f754d72e293",
+                        "md5": "0d7e1c01bab41df7f1773aa119ff813e"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 195078,
-                    "date_published": "2025-04-12T17:50:41.377Z"
+                    "size": 196990,
+                    "date_published": "2025-06-17T17:21:52.217Z"
                 }
             ]
         },
@@ -363,7 +363,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.7.4-mc1.20.4.jar",
+                    "file_name": "entityculling-fabric-1.8.0-mc1.20.4.jar",
                     "mc_versions": [
                         "1.20.4"
                     ],
@@ -371,22 +371,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8GWUYuCH/entityculling-fabric-1.7.4-mc1.20.4.jar",
-                    "id": "8GWUYuCH",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/UaznDXn8/entityculling-fabric-1.8.0-mc1.20.4.jar",
+                    "id": "UaznDXn8",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "d347d5a4c23880344e2296b334cd0db9445d5a2947b650b1371f7bfe2d6cbda523be346180fa3644badc38fcb1028400254d7879caf5603e4b42e4f15203ffda",
-                        "sha1": "8ce006ba96bfc618450d284a5278942bb3022878"
+                        "sha512": "70ee67b24eb09418c6cf3c539b9b7ad83c33ac1eec02e023d7af9eaca82dfb4f4b61f949ee6c25a614495b47076586029aa42c72bb4773fc83041dc1d9df6dbc",
+                        "sha1": "847f2d2b59ed742f223f2bea402fe815332351cd"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 70554,
-                    "date_published": "2025-03-27T15:50:44.510431Z"
+                    "size": 464805,
+                    "date_published": "2025-06-20T15:45:27.981291Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "entityculling-fabric-1.7.4-mc1.20.4.jar",
+                    "file_name": "entityculling-fabric-1.8.0-mc1.20.4.jar",
                     "mc_versions": [
                         "1.20.4"
                     ],
@@ -394,18 +394,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6355/865/entityculling-fabric-1.7.4-mc1.20.4.jar",
-                    "id": "6355865",
+                    "url": "https://edge.forgecdn.net/files/6675/250/entityculling-fabric-1.8.0-mc1.20.4.jar",
+                    "id": "6675250",
                     "parent_id": "448233",
                     "hashes": {
-                        "sha1": "8ce006ba96bfc618450d284a5278942bb3022878",
-                        "md5": "da77746a172aac2c5b9bf8cabee7b359"
+                        "sha1": "847f2d2b59ed742f223f2bea402fe815332351cd",
+                        "md5": "3dea4ff12ff3caf090759351423007d9"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 70554,
-                    "date_published": "2025-03-27T15:50:43.693Z"
+                    "size": 464805,
+                    "date_published": "2025-06-20T15:45:24.217Z"
                 }
             ]
         },
@@ -427,29 +427,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "fabric-api-0.97.2+1.20.4.jar",
-                    "mc_versions": [
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5664/862/fabric-api-0.97.2+1.20.4.jar",
-                    "id": "5664862",
-                    "parent_id": "306612",
-                    "hashes": {
-                        "sha1": "a959c2b9379d13c0f2098102d1a43fc6e2eef5e3",
-                        "md5": "2733c159c2f7628983a96b442ca3f823"
-                    },
-                    "required_dependencies": [],
-                    "size": 2187410,
-                    "date_published": "2024-08-26T11:15:13.527Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.97.2+1.20.4.jar",
+                    "file_name": "fabric-api-0.97.3+1.20.4.jar",
                     "mc_versions": [
                         "1.20.4"
                     ],
@@ -457,16 +436,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/QVBohPm2/fabric-api-0.97.2+1.20.4.jar",
-                    "id": "QVBohPm2",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BPX6fK06/fabric-api-0.97.3+1.20.4.jar",
+                    "id": "BPX6fK06",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "8f02bf562781a2f08294736eff784b7e7463be1595b1e3b4f53d4dcb57fc0643890078265141c3bce882dfec6e77553d2db252992fdfbd55cd7d32777adb9d78",
-                        "sha1": "a959c2b9379d13c0f2098102d1a43fc6e2eef5e3"
+                        "sha512": "ea1e47672a1e0fef7fa3fd7f7b396b5a8fb2c46e6ce33dbc4cc2b8d320bc7b775a0de42a478302419c8063c47fbc18bb2ad7551772f54af8059132ac2cb4f108",
+                        "sha1": "a21f3c7e700b9fc3a28e896979a07ec489507143"
                     },
                     "required_dependencies": [],
-                    "size": 2187410,
-                    "date_published": "2024-08-26T11:15:17.953130Z"
+                    "size": 2187523,
+                    "date_published": "2025-06-20T09:13:59.799615Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-api-0.97.3+1.20.4.jar",
+                    "mc_versions": [
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6674/317/fabric-api-0.97.3+1.20.4.jar",
+                    "id": "6674317",
+                    "parent_id": "306612",
+                    "hashes": {
+                        "sha1": "a21f3c7e700b9fc3a28e896979a07ec489507143",
+                        "md5": "03ed4ae378e68f42ccf05dbe97007793"
+                    },
+                    "required_dependencies": [],
+                    "size": 2187523,
+                    "date_published": "2025-06-20T09:13:52.683Z"
                 }
             ]
         },
@@ -679,78 +679,6 @@
                     ],
                     "size": 105350,
                     "date_published": "2024-06-10T18:21:08.640568Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "yBFpMs73z0FK3Jru",
-            "pakku_links": [
-                "9q5zJP1bYKTD7mud"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "irisshaders",
-                "modrinth": "iris"
-            },
-            "name": {
-                "curseforge": "Iris Shaders",
-                "modrinth": "Iris Shaders"
-            },
-            "id": {
-                "curseforge": "455508",
-                "modrinth": "YL57xq9U"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "iris-1.7.2+mc1.20.4.jar",
-                    "mc_versions": [
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5485/655/iris-1.7.2+mc1.20.4.jar",
-                    "id": "5485655",
-                    "parent_id": "455508",
-                    "hashes": {
-                        "sha1": "acc785418e034a265f99fdb341fbb3b5af3859c8",
-                        "md5": "fa3647d1891a719b268c636236d989c2"
-                    },
-                    "required_dependencies": [
-                        "394468"
-                    ],
-                    "size": 2703697,
-                    "date_published": "2024-06-29T14:30:32.157Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "iris-1.7.2+mc1.20.4.jar",
-                    "mc_versions": [
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/hq98tuSS/iris-1.7.2+mc1.20.4.jar",
-                    "id": "hq98tuSS",
-                    "parent_id": "YL57xq9U",
-                    "hashes": {
-                        "sha512": "3c2f88abfa60c7e46c720663511a4f2ac7c4b3f59ce9af8d0d5d2d48b109310aade0128c8e24313ee8ec46094659eac525eed7cecd6d4eb85c0822942b30cc0c",
-                        "sha1": "acc785418e034a265f99fdb341fbb3b5af3859c8"
-                    },
-                    "required_dependencies": [
-                        "AANobbMI"
-                    ],
-                    "size": 2703697,
-                    "date_published": "2024-06-29T14:30:35.758569Z"
                 }
             ]
         },
