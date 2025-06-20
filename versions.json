@@ -4,6 +4,11 @@
         "Fabric": "exp",
         "Quilt": "na"
     },
+        {
+        "Minecraft Version": "1.21.6",
+        "Fabric": "sup",
+        "Quilt": "na"
+    },
     {
         "Minecraft Version": "1.21.5",
         "Fabric": "sup",
@@ -76,12 +81,12 @@
     },
     {
         "Minecraft Version": "1.19.2",
-        "Fabric": "lts",
-        "Quilt": "lts"
+        "Fabric": "out",
+        "Quilt": "out"
     },
     {
         "Minecraft Version": "1.18.2",
-        "Fabric": "lts",
+        "Fabric": "out",
         "Quilt": "out"
     },
     {
@@ -91,7 +96,7 @@
     },
     {
         "Minecraft Version": "1.16.5",
-        "Fabric": "lts",
+        "Fabric": "out",
         "Quilt": "na"
     }
 ]
