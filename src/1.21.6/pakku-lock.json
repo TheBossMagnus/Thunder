@@ -411,30 +411,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "ImmediatelyFast-Fabric-1.10.0+1.21.6.jar",
-                    "mc_versions": [
-                        "1.21.6"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6663/39/ImmediatelyFast-Fabric-1.10.0+1.21.6.jar",
-                    "id": "6663039",
-                    "parent_id": "686911",
-                    "hashes": {
-                        "sha1": "e2779b91bf4a24c2973e6b548c642ce7e72ab341",
-                        "md5": "ad0a611596452c32b01ed6cdffef124b"
-                    },
-                    "required_dependencies": [],
-                    "size": 192998,
-                    "date_published": "2025-06-17T20:35:37.057Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "ImmediatelyFast-Fabric-1.10.0+1.21.6.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.10.1+1.21.6.jar",
                     "mc_versions": [
                         "1.21.6"
                     ],
@@ -443,16 +421,38 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/sSXx59vk/ImmediatelyFast-Fabric-1.10.0+1.21.6.jar",
-                    "id": "sSXx59vk",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/fjgmP9rv/ImmediatelyFast-Fabric-1.10.1+1.21.6.jar",
+                    "id": "fjgmP9rv",
                     "parent_id": "5ZwdcRci",
                     "hashes": {
-                        "sha512": "07688ffbc3845205f34439f9331ffeb8213ba7d87a444677f00045a652b9b26e3b8938fb199e9de2faae8d3734eb5210e7beced32f8afb29a9e920d5985dfc99",
-                        "sha1": "e2779b91bf4a24c2973e6b548c642ce7e72ab341"
+                        "sha512": "32cc1edd010cf2bc9de6d443e7787c6c1446fa46c3b7ff0903974856560f555232e29bf3565826a3e588bf27692f83601a5f7cf3366725694c3f4eb37195f86e",
+                        "sha1": "6616fb48b702df4e6367529afeb0cab2599ec80a"
                     },
                     "required_dependencies": [],
-                    "size": 192998,
-                    "date_published": "2025-06-17T17:13:14.733524Z"
+                    "size": 193147,
+                    "date_published": "2025-06-21T07:03:00.346065Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ImmediatelyFast-Fabric-1.10.1+1.21.6.jar",
+                    "mc_versions": [
+                        "1.21.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6677/724/ImmediatelyFast-Fabric-1.10.1+1.21.6.jar",
+                    "id": "6677724",
+                    "parent_id": "686911",
+                    "hashes": {
+                        "sha1": "6616fb48b702df4e6367529afeb0cab2599ec80a",
+                        "md5": "156886088da9722494b1587a8045491d"
+                    },
+                    "required_dependencies": [],
+                    "size": 193147,
+                    "date_published": "2025-06-21T07:02:52.543Z"
                 }
             ]
         },
@@ -540,8 +540,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "modmenu-15.0.0-beta.2.jar",
+                    "type": "modrinth",
+                    "file_name": "modmenu-15.0.0-beta.3.jar",
                     "mc_versions": [
                         "1.21.6"
                     ],
@@ -550,23 +550,95 @@
                         "quilt"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6664/210/modmenu-15.0.0-beta.2.jar",
-                    "id": "6664210",
-                    "parent_id": "308702",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/JY1tNj8H/modmenu-15.0.0-beta.3.jar",
+                    "id": "JY1tNj8H",
+                    "parent_id": "mOgUt4GM",
                     "hashes": {
-                        "sha1": "8a0767e29d46aa4c40b6cd4e35ebff667adf212b",
-                        "md5": "b87292088706996438af7035b355b109"
+                        "sha512": "f8d21aa13f1f081bc928df2904346cd5e29bb358c34346bedb6bf4de04eeb5eba499d7b4a7b6c17a44663805457f8119698b70b1a26b7fca29c66e35cea8f1eb",
+                        "sha1": "84089aea3ca333e23df7f409d4daf497cc2660d1"
                     },
                     "required_dependencies": [
-                        "306612",
-                        "1037459"
+                        "P7dR8mSH",
+                        "eXts2L7r"
                     ],
-                    "size": 1083229,
-                    "date_published": "2025-06-18T02:15:37.480Z"
+                    "size": 1076199,
+                    "date_published": "2025-06-20T23:35:23.212679Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modmenu-15.0.0-beta.3.jar",
+                    "mc_versions": [
+                        "1.21.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6676/751/modmenu-15.0.0-beta.3.jar",
+                    "id": "6676751",
+                    "parent_id": "308702",
+                    "hashes": {
+                        "sha1": "84089aea3ca333e23df7f409d4daf497cc2660d1",
+                        "md5": "94accd41c1d3b1fa84a70822d7b36e04"
+                    },
+                    "required_dependencies": [
+                        "1037459",
+                        "306612"
+                    ],
+                    "size": 1076199,
+                    "date_published": "2025-06-20T23:35:24.090Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "SG7ysEA7cCDAEi3R",
+            "pakku_links": [
+                "CXIdKovFtsgvBkZJ"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "moreculling",
+                "modrinth": "moreculling"
+            },
+            "name": {
+                "curseforge": "MoreCulling",
+                "modrinth": "More Culling"
+            },
+            "id": {
+                "curseforge": "630104",
+                "modrinth": "51shyZVL"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
+                    "mc_versions": [
+                        "1.21.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6676/650/moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
+                    "id": "6676650",
+                    "parent_id": "630104",
+                    "hashes": {
+                        "sha1": "1e9b9ec184470aa5d52e0d968b5e87cf087efae2",
+                        "md5": "f53037e8282dd3809a190e81074dfdfa"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "317121"
+                    ],
+                    "size": 347230,
+                    "date_published": "2025-06-20T22:43:49.940Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "modmenu-15.0.0-beta.2.jar",
+                    "file_name": "moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
                     "mc_versions": [
                         "1.21.6"
                     ],
@@ -575,19 +647,18 @@
                         "quilt"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Dg11hN2f/modmenu-15.0.0-beta.2.jar",
-                    "id": "Dg11hN2f",
-                    "parent_id": "mOgUt4GM",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/ESxkwc6w/moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
+                    "id": "ESxkwc6w",
+                    "parent_id": "51shyZVL",
                     "hashes": {
-                        "sha512": "0a2f24e43d93dc9402ccaf3e5e24e4392daaf0111bb450d2d96aedde9f56f11ead2bf54c77e6631d5bcd8aa3530302dce972183e71f32100192a22d8fec8a7bc",
-                        "sha1": "8a0767e29d46aa4c40b6cd4e35ebff667adf212b"
+                        "sha512": "0f80c58b539c55c0b96a35b685694d8d74bf77f5dd9c63a7f811c17cf076ae26799b6411e941ff71d2f39b940262886fb3d66f78f239b7bb3558cce8c5447dac",
+                        "sha1": "1e9b9ec184470aa5d52e0d968b5e87cf087efae2"
                     },
                     "required_dependencies": [
-                        "eXts2L7r",
-                        "P7dR8mSH"
+                        "9s6osm5g"
                     ],
-                    "size": 1083229,
-                    "date_published": "2025-06-18T02:15:34.965884Z"
+                    "size": 347230,
+                    "date_published": "2025-06-20T22:43:51.780288Z"
                 }
             ]
         },
