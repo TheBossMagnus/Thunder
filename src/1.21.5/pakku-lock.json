@@ -290,7 +290,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.127.1+1.21.5.jar",
+                    "file_name": "fabric-api-0.128.0+1.21.5.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -298,20 +298,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vNBWcMLP/fabric-api-0.127.1+1.21.5.jar",
-                    "id": "vNBWcMLP",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EcYmlIw5/fabric-api-0.128.0+1.21.5.jar",
+                    "id": "EcYmlIw5",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "067c56d51216ca378eae5017686d0101afaee254abd45679f29a93909579de2f103c8adb384d3f6e271c4525575b1dd45e9581bccba33e394afcf07572b7f076",
-                        "sha1": "bef26a2bace523efb8f8d7d822566ea403985009"
+                        "sha512": "82da395a335e926970cb1e47f976a352bd6e32730596d8bfc233930fe02dd20b75e3eaaf3e5cf05399cd667cfe6c72981e24ea539bbdc8faa18f4330d82e9a88",
+                        "sha1": "82a34b0f687cb9bdc0a8b983164ca8984e7ea926"
                     },
                     "required_dependencies": [],
-                    "size": 2247539,
-                    "date_published": "2025-06-18T19:44:30.778537Z"
+                    "size": 2248257,
+                    "date_published": "2025-06-23T17:43:05.288933Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fabric-api-0.127.1+1.21.5.jar",
+                    "file_name": "fabric-api-0.128.0+1.21.5.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -319,16 +319,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6667/877/fabric-api-0.127.1+1.21.5.jar",
-                    "id": "6667877",
+                    "url": "https://edge.forgecdn.net/files/6687/827/fabric-api-0.128.0+1.21.5.jar",
+                    "id": "6687827",
                     "parent_id": "306612",
                     "hashes": {
-                        "sha1": "bef26a2bace523efb8f8d7d822566ea403985009",
-                        "md5": "5fcfaf6b5dc591cd84caf885e74a46e0"
+                        "sha1": "82a34b0f687cb9bdc0a8b983164ca8984e7ea926",
+                        "md5": "1d2929586bf38c31f3a50687984843ac"
                     },
                     "required_dependencies": [],
-                    "size": 2247539,
-                    "date_published": "2025-06-18T19:44:28.320Z"
+                    "size": 2248257,
+                    "date_published": "2025-06-23T17:43:01.120Z"
                 }
             ]
         },
@@ -375,8 +375,7 @@
                     "type": "curseforge",
                     "file_name": "ferritecore-8.0.0-fabric.jar",
                     "mc_versions": [
-                        "1.21.5",
-                        "1.21.6"
+                        "1.21.5"
                     ],
                     "loaders": [
                         "fabric"
