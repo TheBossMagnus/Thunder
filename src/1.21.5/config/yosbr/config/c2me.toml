@@ -1,0 +1,16 @@
+version = 3
+
+[clientSideConfig]
+	[clientSideConfig.modifyMaxVDConfig]
+		enableExtRenderDistanceProtocol = false
+		enabled = false
+
+[noTickViewDistance]
+	compatibilityMode = false
+	enableExtRenderDistanceProtocol = false
+	maxViewDistance = 32
+
+
+[vanillaWorldGenOptimizations]
+	useDensityFunctionCompiler = true
+
