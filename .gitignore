@@ -3,3 +3,5 @@ bin/
 *.jar
 *.zip
 build/
+*.log
+logs/
