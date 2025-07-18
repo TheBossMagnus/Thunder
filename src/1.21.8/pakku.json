@@ -1,6 +1,6 @@
 {
     "name": "Thunder",
-    "version": "0.2.1+fabric-1.21.6",
+    "version": "0.1.0+fabric-1.21.8",
     "overrides": [
         "config"
     ]
