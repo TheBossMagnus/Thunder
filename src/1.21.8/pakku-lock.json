@@ -30,7 +30,8 @@
                     "file_name": "BadOptimizations-2.3.0-1.21.6-21.7.jar",
                     "mc_versions": [
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric",
@@ -52,6 +53,7 @@
                     "type": "curseforge",
                     "file_name": "BadOptimizations-2.3.0-1.21.6-21.7.jar",
                     "mc_versions": [
+                        "1.21.8",
                         "1.21.7",
                         "1.21.6"
                     ],
@@ -116,6 +118,7 @@
                     "type": "curseforge",
                     "file_name": "cloth-config-19.0.147-fabric.jar",
                     "mc_versions": [
+                        "1.21.8",
                         "1.21.7",
                         "1.21.6"
                     ],
@@ -155,7 +158,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.8-0.3.5+alpha.0.3.jar",
+                    "file_name": "c2me-fabric-mc1.21.8-0.3.5+alpha.0.7.jar",
                     "mc_versions": [
                         "1.21.8"
                     ],
@@ -163,20 +166,20 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/72AAuacG/c2me-fabric-mc1.21.8-0.3.5+alpha.0.3.jar",
-                    "id": "72AAuacG",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/EF9HwabQ/c2me-fabric-mc1.21.8-0.3.5+alpha.0.7.jar",
+                    "id": "EF9HwabQ",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "0e0eb16af6302d35d3b7a04735130606947d604af59623f975bfe43507a2b07b65e4ebf5dc31516a8fa114f2310371d72366f9bc4e334da09c900260dec2617a",
-                        "sha1": "63016224fd26ca10dff58eba3ee483ea5b5056a0"
+                        "sha512": "cc92affb4f0b363b1bb72599cf6664c5e6893be36ee756671cd7c7a9bb74ddfa8fd1b62fa31069593393e56200a7cf4d60fd2a3c07f547178b4ffeb7fafc34dc",
+                        "sha1": "9760b89e2f7f66c9fe62fd7a65199266524e4bb9"
                     },
                     "required_dependencies": [],
-                    "size": 4679503,
-                    "date_published": "2025-07-17T14:50:30.976312Z"
+                    "size": 4682024,
+                    "date_published": "2025-07-27T15:57:29.352524Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.8-0.3.5+alpha.0.3.jar",
+                    "file_name": "c2me-fabric-mc1.21.8-0.3.5+alpha.0.7.jar",
                     "mc_versions": [
                         "1.21.8"
                     ],
@@ -184,16 +187,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6779/212/c2me-fabric-mc1.21.8-0.3.5+alpha.0.3.jar",
-                    "id": "6779212",
+                    "url": "https://edge.forgecdn.net/files/6817/941/c2me-fabric-mc1.21.8-0.3.5+alpha.0.7.jar",
+                    "id": "6817941",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "63016224fd26ca10dff58eba3ee483ea5b5056a0",
-                        "md5": "d9ddc67353ec2523eb7f93ed77fdc949"
+                        "sha1": "9760b89e2f7f66c9fe62fd7a65199266524e4bb9",
+                        "md5": "707f598733865baf6c1ac90799735cbb"
                     },
                     "required_dependencies": [],
-                    "size": 4679503,
-                    "date_published": "2025-07-17T14:50:33.633Z"
+                    "size": 4682024,
+                    "date_published": "2025-07-27T15:57:30.933Z"
                 }
             ]
         },
@@ -289,7 +292,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.129.0+1.21.8.jar",
+                    "file_name": "fabric-api-0.130.0+1.21.8.jar",
                     "mc_versions": [
                         "1.21.8"
                     ],
@@ -297,20 +300,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/X2hTodix/fabric-api-0.129.0+1.21.8.jar",
-                    "id": "X2hTodix",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/zhzhM2yQ/fabric-api-0.130.0+1.21.8.jar",
+                    "id": "zhzhM2yQ",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "471babff84b36bd0f5051051bc192a97136ba733df6a49f222cb67a231d857eb4b1c5ec8dea605e146f49f75f800709f8836540a472fe8032f9fbd3f6690ec3d",
-                        "sha1": "9be74f9c3120ffb9f38df8f4164392d69e6ba84e"
+                        "sha512": "27399d629d3fb955c8fc1e5e86cacb9b124814bb97ee7fe283336b0e28f5eb9ae31619814ab4aef70c5beea908d2a1ed5a8dd6b8641a53ecd50375d50067f061",
+                        "sha1": "5d8c74464535d569991dcdacf9bb61203c6cd73a"
                     },
                     "required_dependencies": [],
-                    "size": 2212412,
-                    "date_published": "2025-07-15T16:59:56.300586Z"
+                    "size": 2212919,
+                    "date_published": "2025-07-26T14:36:57.665275Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fabric-api-0.129.0+1.21.8.jar",
+                    "file_name": "fabric-api-0.130.0+1.21.8.jar",
                     "mc_versions": [
                         "1.21.8"
                     ],
@@ -318,16 +321,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6772/478/fabric-api-0.129.0+1.21.8.jar",
-                    "id": "6772478",
+                    "url": "https://edge.forgecdn.net/files/6813/886/fabric-api-0.130.0+1.21.8.jar",
+                    "id": "6813886",
                     "parent_id": "306612",
                     "hashes": {
-                        "sha1": "9be74f9c3120ffb9f38df8f4164392d69e6ba84e",
-                        "md5": "a2deb60accc3ed6952fe62520e6f92e5"
+                        "sha1": "5d8c74464535d569991dcdacf9bb61203c6cd73a",
+                        "md5": "0fcfa4e01f2ab07b9c3a04c1dbb8ac45"
                     },
                     "required_dependencies": [],
-                    "size": 2212412,
-                    "date_published": "2025-07-15T16:59:50.570Z"
+                    "size": 2212919,
+                    "date_published": "2025-07-26T14:36:50.603Z"
                 }
             ]
         },
@@ -354,7 +357,8 @@
                     "mc_versions": [
                         "1.21.5",
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric"
@@ -376,6 +380,7 @@
                     "file_name": "ferritecore-8.0.0-fabric.jar",
                     "mc_versions": [
                         "1.21.5",
+                        "1.21.8",
                         "1.21.7",
                         "1.21.6"
                     ],
@@ -621,7 +626,8 @@
                     "file_name": "moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
                     "mc_versions": [
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric",
@@ -645,6 +651,7 @@
                     "type": "curseforge",
                     "file_name": "moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
                     "mc_versions": [
+                        "1.21.8",
                         "1.21.7",
                         "1.21.6"
                     ],
