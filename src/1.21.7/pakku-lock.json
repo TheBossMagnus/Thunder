@@ -29,7 +29,8 @@
                     "file_name": "BadOptimizations-2.3.0-1.21.6-21.7.jar",
                     "mc_versions": [
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric",
@@ -51,6 +52,7 @@
                     "type": "curseforge",
                     "file_name": "BadOptimizations-2.3.0-1.21.6-21.7.jar",
                     "mc_versions": [
+                        "1.21.8",
                         "1.21.7",
                         "1.21.6"
                     ],
@@ -115,6 +117,7 @@
                     "type": "curseforge",
                     "file_name": "cloth-config-19.0.147-fabric.jar",
                     "mc_versions": [
+                        "1.21.8",
                         "1.21.7",
                         "1.21.6"
                     ],
@@ -154,46 +157,49 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.7-0.3.4+beta.1.0.jar",
+                    "file_name": "c2me-fabric-mc1.21.8-0.3.4+rc.1.0.jar",
                     "mc_versions": [
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Erjpfj2l/c2me-fabric-mc1.21.7-0.3.4+beta.1.0.jar",
-                    "id": "Erjpfj2l",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/RzzXyBlx/c2me-fabric-mc1.21.8-0.3.4+rc.1.0.jar",
+                    "id": "RzzXyBlx",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "8942e82c216315198d4752fbb9396e6d59d6447085ce5c00811ba0189765b20acad0153a10532f7ade29f7c090e0299c01802174aa89d4da642bc10f9429998d",
-                        "sha1": "e07d88a3e0b2c2f27c63e6dc5ab6051f0becdb53"
+                        "sha512": "4addc9ccbc66b547c96152c7fafcaccde47eefa62b0e99a31f7b4ee5844ac738f2557909bd74e1f755ff4835ce13e8ff6c556f8ebda276370912f50ebd054e3a",
+                        "sha1": "fbd8454bbbf22bdb61613012f8116acc2059ae00"
                     },
                     "required_dependencies": [],
-                    "size": 4679468,
-                    "date_published": "2025-07-06T14:01:42.863212Z"
+                    "size": 4681255,
+                    "date_published": "2025-07-25T16:25:53.521436Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.7-0.3.4+beta.1.0.jar",
+                    "file_name": "c2me-fabric-mc1.21.8-0.3.4+rc.1.0.jar",
                     "mc_versions": [
-                        "1.21.7"
+                        "1.21.8",
+                        "1.21.7",
+                        "1.21.6"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6737/253/c2me-fabric-mc1.21.7-0.3.4+beta.1.0.jar",
-                    "id": "6737253",
+                    "url": "https://edge.forgecdn.net/files/6810/796/c2me-fabric-mc1.21.8-0.3.4+rc.1.0.jar",
+                    "id": "6810796",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "e07d88a3e0b2c2f27c63e6dc5ab6051f0becdb53",
-                        "md5": "ba7e7d3c77491d15c070cca8cf5a0af1"
+                        "sha1": "fbd8454bbbf22bdb61613012f8116acc2059ae00",
+                        "md5": "c3c0f91bb89486c1f83e508eeb26aced"
                     },
                     "required_dependencies": [],
-                    "size": 4679468,
-                    "date_published": "2025-07-06T13:57:59.470Z"
+                    "size": 4681255,
+                    "date_published": "2025-07-25T16:25:47.707Z"
                 }
             ]
         },
@@ -354,7 +360,8 @@
                     "mc_versions": [
                         "1.21.5",
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric"
@@ -376,6 +383,7 @@
                     "file_name": "ferritecore-8.0.0-fabric.jar",
                     "mc_versions": [
                         "1.21.5",
+                        "1.21.8",
                         "1.21.7",
                         "1.21.6"
                     ],
@@ -621,7 +629,8 @@
                     "file_name": "moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
                     "mc_versions": [
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric",
@@ -645,6 +654,7 @@
                     "type": "curseforge",
                     "file_name": "moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
                     "mc_versions": [
+                        "1.21.8",
                         "1.21.7",
                         "1.21.6"
                     ],
