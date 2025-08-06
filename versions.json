@@ -11,12 +11,12 @@
     },
     {
         "Minecraft Version": "1.21.7",
-        "Fabric": "out",
+        "Fabric": "sup",
         "Quilt": "out"
     },
     {
         "Minecraft Version": "1.21.6",
-        "Fabric": "sup",
+        "Fabric": "out",
         "Quilt": "na"
     },
     {
