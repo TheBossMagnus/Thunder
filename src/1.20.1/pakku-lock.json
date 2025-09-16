@@ -196,6 +196,78 @@
             ]
         },
         {
+            "pakku_id": "cVd2mfvwmG1bQ3In",
+            "pakku_links": [
+                "ua4qS5F8ZLNry3VG"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "configmanager",
+                "modrinth": "configmanager"
+            },
+            "name": {
+                "curseforge": "Config Manager",
+                "modrinth": "Config Manager"
+            },
+            "id": {
+                "curseforge": "1340480",
+                "modrinth": "jlNms3Jp"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ConfigManager-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7000/416/ConfigManager-fabric-1.20.1-1.0.0.jar",
+                    "id": "7000416",
+                    "parent_id": "1340480",
+                    "hashes": {
+                        "sha1": "f4749839fa68507c76d020bfd6f1bb759b3c9a3e",
+                        "md5": "bb896d1d2310e21e9db49086309b5f77"
+                    },
+                    "required_dependencies": [
+                        "308702"
+                    ],
+                    "size": 82814,
+                    "date_published": "2025-09-15T17:32:17.543Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ConfigManager-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/jlNms3Jp/versions/DluLtFXb/ConfigManager-fabric-1.20.1-1.0.0.jar",
+                    "id": "DluLtFXb",
+                    "parent_id": "jlNms3Jp",
+                    "hashes": {
+                        "sha512": "a2096a1fb6dea9f6cbd0289973c5c19e8fcaaf582515a08b9c536e798588963813c79b3437edb6294ad357d61731f3daba7e2cd425efa2f7e604d740c82985d3",
+                        "sha1": "f4749839fa68507c76d020bfd6f1bb759b3c9a3e"
+                    },
+                    "required_dependencies": [],
+                    "size": 82814,
+                    "date_published": "2025-09-15T17:32:15.435782Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VsE1zGg2FaBkk7cu",
             "pakku_links": [
                 "ck8zglDaWoJa7Hn3"
@@ -1051,114 +1123,6 @@
                     ],
                     "size": 144848,
                     "date_published": "2023-09-27T19:14:52.618869Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "VaL6xKXUP0WJxHXH",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "yosbr",
-                "modrinth": "yosbr"
-            },
-            "name": {
-                "curseforge": "Your Options Shall Be Respected (YOSBR)",
-                "modrinth": "Your Options Shall Be Respected (YOSBR)"
-            },
-            "id": {
-                "curseforge": "374274",
-                "modrinth": "WwbubTsV"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "yosbr-0.1.2.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.2-Snapshot",
-                        "1.20.5-Snapshot",
-                        "1.20.3-Snapshot",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4",
-                        "1.20-Snapshot"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4581/910/yosbr-0.1.2.jar",
-                    "id": "4581910",
-                    "parent_id": "374274",
-                    "hashes": {
-                        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
-                        "md5": "9fcce225f25b6fd17921c87ff1c720f1"
-                    },
-                    "required_dependencies": [],
-                    "size": 17373,
-                    "date_published": "2023-06-12T08:04:37.390Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "yosbr-0.1.2.jar",
-                    "mc_versions": [
-                        "1.14",
-                        "1.14.1",
-                        "1.14.2",
-                        "1.14.3",
-                        "1.14.4",
-                        "1.15",
-                        "1.15.1",
-                        "1.15.2",
-                        "1.16",
-                        "1.16.1",
-                        "1.16.2",
-                        "1.16.3",
-                        "1.16.4",
-                        "1.16.5",
-                        "1.17",
-                        "1.17.1",
-                        "1.18",
-                        "1.18.1",
-                        "1.18.2",
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar",
-                    "id": "KMOzdYko",
-                    "parent_id": "WwbubTsV",
-                    "hashes": {
-                        "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78",
-                        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
-                    },
-                    "required_dependencies": [],
-                    "size": 17373,
-                    "date_published": "2023-06-12T08:06:07.649412Z"
                 }
             ]
         }
