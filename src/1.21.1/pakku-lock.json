@@ -4,7 +4,7 @@
         "1.21.1"
     ],
     "loaders": {
-        "fabric": "0.16.14"
+        "fabric": "0.17.2"
     },
     "projects": [
         {
@@ -508,7 +508,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.116.4+1.21.1.jar",
+                    "file_name": "fabric-api-0.116.6+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -516,20 +516,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/19viawBV/fabric-api-0.116.4+1.21.1.jar",
-                    "id": "19viawBV",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/9xIK4e8l/fabric-api-0.116.6+1.21.1.jar",
+                    "id": "9xIK4e8l",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "95060def77b54ba6c6eb5af45b478ec6926f33f145d8f3933cd90cb2b6ab6913459d3d0afa3afcb01fca07d714628414a41ee8b6845261e88d92b83bfc668ad8",
-                        "sha1": "39d1a6b6213d012649821ecc516ed5b5142478ef"
+                        "sha512": "f0ecb1e1c8f1471437c83f4f58e549efecc0ed3f275baa2a64bbb9a26fd8c14365431bf92cf68d8f8055f6ef103fcc863cd75adbbe8be80f7b752fe1c0c3a305",
+                        "sha1": "10d5c7cf5fb309513b4f68b85b1e0d9dccbec9ac"
                     },
                     "required_dependencies": [],
-                    "size": 2423497,
-                    "date_published": "2025-06-27T12:09:19.269119Z"
+                    "size": 2424827,
+                    "date_published": "2025-08-29T17:07:36.585061Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fabric-api-0.116.4+1.21.1.jar",
+                    "file_name": "fabric-api-0.116.6+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -537,16 +537,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6701/41/fabric-api-0.116.4+1.21.1.jar",
-                    "id": "6701041",
+                    "url": "https://edge.forgecdn.net/files/6941/910/fabric-api-0.116.6+1.21.1.jar",
+                    "id": "6941910",
                     "parent_id": "306612",
                     "hashes": {
-                        "sha1": "39d1a6b6213d012649821ecc516ed5b5142478ef",
-                        "md5": "aa1660d1af25eb18790182753f977615"
+                        "sha1": "10d5c7cf5fb309513b4f68b85b1e0d9dccbec9ac",
+                        "md5": "978a2c76c72cfe9d42825d3ca0fe6e0f"
                     },
                     "required_dependencies": [],
-                    "size": 2423497,
-                    "date_published": "2025-06-27T12:09:11.130Z"
+                    "size": 2424827,
+                    "date_published": "2025-08-29T17:07:26.423Z"
                 }
             ]
         },
