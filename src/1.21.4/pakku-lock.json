@@ -4,7 +4,7 @@
         "1.21.4"
     ],
     "loaders": {
-        "fabric": "0.16.14"
+        "fabric": "0.17.2"
     },
     "projects": [
         {
@@ -375,7 +375,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.8.1-mc1.21.4.jar",
+                    "file_name": "entityculling-fabric-1.8.2-mc1.21.4.jar",
                     "mc_versions": [
                         "1.21.4"
                     ],
@@ -383,22 +383,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/5oZ3eZcA/entityculling-fabric-1.8.1-mc1.21.4.jar",
-                    "id": "5oZ3eZcA",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/DfqQiPRw/entityculling-fabric-1.8.2-mc1.21.4.jar",
+                    "id": "DfqQiPRw",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "7ade644dc0b2876e30470c085de7e622cd9927a9968fdcea152be39d24d25030d434a966f93c0c8e522828a7e761ab608469ac0b46bcf3f671d51f61fa932ef8",
-                        "sha1": "4fe4b53c8b38205219d65a4742305cedaf4fa9b4"
+                        "sha512": "819ca6aaecd59c9f49b2b13b0dda7e22f0ee3f0e7d1e10c8d19cf9c467e2ecba250c08bb936bebd170d9a5f184203f0cde2d0b47d5db83000a17998a06599710",
+                        "sha1": "6bbfcc471c049f1fe116c49e30cbb287c26a9fac"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 470102,
-                    "date_published": "2025-07-05T23:08:39.572085Z"
+                    "size": 471072,
+                    "date_published": "2025-07-17T19:31:41.989514Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "entityculling-fabric-1.8.1-mc1.21.4.jar",
+                    "file_name": "entityculling-fabric-1.8.2-mc1.21.4.jar",
                     "mc_versions": [
                         "1.21.4"
                     ],
@@ -406,18 +406,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6734/992/entityculling-fabric-1.8.1-mc1.21.4.jar",
-                    "id": "6734992",
+                    "url": "https://edge.forgecdn.net/files/6780/243/entityculling-fabric-1.8.2-mc1.21.4.jar",
+                    "id": "6780243",
                     "parent_id": "448233",
                     "hashes": {
-                        "sha1": "4fe4b53c8b38205219d65a4742305cedaf4fa9b4",
-                        "md5": "91f40006750c6c7f116cc10dea0f1b4b"
+                        "sha1": "6bbfcc471c049f1fe116c49e30cbb287c26a9fac",
+                        "md5": "3704560df9067f83a263cc78e2e42c25"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 470102,
-                    "date_published": "2025-07-05T23:08:39.290Z"
+                    "size": 471072,
+                    "date_published": "2025-07-17T19:31:40.597Z"
                 }
             ]
         },
@@ -440,7 +440,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.119.3+1.21.4.jar",
+                    "file_name": "fabric-api-0.119.4+1.21.4.jar",
                     "mc_versions": [
                         "1.21.4"
                     ],
@@ -448,20 +448,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/sVqpGIb1/fabric-api-0.119.3+1.21.4.jar",
-                    "id": "sVqpGIb1",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4+1.21.4.jar",
+                    "id": "p96k10UR",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "a1927d45902c766b8d21f93cddc36991045eeb1adca5dfeea1c3b6378ce6aa66ae99cf2322ca6e337c58352c4d55fd5226655bc8886080fa864c27f83b18c1d9",
-                        "sha1": "286516c48a4d822cd3f34aafd157fc8702490b58"
+                        "sha512": "16b679f6a42549ca3b6bc147de710b2c8ba2d5e4661ed88df22782c05a4a5f6c1163d7b13867687ed91acde0fdfe5a5037d05662431c946865b58396284e7ee7",
+                        "sha1": "1c7871b6af04edc8b8f0dbad12606d67f6118a11"
                     },
                     "required_dependencies": [],
-                    "size": 2148367,
-                    "date_published": "2025-05-31T14:24:41.593661Z"
+                    "size": 2149128,
+                    "date_published": "2025-08-08T13:22:14.841585Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fabric-api-0.119.3+1.21.4.jar",
+                    "file_name": "fabric-api-0.119.4+1.21.4.jar",
                     "mc_versions": [
                         "1.21.4"
                     ],
@@ -469,16 +469,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6601/524/fabric-api-0.119.3+1.21.4.jar",
-                    "id": "6601524",
+                    "url": "https://edge.forgecdn.net/files/6863/303/fabric-api-0.119.4+1.21.4.jar",
+                    "id": "6863303",
                     "parent_id": "306612",
                     "hashes": {
-                        "sha1": "286516c48a4d822cd3f34aafd157fc8702490b58",
-                        "md5": "179994db46a00373614c47fb669d1dd3"
+                        "sha1": "1c7871b6af04edc8b8f0dbad12606d67f6118a11",
+                        "md5": "128a8d042180e7c92567342e21a21a6d"
                     },
                     "required_dependencies": [],
-                    "size": 2148367,
-                    "date_published": "2025-05-31T14:24:37.437Z"
+                    "size": 2149128,
+                    "date_published": "2025-08-08T13:22:09.440Z"
                 }
             ]
         },
