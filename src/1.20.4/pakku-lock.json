@@ -4,7 +4,7 @@
         "1.20.4"
     ],
     "loaders": {
-        "fabric": "0.16.14"
+        "fabric": "0.17.2"
     },
     "projects": [
         {
@@ -200,7 +200,7 @@
             ]
         },
         {
-            "pakku_id": "ztmec0JhX1xxjItD",
+            "pakku_id": "vg4FvKhDKfRtsGSf",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -441,7 +441,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.8.1-mc1.20.4.jar",
+                    "file_name": "entityculling-fabric-1.8.2-mc1.20.4.jar",
                     "mc_versions": [
                         "1.20.4"
                     ],
@@ -449,22 +449,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/NL7QORF1/entityculling-fabric-1.8.1-mc1.20.4.jar",
-                    "id": "NL7QORF1",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/fV7BWjfG/entityculling-fabric-1.8.2-mc1.20.4.jar",
+                    "id": "fV7BWjfG",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "b764ad8e8e8bb86a6ba7d9e2a9511c5622d20ec2aff72fc2a45940825e3622c5276106d77b4556486bb703cf9b8bfd9143281653b24ad3a938f23dafbebd73a1",
-                        "sha1": "6ccea772b5860b8444975035ae7d28dc50ba2641"
+                        "sha512": "1951e3a233837cb00cd1ea49bcbb8576bb991b6a4c70f776fc3d1756c7bbdefc7a796f292581c417a5c9a84951c735cf767ab7d082a0f89252d5727ff07b8e23",
+                        "sha1": "cfc97d8bd097898867598a8e0dcc2bef64e09887"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 469522,
-                    "date_published": "2025-07-05T23:08:28.548984Z"
+                    "size": 470518,
+                    "date_published": "2025-07-17T19:31:31.279964Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "entityculling-fabric-1.8.1-mc1.20.4.jar",
+                    "file_name": "entityculling-fabric-1.8.2-mc1.20.4.jar",
                     "mc_versions": [
                         "1.20.4"
                     ],
@@ -472,18 +472,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6734/980/entityculling-fabric-1.8.1-mc1.20.4.jar",
-                    "id": "6734980",
+                    "url": "https://edge.forgecdn.net/files/6780/230/entityculling-fabric-1.8.2-mc1.20.4.jar",
+                    "id": "6780230",
                     "parent_id": "448233",
                     "hashes": {
-                        "sha1": "6ccea772b5860b8444975035ae7d28dc50ba2641",
-                        "md5": "3f294b7e0469b177d883f316bb45195e"
+                        "sha1": "cfc97d8bd097898867598a8e0dcc2bef64e09887",
+                        "md5": "c98fe85ec56d34725f1972057f898e38"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 469522,
-                    "date_published": "2025-07-05T23:08:27.933Z"
+                    "size": 470518,
+                    "date_published": "2025-07-17T19:31:30.693Z"
                 }
             ]
         },
@@ -630,7 +630,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -643,20 +643,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/zJD8Yaa3/ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
-                    "id": "zJD8Yaa3",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/KIhjQeSw/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
+                    "id": "KIhjQeSw",
                     "parent_id": "5ZwdcRci",
                     "hashes": {
-                        "sha512": "23ddba94cb88591a9381b16c1e8ac2f59a609407d4e3400c083f85d416c37d5a7c42c67d6908d92a98f84fdf93ad083b9c5e8a041a1d90b0ffcca573ab0d3d92",
-                        "sha1": "4050cb966b7211c234494075769bc8baf33e3c31"
+                        "sha512": "076be155faed4ad977b4df2e8e36176b53cac11ad221fc1b1cf79d14a9b13d7102d0a52c64d1870dd356df5d34f491c1cc3a1ef01e979ddd9b34ccd003cc2119",
+                        "sha1": "492698415c738fde85c6e36e2c7265e25c14e2e7"
                     },
                     "required_dependencies": [],
-                    "size": 242574,
-                    "date_published": "2025-07-08T20:02:54.540585Z"
+                    "size": 242651,
+                    "date_published": "2025-09-14T19:20:09.160864Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.3",
@@ -669,16 +669,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6745/705/ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
-                    "id": "6745705",
+                    "url": "https://edge.forgecdn.net/files/6997/259/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
+                    "id": "6997259",
                     "parent_id": "686911",
                     "hashes": {
-                        "sha1": "4050cb966b7211c234494075769bc8baf33e3c31",
-                        "md5": "351dca2ff05cbc00c9a32eb45976cb73"
+                        "sha1": "492698415c738fde85c6e36e2c7265e25c14e2e7",
+                        "md5": "e5b2f5311044503a61e51b3cd2987962"
                     },
                     "required_dependencies": [],
-                    "size": 242574,
-                    "date_published": "2025-07-08T20:02:54.383Z"
+                    "size": 242651,
+                    "date_published": "2025-09-14T19:20:08.163Z"
                 }
             ]
         },
