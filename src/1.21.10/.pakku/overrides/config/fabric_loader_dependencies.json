@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "threadtweak": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "immediatelyfast": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "lithium": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    }
+  }
+}
