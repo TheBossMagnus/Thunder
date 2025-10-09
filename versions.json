@@ -4,9 +4,14 @@
         "Fabric": "exp",
         "Quilt": "na"
     },
-        {
-        "Minecraft Version": "1.21.8",
+   {
+        "Minecraft Version": "1.21.10",
         "Fabric": "rec",
+        "Quilt": "na"
+    },
+    {
+        "Minecraft Version": "1.21.9",
+        "Fabric": "out",
         "Quilt": "na"
     },
     {
