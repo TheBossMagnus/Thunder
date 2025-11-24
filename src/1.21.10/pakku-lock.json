@@ -8,71 +8,6 @@
     },
     "projects": [
         {
-            "pakku_id": "JuLvItq3sqYS86l3",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "asyncparticles",
-                "modrinth": "asyncparticles"
-            },
-            "name": {
-                "curseforge": "AsyncParticles",
-                "modrinth": "AsyncParticles"
-            },
-            "id": {
-                "curseforge": "1215753",
-                "modrinth": "c3onkd5k"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "AsyncParticles-Lite-0.7.1-alpha+1.21.10.jar",
-                    "mc_versions": [
-                        "1.21.9",
-                        "1.21.10"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/7094/109/AsyncParticles-Lite-0.7.1-alpha+1.21.10.jar",
-                    "id": "7094109",
-                    "parent_id": "1215753",
-                    "hashes": {
-                        "sha1": "1e321d089be1d98c72304f0df2ea5d570455d550",
-                        "md5": "c68518d85ddd453b0951617e4c7a6320"
-                    },
-                    "required_dependencies": [],
-                    "size": 639576,
-                    "date_published": "2025-10-11T10:35:41.683Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "AsyncParticles-Lite-0.7.1-alpha+1.21.10.jar",
-                    "mc_versions": [
-                        "1.21.9",
-                        "1.21.10"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/Qo0vedFK/AsyncParticles-Lite-0.7.1-alpha+1.21.10.jar",
-                    "id": "Qo0vedFK",
-                    "parent_id": "c3onkd5k",
-                    "hashes": {
-                        "sha512": "4e98d2537d8800cd45efcf03dfc357fa31987720bb4e6cdc54e10c876218f1900ca333145658d2a14ae28e667e413352754d96402a46af57df6272941119ab46",
-                        "sha1": "1e321d089be1d98c72304f0df2ea5d570455d550"
-                    },
-                    "required_dependencies": [],
-                    "size": 639576,
-                    "date_published": "2025-10-11T10:34:53.785989Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "9k7B6PsfOrZTe3aF",
             "type": "MOD",
             "side": "CLIENT",
@@ -154,7 +89,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "bbe-1.0.0+1.21.10.jar",
+                    "file_name": "bbe-1.2.0+1.21.10.jar",
                     "mc_versions": [
                         "1.21.9",
                         "1.21.10"
@@ -163,18 +98,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/LETYHWaQ/bbe-1.0.0+1.21.10.jar",
-                    "id": "LETYHWaQ",
+                    "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/r4ORW6Zs/bbe-1.2.0+1.21.10.jar",
+                    "id": "r4ORW6Zs",
                     "parent_id": "ONZm0H7Y",
                     "hashes": {
-                        "sha512": "90600a69dac0356b98b97b46f6c3a8b9fd15989970ae9a0f409f2ebf3ba8f5c49dd60078701783eb933c4617776a08f5af582d79367fa3e0d5f208e515fcab96",
-                        "sha1": "e08789a0a1ba2c5cf6ed751dce64a1075b6213b8"
+                        "sha512": "bb1539d9c3202836f70dd02f3e0b011b553f93d178e2107e847be38d14be816201483d4dd98e711c74d02a989b16c89466e401898aed70390bc1bc4e1b13117c",
+                        "sha1": "bd12066547d1f791e905fb29356f0601b4c2f57a"
                     },
                     "required_dependencies": [
                         "AANobbMI"
                     ],
-                    "size": 112990,
-                    "date_published": "2025-11-11T21:12:45.670269Z"
+                    "size": 119994,
+                    "date_published": "2025-11-16T22:57:52.959314Z"
                 }
             ]
         },
@@ -663,31 +598,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Ixeris-3.6.2+1.21.10-fabric.jar",
-                    "mc_versions": [
-                        "1.21.9",
-                        "1.21.10"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7173/254/Ixeris-3.6.2+1.21.10-fabric.jar",
-                    "id": "7173254",
-                    "parent_id": "1285307",
-                    "hashes": {
-                        "sha1": "f3210cd688658b09c3a899a127468f7f44192497",
-                        "md5": "957d467ed52398cb7e1b716df3dcf9b9"
-                    },
-                    "required_dependencies": [],
-                    "size": 179306,
-                    "date_published": "2025-11-01T09:07:40.320Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "Ixeris-3.6.2+1.21.10-fabric.jar",
+                    "file_name": "Ixeris-3.6.3+1.21.10-fabric.jar",
                     "mc_versions": [
                         "1.21.9",
                         "1.21.10"
@@ -697,16 +609,39 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/EWwCg9BC/Ixeris-3.6.2+1.21.10-fabric.jar",
-                    "id": "EWwCg9BC",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/PybXcryo/Ixeris-3.6.3+1.21.10-fabric.jar",
+                    "id": "PybXcryo",
                     "parent_id": "p8RJPJIC",
                     "hashes": {
-                        "sha512": "364ea48c92d8b2e894375b35c7c932a7378ef1d9ce0e44f90419cf18e9e03f837d3e06187fbb67332a9c8ee59680979a2a68adef995a1b5f4a8634c95cb9d1e4",
-                        "sha1": "f3210cd688658b09c3a899a127468f7f44192497"
+                        "sha512": "26048ae6702173c660cfe2531badfcd719cadf3079923c1e23698cfb3aa74fe2120a9ce5fa4af69a451f1d67fc4ddc759a78d7de65c989face7f32cb8bd0496b",
+                        "sha1": "87243551c5e287e9b91bdf8726d8d3d7e69253fe"
                     },
                     "required_dependencies": [],
-                    "size": 179306,
-                    "date_published": "2025-11-01T09:07:40.886968Z"
+                    "size": 180685,
+                    "date_published": "2025-11-14T13:09:11.077575Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Ixeris-3.6.3+1.21.10-fabric.jar",
+                    "mc_versions": [
+                        "1.21.9",
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7220/853/Ixeris-3.6.3+1.21.10-fabric.jar",
+                    "id": "7220853",
+                    "parent_id": "1285307",
+                    "hashes": {
+                        "sha1": "87243551c5e287e9b91bdf8726d8d3d7e69253fe",
+                        "md5": "e32204a2ae18f04689be55076d72b1a1"
+                    },
+                    "required_dependencies": [],
+                    "size": 180685,
+                    "date_published": "2025-11-14T13:09:10.423Z"
                 }
             ]
         },
@@ -729,7 +664,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "lithium-fabric-0.20.0+mc1.21.10.jar",
+                    "file_name": "lithium-fabric-0.20.1+mc1.21.10.jar",
                     "mc_versions": [
                         "1.21.10"
                     ],
@@ -738,20 +673,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0+mc1.21.10.jar",
-                    "id": "oGKQMdyZ",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NsswKiwi/lithium-fabric-0.20.1+mc1.21.10.jar",
+                    "id": "NsswKiwi",
                     "parent_id": "gvQqBUqZ",
                     "hashes": {
-                        "sha512": "755c0e0fc7f6f38ac4d936cc6023d1dce6ecfd8d6bdc2c544c2a3c3d6d04f0d85db53722a089fa8be72ae32fc127e87f5946793ba6e8b4f2c2962ed30d333ed2",
-                        "sha1": "6f828c09ad43641bed3438e7ea6a4ab313f78d40"
+                        "sha512": "79b2892d123f3bb12649927dd8fccc25c955ff38a19f3aba7cd0180c4cf5506c2a76d49418b13050f90bba7bb59f3623af06e8a275e2ae8c63808084043902bb",
+                        "sha1": "7d44f5da9c690bbf1bd6d65c1acc81db5cf7f8c6"
                     },
                     "required_dependencies": [],
-                    "size": 830020,
-                    "date_published": "2025-10-07T22:29:28.516315Z"
+                    "size": 835455,
+                    "date_published": "2025-11-13T22:32:36.019258Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "lithium-fabric-0.20.0+mc1.21.10.jar",
+                    "file_name": "lithium-fabric-0.20.1+mc1.21.10.jar",
                     "mc_versions": [
                         "1.21.10"
                     ],
@@ -760,16 +695,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7079/732/lithium-fabric-0.20.0+mc1.21.10.jar",
-                    "id": "7079732",
+                    "url": "https://edge.forgecdn.net/files/7219/262/lithium-fabric-0.20.1+mc1.21.10.jar",
+                    "id": "7219262",
                     "parent_id": "360438",
                     "hashes": {
-                        "sha1": "6f828c09ad43641bed3438e7ea6a4ab313f78d40",
-                        "md5": "51be8484d59d998c533cfd5ddd9d1518"
+                        "sha1": "7d44f5da9c690bbf1bd6d65c1acc81db5cf7f8c6",
+                        "md5": "33ccbe4494ec33799c8a16d747071cd4"
                     },
                     "required_dependencies": [],
-                    "size": 830020,
-                    "date_published": "2025-10-07T22:29:27.110Z"
+                    "size": 835455,
+                    "date_published": "2025-11-13T22:32:34.490Z"
                 }
             ]
         },
