@@ -1,11 +1,8 @@
 enable_lightmap_caching: true
 lightmap_time_change_needed_for_update: 60
-
 enable_sky_color_caching: true
 skycolor_time_change_needed_for_update: 10
-
 enable_debug_renderer_disable_if_not_needed: true
-
 
 enable_particle_manager_optimization: true
 enable_toast_optimizations: true
@@ -16,11 +13,8 @@ enable_entity_flag_caching: true
 enable_remove_redundant_fov_calculations: true
 enable_remove_tutorial_if_not_demo: true
 
-
 show_f3_text: false
-
 ignore_mod_incompatibilities: false
-
 log_config: false
 
 config_version: 4
