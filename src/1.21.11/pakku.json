@@ -1,7 +1,12 @@
 {
     "name": "Thunder",
-    "version": "1.0.2+fabric-1.21.11",
+    "version": "1.0.4+fabric-1.21.11",
     "overrides": [
         "config"
-    ]
+    ],
+    "projects": {
+        "fabric-api": {
+            "update_strategy": "LATEST"
+        }
+    }
 }
