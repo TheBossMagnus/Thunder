@@ -4,7 +4,7 @@
         "1.21.11"
     ],
     "loaders": {
-        "fabric": "0.18.2"
+        "fabric": "0.18.3"
     },
     "projects": [
         {
@@ -192,7 +192,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.1.jar",
+                    "file_name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.2.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -200,20 +200,20 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/2pOH3IxC/c2me-fabric-mc1.21.11-0.3.7+alpha.0.1.jar",
-                    "id": "2pOH3IxC",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/cjcaa7sT/c2me-fabric-mc1.21.11-0.3.7+alpha.0.2.jar",
+                    "id": "cjcaa7sT",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "f21306c682de97459e61b744f77da2425b18edda3fc80816019258ff16726d2260a78ce4e04b5e06ee9016fc61aa2da837100cb50aaa03413ea46ee1cb8b4dea",
-                        "sha1": "8365d3fae306c0a7d09b4f1990cbe1397697ec6b"
+                        "sha512": "eef4d48e487574eb7f1c3898fd00bee3fcccdcf08ee293eb50d915dc5324b1db4328bd4271ff455f0a3ef5f8945f9a8e6f406025d46fdd5093787386dc0cf42d",
+                        "sha1": "95a9b3690e6a8d2b199ee1393a902bed78a46249"
                     },
                     "required_dependencies": [],
-                    "size": 4687879,
-                    "date_published": "2025-12-20T15:34:55.441552Z"
+                    "size": 4687866,
+                    "date_published": "2025-12-23T12:50:32.765502Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.1.jar",
+                    "file_name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.2.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -221,16 +221,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/7357/553/c2me-fabric-mc1.21.11-0.3.7+alpha.0.1.jar",
-                    "id": "7357553",
+                    "url": "https://edge.forgecdn.net/files/7369/317/c2me-fabric-mc1.21.11-0.3.7+alpha.0.2.jar",
+                    "id": "7369317",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "8365d3fae306c0a7d09b4f1990cbe1397697ec6b",
-                        "md5": "801a1eb066409ca123123c16a9fde718"
+                        "sha1": "95a9b3690e6a8d2b199ee1393a902bed78a46249",
+                        "md5": "440f552eeba7f1f02303a56932585495"
                     },
                     "required_dependencies": [],
-                    "size": 4687879,
-                    "date_published": "2025-12-20T15:34:58.230Z"
+                    "size": 4687866,
+                    "date_published": "2025-12-23T12:50:35.523Z"
                 }
             ]
         },
@@ -864,7 +864,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sodium-fabric-0.8.1+mc1.21.11.jar",
+                    "file_name": "sodium-fabric-0.8.2+mc1.21.11.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -873,20 +873,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/2IxKzI1o/sodium-fabric-0.8.1+mc1.21.11.jar",
-                    "id": "2IxKzI1o",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/59wygFUQ/sodium-fabric-0.8.2+mc1.21.11.jar",
+                    "id": "59wygFUQ",
                     "parent_id": "AANobbMI",
                     "hashes": {
-                        "sha512": "9dfa77348883425c8507be0e788f93dfbd87fd0f258f658898ef0d28a3e5d2ac05e98bd9f494c9981c85c33d6c4082c5b82811869d24a15bfea4898c714a0c11",
-                        "sha1": "bc3718523f0a94d0043b0cb83b4d240ef82e2871"
+                        "sha512": "0ab706031f954e4acfc0897536dcd182aaced35b912ee05f00a4c79609064c22d4249d7c1399b3359af974b258520664bbeb079d46f2e167f9f4d12ed86aeb37",
+                        "sha1": "eaae2b226d76079e56ae6f5d4f5dc96214bd49d3"
                     },
                     "required_dependencies": [],
-                    "size": 1875665,
-                    "date_published": "2025-12-18T03:16:30.884738Z"
+                    "size": 1876396,
+                    "date_published": "2025-12-22T20:35:06.214284Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "sodium-fabric-0.8.1+mc1.21.11.jar",
+                    "file_name": "sodium-fabric-0.8.2+mc1.21.11.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -895,16 +895,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7348/581/sodium-fabric-0.8.1+mc1.21.11.jar",
-                    "id": "7348581",
+                    "url": "https://edge.forgecdn.net/files/7366/772/sodium-fabric-0.8.2+mc1.21.11.jar",
+                    "id": "7366772",
                     "parent_id": "394468",
                     "hashes": {
-                        "sha1": "bc3718523f0a94d0043b0cb83b4d240ef82e2871",
-                        "md5": "589aba99ddc216ebb592b26140673b1e"
+                        "sha1": "eaae2b226d76079e56ae6f5d4f5dc96214bd49d3",
+                        "md5": "48b94db165ff1d51c3aa440287dd8b7c"
                     },
                     "required_dependencies": [],
-                    "size": 1875665,
-                    "date_published": "2025-12-18T03:18:27.580Z"
+                    "size": 1876396,
+                    "date_published": "2025-12-22T20:38:10.917Z"
                 }
             ]
         }
