@@ -6,11 +6,6 @@ version = 3
 		enabled = false
 
 [noTickViewDistance]
-	compatibilityMode = false
 	enableExtRenderDistanceProtocol = false
-	maxViewDistance = 32
 
-
-[vanillaWorldGenOptimizations]
-	useDensityFunctionCompiler = true
 
