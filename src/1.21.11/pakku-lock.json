@@ -925,29 +925,28 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sodium-fabric-0.8.3+mc1.21.11.jar",
+                    "file_name": "sodium-fabric-0.8.4+mc1.21.11.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
                     "loaders": [
-                        "fabric",
-                        "quilt"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/3PnHeviJ/sodium-fabric-0.8.3+mc1.21.11.jar",
-                    "id": "3PnHeviJ",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/1OWNgWVR/sodium-fabric-0.8.4+mc1.21.11.jar",
+                    "id": "1OWNgWVR",
                     "parent_id": "AANobbMI",
                     "hashes": {
-                        "sha512": "dca7862194c1fe6382f953d14bd8e096f1f773ce591ce6bda00844fef08dcf113e302ec36922ce2db5969b2a4060dea58c37b7289b214dd6e707b65c0d5c0cd2",
-                        "sha1": "64c3e5a7710fdbdcc1bcf32333c9833b03bc4dcf"
+                        "sha512": "c882e07f09ccc04b6258e79979a8e1429018de5b09da5fccea189d0a5de60ea5475f1884fc724f4d3ababc8abe730b9856d5e4864c3e418b21871dbaed21f0c3",
+                        "sha1": "c0a8ac43af978f8d8245bf033670944eb90d7b2e"
                     },
                     "required_dependencies": [],
-                    "size": 1868185,
-                    "date_published": "2026-01-25T16:01:03.632561Z"
+                    "size": 1867803,
+                    "date_published": "2026-01-25T23:00:51.098766Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "sodium-fabric-0.8.3+mc1.21.11.jar",
+                    "file_name": "sodium-fabric-0.8.4+mc1.21.11.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -956,16 +955,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7525/19/sodium-fabric-0.8.3+mc1.21.11.jar",
-                    "id": "7525019",
+                    "url": "https://edge.forgecdn.net/files/7527/469/sodium-fabric-0.8.4+mc1.21.11.jar",
+                    "id": "7527469",
                     "parent_id": "394468",
                     "hashes": {
-                        "sha1": "64c3e5a7710fdbdcc1bcf32333c9833b03bc4dcf",
-                        "md5": "1d0fe6a3cd6d33d219ea95f206bdcbfc"
+                        "sha1": "c0a8ac43af978f8d8245bf033670944eb90d7b2e",
+                        "md5": "96d666528c9e26f5bc5261025fa035b0"
                     },
                     "required_dependencies": [],
-                    "size": 1868185,
-                    "date_published": "2026-01-25T16:02:20.657Z"
+                    "size": 1867803,
+                    "date_published": "2026-01-25T23:04:37Z"
                 }
             ]
         }
