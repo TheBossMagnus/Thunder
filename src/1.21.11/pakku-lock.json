@@ -71,22 +71,48 @@
             ]
         },
         {
-            "pakku_id": "xQqjLitbQ8PO2fsq",
+            "pakku_id": "byGRYrSnCJn6sMXI",
             "pakku_links": [
                 "kqkyUuWc84jeAS7A"
             ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "better-block-entities",
                 "modrinth": "better-block-entities"
             },
             "name": {
+                "curseforge": "Better Block Entities",
                 "modrinth": "Better Block Entities"
             },
             "id": {
+                "curseforge": "1434533",
                 "modrinth": "ONZm0H7Y"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bbe-1.3.0-rc.2+1.21.11.jar",
+                    "mc_versions": [
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7525/837/bbe-1.3.0-rc.2+1.21.11.jar",
+                    "id": "7525837",
+                    "parent_id": "1434533",
+                    "hashes": {
+                        "sha1": "aba98d36e790bd9c9f117c731ca0fc76874079c9",
+                        "md5": "a57611425c302467e86ce23b2a2ece6b"
+                    },
+                    "required_dependencies": [
+                        "394468"
+                    ],
+                    "size": 130737,
+                    "date_published": "2026-01-25T18:18:10.340Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "bbe-1.3.0-rc.2+1.21.11.jar",
@@ -529,7 +555,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ImmediatelyFast-Fabric-1.14.1+1.21.11.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -538,20 +564,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/XCnavm6o/ImmediatelyFast-Fabric-1.14.1+1.21.11.jar",
-                    "id": "XCnavm6o",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/QwkfUKSj/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+                    "id": "QwkfUKSj",
                     "parent_id": "5ZwdcRci",
                     "hashes": {
-                        "sha512": "6534609849c4b33951d3b6ce0c83dd9272181f8d1d9d8cf39bbca8b5a2e3cbb498200d36844454bb3e52e4943fc9a556f52674b53be4f07fe897f0bf5689ea66",
-                        "sha1": "c090d0239ece01f4db5827b3df5455117d58d919"
+                        "sha512": "dedff930a4e317994579020eaeef9f56d81d5215d871372d206fc974842d87e80e4be15d8571a4eaa4320c2412701ea093ba4494a47e8988e3d448ec8adcba37",
+                        "sha1": "4f17c6b7388f0afc5d24075dc2a294963f78c712"
                     },
                     "required_dependencies": [],
-                    "size": 308452,
-                    "date_published": "2025-12-18T12:12:13.362123Z"
+                    "size": 310445,
+                    "date_published": "2026-01-27T21:25:36.206688Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "ImmediatelyFast-Fabric-1.14.1+1.21.11.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -560,16 +586,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7349/686/ImmediatelyFast-Fabric-1.14.1+1.21.11.jar",
-                    "id": "7349686",
+                    "url": "https://edge.forgecdn.net/files/7537/852/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+                    "id": "7537852",
                     "parent_id": "686911",
                     "hashes": {
-                        "sha1": "c090d0239ece01f4db5827b3df5455117d58d919",
-                        "md5": "82f68f961c4decf8fbe7d29f5c35f39c"
+                        "sha1": "4f17c6b7388f0afc5d24075dc2a294963f78c712",
+                        "md5": "033dba6be467d96932d11ad7d171a829"
                     },
                     "required_dependencies": [],
-                    "size": 308452,
-                    "date_published": "2025-12-18T12:12:13.483Z"
+                    "size": 310445,
+                    "date_published": "2026-01-27T21:25:35.093Z"
                 }
             ]
         },
