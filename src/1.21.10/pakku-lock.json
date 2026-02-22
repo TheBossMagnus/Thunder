@@ -628,7 +628,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Ixeris-3.8.6+1.21.11-fabric.jar",
+                    "file_name": "Ixeris-4.0.2+1.21.11-fabric.jar",
                     "mc_versions": [
                         "1.21.9",
                         "1.21.10",
@@ -639,20 +639,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/GrsiGXun/Ixeris-3.8.6+1.21.11-fabric.jar",
-                    "id": "GrsiGXun",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/uyI9lUiR/Ixeris-4.0.2+1.21.11-fabric.jar",
+                    "id": "uyI9lUiR",
                     "parent_id": "p8RJPJIC",
                     "hashes": {
-                        "sha512": "48e51a79f56a65ba3e0c40f533a33f63f9288dda6a4cc9e8ce721c8a32afc20478326b2fc1de9dbaaef2301deb78428fa576372840ead4b1ca0fc58dfce70b2e",
-                        "sha1": "74ec87b4ac1b36a1bd9ea27995e304d35912fab0"
+                        "sha512": "0c15984e1f7f3b86cba934702e5691f403a085a33e8fc139f6b00b33e6885a1b1b1dbc184541b2476e6eca48625456d2d40ba91bfb92ccf3a52a828dda93c4e8",
+                        "sha1": "15b91ffa7343693de68581a1bdeb4d48f1d169ef"
                     },
                     "required_dependencies": [],
-                    "size": 637635,
-                    "date_published": "2026-01-17T12:25:04.992576Z"
+                    "size": 681294,
+                    "date_published": "2026-02-21T04:25:53.338009Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Ixeris-3.8.6+1.21.11-fabric.jar",
+                    "file_name": "Ixeris-4.0.2+1.21.11-fabric.jar",
                     "mc_versions": [
                         "1.21.9",
                         "1.21.10",
@@ -663,16 +663,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7473/172/Ixeris-3.8.6+1.21.11-fabric.jar",
-                    "id": "7473172",
+                    "url": "https://edge.forgecdn.net/files/7656/679/Ixeris-4.0.2+1.21.11-fabric.jar",
+                    "id": "7656679",
                     "parent_id": "1285307",
                     "hashes": {
-                        "sha1": "74ec87b4ac1b36a1bd9ea27995e304d35912fab0",
-                        "md5": "dee0d235b79b180dfcfb2c1314982c52"
+                        "sha1": "15b91ffa7343693de68581a1bdeb4d48f1d169ef",
+                        "md5": "76bc2cfb0a1736eb8572445f6831deec"
                     },
                     "required_dependencies": [],
-                    "size": 637635,
-                    "date_published": "2026-01-17T12:25:03.700Z"
+                    "size": 681294,
+                    "date_published": "2026-02-21T04:25:51.887Z"
                 }
             ]
         },
