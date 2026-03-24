@@ -1,7 +1,7 @@
 [
     {
-        "Minecraft Version": "Snapshots (when available)",
-        "Fabric": "exp",
+        "Minecraft Version": "26.1",
+        "Fabric": "sup",
         "Quilt": "na"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "Minecraft Version": "1.21.10",
-        "Fabric": "sup",
+        "Fabric": "out",
         "Quilt": "na"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "Minecraft Version": "1.21.8",
-        "Fabric": "sup",
+        "Fabric": "out",
         "Quilt": "na"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "Minecraft Version": "1.21.4",
-        "Fabric": "sup",
+        "Fabric": "out",
         "Quilt": "out"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "Minecraft Version": "1.21.1",
-        "Fabric": "sup",
+        "Fabric": "leg",
         "Quilt": "out"
     },
     {
