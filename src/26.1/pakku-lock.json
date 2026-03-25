@@ -4,7 +4,7 @@
         "26.1"
     ],
     "loaders": {
-        "fabric": "0.18.4"
+        "fabric": "0.18.5"
     },
     "projects": [
         {
@@ -70,7 +70,7 @@
         {
             "pakku_id": "2ESYPMovI80m5FcP",
             "pakku_links": [
-                "L0bMuQ8ipzqKAVgB"
+                "c3OsdPxMjQV9jPPO"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -136,17 +136,20 @@
             ]
         },
         {
-            "pakku_id": "4r51wV1t8kRiA4JJ",
+            "pakku_id": "csgjL1eoHOZXXEea",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
-                "modrinth": "c2me-fabric"
+                "modrinth": "c2me-fabric",
+                "curseforge": "c2me"
             },
             "name": {
-                "modrinth": "Concurrent Chunk Management Engine (Fabric)"
+                "modrinth": "Concurrent Chunk Management Engine (Fabric)",
+                "curseforge": "Concurrent Chunk Management Engine"
             },
             "id": {
-                "modrinth": "VSNURh3q"
+                "modrinth": "VSNURh3q",
+                "curseforge": "533097"
             },
             "files": [
                 {
@@ -169,6 +172,27 @@
                     "required_dependencies": [],
                     "size": 4728717,
                     "date_published": "2026-03-24T17:36:37.799564Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "c2me-fabric-mc26.1-0.3.7+alpha.0.59.jar",
+                    "mc_versions": [
+                        "26.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/7805/636/c2me-fabric-mc26.1-0.3.7+alpha.0.59.jar",
+                    "id": "7805636",
+                    "parent_id": "533097",
+                    "hashes": {
+                        "sha1": "0d7c62cdc694f19a614cfa3833f2f268f734faf7",
+                        "md5": "7581773cba3068e092e0e3ed06a1e43d"
+                    },
+                    "required_dependencies": [],
+                    "size": 4728717,
+                    "date_published": "2026-03-24T17:36:40.220Z"
                 }
             ]
         },
@@ -618,19 +642,43 @@
             ]
         },
         {
-            "pakku_id": "L0bMuQ8ipzqKAVgB",
+            "pakku_id": "c3OsdPxMjQV9jPPO",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "sodium",
                 "modrinth": "sodium"
             },
             "name": {
+                "curseforge": "Sodium",
                 "modrinth": "Sodium"
             },
             "id": {
+                "curseforge": "394468",
                 "modrinth": "AANobbMI"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodium-fabric-0.8.7+mc26.1.jar",
+                    "mc_versions": [
+                        "26.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7805/119/sodium-fabric-0.8.7+mc26.1.jar",
+                    "id": "7805119",
+                    "parent_id": "394468",
+                    "hashes": {
+                        "sha1": "ef8e9c3571e601427716de38b8b1ec11f09dfa06",
+                        "md5": "69987f254b3b975e24828cd70dbdb1c4"
+                    },
+                    "required_dependencies": [],
+                    "size": 1659314,
+                    "date_published": "2026-03-24T16:21:32.617Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "sodium-fabric-0.8.7+mc26.1.jar",
