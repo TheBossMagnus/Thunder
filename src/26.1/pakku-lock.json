@@ -505,6 +505,69 @@
             ]
         },
         {
+            "pakku_id": "0WS7AqNJRCgC7xYc",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "immediatelyfast",
+                "modrinth": "immediatelyfast"
+            },
+            "name": {
+                "curseforge": "ImmediatelyFast",
+                "modrinth": "ImmediatelyFast"
+            },
+            "id": {
+                "curseforge": "686911",
+                "modrinth": "5ZwdcRci"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ImmediatelyFast-Fabric-1.15.0+26.1.jar",
+                    "mc_versions": [
+                        "26.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7824/689/ImmediatelyFast-Fabric-1.15.0+26.1.jar",
+                    "id": "7824689",
+                    "parent_id": "686911",
+                    "hashes": {
+                        "sha1": "6abb68036a327d19c87f89676fbbc9cc9b995402",
+                        "md5": "f38b7da138c5ed4c121ffaf0e9bc6cdf"
+                    },
+                    "required_dependencies": [],
+                    "size": 304939,
+                    "date_published": "2026-03-27T20:43:51.377Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ImmediatelyFast-Fabric-1.15.0+26.1.jar",
+                    "mc_versions": [
+                        "26.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m3ka9Hsm/ImmediatelyFast-Fabric-1.15.0+26.1.jar",
+                    "id": "m3ka9Hsm",
+                    "parent_id": "5ZwdcRci",
+                    "hashes": {
+                        "sha512": "ea542a2540cbfed132ac27f0f494d5b8e63399bb4d23829d9ac7bbcd29a46a68cee01f21bb54850ba7fe9862aff25dfe910e0d0a7fcc4ad3859ebded5693702e",
+                        "sha1": "6abb68036a327d19c87f89676fbbc9cc9b995402"
+                    },
+                    "required_dependencies": [],
+                    "size": 304939,
+                    "date_published": "2026-03-27T20:43:51.846963Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "h9yiLXMXHY4FAKkJ",
             "type": "MOD",
             "side": "CLIENT",
