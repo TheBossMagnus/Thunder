@@ -785,32 +785,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "moreculling-fabric-26.1-1.7.0-beta.1.jar",
-                    "mc_versions": [
-                        "26.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7817/995/moreculling-fabric-26.1-1.7.0-beta.1.jar",
-                    "id": "7817995",
-                    "parent_id": "630104",
-                    "hashes": {
-                        "sha1": "7ae56891bad3e2166d0846002ddad52edd632661",
-                        "md5": "1ead618595c04b97c9f46ea9a9e4d971"
-                    },
-                    "required_dependencies": [
-                        "348521"
-                    ],
-                    "size": 339401,
-                    "date_published": "2026-03-26T17:17:56.960Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "moreculling-fabric-26.1-1.7.0-beta.1.jar",
+                    "file_name": "moreculling-fabric-26.1-1.7.0-beta.3.jar",
                     "mc_versions": [
                         "26.1"
                     ],
@@ -819,18 +795,42 @@
                         "quilt"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/GvHUlfc7/moreculling-fabric-26.1-1.7.0-beta.1.jar",
-                    "id": "GvHUlfc7",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/PMO5hamO/moreculling-fabric-26.1-1.7.0-beta.3.jar",
+                    "id": "PMO5hamO",
                     "parent_id": "51shyZVL",
                     "hashes": {
-                        "sha512": "48ba15d6b175c534d0391afa6a7c6604a3e1f698145f844dd844ee53abe2456c3e3d82303d461eb8a6879ca9cb16e5ecd624ac07c80a4f4f7d6258ab05fbaa16",
-                        "sha1": "7ae56891bad3e2166d0846002ddad52edd632661"
+                        "sha512": "78fd6fc3863278bff75cb6b94814f978dbaa7ef4817cc1c9d65567afb1af18799194ac386f7948b7a0f099750e4f5e23e099c615c3995557d017bd4b60ea4fef",
+                        "sha1": "b9002400d0a49a5640ca1688988b7549c67edb5e"
                     },
                     "required_dependencies": [
                         "9s6osm5g"
                     ],
-                    "size": 339401,
-                    "date_published": "2026-03-26T17:17:59.914380Z"
+                    "size": 340681,
+                    "date_published": "2026-03-28T16:25:06.771067Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "moreculling-fabric-26.1-1.7.0-beta.2.jar",
+                    "mc_versions": [
+                        "26.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7829/69/moreculling-fabric-26.1-1.7.0-beta.2.jar",
+                    "id": "7829069",
+                    "parent_id": "630104",
+                    "hashes": {
+                        "sha1": "68aec38c6649b6cdd6cb514b0ab081dd84688010",
+                        "md5": "860bc9471bf411f01efce3050b3c69b7"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 340680,
+                    "date_published": "2026-03-28T13:38:42.467Z"
                 }
             ]
         },
