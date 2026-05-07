@@ -210,17 +210,20 @@
             ]
         },
         {
-            "pakku_id": "F9ay25LkBXEbN5Yt",
+            "pakku_id": "vcllLaLuxl6Nb0Iq",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
-                "modrinth": "c2me-fabric"
+                "modrinth": "c2me-fabric",
+                "curseforge": "c2me"
             },
             "name": {
-                "modrinth": "Concurrent Chunk Management Engine (Fabric)"
+                "modrinth": "Concurrent Chunk Management Engine (Fabric)",
+                "curseforge": "Concurrent Chunk Management Engine"
             },
             "id": {
-                "modrinth": "VSNURh3q"
+                "modrinth": "VSNURh3q",
+                "curseforge": "533097"
             },
             "files": [
                 {
@@ -243,6 +246,27 @@
                     "required_dependencies": [],
                     "size": 4728705,
                     "date_published": "2026-05-02T13:26:24.246820Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "c2me-fabric-mc26.1.2-0.3.7+alpha.0.68.jar",
+                    "mc_versions": [
+                        "26.1.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/8026/598/c2me-fabric-mc26.1.2-0.3.7+alpha.0.68.jar",
+                    "id": "8026598",
+                    "parent_id": "533097",
+                    "hashes": {
+                        "sha1": "1ba53e0f4ab50e4ce721aa747283ac2c207e53cf",
+                        "md5": "61cbf06e21a50e8df0bf06a88d1f7df4"
+                    },
+                    "required_dependencies": [],
+                    "size": 4728705,
+                    "date_published": "2026-05-02T13:26:26.487Z"
                 }
             ]
         },
@@ -286,11 +310,38 @@
                     "required_dependencies": [],
                     "size": 87236,
                     "date_published": "2026-03-24T18:48:37.308521Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ConfigManager-fabric-26.1-1.1.2.jar",
+                    "mc_versions": [
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7806/183/ConfigManager-fabric-26.1-1.1.2.jar",
+                    "id": "7806183",
+                    "parent_id": "1340480",
+                    "hashes": {
+                        "sha1": "7683b7667e8e89f7619e6784752a1f70548464ef",
+                        "md5": "2e3d216a0b5183a4bb20f3f13ba42611"
+                    },
+                    "required_dependencies": [],
+                    "size": 87236,
+                    "date_published": "2026-03-24T18:48:36.080Z"
                 }
             ]
         },
         {
             "pakku_id": "17aMQgZ0ifVY9lOJ",
+            "pakku_links": [
+                "6lSvrPc5sCisgkZE"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -360,19 +411,45 @@
             ]
         },
         {
-            "pakku_id": "ShqQ0LphS4TDDadi",
+            "pakku_id": "6lSvrPc5sCisgkZE",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "fabric-api",
                 "modrinth": "fabric-api"
             },
             "name": {
+                "curseforge": "Fabric API",
                 "modrinth": "Fabric API"
             },
             "id": {
+                "curseforge": "306612",
                 "modrinth": "P7dR8mSH"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-api-0.148.0+26.1.2.jar",
+                    "mc_versions": [
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8032/582/fabric-api-0.148.0+26.1.2.jar",
+                    "id": "8032582",
+                    "parent_id": "306612",
+                    "hashes": {
+                        "sha1": "7228d3145e8a6083bf5a15d1657eab9e33948eda",
+                        "md5": "6d3ea397a712d9ed3cf510720133c01c"
+                    },
+                    "required_dependencies": [],
+                    "size": 2447116,
+                    "date_published": "2026-05-03T14:24:26.640Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "fabric-api-0.148.0+26.1.2.jar",
@@ -666,6 +743,9 @@
         },
         {
             "pakku_id": "uRaSqHlvHxPyn0oI",
+            "pakku_links": [
+                "6lSvrPc5sCisgkZE"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -739,6 +819,9 @@
         },
         {
             "pakku_id": "USE53RAu2RGyEMGn",
+            "pakku_links": [
+                "6lSvrPc5sCisgkZE"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
