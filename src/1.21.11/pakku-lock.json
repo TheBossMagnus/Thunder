@@ -4,7 +4,7 @@
         "1.21.11"
     ],
     "loaders": {
-        "fabric": "0.19.2"
+        "fabric": "0.19.3"
     },
     "projects": [
         {
@@ -155,7 +155,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.9.jar",
+                    "file_name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.10.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -163,20 +163,20 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/vsiqVtu6/c2me-fabric-mc1.21.11-0.3.7+alpha.0.9.jar",
-                    "id": "vsiqVtu6",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/UeCYljaE/c2me-fabric-mc1.21.11-0.3.7+alpha.0.10.jar",
+                    "id": "UeCYljaE",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "b2f92ef8a6dc7473305211c43dd54d509cb8a0dc2bbbd89e9267efb35b0a9871d0bb1a9b3c3e5c349bafa1a60567915e19f50d2b58bb90608556f93b290d72f6",
-                        "sha1": "8ba48c81c03c5287b7dd1e39e66603c64a1bf3a0"
+                        "sha512": "2bec8077fc0209082776730b183633f08e328e570ecea9b3095bded6b09526cb694d0165046538c13f456e67c66895cd4dc2cebf91e2588f1cca76dc522b9962",
+                        "sha1": "fdd8c2009852fb41118d5c5c0969a6e274d7426c"
                     },
                     "required_dependencies": [],
-                    "size": 4687577,
-                    "date_published": "2026-03-01T04:16:07.905402Z"
+                    "size": 4687632,
+                    "date_published": "2026-05-22T09:51:38.750239Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.9.jar",
+                    "file_name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.10.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -184,16 +184,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/7694/219/c2me-fabric-mc1.21.11-0.3.7+alpha.0.9.jar",
-                    "id": "7694219",
+                    "url": "https://edge.forgecdn.net/files/8126/915/c2me-fabric-mc1.21.11-0.3.7+alpha.0.10.jar",
+                    "id": "8126915",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "8ba48c81c03c5287b7dd1e39e66603c64a1bf3a0",
-                        "md5": "fc009fef6f7a733e88aa9f9d0d60fd70"
+                        "sha1": "fdd8c2009852fb41118d5c5c0969a6e274d7426c",
+                        "md5": "110c86e732ddae15a3acb9b0fdc6e60a"
                     },
                     "required_dependencies": [],
-                    "size": 4687577,
-                    "date_published": "2026-03-01T04:16:10.080Z"
+                    "size": 4687632,
+                    "date_published": "2026-05-22T09:51:39.973Z"
                 }
             ]
         },
@@ -491,29 +491,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Gnetum-4.3.2+1.21.11-fabric.jar",
-                    "mc_versions": [
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8023/601/Gnetum-4.3.2+1.21.11-fabric.jar",
-                    "id": "8023601",
-                    "parent_id": "1220460",
-                    "hashes": {
-                        "sha1": "00f0c42acd0668eb9a9f7d2526a73755ffa21db2",
-                        "md5": "e70fe5ccfc1a7ed82d7fd254a1c8a0ec"
-                    },
-                    "required_dependencies": [],
-                    "size": 84541,
-                    "date_published": "2026-05-01T22:53:10.350Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "Gnetum-4.3.2+1.21.11-fabric.jar",
+                    "file_name": "Gnetum-4.4.0+1.21.11-fabric.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -521,16 +500,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/7MoE34WK/versions/zsYVe3u7/Gnetum-4.3.2+1.21.11-fabric.jar",
-                    "id": "zsYVe3u7",
+                    "url": "https://cdn.modrinth.com/data/7MoE34WK/versions/hNuomV92/Gnetum-4.4.0+1.21.11-fabric.jar",
+                    "id": "hNuomV92",
                     "parent_id": "7MoE34WK",
                     "hashes": {
-                        "sha512": "09bc96fd59bd70630b6a55c7e613540ceece144c90d1998302e2d4d1d5fb005d6e52b4e497644c73448825202e1a84059d88169ccec32d3d268f9385236cec2a",
-                        "sha1": "00f0c42acd0668eb9a9f7d2526a73755ffa21db2"
+                        "sha512": "c4a175c5511a8aa95814b030a8c9f76d9ed8bd0cb88e453c0c78300b379f6b1d4fea1412a86b1104545187d43fbff7c6cc18268104f8c6cdfc0dae722788c5fb",
+                        "sha1": "3d6bba8e407b3d1fb8ab0d47c4975e325ca31403"
                     },
                     "required_dependencies": [],
-                    "size": 84541,
-                    "date_published": "2026-05-01T22:53:10.672722Z"
+                    "size": 89199,
+                    "date_published": "2026-06-12T07:21:55.814150Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Gnetum-4.4.0+1.21.11-fabric.jar",
+                    "mc_versions": [
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8235/493/Gnetum-4.4.0+1.21.11-fabric.jar",
+                    "id": "8235493",
+                    "parent_id": "1220460",
+                    "hashes": {
+                        "sha1": "3d6bba8e407b3d1fb8ab0d47c4975e325ca31403",
+                        "md5": "719d73a02ed0fce07a73dd7b2c03b97c"
+                    },
+                    "required_dependencies": [],
+                    "size": 89199,
+                    "date_published": "2026-06-12T07:21:56.353Z"
                 }
             ]
         },
@@ -616,7 +616,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Ixeris-4.3.0+1.21.11-fabric.jar",
+                    "file_name": "Ixeris-4.4.2+1.21.11-fabric.jar",
                     "mc_versions": [
                         "1.21.9",
                         "1.21.10",
@@ -627,20 +627,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/BefxE54b/Ixeris-4.3.0+1.21.11-fabric.jar",
-                    "id": "BefxE54b",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/Ihf3JRaY/Ixeris-4.4.2+1.21.11-fabric.jar",
+                    "id": "Ihf3JRaY",
                     "parent_id": "p8RJPJIC",
                     "hashes": {
-                        "sha512": "80c7f7236d01bca74ce93a38aade2ab05b45d6a96f84613530de8f2001db4b4bb5eeda43260d94f0beff533f9b41cd9c0cd19be69c64c0b15171d14509598d4b",
-                        "sha1": "9e44cbeab110a37701122b806febf26bd8d1f24e"
+                        "sha512": "a2d1aa9f2576884161ca12a321c5d8ee838aed06393b1e32fe34a4514da3e57c6e6c336ef5523a5fe371a3dab8da83a3e890489dd360bd48087b280871cf81a6",
+                        "sha1": "d4018da91f9094d4ec9f96fcd35075f525f901ec"
                     },
                     "required_dependencies": [],
-                    "size": 716025,
-                    "date_published": "2026-05-15T19:56:50.649590Z"
+                    "size": 722788,
+                    "date_published": "2026-06-11T21:56:45.607076Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Ixeris-4.3.0+1.21.11-fabric.jar",
+                    "file_name": "Ixeris-4.4.2+1.21.11-fabric.jar",
                     "mc_versions": [
                         "1.21.9",
                         "1.21.10",
@@ -651,16 +651,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8095/293/Ixeris-4.3.0+1.21.11-fabric.jar",
-                    "id": "8095293",
+                    "url": "https://edge.forgecdn.net/files/8233/891/Ixeris-4.4.2+1.21.11-fabric.jar",
+                    "id": "8233891",
                     "parent_id": "1285307",
                     "hashes": {
-                        "sha1": "9e44cbeab110a37701122b806febf26bd8d1f24e",
-                        "md5": "799931adbfc6f08256598f36085cf581"
+                        "sha1": "d4018da91f9094d4ec9f96fcd35075f525f901ec",
+                        "md5": "b5e9eaf09034917b30eafdb8a6f0af2d"
                     },
                     "required_dependencies": [],
-                    "size": 716025,
-                    "date_published": "2026-05-15T20:40:07.177Z"
+                    "size": 722788,
+                    "date_published": "2026-06-11T21:56:41.093Z"
                 }
             ]
         },
