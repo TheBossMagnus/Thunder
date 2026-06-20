@@ -269,18 +269,22 @@
             ]
         },
         {
-            "pakku_id": "YvYWw3nyRxp18n0C",
+            "pakku_id": "WL4BLh0jqZWhABRn",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "entityculling",
                 "modrinth": "entityculling"
             },
             "name": {
+                "curseforge": "Entity Culling Fabric/Forge",
                 "modrinth": "Entity Culling"
             },
             "id": {
+                "curseforge": "448233",
                 "modrinth": "NNAgCjsB"
             },
+            "redistributable": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -304,6 +308,29 @@
                     ],
                     "size": 1583777,
                     "date_published": "2026-06-18T18:39:58.737353Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "entityculling-fabric-1.10.4-mc26.2.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8274/714/entityculling-fabric-1.10.4-mc26.2.jar",
+                    "id": "8274714",
+                    "parent_id": "448233",
+                    "hashes": {
+                        "sha1": "53a12dd9c01670fcbbda92596886f1fcf931c243",
+                        "md5": "74cca4460c0be9fbbf8e102931e7cdcb"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1583777,
+                    "date_published": "2026-06-18T18:39:56.727Z"
                 }
             ]
         },
@@ -558,16 +585,19 @@
             ]
         },
         {
-            "pakku_id": "eigjcMp4HCqqIn3k",
+            "pakku_id": "DG8OUpzhev0QQiiD",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "ixeris",
                 "modrinth": "ixeris"
             },
             "name": {
+                "curseforge": "Ixeris",
                 "modrinth": "Ixeris"
             },
             "id": {
+                "curseforge": "1285307",
                 "modrinth": "p8RJPJIC"
             },
             "files": [
@@ -592,6 +622,28 @@
                     "required_dependencies": [],
                     "size": 709618,
                     "date_published": "2026-06-17T02:48:31.445539Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Ixeris-4.5.0+26.2-fabric.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8263/196/Ixeris-4.5.0+26.2-fabric.jar",
+                    "id": "8263196",
+                    "parent_id": "1285307",
+                    "hashes": {
+                        "sha1": "fca2265b926289d47379cb21dacd7905dd31ce90",
+                        "md5": "00b251cac760e5c1cf72c0e5a1bfe639"
+                    },
+                    "required_dependencies": [],
+                    "size": 709618,
+                    "date_published": "2026-06-17T02:48:27.097Z"
                 }
             ]
         },
@@ -659,16 +711,19 @@
             ]
         },
         {
-            "pakku_id": "tZV8YN9nik77pOTG",
+            "pakku_id": "e0CWQaXs7nWfxxgs",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "modmenu",
                 "modrinth": "modmenu"
             },
             "name": {
+                "curseforge": "Mod Menu",
                 "modrinth": "Mod Menu"
             },
             "id": {
+                "curseforge": "308702",
                 "modrinth": "mOgUt4GM"
             },
             "files": [
@@ -696,20 +751,48 @@
                     ],
                     "size": 635877,
                     "date_published": "2026-06-18T23:33:16.793919Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modmenu-20.0.0-beta.3.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8276/295/modmenu-20.0.0-beta.3.jar",
+                    "id": "8276295",
+                    "parent_id": "308702",
+                    "hashes": {
+                        "sha1": "606811c5f2cb4e66f4ca1b13b603febf97710014",
+                        "md5": "9776c7754fbd49ad7d09541bfd924597"
+                    },
+                    "required_dependencies": [
+                        "1037459",
+                        "306612"
+                    ],
+                    "size": 635877,
+                    "date_published": "2026-06-18T23:33:18.453Z"
                 }
             ]
         },
         {
-            "pakku_id": "naZmKEnSP9JAIIAV",
+            "pakku_id": "VOhlyxtcn9Yej9Ln",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "modernfix-mvus",
                 "modrinth": "modernfix-mvus"
             },
             "name": {
+                "curseforge": "ModernFix-mVUS",
                 "modrinth": "ModernFix-mVUS"
             },
             "id": {
+                "curseforge": "1367508",
                 "modrinth": "TjSm1wrD"
             },
             "files": [
@@ -735,6 +818,27 @@
                     ],
                     "size": 1155463,
                     "date_published": "2026-06-19T09:52:00.646230Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modernfix-5.27.18-build.1.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8278/853/modernfix-5.27.18-build.1.jar",
+                    "id": "8278853",
+                    "parent_id": "1367508",
+                    "hashes": {
+                        "sha1": "8497fee7fdd87d6a1f5a7a85ee7f76e14a415e7b",
+                        "md5": "8213e8363888b3306e2069be9da4e648"
+                    },
+                    "required_dependencies": [],
+                    "size": 1155463,
+                    "date_published": "2026-06-19T09:52:22.870Z"
                 }
             ]
         },
