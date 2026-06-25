@@ -1,7 +1,12 @@
-[
+[    
     {
         "Minecraft Version": "26.1.2",
         "Fabric": "rec",
+        "Quilt": "na"
+    },
+    {
+        "Minecraft Version": "26.1.2",
+        "Fabric": "sup",
         "Quilt": "na"
     },
     {
@@ -76,7 +81,7 @@
     },
     {
         "Minecraft Version": "1.20.4",
-        "Fabric": "leg",
+        "Fabric": "out",
         "Quilt": "out"
     },
     {
