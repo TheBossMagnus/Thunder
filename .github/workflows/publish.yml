@@ -38,7 +38,7 @@ jobs:
       
       - name: Publish fabric to CurseForge
         if: always()
-        uses: Kira-NTz/mc-publish@v3.3.1
+        uses: Kira-NT/mc-publish@v3.3.1
         with:
           curseforge-id: 963806
           curseforge-token: '${{ secrets.CURSEFORGE }}'
