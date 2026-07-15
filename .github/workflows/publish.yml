@@ -26,7 +26,7 @@ jobs:
       
       - name: Publish fabric to Modrinth
         if: always()
-        uses: Kir-Antipov/mc-publish@v3.3
+        uses: Kir-Antipov/mc-publish@v3.3.1
         with:
           modrinth-id: ehPxCT2J
           modrinth-token: '${{ secrets.MODRINTH }}'
@@ -38,7 +38,7 @@ jobs:
       
       - name: Publish fabric to CurseForge
         if: always()
-        uses: Kir-Antipov/mc-publish@v3.3
+        uses: Kir-Antipov/mc-publish@v3.3.1
         with:
           curseforge-id: 963806
           curseforge-token: '${{ secrets.CURSEFORGE }}'
