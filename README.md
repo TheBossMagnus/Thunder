@@ -3,24 +3,21 @@
   <br>
   <a href="https://modrinth.com/modpack/Thunder">
     <img src="https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/Modrinth-mark.svg" height="34px" width="34px"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
+    <a href="https://www.curseforge.com/minecraft/modpacks/thunder">
+    <img src="https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/favicon.ico" height="34px" width="34px"/>
+    </a>&nbsp;&nbsp;
   <a href="https://github.com/TheBossMagnus/Thunder">
     <img src="https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/github-mark-white.svg" height="34px" width="34px"/>
   </a>&nbsp;&nbsp;
-  <a href="https://modrinth.com/modpack/Thunder/versions">
-    <img src="https://raw.githubusercontent.com/TheBossMagnus/Thunder/main/Doc%20assets/Download%20icon.svg" height="34px" width="34px"/>
-    </a>
+
 </center>
 
-## 📃Features
-
 ### 🚀Huge Performance Boost
-![A comparison between Thunder and Vanilla showing a 250% FPS improvement](https://www.bisecthosting.com/images/CF/Thunder/BH_TH_FPS.webp)
+![A comparison between Thunder and Vanilla showing a 450% FPS improvement](https://www.bisecthosting.com/images/CF/Thunder_2026/MP_Thunder_banner.webp)
 
 > **Setup:** Ryzen 9 7945HX, RTX 4080 Mobile, 16 GB RAM  
-> Tested on fancy graphics, 32 render, and 5 simulation distances
-
-**Note:** The 7x FPS boost is primarily with Nvidia GPUs, thanks to the Nvidium mod. For AMD/Intel GPUs, expect up to 4x improvement depending on your hardware and world setup.
+> Tested on fancy graphics, 24 render and 5 simulation distances
 
 ### ⬆️Always Up-to-Date
 Thunder is kept current with the latest mods, supporting the newest Minecraft versions while also maintaining compatibility with older versions.
@@ -38,29 +35,9 @@ Use the official [Modrinth app](https://modrinth.com/app) or any launcher that s
 
 Thunder supports the most popular and recent Minecraft versions, including snapshots when available.
 
-| Minecraft Version | Fabric | Quilt |
-| ----------------- | ------ | ----- |
-| Snapshots         | 🧪 Experimental | N/A |
-| 1.21              | ✅ Recommended | 🟢 Actively supported |
-| 1.20.6            | 🟢 Actively supported | 🟢 Actively supported |
-| 1.20.4            | ⏳ Long-term support | ⏳ Long-term support |
-| 1.20.1            | 🟢 Actively supported | 🟢 Actively supported |
-| 1.19.2            | ⏳ Long-term support | ⏳ Long-term support |
-| 1.18.2            | ⏳ Long-term support | 🔴 Out of support |
-| 1.16.5            | ⏳ Long-term support | N/A |
+<img src="https://raw.githubusercontent.com/TheBossMagnus/thebossmagnus.github.io/refs/heads/main/assets/table.png" alt="supported versions, see https://thebossmagnus.github.io/thunder/supported-versions.html">
 
-##### [Click here to see the full table](https://gist.github.com/TheBossMagnus/0feda82de3d2c92751db2051ea78d691)
-
-<details>
-<summary>Legend</summary>
-
-- ✅ **Recommended**: Most stable, performant, and up-to-date release.
-- 🟢 **Actively supported**: Up-to-date release with the newest mod versions.
-- ⏳ **Long-term support**: Releases for older Minecraft versions with fewer updates, typically monthly.
-- 🧪 **Experimental**: Unstable version, may have bugs.
-- 🔴 **Out of support**: No longer supported. (Click on the emoji to get the last available version)
-
-</details>
+For deprectaed realeases and further deatils see [this webpage](https://thebossmagnus.github.io/thunder/supported-versions.html).
 
 > **Which mods are included?**
 
@@ -74,22 +51,10 @@ Report bugs or suggest changes by opening an issue on the [GitHub repo](https://
 
 Absolutely! Just follow these two conditions:
 1) Include a note in the description linking back to this page.
-2) Do not reupload the pack, its assets, or name. Also, avoid creating derivative works with minimal additions (e.g., adding just a couple of mods).
+2) Do not **just** reupload the pack, its assets, or it's branding. Also, avoid creating derivative works with minimal additions (e.g. adding just a couple of mods).
 
 In case of doubt feel free to contact me on [Discord](https://discord.com/users/731196876078186576)
 
-> **How does versioning work?**
-
-Thunder follows [Semantic Versioning 2.0.0](https://semver.org/), using the MAJOR.MINOR.PATCH format.
-
-<details>
-<summary>Explanation</summary>
-
-- **MAJOR**: Significant changes, such as support for new major Minecraft updates or extensive modifications.
-- **MINOR**: Smaller changes, such as adding/removing mods or supporting new minor Minecraft updates.
-- **PATCH**: Minor changes, such as mod updates or configuration adjustments.
-
-</details>
 
 ## 🙏 Support the Project
-<a href="www.bisecthosting.com/thebossmagnus"><img src="https://www.bisecthosting.com/images/CF/Thunder/BH_TH_PromoCard.webp"/></a>
+[![](https://www.bisecthosting.com/images/CF/Thunder/BH_TH_PromoCard.webp)](https://www.bisecthosting.com/thebossmagnus?r=thunderMR)
