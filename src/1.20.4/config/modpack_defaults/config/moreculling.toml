@@ -1,5 +1,0 @@
-itemFrameLODRange = 16
-itemFrame3FaceCullingRange = 2.0
-includeMangroveRoots = true
-leavesCullingMode = "CHECK"
-endGatewayCulling = true
