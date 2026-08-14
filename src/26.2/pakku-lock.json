@@ -87,7 +87,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar",
+                    "file_name": "c2me-fabric-mc26.2-0.4.2-alpha.0.41.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -95,20 +95,20 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/HBLtzvqv/c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar",
-                    "id": "HBLtzvqv",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/sOfMfJPD/c2me-fabric-mc26.2-0.4.2-alpha.0.41.jar",
+                    "id": "sOfMfJPD",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "078618f4e45367ae416000a5930e3a13dced5e71eb82102e614c0e8e03d1b84d8d8efcbebc7d5e88d5a4a71ad6d64b1fd5ef3a1171a56001566b33afbad9a504",
-                        "sha1": "925adccbe5fe6c5496410fdb007e2c6ca2b20511"
+                        "sha512": "649a7e866bbfed2099c12228c49afb76a850c0f087ba6640c7e73cc224aab921a92aafd0797f29119ac52632c412991924d7eacb964a8c0b864ff363f0579801",
+                        "sha1": "68a848db15d3b8d730a40badc8f637fa38c838e4"
                     },
                     "required_dependencies": [],
-                    "size": 3790215,
-                    "date_published": "2026-08-02T15:54:19.767359Z"
+                    "size": 3834019,
+                    "date_published": "2026-08-12T14:20:03.396148Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar",
+                    "file_name": "c2me-fabric-mc26.2-0.4.2-alpha.0.41.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -116,16 +116,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/8562/495/c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar",
-                    "id": "8562495",
+                    "url": "https://edge.forgecdn.net/files/8632/909/c2me-fabric-mc26.2-0.4.2-alpha.0.41.jar",
+                    "id": "8632909",
                     "parent_id": "533097",
                     "hashes": {
-                        "sha1": "925adccbe5fe6c5496410fdb007e2c6ca2b20511",
-                        "md5": "46915fa98e732ebeee44daf720b5dad8"
+                        "sha1": "68a848db15d3b8d730a40badc8f637fa38c838e4",
+                        "md5": "2bcf44ae80e93c939cd802a3e199c171"
                     },
                     "required_dependencies": [],
-                    "size": 3790215,
-                    "date_published": "2026-08-02T15:54:17.400Z"
+                    "size": 3834019,
+                    "date_published": "2026-08-12T14:20:02.970Z"
                 }
             ]
         },
@@ -283,7 +283,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.156.0+26.2.jar",
+                    "file_name": "fabric-api-0.157.0+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -291,20 +291,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0+26.2.jar",
-                    "id": "3gT0I5vt",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vmQp7ixA/fabric-api-0.157.0+26.2.jar",
+                    "id": "vmQp7ixA",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "5bbc436d07f836cd90b88287e2ef27f1cd67e26185b2cd4a62cb2ae850eb74e5edbbc7ba7772e92ea91ebf35b263f8815421e3d5e7d2836cb28993ba1d534816",
-                        "sha1": "d96e0d9ef8ea3604fac4ca7495d7c6148f3ac816"
+                        "sha512": "4ebec489f2b2ce621ebebb2d1b7e9714b6fd288ebdb4e287d767cde57612cf1d3d1d4f51daf7e7ec9541fa146df6bde4978ab98a29637ced6d9bc2f3c4217650",
+                        "sha1": "0deb9d110def35ebcaf5f15a9e6c8b8e85685319"
                     },
                     "required_dependencies": [],
-                    "size": 2531175,
-                    "date_published": "2026-07-28T09:57:10.795527Z"
+                    "size": 2533297,
+                    "date_published": "2026-08-10T12:56:05.057944Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fabric-api-0.156.0+26.2.jar",
+                    "file_name": "fabric-api-0.157.0+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -312,16 +312,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8525/693/fabric-api-0.156.0+26.2.jar",
-                    "id": "8525693",
+                    "url": "https://edge.forgecdn.net/files/8616/85/fabric-api-0.157.0+26.2.jar",
+                    "id": "8616085",
                     "parent_id": "306612",
                     "hashes": {
-                        "sha1": "d96e0d9ef8ea3604fac4ca7495d7c6148f3ac816",
-                        "md5": "a42e80da3fadb6f202c7dc7f021408f5"
+                        "sha1": "0deb9d110def35ebcaf5f15a9e6c8b8e85685319",
+                        "md5": "a6e9a0e9daa99a48920c0f22fdccb0ac"
                     },
                     "required_dependencies": [],
-                    "size": 2531175,
-                    "date_published": "2026-07-28T09:57:02.243Z"
+                    "size": 2533297,
+                    "date_published": "2026-08-10T12:55:51.890Z"
                 }
             ]
         },
@@ -408,7 +408,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Gnetum-4.5.2+26.2-fabric.jar",
+                    "file_name": "Gnetum-4.5.3+26.2-fabric.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -416,22 +416,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/7MoE34WK/versions/pgrAYBNd/Gnetum-4.5.2+26.2-fabric.jar",
-                    "id": "pgrAYBNd",
+                    "url": "https://cdn.modrinth.com/data/7MoE34WK/versions/bA8ri0IU/Gnetum-4.5.3+26.2-fabric.jar",
+                    "id": "bA8ri0IU",
                     "parent_id": "7MoE34WK",
                     "hashes": {
-                        "sha512": "3d96abac26c3969b5e36652833aa7c8b0c5ed07efb6eb3af8634e33c5d1f882d5e248a42945188b97491ec159a55e321e583bd4318dd454c8414add3c1adb58a",
-                        "sha1": "67fed40aa94de0aabf7cf317564d1b35c8550d38"
+                        "sha512": "b828a50e72b45cb73ec70f9c5f4f2e0205317d4680f873fe4593c166166d7b493f81048a83177f7b9d350dbb468ac31f1c47bb02889be70987716630d38edcb2",
+                        "sha1": "891804ff780e241e507b15caa37355eb593afc13"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 91596,
-                    "date_published": "2026-08-08T06:47:13.444773Z"
+                    "size": 91638,
+                    "date_published": "2026-08-08T23:12:38.361404Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Gnetum-4.5.2+26.2-fabric.jar",
+                    "file_name": "Gnetum-4.5.3+26.2-fabric.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -439,18 +439,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8599/940/Gnetum-4.5.2+26.2-fabric.jar",
-                    "id": "8599940",
+                    "url": "https://edge.forgecdn.net/files/8605/433/Gnetum-4.5.3+26.2-fabric.jar",
+                    "id": "8605433",
                     "parent_id": "1220460",
                     "hashes": {
-                        "sha1": "67fed40aa94de0aabf7cf317564d1b35c8550d38",
-                        "md5": "757f82d198d57755bcd74f841deeb478"
+                        "sha1": "891804ff780e241e507b15caa37355eb593afc13",
+                        "md5": "21565b2565d324604d341980c3a9cb0c"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 91596,
-                    "date_published": "2026-08-08T06:47:13.647Z"
+                    "size": 91638,
+                    "date_published": "2026-08-08T23:12:38.423Z"
                 }
             ]
         },
@@ -536,7 +536,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Ixeris-4.6.2+26.2-fabric.jar",
+                    "file_name": "Ixeris-4.6.4+26.2-fabric.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -545,20 +545,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/B6Z4jE2K/Ixeris-4.6.2+26.2-fabric.jar",
-                    "id": "B6Z4jE2K",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/C5NxORJV/Ixeris-4.6.4+26.2-fabric.jar",
+                    "id": "C5NxORJV",
                     "parent_id": "p8RJPJIC",
                     "hashes": {
-                        "sha512": "696ebb93e78b90e4599e5b6bbd1012ceb3fff69e66617fa042e290ea4917ea9fa598a9a07febd8bd1f4c7908794026a3653f5c523c3255b4ebef8a5def37a74c",
-                        "sha1": "59bbe18b92f0f2e2aed69ca8ac6ba33cf2901b8d"
+                        "sha512": "6ba93092ed18319e27d8f92548d3e2f3c2a26d035d6129ea24ee7c61c82118faa53e39496f7adb3ea5d9e4fc3668a417eefa3d608b9b7899a9d08838b2ddb2c4",
+                        "sha1": "966bf1d0637fbde95a7bb1a4d61f58085d2b51c1"
                     },
                     "required_dependencies": [],
-                    "size": 757485,
-                    "date_published": "2026-08-01T07:01:14.655921Z"
+                    "size": 761686,
+                    "date_published": "2026-08-14T08:35:09.482007Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Ixeris-4.6.2+26.2-fabric.jar",
+                    "file_name": "Ixeris-4.6.4+26.2-fabric.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -567,16 +567,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8552/354/Ixeris-4.6.2+26.2-fabric.jar",
-                    "id": "8552354",
+                    "url": "https://edge.forgecdn.net/files/8645/752/Ixeris-4.6.4+26.2-fabric.jar",
+                    "id": "8645752",
                     "parent_id": "1285307",
                     "hashes": {
-                        "sha1": "59bbe18b92f0f2e2aed69ca8ac6ba33cf2901b8d",
-                        "md5": "691c51c1064884df305cf73dc839fc22"
+                        "sha1": "966bf1d0637fbde95a7bb1a4d61f58085d2b51c1",
+                        "md5": "5b287a052ae2ba381cd832673c5c3f9a"
                     },
                     "required_dependencies": [],
-                    "size": 757485,
-                    "date_published": "2026-08-01T07:00:45.693Z"
+                    "size": 761686,
+                    "date_published": "2026-08-14T08:34:29.310Z"
                 }
             ]
         },
@@ -870,7 +870,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+26.2-1.1.40.jar",
+                    "file_name": "obe+26.2-1.1.40-hotfix.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -879,22 +879,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/61eF10bY/obe+26.2-1.1.40.jar",
-                    "id": "61eF10bY",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/f8Ho4UAp/obe+26.2-1.1.40-hotfix.2.jar",
+                    "id": "f8Ho4UAp",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "10f96d370bd551c0589de9d4403ca75bd13d0846510a0336d92b0a0399e7ff0ab19d6c401c9824a00c760b6506cd1fea322a64104eaf3d1c9dd4c5fb03c60a10",
-                        "sha1": "b75374ec9c60ad69688b7d52045dea9ac2a197a6"
+                        "sha512": "20f1c271908faff256e44f5b3a899a4bc0b92681dcc46ba384ebfd96ad0eb5156c2b7381a0c7a15b3b88387cae54c3649b84751baf39f2b59d15026df722b96c",
+                        "sha1": "5a8cdcef83004bd984050ea7e75fcd441494d94f"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 183049,
-                    "date_published": "2026-08-08T15:21:29.012499Z"
+                    "size": 183128,
+                    "date_published": "2026-08-08T20:33:35.538710Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "obe+26.2-1.1.40.jar",
+                    "file_name": "obe+26.2-1.1.40-hotfix.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -903,18 +903,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8602/556/obe+26.2-1.1.40.jar",
-                    "id": "8602556",
+                    "url": "https://edge.forgecdn.net/files/8604/424/obe+26.2-1.1.40-hotfix.2.jar",
+                    "id": "8604424",
                     "parent_id": "1575743",
                     "hashes": {
-                        "sha1": "b75374ec9c60ad69688b7d52045dea9ac2a197a6",
-                        "md5": "acb72535f6855ef950b7e0fe7f7643b5"
+                        "sha1": "5a8cdcef83004bd984050ea7e75fcd441494d94f",
+                        "md5": "cafe9a1a6bb9165ffd0eedbe9e4f16f2"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 183049,
-                    "date_published": "2026-08-08T15:21:31.097Z"
+                    "size": 183128,
+                    "date_published": "2026-08-08T20:33:36.213Z"
                 }
             ]
         },
