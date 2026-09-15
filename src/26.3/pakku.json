@@ -1,0 +1,8 @@
+{
+    "name": "Thunder",
+    "version": "0.1.0+fabric-26.3",
+    "overrides": [
+        "config"
+    ],
+    "export_server_side_projects_to_client": true
+}
