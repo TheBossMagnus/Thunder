@@ -4,7 +4,7 @@
         "1.20.1"
     ],
     "loaders": {
-        "fabric": "0.18.4"
+        "fabric": "0.19.3"
     },
     "projects": [
         {
@@ -1005,6 +1005,78 @@
                     ],
                     "size": 274506,
                     "date_published": "2026-01-30T20:24:56.367Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vFYGJEIDxVLIHrvJ",
+            "pakku_links": [
+                "ck8zglDaWoJa7Hn3"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "obe",
+                "modrinth": "obe"
+            },
+            "name": {
+                "curseforge": "Optimized Block Entities",
+                "modrinth": "Optimized Block Entities"
+            },
+            "id": {
+                "curseforge": "1575743",
+                "modrinth": "AtOSAunf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "obe+1.20.1-1.1.16.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8317/663/obe+1.20.1-1.1.16.jar",
+                    "id": "8317663",
+                    "parent_id": "1575743",
+                    "hashes": {
+                        "sha1": "e3bc65cea4b7f991d43f6aebb0a9538bf247ffd3",
+                        "md5": "57fa455549987297ff60459839b70034"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 152422,
+                    "date_published": "2026-06-25T12:04:33.330Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "obe+1.20.1-1.1.16.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/C1wz0LfQ/obe+1.20.1-1.1.16.jar",
+                    "id": "C1wz0LfQ",
+                    "parent_id": "AtOSAunf",
+                    "hashes": {
+                        "sha512": "50c839154713b408df0589b35a2405a67e95138f39d6ff06b4735c80db43c7ce2ebc0448c939f9e262b359732d260e91d056a972af2586e2c856ee9d4f5015f0",
+                        "sha1": "e3bc65cea4b7f991d43f6aebb0a9538bf247ffd3"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 152422,
+                    "date_published": "2026-06-25T12:04:30.379128Z"
                 }
             ]
         },
