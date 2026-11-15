@@ -1,5 +1,7 @@
+version:3465
 enableVsync:false
-renderDistance:12
+entityShadows:false
+particles:1
+mipmapLevels:2
 simulationDistance:5
 maxFps:260
-graphicsMode:0

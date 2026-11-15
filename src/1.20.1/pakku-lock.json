@@ -4,7 +4,7 @@
         "1.20.1"
     ],
     "loaders": {
-        "fabric": "0.19.5"
+        "fabric": "0.20.1"
     },
     "projects": [
         {
@@ -432,7 +432,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.11.2-mc1.20.1.jar",
+                    "file_name": "entityculling-fabric-1.12.1-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -440,22 +440,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/sV6RnlBw/entityculling-fabric-1.11.2-mc1.20.1.jar",
-                    "id": "sV6RnlBw",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/xM6y5W1N/entityculling-fabric-1.12.1-mc1.20.1.jar",
+                    "id": "xM6y5W1N",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "98a0a83cdc637809e697565314a76c9a189847270896124a79976d56b3ded7c878a2ea9f79b497f856904e755623ab7a954018d395e2f2468b8dc00daa3df8d2",
-                        "sha1": "fd43e8a962d7026fa5342c260fd3b3f98809913c"
+                        "sha512": "fed06594f7ddbea3fe45e94ccca0af2d4c8ba424921a892d7aa3e085122215c565f016c9ab961009363b290da0643aa98c3277d1a663ac70d64f90b33ebb2064",
+                        "sha1": "6467d162abc1ab82e174e832eb86419affbdab02"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1516669,
-                    "date_published": "2026-09-21T19:46:34.699246Z"
+                    "size": 1530343,
+                    "date_published": "2026-11-13T16:11:29.674819Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "entityculling-fabric-1.11.2-mc1.20.1.jar",
+                    "file_name": "entityculling-fabric-1.12.1-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -463,18 +463,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8942/289/entityculling-fabric-1.11.2-mc1.20.1.jar",
-                    "id": "8942289",
+                    "url": "https://edge.forgecdn.net/files/9594/017/entityculling-fabric-1.12.1-mc1.20.1.jar",
+                    "id": "9594017",
                     "parent_id": "448233",
                     "hashes": {
-                        "sha1": "fd43e8a962d7026fa5342c260fd3b3f98809913c",
-                        "md5": "c17e05c1ae3a96e9754551ecc1bcd3fd"
+                        "sha1": "6467d162abc1ab82e174e832eb86419affbdab02",
+                        "md5": "ec9cbc7d61e285a664fa73aee473ff22"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 1516669,
-                    "date_published": "2026-09-21T19:46:32.883Z"
+                    "size": 1530343,
+                    "date_published": "2026-11-13T16:11:27.920Z"
                 }
             ]
         },
@@ -1028,7 +1028,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+1.20.1-1.1.46.jar",
+                    "file_name": "obe+1.20.1-1.2.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -1038,22 +1038,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/wXYbSiX1/obe+1.20.1-1.1.46.jar",
-                    "id": "wXYbSiX1",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/NjilyBk5/obe+1.20.1-1.2.1.jar",
+                    "id": "NjilyBk5",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "fc38d93931ac4ee0f7171c5c771a42c06e7739ed697d807ed03cf300988b3a1c607b23250a4eb8ea3cb6592c08e20e816c82f2f31e131d476d0539ff28bac6f3",
-                        "sha1": "428033c91428ffa48343180f5160f87fcd97756b"
+                        "sha512": "5002cccdf558b9216cde3cc3514e5eb3d7534b9b3683f8cf3f212825b9636bf917176116d4e5a41744bf65b569b3e892b5c81ca5901f4dd27e4d0097313c931f",
+                        "sha1": "4cec2cb59c280291e50256b7d589e2ac1b0eb165"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 196169,
-                    "date_published": "2026-09-10T10:14:52.188090Z"
+                    "size": 245331,
+                    "date_published": "2026-10-29T13:20:23.839834Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "obe+1.20.1-1.1.46.jar",
+                    "file_name": "obe-1.20.1-1.2.1.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -1063,18 +1063,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8849/695/obe+1.20.1-1.1.46.jar",
-                    "id": "8849695",
+                    "url": "https://edge.forgecdn.net/files/9362/71/obe-1.20.1-1.2.1.jar",
+                    "id": "9362071",
                     "parent_id": "1575743",
                     "hashes": {
-                        "sha1": "428033c91428ffa48343180f5160f87fcd97756b",
-                        "md5": "350b1993a731100080a2ce00eeb3c797"
+                        "sha1": "4cec2cb59c280291e50256b7d589e2ac1b0eb165",
+                        "md5": "e8f34da5bbc85916486c4283589c0315"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 196169,
-                    "date_published": "2026-09-10T10:14:52.673Z"
+                    "size": 245331,
+                    "date_published": "2026-10-29T13:20:24.787Z"
                 }
             ]
         },
